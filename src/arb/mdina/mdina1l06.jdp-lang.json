@@ -2,10 +2,12 @@
   "meta": {
     "format": "vocabulary",
     "version": 1,
-    "language": "",
-    "source": "",
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
     "status": "pending",
-    "tags": []
+    "tags": [
+      "mdina-1-6"
+    ]
   },
   "data": [
     {

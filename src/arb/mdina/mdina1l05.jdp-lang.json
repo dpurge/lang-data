@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "pending",
+    "tags": [
+      "mdina-1-5"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "تَحْتَ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pod",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الاِبْنُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "syn",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "السَّيَّارَةُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "samochód",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "هُنَا",
+      "transcription": "",
+      "grammar": "",
+      "translation": "tutaj",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "هُنَاكَ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "tam",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "البِنْتُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "córka; dziewczyna",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الطَّبِيبُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "lekarz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الرَّسُولُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "posłaniec",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "العَمُّ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wuj ze strony ojca",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الشَّارِعُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ulica",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الكَعْبَةُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Kaaba",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الخَالُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wuj ze strony matki",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مُغْلَقٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zamknięty",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الاِسْمُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "imię",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الحَقِيبَةُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "torba, teczka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}

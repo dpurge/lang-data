@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "pending",
+    "tags": [
+      "mdina-2-3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "مَهْجَعٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "hostel, schronisko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "كَوْكَبٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "gwiazda",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "فَرِيقٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zespół",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "شَقِيقٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pełny brat",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "فِي المَنَامِ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "we śnie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "نَافِذَةٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "okno",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "نَوافِذُ",
+      "transcription": "",
+      "grammar": "n pl",
+      "translation": "okna",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "سِنٌّ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wiek; ząb",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "شَهْرٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "miesiąc",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "لاعِبٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "gracz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "وَاسِعٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "obszerny, rozległy, wielki",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "شَهِيرٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "sławny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "ثَمَنٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "cena",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "كَسْلَى",
+      "transcription": "",
+      "grammar": "j f",
+      "translation": "leniwa",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "كَسْلانُ",
+      "transcription": "",
+      "grammar": "j m",
+      "translation": "leniwy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}

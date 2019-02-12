@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "pending",
+    "tags": [
+      "mdina-1-2"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "سُكَّرٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "cukier",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "لَبَنٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mleko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "إِمَامٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "imam",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "حَجَرٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kamień",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}

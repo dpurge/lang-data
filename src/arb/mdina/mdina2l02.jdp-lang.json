@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "pending",
+    "tags": [
+      "mdina-2-2"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "نَهْرٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "rzeka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "بَرْقِيَّةٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "telegram",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مَصْرَفٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "bank",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مَكْتَبُ البَرِيدِ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "urząd pocztowy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "لِقَاءٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "spotkanie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "أنا مَسْرُورٌ بِلِقائِكَ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "miło mi cię poznać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "جَيِّدٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dobry",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "جَيْبٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kieszeń",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}

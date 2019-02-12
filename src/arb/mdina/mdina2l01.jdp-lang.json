@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "pending",
+    "tags": [
+      "mdina-2-1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "مِائَةٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "sto",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "أَلْفٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "tysiąc",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "رُوبِيَّةٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "rupia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "ذَكِيٌّ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "inteligentny, bystry",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "غَبِيٌّ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "głupi",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "خُلُقٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "maniery",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "صَفْحَةٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "strona, kartka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "نَاجِحٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ten kto zdał egzamin",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "غَالٍ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "drogi, kosztowny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "كُمٌّ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "rękaw",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مُتَزَوِّجٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "żonaty",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "عَزَبٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kawaler, stanu wolnego",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "يَهُودِيٌّ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Żyd",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "يَهُودٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Żydzi",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مُعْجَمٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "słownik",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "دُولارٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dolar",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}

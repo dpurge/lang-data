@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "pending",
+    "tags": [
+      "mdina-1-1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "وَلَدٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "chłopiec",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "طَالِبٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "student",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "رَجُلٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mężczyzna",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "تَاجِرٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kupiec",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "كَلْبٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pies",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "قِطٌّ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kot",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "حِمَارٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "osioł",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "حِصَانٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "koń",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "جَمَلٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wielbłąd",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "دِيكٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kogut",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مُدَرِّسٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nauczyciel",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مِندِيلٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "chusteczka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "بَيتٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dom",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مَسْجِدٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "meczet",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "بَابٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "drzwi",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "كِتَابٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "książka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "قَلَمٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pióro, ołówek",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مِفْتَاحٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "klucz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مَكْتَبٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "biurko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "سَرِيرٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "łóżko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "كُرْسِيٌّ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "krzesło",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "نَجْمٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "gwiazda",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "قَمِيصٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "koszula",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "طَبِيبٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "lekarz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}

@@ -49,7 +49,7 @@
           "title": "",
           "description": "",
           "type": "string",
-          "pattern": "^[A-Z][a-z]+( [A-Z][a-z]+)*$"
+          "pattern": "^[A-Z][a-z]+(\\s[A-Z][a-z]+)*$"
         },
 
         "code" : {

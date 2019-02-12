@@ -25,30 +25,31 @@
 	  
 	  "properties": {
         "format": {
-          "title": "",
-          "description": "",
+          "description": "name of the file format",
           "type": "string",
 		  "enum": ["vocabulary"]
 		},
         "version": {
-          "title": "",
+          "title": "version of the file format",
           "description": "",
           "type": "integer"
 		},
 		"language": {
-          "title": "",
-          "description": "",
+          "description": "ISO code of the language",
           "type": "string"
 		},
 		"source": {
-          "title": "",
-          "description": "",
+          "description": "source of the vocabulary contained in the file",
           "type": "string"
 		},
 		"status": {
-          "title": "",
-          "description": "",
-          "type": "string"
+          "description": "status of the work on the file",
+          "type": "string",
+		  "enum": [
+		    "pending",
+		    "ready",
+		    "hidden"
+		  ]
 		},
 		"tags": {
           "title": "",
@@ -61,7 +62,62 @@
     "data" : {
 	  "title": "",
 	  "description": "",
-	  "type": "array"
+	  "type": "array",
+	  "items": {
+        "title": "",
+        "description": "",
+		"type": "object",
+  
+      "required": [
+        "phrase",
+        "transcription",
+		"grammar",
+		"translation",
+		"image",
+		"audio",
+		"video",
+		"note"
+      ],
+	  
+	  "properties": {
+        "phrase": {
+	      "description": "",
+	      "type": "string"
+		},
+        "transcription": {
+	      "description": "",
+	      "type": "string"
+		},
+		"grammar": {
+	      "description": "",
+	      "type": "string",
+		  "pattern": "^(n|v|j|a)?(\\s[a-z0-9]+)*$"
+		},
+		"translation": {
+	      "description": "",
+	      "type": "string"
+		},
+		"image": {
+	      "description": "",
+	      "type": "string",
+          "pattern": "^([a-z0-9\\-]+(\\\\[a-z0-9\\-]+)*\\.svg)?$"
+		},
+		"audio": {
+	      "description": "",
+	      "type": "string",
+          "pattern": "^([a-z0-9\\-]+(\\\\[a-z0-9\\-]+)*\\.mp3)?$"
+		},
+		"video": {
+	      "description": "",
+	      "type": "string",
+          "pattern": "^([a-z0-9\\-]+(\\\\[a-z0-9\\-]+)*\\.mp4)?$"
+		},
+		"note": {
+	      "description": "",
+	      "type": "string"
+		}
+	  }
+	  }
 	}
   }
 

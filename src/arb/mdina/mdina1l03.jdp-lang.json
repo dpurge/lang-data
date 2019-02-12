@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "pending",
+    "tags": [
+      "mdina-1-3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "غَنِيٌّ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "bogaty",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "فَقِيرٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "biedny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "طَوِيلٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wysoki, długi",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "قَصِيرٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "niski, krótki",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "بَارِدٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zimny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "حَارٌّ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "gorący",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "جَالِسٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "siedzący",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "وَاقِفٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "stojący",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "جَدِيدٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nowy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "قَدِيمٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "stary",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "قَرِيبٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "bliski",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "بَعِيدٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "odległy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "نَظِيفٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "czysty",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "وَسِخٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "brudny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "صَغِيرٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mały",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "كَبِيرٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "duży",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "خَفِيفٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "lekki",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "ثَقِيلٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ciężki",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الوَرَقُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "papier",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "المَاءُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "woda",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "التُّفَّاحُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "jabłko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "جَمِيلٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "piękny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الدُّكَّانُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "sklep",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "حُلْوٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "słodki",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مَرِيضٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "chory",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}

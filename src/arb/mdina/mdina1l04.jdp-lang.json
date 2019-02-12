@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "pending",
+    "tags": [
+      "mdina-1-4"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "عَلَى",
+      "transcription": "",
+      "grammar": "",
+      "translation": "na",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "السَّمَاءُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "niebo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الفَصْلُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "klasa",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "المِرْخَاضُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "toaleta",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "أَيْنَ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "gdzie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "غُرْفَةٌ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pokój, izba",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الحَمَّامُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "łazienka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "المَطْبَخُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kuchnia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "فِي",
+      "transcription": "",
+      "grammar": "",
+      "translation": "w",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الفِلِبِينُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Filipiny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "المَدْرَسَةُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "szkoła",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "السُّوقُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "targowisko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الجَامِعَةُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "uniwersytet",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مِن",
+      "transcription": "",
+      "grammar": "",
+      "translation": "z",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "إِلَي",
+      "transcription": "",
+      "grammar": "",
+      "translation": "do",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "اليَابَانُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Japonia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الصِّينُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Chiny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "الهِنْدُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Indie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "المُدِيرُ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dyrektor, kierownik",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}
