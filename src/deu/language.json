@@ -4,6 +4,7 @@
     "version": 1
   },
   "data": {
-    "name": "German"
+    "name": "German",
+	"code": "deu"
   }
 }

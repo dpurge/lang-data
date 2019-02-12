@@ -4,6 +4,7 @@
     "version": 1
   },
   "data": {
-    "name": "Egyptian Arabic"
+    "name": "Egyptian Arabic",
+	"code": "arz"
   }
 }

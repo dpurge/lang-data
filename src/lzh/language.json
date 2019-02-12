@@ -4,6 +4,7 @@
     "version": 1
   },
   "data": {
-    "name": "Literary Chinese"
+    "name": "Literary Chinese",
+	"code": "lzh"
   }
 }

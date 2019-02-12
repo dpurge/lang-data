@@ -4,6 +4,7 @@
     "version": 1
   },
   "data": {
-    "name": "North Levantine Arabic"
+    "name": "North Levantine Arabic",
+	"code": "apc"
   }
 }

@@ -9,10 +9,43 @@
   ],
   
   "properties": {
-    "language" : {
-	  "title": "",
-	  "description": "",
-	  "type": "string"
+    "meta" : {
+      "title": "",
+      "description": "",
+      "type": "object",
+  
+      "required": [
+        "format",
+        "version"
+      ],
+	  
+	  "properties": {}
+	},
+	
+	"data": {
+      "title": "",
+      "description": "",
+      "type": "object",
+  
+      "required": [
+        "name",
+        "code"
+      ],
+  
+	  "properties": {
+        "name" : {
+          "title": "",
+          "description": "",
+          "type": "string"
+        },
+
+        "code" : {
+          "title": "",
+          "description": "",
+          "type": "string",
+          "pattern": "^[a-z]{3}$"
+        }
+	  }
 	}
   }
 

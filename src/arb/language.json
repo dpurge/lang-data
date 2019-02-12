@@ -4,6 +4,7 @@
     "version": 1
   },
   "data": {
-    "name": "Standard Arabic"
+    "name": "Standard Arabic",
+	"code": "arb"
   }
 }

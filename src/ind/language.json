@@ -4,6 +4,7 @@
     "version": 1
   },
   "data": {
-    "name": "Indonesian"
+    "name": "Indonesian",
+	"code": "ind"
   }
 }

@@ -4,6 +4,7 @@
     "version": 1
   },
   "data": {
-    "name": "Yue Chinese"
+    "name": "Yue Chinese",
+	"code": "yue"
   }
 }

@@ -4,6 +4,7 @@
     "version": 1
   },
   "data": {
-    "name": "French"
+    "name": "French",
+	"code": "fra"
   }
 }

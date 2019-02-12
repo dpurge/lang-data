@@ -4,6 +4,7 @@
     "version": 1
   },
   "data": {
-    "name": "Armenian"
+    "name": "Armenian",
+	"code": "hye"
   }
 }

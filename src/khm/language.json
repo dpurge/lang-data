@@ -4,6 +4,7 @@
     "version": 1
   },
   "data": {
-    "name": "Khmer"
+    "name": "Khmer",
+	"code": "khm"
   }
 }

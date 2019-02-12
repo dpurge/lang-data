@@ -4,6 +4,7 @@
     "version": 1
   },
   "data": {
-    "name": "Vietnamese"
+    "name": "Vietnamese",
+	"code": "vie"
   }
 }
