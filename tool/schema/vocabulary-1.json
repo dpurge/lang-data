@@ -12,7 +12,50 @@
     "meta" : {
 	  "title": "",
 	  "description": "",
-	  "type": "object"
+	  "type": "object",
+  
+      "required": [
+        "format",
+        "version",
+		"language",
+		"source",
+		"status",
+		"tags"
+      ],
+	  
+	  "properties": {
+        "format": {
+          "title": "",
+          "description": "",
+          "type": "string",
+		  "enum": ["vocabulary"]
+		},
+        "version": {
+          "title": "",
+          "description": "",
+          "type": "integer"
+		},
+		"language": {
+          "title": "",
+          "description": "",
+          "type": "string"
+		},
+		"source": {
+          "title": "",
+          "description": "",
+          "type": "string"
+		},
+		"status": {
+          "title": "",
+          "description": "",
+          "type": "string"
+		},
+		"tags": {
+          "title": "",
+          "description": "",
+          "type": "array"
+		}
+	  }
 	},
 	
     "data" : {

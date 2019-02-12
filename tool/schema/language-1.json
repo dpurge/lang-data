@@ -19,7 +19,19 @@
         "version"
       ],
 	  
-	  "properties": {}
+	  "properties": {
+        "format": {
+          "title": "",
+          "description": "",
+          "type": "string",
+		  "enum": ["language"]
+		},
+        "version": {
+          "title": "",
+          "description": "",
+          "type": "integer"
+		}
+	  }
 	},
 	
 	"data": {
@@ -36,7 +48,8 @@
         "name" : {
           "title": "",
           "description": "",
-          "type": "string"
+          "type": "string",
+          "pattern": "^[A-Z][a-z]+( [A-Z][a-z]+)*$"
         },
 
         "code" : {
@@ -48,5 +61,4 @@
 	  }
 	}
   }
-
 }
