@@ -1,0 +1,495 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "vie",
+    "source": "郑宝罗, 邓应烈, \"别笑! 我是越南语学习书\"",
+    "created": "2019-11-02",
+    "status": "ready",
+    "tags": [
+      "bx01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "xin",
+      "transcription": "",
+      "grammar": "",
+      "translation": "prosić",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "chào",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pozdrawiać; witać; żegnać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "còn",
+      "transcription": "",
+      "grammar": "",
+      "translation": "a",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "họ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nazwisko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "của",
+      "transcription": "",
+      "grammar": "",
+      "translation": "-",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "partykuła dopełniacza"
+    },
+    {
+      "phrase": "tên",
+      "transcription": "",
+      "grammar": "",
+      "translation": "imię",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "là",
+      "transcription": "",
+      "grammar": "",
+      "translation": "być",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "rất",
+      "transcription": "",
+      "grammar": "",
+      "translation": "bardzo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "vui",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wesoły; szczęśliwy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "được",
+      "transcription": "",
+      "grammar": "",
+      "translation": "móc",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "gặp",
+      "transcription": "",
+      "grammar": "",
+      "translation": "spotkać; poznać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "tôi",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "cũng",
+      "transcription": "",
+      "grammar": "",
+      "translation": "też; także",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "người",
+      "transcription": "",
+      "grammar": "",
+      "translation": "człowiek",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "nước",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kraj; woda",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "nào",
+      "transcription": "",
+      "grammar": "",
+      "translation": "który?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "phải",
+      "transcription": "",
+      "grammar": "",
+      "translation": "prawy; poprawny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "không",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Việt Nam",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Wietnam",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "... là ..., phải không?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "czy jest?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "... không phải là ...",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nie jest",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "ông",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dziadek",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "bà",
+      "transcription": "",
+      "grammar": "",
+      "translation": "babcia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "bác",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wujek; ciotka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "starszy brat lub starsza siostra ojca lub matki"
+    },
+    {
+      "phrase": "cô",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ciotka; pani",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "do dorosłej kobiety"
+    },
+    {
+      "phrase": "chú",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wujek",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "młodszy brat ojca"
+    },
+    {
+      "phrase": "cậu",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wujek",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "młodszy brat matki"
+    },
+    {
+      "phrase": "dì",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ciotka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "młodsza siostra matki"
+    },
+    {
+      "phrase": "bố",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ojciec",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "mẹ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "matka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "anh",
+      "transcription": "",
+      "grammar": "",
+      "translation": "starszy brat; ty; pan",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "chị",
+      "transcription": "",
+      "grammar": "",
+      "translation": "starsza siostra; ty; pani",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "em",
+      "transcription": "",
+      "grammar": "",
+      "translation": "młodszy brat; młodsza siostra",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "con",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dziecko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "cháu",
+      "transcription": "",
+      "grammar": "",
+      "translation": "siostrzeniec; siostrzenica; bratanek; bratanica",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "dziecko brata lub siostry"
+    },
+    {
+      "phrase": "thầy",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nauczyciel; mistrz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "bạn",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kolega",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "w szkole"
+    },
+    {
+      "phrase": "người Anh",
+      "transcription": "",
+      "grammar": "",
+      "translation": "anglik",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "người Việt Nam",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wietnamczyk",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "người Pháp",
+      "transcription": "",
+      "grammar": "",
+      "translation": "francuz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "người Mỹ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "amerykanin",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "người Đức",
+      "transcription": "",
+      "grammar": "",
+      "translation": "niemiec",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "người Trung Quốc",
+      "transcription": "",
+      "grammar": "",
+      "translation": "chińczyk",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "người Nhật Bản",
+      "transcription": "",
+      "grammar": "",
+      "translation": "japończyk",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "người Thái Lan",
+      "transcription": "",
+      "grammar": "",
+      "translation": "taj",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "người Ca-na-đa",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kanadyjczyk",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "người Úc",
+      "transcription": "",
+      "grammar": "",
+      "translation": "australijczyk",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "người Nga",
+      "transcription": "",
+      "grammar": "",
+      "translation": "rosjanin",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}
