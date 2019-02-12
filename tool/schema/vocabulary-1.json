@@ -1,0 +1,25 @@
+{
+  "title": "",
+  "description": "",
+  "type": "object",
+  
+  "required": [
+    "meta",
+	"data"
+  ],
+  
+  "properties": {
+    "meta" : {
+	  "title": "",
+	  "description": "",
+	  "type": "object"
+	},
+	
+    "data" : {
+	  "title": "",
+	  "description": "",
+	  "type": "array"
+	}
+  }
+
+}

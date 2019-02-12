@@ -1,0 +1,19 @@
+{
+  "title": "",
+  "description": "",
+  "type": "object",
+  
+  "required": [
+    "meta",
+	"data"
+  ],
+  
+  "properties": {
+    "language" : {
+	  "title": "",
+	  "description": "",
+	  "type": "string"
+	}
+  }
+
+}
