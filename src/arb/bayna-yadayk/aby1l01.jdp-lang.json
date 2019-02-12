@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Al-Arabiyyah Bayna Yadayk",
+    "status": "pending",
+    "tags": [
+      "aby-1-1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "مُعلِّمٌ",
+      "transcription": "muʿallim",
+      "grammar": "n",
+      "translation": "nauczyciel",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "طَالِبَةٌ",
+      "transcription": "ṭāliba",
+      "grammar": "n",
+      "translation": "studentka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "طَبِيبَةٌ",
+      "transcription": "ṭabība",
+      "grammar": "n",
+      "translation": "lekarka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مُهَنْدِسٌ",
+      "transcription": "muhandis",
+      "grammar": "n",
+      "translation": "inżynier",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "أَخٌ",
+      "transcription": "aḫ",
+      "grammar": "n",
+      "translation": "brat",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "أُخْتٌ",
+      "transcription": "uḫt",
+      "grammar": "n",
+      "translation": "siostra",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "صَدِيقَةٌ",
+      "transcription": "ṣadīqa",
+      "grammar": "n",
+      "translation": "koleżanka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "صَدِيقٌ",
+      "transcription": "ṣadīq",
+      "grammar": "n",
+      "translation": "kolega",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "أَنَا",
+      "transcription": "anā",
+      "grammar": "",
+      "translation": "ja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "أَنْتَ",
+      "transcription": "anta",
+      "grammar": "",
+      "translation": "ty",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "r.m."
+    },
+    {
+      "phrase": "أَنْتِ",
+      "transcription": "anti",
+      "grammar": "",
+      "translation": "ty",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "r.ż."
+    },
+    {
+      "phrase": "هٰذَا",
+      "transcription": "hāḏā",
+      "grammar": "",
+      "translation": "ten",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "هٰذِهِ",
+      "transcription": "hāḏihi",
+      "grammar": "",
+      "translation": "ta",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "هُوَ",
+      "transcription": "huwa",
+      "grammar": "",
+      "translation": "on",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "هِيَ",
+      "transcription": "hiya",
+      "grammar": "",
+      "translation": "ona",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "بَاكِسْتَان",
+      "transcription": "Bākistān",
+      "grammar": "",
+      "translation": "Pakistan",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "تُرْكِيَّا",
+      "transcription": "Turkyā",
+      "grammar": "",
+      "translation": "Turcja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مِصْر",
+      "transcription": "Miṣr",
+      "grammar": "",
+      "translation": "Egipt",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "سُورِيَا",
+      "transcription": "Sūriyā",
+      "grammar": "",
+      "translation": "Syria",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "بَاكِسْتَانِيٌّ",
+      "transcription": "bākistānī",
+      "grammar": "",
+      "translation": "pakistański",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "تُرْكِيٌّ",
+      "transcription": "turkī",
+      "grammar": "",
+      "translation": "turecki",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مِصْرِيٌّ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "egipski",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "سُورِيٌّ",
+      "transcription": "sūrī",
+      "grammar": "",
+      "translation": "syryjski",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "وَاحِدٌ",
+      "transcription": "wāḥid",
+      "grammar": "",
+      "translation": "jeden",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "اِثْنَان",
+      "transcription": "iṯnān",
+      "grammar": "",
+      "translation": "dwa",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "ثَلَاثَةٌ",
+      "transcription": "ṯalāṯa",
+      "grammar": "",
+      "translation": "trzy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "أَرْبَعَةٌ",
+      "transcription": "arbaʿa",
+      "grammar": "",
+      "translation": "cztery",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "خَمْسَةٌ",
+      "transcription": "ḫamsa",
+      "grammar": "",
+      "translation": "pięć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}

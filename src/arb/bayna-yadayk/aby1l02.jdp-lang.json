@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Al-Arabiyyah Bayna Yadayk",
+    "status": "pending",
+    "tags": [
+      "aby-1-2"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "صُورَةٌ",
+      "transcription": "ṣūra",
+      "grammar": "n",
+      "translation": "obraz, rysunek",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "أُسْرَةٌ",
+      "transcription": "usra",
+      "grammar": "n",
+      "translation": "rodzina",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "وَالِدٌ",
+      "transcription": "wālid",
+      "grammar": "n",
+      "translation": "ojciec",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "وَالِدَةٌ",
+      "transcription": "wālida",
+      "grammar": "n",
+      "translation": "matka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "جَدٌّ",
+      "transcription": "ǧadd",
+      "grammar": "n",
+      "translation": "dziadek",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "جَدَّةٌ",
+      "transcription": "ǧadda",
+      "grammar": "n",
+      "translation": "babcia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "اِبْنٌ",
+      "transcription": "ibn",
+      "grammar": "n",
+      "translation": "syn",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "اِبْنَةٌ",
+      "transcription": "ibna",
+      "grammar": "n",
+      "translation": "córka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "عَمٌّ",
+      "transcription": "ʿamm",
+      "grammar": "n",
+      "translation": "wuj",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "عَمَّةٌ",
+      "transcription": "ʿamma",
+      "grammar": "n",
+      "translation": "ciotka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "أَوْلَادٌ",
+      "transcription": "awlād",
+      "grammar": "n",
+      "translation": "dzieci",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "شَجَرَةٌ",
+      "transcription": "šaǧara",
+      "grammar": "n",
+      "translation": "drzewo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مَسْجِدٌ",
+      "transcription": "masǧid",
+      "grammar": "n",
+      "translation": "meczet",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مُسَلَّى",
+      "transcription": "muṣalla",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "غُرْفَةٌ",
+      "transcription": "",
+      "grammar": "n",
+      "translation": "pokój, izba",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "أَذَانُ الفَجْرِ",
+      "transcription": "aḏānu-l-faǧr",
+      "grammar": "n",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "القُرآنُ",
+      "transcription": "al-Qurʾān",
+      "grammar": "n",
+      "translation": "Koran",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مِعْطَفٌ",
+      "transcription": "miʿṭaf",
+      "grammar": "n",
+      "translation": "płaszcz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "نَظَّارَةٌ",
+      "transcription": "naẓẓāra",
+      "grammar": "n",
+      "translation": "okulary",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "حَمَّامٌ",
+      "transcription": "ḥammām",
+      "grammar": "n",
+      "translation": "łazienka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "يَتَوَضَّأُ",
+      "transcription": "yatawaḍḍaʾ",
+      "grammar": "v",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "يَقْرَأُ",
+      "transcription": "yaqraʾ",
+      "grammar": "v",
+      "translation": "czyta",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "يُصَلّي",
+      "transcription": "yuṣallī",
+      "grammar": "n",
+      "translation": "modli się",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "مُعَلِّمَةٌ",
+      "transcription": "muʿallima",
+      "grammar": "n",
+      "translation": "nauczycielka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}
