@@ -12,7 +12,7 @@
   "data": [
     {
       "phrase": "غَنِيٌّ",
-      "transcription": "",
+      "transcription": "ġanī",
       "grammar": "",
       "translation": "bogaty",
       "image": "",
@@ -22,7 +22,7 @@
     },
     {
       "phrase": "فَقِيرٌ",
-      "transcription": "",
+      "transcription": "faqīr",
       "grammar": "",
       "translation": "biedny",
       "image": "",
@@ -32,7 +32,7 @@
     },
     {
       "phrase": "طَوِيلٌ",
-      "transcription": "",
+      "transcription": "ṭawīl",
       "grammar": "",
       "translation": "wysoki, długi",
       "image": "",
@@ -42,7 +42,7 @@
     },
     {
       "phrase": "قَصِيرٌ",
-      "transcription": "",
+      "transcription": "qaṣīr",
       "grammar": "",
       "translation": "niski, krótki",
       "image": "",
@@ -52,7 +52,7 @@
     },
     {
       "phrase": "بَارِدٌ",
-      "transcription": "",
+      "transcription": "bārid",
       "grammar": "",
       "translation": "zimny",
       "image": "",
@@ -62,7 +62,7 @@
     },
     {
       "phrase": "حَارٌّ",
-      "transcription": "",
+      "transcription": "ḥārr",
       "grammar": "",
       "translation": "gorący",
       "image": "",
@@ -72,7 +72,7 @@
     },
     {
       "phrase": "جَالِسٌ",
-      "transcription": "",
+      "transcription": "ǧālis",
       "grammar": "",
       "translation": "siedzący",
       "image": "",
@@ -82,7 +82,7 @@
     },
     {
       "phrase": "وَاقِفٌ",
-      "transcription": "",
+      "transcription": "wāqif",
       "grammar": "",
       "translation": "stojący",
       "image": "",
@@ -92,7 +92,7 @@
     },
     {
       "phrase": "جَدِيدٌ",
-      "transcription": "",
+      "transcription": "ǧadīd",
       "grammar": "",
       "translation": "nowy",
       "image": "",
@@ -102,7 +102,7 @@
     },
     {
       "phrase": "قَدِيمٌ",
-      "transcription": "",
+      "transcription": "qadīm",
       "grammar": "",
       "translation": "stary",
       "image": "",
@@ -112,7 +112,7 @@
     },
     {
       "phrase": "قَرِيبٌ",
-      "transcription": "",
+      "transcription": "qarīb",
       "grammar": "",
       "translation": "bliski",
       "image": "",
@@ -122,7 +122,7 @@
     },
     {
       "phrase": "بَعِيدٌ",
-      "transcription": "",
+      "transcription": "baʿīd",
       "grammar": "",
       "translation": "odległy",
       "image": "",
@@ -132,7 +132,7 @@
     },
     {
       "phrase": "نَظِيفٌ",
-      "transcription": "",
+      "transcription": "naẓīf",
       "grammar": "",
       "translation": "czysty",
       "image": "",
@@ -142,7 +142,7 @@
     },
     {
       "phrase": "وَسِخٌ",
-      "transcription": "",
+      "transcription": "wasiḫ",
       "grammar": "",
       "translation": "brudny",
       "image": "",
@@ -152,7 +152,7 @@
     },
     {
       "phrase": "صَغِيرٌ",
-      "transcription": "",
+      "transcription": "ṣaġīr",
       "grammar": "",
       "translation": "mały",
       "image": "",
@@ -162,7 +162,7 @@
     },
     {
       "phrase": "كَبِيرٌ",
-      "transcription": "",
+      "transcription": "kabīr",
       "grammar": "",
       "translation": "duży",
       "image": "",
@@ -172,7 +172,7 @@
     },
     {
       "phrase": "خَفِيفٌ",
-      "transcription": "",
+      "transcription": "ḫafīf",
       "grammar": "",
       "translation": "lekki",
       "image": "",
@@ -182,7 +182,7 @@
     },
     {
       "phrase": "ثَقِيلٌ",
-      "transcription": "",
+      "transcription": "ṯaqīl",
       "grammar": "",
       "translation": "ciężki",
       "image": "",
@@ -192,7 +192,7 @@
     },
     {
       "phrase": "الوَرَقُ",
-      "transcription": "",
+      "transcription": "al-waraq",
       "grammar": "",
       "translation": "papier",
       "image": "",
@@ -202,7 +202,7 @@
     },
     {
       "phrase": "المَاءُ",
-      "transcription": "",
+      "transcription": "al-māʾ",
       "grammar": "",
       "translation": "woda",
       "image": "",
@@ -212,7 +212,7 @@
     },
     {
       "phrase": "التُّفَّاحُ",
-      "transcription": "",
+      "transcription": "at-tuffāḥ",
       "grammar": "",
       "translation": "jabłko",
       "image": "",
@@ -222,7 +222,7 @@
     },
     {
       "phrase": "جَمِيلٌ",
-      "transcription": "",
+      "transcription": "ǧamīl",
       "grammar": "",
       "translation": "piękny",
       "image": "",
@@ -232,7 +232,7 @@
     },
     {
       "phrase": "الدُّكَّانُ",
-      "transcription": "",
+      "transcription": "ad-dukkān",
       "grammar": "",
       "translation": "sklep",
       "image": "",
@@ -242,7 +242,7 @@
     },
     {
       "phrase": "حُلْوٌ",
-      "transcription": "",
+      "transcription": "ḥulw",
       "grammar": "",
       "translation": "słodki",
       "image": "",
@@ -252,7 +252,7 @@
     },
     {
       "phrase": "مَرِيضٌ",
-      "transcription": "",
+      "transcription": "marīḍ",
       "grammar": "",
       "translation": "chory",
       "image": "",

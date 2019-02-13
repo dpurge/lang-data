@@ -12,7 +12,7 @@
   "data": [
     {
       "phrase": "وَلَدٌ",
-      "transcription": "",
+      "transcription": "walad",
       "grammar": "",
       "translation": "chłopiec",
       "image": "",
@@ -22,7 +22,7 @@
     },
     {
       "phrase": "طَالِبٌ",
-      "transcription": "",
+      "transcription": "ṭālib",
       "grammar": "",
       "translation": "student",
       "image": "",
@@ -32,7 +32,7 @@
     },
     {
       "phrase": "رَجُلٌ",
-      "transcription": "",
+      "transcription": "raǧul",
       "grammar": "",
       "translation": "mężczyzna",
       "image": "",
@@ -42,7 +42,7 @@
     },
     {
       "phrase": "تَاجِرٌ",
-      "transcription": "",
+      "transcription": "tāǧir",
       "grammar": "",
       "translation": "kupiec",
       "image": "",
@@ -52,7 +52,7 @@
     },
     {
       "phrase": "كَلْبٌ",
-      "transcription": "",
+      "transcription": "kalb",
       "grammar": "",
       "translation": "pies",
       "image": "",
@@ -62,7 +62,7 @@
     },
     {
       "phrase": "قِطٌّ",
-      "transcription": "",
+      "transcription": "qiṭṭ",
       "grammar": "",
       "translation": "kot",
       "image": "",
@@ -72,7 +72,7 @@
     },
     {
       "phrase": "حِمَارٌ",
-      "transcription": "",
+      "transcription": "ḥimār",
       "grammar": "",
       "translation": "osioł",
       "image": "",
@@ -82,7 +82,7 @@
     },
     {
       "phrase": "حِصَانٌ",
-      "transcription": "",
+      "transcription": "ḥiṣān",
       "grammar": "",
       "translation": "koń",
       "image": "",
@@ -92,7 +92,7 @@
     },
     {
       "phrase": "جَمَلٌ",
-      "transcription": "",
+      "transcription": "ǧamal",
       "grammar": "",
       "translation": "wielbłąd",
       "image": "",
@@ -102,7 +102,7 @@
     },
     {
       "phrase": "دِيكٌ",
-      "transcription": "",
+      "transcription": "dīk",
       "grammar": "",
       "translation": "kogut",
       "image": "",
@@ -112,7 +112,7 @@
     },
     {
       "phrase": "مُدَرِّسٌ",
-      "transcription": "",
+      "transcription": "mudarris",
       "grammar": "",
       "translation": "nauczyciel",
       "image": "",
@@ -122,7 +122,7 @@
     },
     {
       "phrase": "مِندِيلٌ",
-      "transcription": "",
+      "transcription": "mindīl",
       "grammar": "",
       "translation": "chusteczka",
       "image": "",
@@ -132,7 +132,7 @@
     },
     {
       "phrase": "بَيتٌ",
-      "transcription": "",
+      "transcription": "bayt",
       "grammar": "",
       "translation": "dom",
       "image": "",
@@ -142,7 +142,7 @@
     },
     {
       "phrase": "مَسْجِدٌ",
-      "transcription": "",
+      "transcription": "masǧid",
       "grammar": "",
       "translation": "meczet",
       "image": "",
@@ -152,7 +152,7 @@
     },
     {
       "phrase": "بَابٌ",
-      "transcription": "",
+      "transcription": "bāb",
       "grammar": "",
       "translation": "drzwi",
       "image": "",
@@ -162,7 +162,7 @@
     },
     {
       "phrase": "كِتَابٌ",
-      "transcription": "",
+      "transcription": "kitāb",
       "grammar": "",
       "translation": "książka",
       "image": "",
@@ -172,7 +172,7 @@
     },
     {
       "phrase": "قَلَمٌ",
-      "transcription": "",
+      "transcription": "qalam",
       "grammar": "",
       "translation": "pióro, ołówek",
       "image": "",
@@ -182,7 +182,7 @@
     },
     {
       "phrase": "مِفْتَاحٌ",
-      "transcription": "",
+      "transcription": "miftāḥ",
       "grammar": "",
       "translation": "klucz",
       "image": "",
@@ -192,7 +192,7 @@
     },
     {
       "phrase": "مَكْتَبٌ",
-      "transcription": "",
+      "transcription": "maktab",
       "grammar": "",
       "translation": "biurko",
       "image": "",
@@ -202,7 +202,7 @@
     },
     {
       "phrase": "سَرِيرٌ",
-      "transcription": "",
+      "transcription": "sarīr",
       "grammar": "",
       "translation": "łóżko",
       "image": "",
@@ -212,7 +212,7 @@
     },
     {
       "phrase": "كُرْسِيٌّ",
-      "transcription": "",
+      "transcription": "kursī",
       "grammar": "",
       "translation": "krzesło",
       "image": "",
@@ -222,7 +222,7 @@
     },
     {
       "phrase": "نَجْمٌ",
-      "transcription": "",
+      "transcription": "naǧm",
       "grammar": "",
       "translation": "gwiazda",
       "image": "",
@@ -232,7 +232,7 @@
     },
     {
       "phrase": "قَمِيصٌ",
-      "transcription": "",
+      "transcription": "qamīṣ",
       "grammar": "",
       "translation": "koszula",
       "image": "",
@@ -242,7 +242,7 @@
     },
     {
       "phrase": "طَبِيبٌ",
-      "transcription": "",
+      "transcription": "ṭabīb",
       "grammar": "",
       "translation": "lekarz",
       "image": "",

@@ -12,7 +12,7 @@
   "data": [
     {
       "phrase": "عَلَى",
-      "transcription": "",
+      "transcription": "ʿalā",
       "grammar": "",
       "translation": "na",
       "image": "",
@@ -22,7 +22,7 @@
     },
     {
       "phrase": "السَّمَاءُ",
-      "transcription": "",
+      "transcription": "as-samāʾ",
       "grammar": "",
       "translation": "niebo",
       "image": "",
@@ -32,7 +32,7 @@
     },
     {
       "phrase": "الفَصْلُ",
-      "transcription": "",
+      "transcription": "al-faṣl",
       "grammar": "",
       "translation": "klasa",
       "image": "",
@@ -42,7 +42,7 @@
     },
     {
       "phrase": "المِرْخَاضُ",
-      "transcription": "",
+      "transcription": "al-mirḥāḍ",
       "grammar": "",
       "translation": "toaleta",
       "image": "",
@@ -52,7 +52,7 @@
     },
     {
       "phrase": "أَيْنَ",
-      "transcription": "",
+      "transcription": "ayna",
       "grammar": "",
       "translation": "gdzie",
       "image": "",
@@ -62,7 +62,7 @@
     },
     {
       "phrase": "غُرْفَةٌ",
-      "transcription": "",
+      "transcription": "ġurfa",
       "grammar": "",
       "translation": "pokój, izba",
       "image": "",
@@ -72,7 +72,7 @@
     },
     {
       "phrase": "الحَمَّامُ",
-      "transcription": "",
+      "transcription": "al-ḥammām",
       "grammar": "",
       "translation": "łazienka",
       "image": "",
@@ -82,7 +82,7 @@
     },
     {
       "phrase": "المَطْبَخُ",
-      "transcription": "",
+      "transcription": "al-maṭbaḫ",
       "grammar": "",
       "translation": "kuchnia",
       "image": "",
@@ -92,7 +92,7 @@
     },
     {
       "phrase": "فِي",
-      "transcription": "",
+      "transcription": "fī",
       "grammar": "",
       "translation": "w",
       "image": "",
@@ -102,7 +102,7 @@
     },
     {
       "phrase": "الفِلِبِينُ",
-      "transcription": "",
+      "transcription": "al-Filibīn",
       "grammar": "",
       "translation": "Filipiny",
       "image": "",
@@ -112,7 +112,7 @@
     },
     {
       "phrase": "المَدْرَسَةُ",
-      "transcription": "",
+      "transcription": "al-madrasa",
       "grammar": "",
       "translation": "szkoła",
       "image": "",
@@ -122,7 +122,7 @@
     },
     {
       "phrase": "السُّوقُ",
-      "transcription": "",
+      "transcription": "as-sūq",
       "grammar": "",
       "translation": "targowisko",
       "image": "",
@@ -132,7 +132,7 @@
     },
     {
       "phrase": "الجَامِعَةُ",
-      "transcription": "",
+      "transcription": "al-ǧāmiʿa",
       "grammar": "",
       "translation": "uniwersytet",
       "image": "",
@@ -142,7 +142,7 @@
     },
     {
       "phrase": "مِن",
-      "transcription": "",
+      "transcription": "min",
       "grammar": "",
       "translation": "z",
       "image": "",
@@ -152,7 +152,7 @@
     },
     {
       "phrase": "إِلَي",
-      "transcription": "",
+      "transcription": "ilā",
       "grammar": "",
       "translation": "do",
       "image": "",
@@ -162,7 +162,7 @@
     },
     {
       "phrase": "اليَابَانُ",
-      "transcription": "",
+      "transcription": "al-Yābān",
       "grammar": "",
       "translation": "Japonia",
       "image": "",
@@ -172,7 +172,7 @@
     },
     {
       "phrase": "الصِّينُ",
-      "transcription": "",
+      "transcription": "aṣ-Ṣīn",
       "grammar": "",
       "translation": "Chiny",
       "image": "",
@@ -182,7 +182,7 @@
     },
     {
       "phrase": "الهِنْدُ",
-      "transcription": "",
+      "transcription": "al-Hind",
       "grammar": "",
       "translation": "Indie",
       "image": "",
@@ -192,7 +192,7 @@
     },
     {
       "phrase": "المُدِيرُ",
-      "transcription": "",
+      "transcription": "al-mudīr",
       "grammar": "",
       "translation": "dyrektor, kierownik",
       "image": "",
