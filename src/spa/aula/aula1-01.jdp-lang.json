@@ -1,0 +1,2681 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "aula1-01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "hola",
+      "transcription": "",
+      "grammar": "",
+      "translation": "cześć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "yo",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "me llamo",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nazywam się",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "y",
+      "transcription": "",
+      "grammar": "",
+      "translation": "i; a",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "vosotros",
+      "transcription": "",
+      "grammar": "m",
+      "translation": "wy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "vosotras",
+      "transcription": "",
+      "grammar": "f",
+      "translation": "wy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "ser",
+      "transcription": "",
+      "grammar": "",
+      "translation": "być",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el hotel",
+      "transcription": "",
+      "grammar": "",
+      "translation": "hotel",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el metro",
+      "transcription": "",
+      "grammar": "",
+      "translation": "metro",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el teléfono",
+      "transcription": "",
+      "grammar": "",
+      "translation": "telefon",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el taxi ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "taksówka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la calle",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ulica",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la perfumería",
+      "transcription": "",
+      "grammar": "",
+      "translation": "perfumeria",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el bar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "knajpa, bar",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la tapa",
+      "transcription": "",
+      "grammar": "",
+      "translation": "przekąska",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el bar de tapas",
+      "transcription": "",
+      "grammar": "",
+      "translation": "bar tapas",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la escuela ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "szkoła",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la televisión",
+      "transcription": "",
+      "grammar": "",
+      "translation": "telewizja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la estación",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dworzec, stacja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el aeropuerto",
+      "transcription": "",
+      "grammar": "",
+      "translation": "lotnisko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el museo",
+      "transcription": "",
+      "grammar": "",
+      "translation": "muzeum",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el Museo del Prado",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Muzeum Prado",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la música",
+      "transcription": "",
+      "grammar": "",
+      "translation": "muzyka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el restaurante",
+      "transcription": "",
+      "grammar": "",
+      "translation": "restauracja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "gallego",
+      "transcription": "",
+      "grammar": "",
+      "translation": "galicyjski",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el teatro",
+      "transcription": "",
+      "grammar": "",
+      "translation": "teatr",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la plaza",
+      "transcription": "",
+      "grammar": "",
+      "translation": "plac",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "España",
+      "transcription": "",
+      "grammar": "f",
+      "translation": "Hiszpania",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el libro",
+      "transcription": "",
+      "grammar": "",
+      "translation": "książka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el diccionario",
+      "transcription": "",
+      "grammar": "",
+      "translation": "słownik",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el español",
+      "transcription": "",
+      "grammar": "",
+      "translation": "język hiszpański",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "actual",
+      "transcription": "",
+      "grammar": "",
+      "translation": "aktualny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el aula",
+      "transcription": "",
+      "grammar": "f",
+      "translation": "sala wykładowa, aula",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "comprender",
+      "transcription": "",
+      "grammar": "",
+      "translation": "rozumieć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la palabra",
+      "transcription": "",
+      "grammar": "",
+      "translation": "słowo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "no",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿qué?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "co?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "significar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "oznaczać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el euro",
+      "transcription": "",
+      "grammar": "",
+      "translation": "euro",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "gracias",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dziękuję",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el arquitecto",
+      "transcription": "",
+      "grammar": "",
+      "translation": "architekt",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la arquitecta",
+      "transcription": "",
+      "grammar": "",
+      "translation": "architekt",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "kobieta"
+    },
+    {
+      "phrase": "español",
+      "transcription": "",
+      "grammar": "",
+      "translation": "hiszpański",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el diseñador",
+      "transcription": "",
+      "grammar": "",
+      "translation": "projektant; rysownik",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la diseñadora",
+      "transcription": "",
+      "grammar": "",
+      "translation": "projektant; rysowniczka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "venezolano",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wenezuelski",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el artista",
+      "transcription": "",
+      "grammar": "",
+      "translation": "artysta",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la artista",
+      "transcription": "",
+      "grammar": "",
+      "translation": "artystka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "colombiano",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kolumbijski",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el bailarín",
+      "transcription": "",
+      "grammar": "",
+      "translation": "tancerz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la bailarina",
+      "transcription": "",
+      "grammar": "",
+      "translation": "tancerka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "cubano",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kubański",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el escritor",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pisarz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la escritora",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pisarka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "uruguayo",
+      "transcription": "",
+      "grammar": "",
+      "translation": "urugwajski",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el cantante",
+      "transcription": "",
+      "grammar": "",
+      "translation": "piosenkarz, śpiewak",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la cantante",
+      "transcription": "",
+      "grammar": "",
+      "translation": "piosenkarka, śpiewaczka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "argentino",
+      "transcription": "",
+      "grammar": "",
+      "translation": "argentyński",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el nombre",
+      "transcription": "",
+      "grammar": "",
+      "translation": "imię",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el apellido",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nazwisko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la nacionalidad",
+      "transcription": "",
+      "grammar": "",
+      "translation": "narodowość",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la edad",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wiek",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la profesión",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zawód",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el estudiante",
+      "transcription": "",
+      "grammar": "",
+      "translation": "uczeń",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la estudiante",
+      "transcription": "",
+      "grammar": "",
+      "translation": "uczennica",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el correo electrónico",
+      "transcription": "",
+      "grammar": "",
+      "translation": "poczta elektroniczna, e-mail",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "francés",
+      "transcription": "",
+      "grammar": "",
+      "translation": "francuski; francuska",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el camarero",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kelner",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la camarera",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kelnerka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "alemán",
+      "transcription": "",
+      "grammar": "",
+      "translation": "niemiecki",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el enfermero",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pielęgniarz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": " la enfermera",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pielęgniarka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "brasileño",
+      "transcription": "",
+      "grammar": "",
+      "translation": "brazylijski",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la pregunta",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pytanie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿cómo?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "jak?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿Cómo te llamas?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Jak się nazywasz?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿cuántos?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ile?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿Cuántos años tienes?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Ile masz lat?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Tengo 24 años.",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Mam 24 lata.",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿A qué te dedicas?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Czym się zajmujesz zawodowo?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿cuál?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "jaki?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "tu",
+      "transcription": "",
+      "grammar": "",
+      "translation": "twój",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "tus",
+      "transcription": "",
+      "grammar": "pl",
+      "translation": "twoi",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "trabajar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pracować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿En qué trabajas?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Co robisz zawodowo?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "de",
+      "transcription": "",
+      "grammar": "",
+      "translation": "od",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿de dónde?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "skąd?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿De dónde eres?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Skąd jesteś?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "tener",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mieć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el móvil",
+      "transcription": "",
+      "grammar": "",
+      "translation": "telefon komórkowy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el número de teléfono",
+      "transcription": "",
+      "grammar": "",
+      "translation": "numer telefonu",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "para",
+      "transcription": "",
+      "grammar": "",
+      "translation": "żeby",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "+ bezokolicznik"
+    },
+    {
+      "phrase": "preguntar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pytać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "saber",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wiedzieć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el lugar de origen",
+      "transcription": "",
+      "grammar": "",
+      "translation": "miejsce pochodzenia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "vivir",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mieszkać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "en",
+      "transcription": "",
+      "grammar": "",
+      "translation": "w",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "mi",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mój",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "mis",
+      "transcription": "",
+      "grammar": "pl",
+      "translation": "moi",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la dirección",
+      "transcription": "",
+      "grammar": "",
+      "translation": "adres",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "cocinar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "gotować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "ver",
+      "transcription": "",
+      "grammar": "",
+      "translation": "widzieć, oglądać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la tele",
+      "transcription": "",
+      "grammar": "",
+      "translation": "telewizja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "ver la tele",
+      "transcription": "",
+      "grammar": "",
+      "translation": "oglądać telewizję",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el esquí",
+      "transcription": "",
+      "grammar": "",
+      "translation": "narciarstwo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "ir a",
+      "transcription": "",
+      "grammar": "",
+      "translation": "iść do",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el gimnasio",
+      "transcription": "",
+      "grammar": "",
+      "translation": "klub fitness",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "ir al gimnasio",
+      "transcription": "",
+      "grammar": "",
+      "translation": "iść do klubu fitness",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "cantar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "śpiewać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el tenis",
+      "transcription": "",
+      "grammar": "",
+      "translation": "tenis",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "salir de noche",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wychodzić wieczorem z domu",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la noche",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wieczór; noc",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "leer",
+      "transcription": "",
+      "grammar": "",
+      "translation": "czytać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la novela",
+      "transcription": "",
+      "grammar": "",
+      "translation": "powieść",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "jugar al fútbol",
+      "transcription": "",
+      "grammar": "",
+      "translation": "grać w piłkę nożną",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "escribir",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pisać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "coleccionar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zbierać, kolekcjonować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el sello",
+      "transcription": "",
+      "grammar": "",
+      "translation": "znaczek pocztowy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la casa",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dom",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el zapato",
+      "transcription": "",
+      "grammar": "",
+      "translation": "but",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el jamón",
+      "transcription": "",
+      "grammar": "",
+      "translation": "szynka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el gato",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kot, kocur",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la gata",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kotka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "cero",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zero",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la comida",
+      "transcription": "",
+      "grammar": "",
+      "translation": "jedzenie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el queso",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ser",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la guerra",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wojna",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la colección",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zbiór, kolekcja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el jefe",
+      "transcription": "",
+      "grammar": "",
+      "translation": "szef",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la jefa",
+      "transcription": "",
+      "grammar": "",
+      "translation": "szefowa",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "cincuenta",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pięćdziesiąt",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el gol",
+      "transcription": "",
+      "grammar": "",
+      "translation": "bramka, gol",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el cine",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kino",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el quilo",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kilo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la guitarra",
+      "transcription": "",
+      "grammar": "",
+      "translation": "gitara",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "contar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "liczyć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el zoo",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zoo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "general",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ogólny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "joven",
+      "transcription": "",
+      "grammar": "",
+      "translation": "młody",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "llamarse",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nazywać się",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "su",
+      "transcription": "",
+      "grammar": "",
+      "translation": "jego",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "sus",
+      "transcription": "",
+      "grammar": "pl",
+      "translation": "jego",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "italiano",
+      "transcription": "",
+      "grammar": "",
+      "translation": "włoski",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "sí",
+      "transcription": "",
+      "grammar": "",
+      "translation": "tak",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el profesor",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nauczyciel",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la profesora",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nauczycielka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el banco",
+      "transcription": "",
+      "grammar": "",
+      "translation": "bank",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la arroba",
+      "transcription": "",
+      "grammar": "",
+      "translation": "małpa",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "trabajar de",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pracować jako",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "buenos días",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dzień dobry",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "buenas tardes",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dobry wieczór",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "buenas noches",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dobranoc; dobry wieczór",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿Qué tal?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Co słychać? Jak leci?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "adiós",
+      "transcription": "",
+      "grammar": "",
+      "translation": "do widzenia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "hasta luego",
+      "transcription": "",
+      "grammar": "",
+      "translation": "do zobaczenia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿Cómo estás?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Jak się masz?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "bien",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dobrze",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "tú",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ty",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "muy bien",
+      "transcription": "",
+      "grammar": "",
+      "translation": "bardzo dobrze",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "turco",
+      "transcription": "",
+      "grammar": "",
+      "translation": "turecki",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "belga",
+      "transcription": "",
+      "grammar": "",
+      "translation": "belgijski; belgijska",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "marroquí",
+      "transcription": "",
+      "grammar": "",
+      "translation": "marokański",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "estadounidense",
+      "transcription": "",
+      "grammar": "",
+      "translation": "amerykański",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "z USA"
+    },
+    {
+      "phrase": "el cocinero",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kucharz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la cocinera",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kucharka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el secretario",
+      "transcription": "",
+      "grammar": "",
+      "translation": "sekretarz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la secretaria",
+      "transcription": "",
+      "grammar": "",
+      "translation": "sekretarka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el periodista",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dziennikarz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la periodista",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dziennikarka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el juez",
+      "transcription": "",
+      "grammar": "",
+      "translation": "sędzia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la jueza",
+      "transcription": "",
+      "grammar": "",
+      "translation": "sędzina",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el médico",
+      "transcription": "",
+      "grammar": "",
+      "translation": "lekarz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la médica",
+      "transcription": "",
+      "grammar": "",
+      "translation": "lekarka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el presidente",
+      "transcription": "",
+      "grammar": "",
+      "translation": "prezydent",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la presidenta",
+      "transcription": "",
+      "grammar": "",
+      "translation": "prezydent",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "kobieta"
+    },
+    {
+      "phrase": "estudiar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "uczyć się; studiować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el bolígrafo",
+      "transcription": "",
+      "grammar": "",
+      "translation": "długopis",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "se escribe",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pisze się",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "se dice",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mówi się",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el diseñador gráfico",
+      "transcription": "",
+      "grammar": "",
+      "translation": "grafik komputerowy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la diseñadora gráfica",
+      "transcription": "",
+      "grammar": "",
+      "translation": "grafik komputerowy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "kobieta"
+    },
+    {
+      "phrase": "el amigo",
+      "transcription": "",
+      "grammar": "",
+      "translation": "przyjaciel",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la amiga",
+      "transcription": "",
+      "grammar": "",
+      "translation": "przyjaciółka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "por favor",
+      "transcription": "",
+      "grammar": "",
+      "translation": "proszę",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la ropa",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ubranie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "las vacaciones",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ferie; wakacje; urlop",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la afición",
+      "transcription": "",
+      "grammar": "",
+      "translation": "hobby",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "pasear",
+      "transcription": "",
+      "grammar": "",
+      "translation": "spacerować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "con",
+      "transcription": "",
+      "grammar": "",
+      "translation": "z",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el perro",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pies",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la perra",
+      "transcription": "",
+      "grammar": "",
+      "translation": "suka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "viajar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "podróżować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "México",
+      "transcription": "",
+      "grammar": "m",
+      "translation": "Meksyk",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Cuba",
+      "transcription": "",
+      "grammar": "f",
+      "translation": "Kuba",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la República Dominicana",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Republika Dominikańska",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Puerto Rico",
+      "transcription": "",
+      "grammar": "m",
+      "translation": "Portoryko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Guatemala",
+      "transcription": "",
+      "grammar": "f",
+      "translation": "Gwatemala",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Honduras",
+      "transcription": "",
+      "grammar": "f",
+      "translation": "Honduras",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Nicaragua",
+      "transcription": "",
+      "grammar": "f",
+      "translation": "Nikaragua",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "El Salvador",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Salwador",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Costa Rica",
+      "transcription": "",
+      "grammar": "m",
+      "translation": "Kostaryka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Panamá",
+      "transcription": "",
+      "grammar": "m",
+      "translation": "Panama",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Venezuela",
+      "transcription": "",
+      "grammar": "f",
+      "translation": "Wenezuela",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Colombia",
+      "transcription": "",
+      "grammar": "f",
+      "translation": "Kolumbia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Ecuador",
+      "transcription": "",
+      "grammar": "m",
+      "translation": "Ekwador",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Perú",
+      "transcription": "",
+      "grammar": "m",
+      "translation": "Peru",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Bolivia",
+      "transcription": "",
+      "grammar": "f",
+      "translation": "Boliwia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Paraguay",
+      "transcription": "",
+      "grammar": "m",
+      "translation": "Paragwaj",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Chile",
+      "transcription": "",
+      "grammar": "m",
+      "translation": "Czile",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Uruguay",
+      "transcription": "",
+      "grammar": "m",
+      "translation": "Urugwaj",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Argentina",
+      "transcription": "",
+      "grammar": "f",
+      "translation": "Argentyna",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el mariachi",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mariachi",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "meksykański muzykant"
+    },
+    {
+      "phrase": "típico",
+      "transcription": "",
+      "grammar": "",
+      "translation": "typowy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el conjunto",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zespół muzyczny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el músico",
+      "transcription": "",
+      "grammar": "",
+      "translation": "muzyk",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la música",
+      "transcription": "",
+      "grammar": "",
+      "translation": "muzyk",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "kobieta"
+    },
+    {
+      "phrase": "que",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ten który",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "tocar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "grać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "na instrumencie"
+    },
+    {
+      "phrase": "tocar un instrumento",
+      "transcription": "",
+      "grammar": "",
+      "translation": "grać na instrumencie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "diverso",
+      "transcription": "",
+      "grammar": "",
+      "translation": "różny, inny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "como",
+      "transcription": "",
+      "grammar": "",
+      "translation": "jak",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el violín",
+      "transcription": "",
+      "grammar": "",
+      "translation": "skrzypce",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la trompeta",
+      "transcription": "",
+      "grammar": "",
+      "translation": "trąbka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "este",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ten",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "esta",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "muy",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ta",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "popular",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ludowy; popularny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la boda",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wesele",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el cumpleaños",
+      "transcription": "",
+      "grammar": "",
+      "translation": "urodziny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la fiesta",
+      "transcription": "",
+      "grammar": "",
+      "translation": "święto; przyjęcie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el origen",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pochodzenie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la melodía",
+      "transcription": "",
+      "grammar": "",
+      "translation": "melodia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "africano",
+      "transcription": "",
+      "grammar": "",
+      "translation": "afrykański",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "e",
+      "transcription": "",
+      "grammar": "",
+      "translation": "i; a",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "przed i- i hi-"
+    },
+    {
+      "phrase": "indígena",
+      "transcription": "",
+      "grammar": "",
+      "translation": "tubylczy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la base",
+      "transcription": "",
+      "grammar": "",
+      "translation": "podstawa",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la salsa",
+      "transcription": "",
+      "grammar": "",
+      "translation": "salsa",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el estilo",
+      "transcription": "",
+      "grammar": "",
+      "translation": "styl",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "ampliar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "powiększać; rozszerzać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "modernizar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "unowocześnić; modernizować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el sonido",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dźwięk",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la influencia",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wpływ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "otro",
+      "transcription": "",
+      "grammar": "",
+      "translation": "inny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "latinoamericano",
+      "transcription": "",
+      "grammar": "",
+      "translation": "latynoamerykański",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el flamenco",
+      "transcription": "",
+      "grammar": "",
+      "translation": "flamenco",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el sur",
+      "transcription": "",
+      "grammar": "",
+      "translation": "południe",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "principal",
+      "transcription": "",
+      "grammar": "",
+      "translation": "główny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "normalmente",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zwykle",
+      "note": ""
+    },
+    {
+      "phrase": "acompañar con las palmas",
+      "transcription": "",
+      "grammar": "",
+      "translation": "akompaniować klaskaniem",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el tango",
+      "transcription": "",
+      "grammar": "",
+      "translation": "tango",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "nacer en",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zrodzić się w",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el barrio",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dzielnica",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "marginal",
+      "transcription": "",
+      "grammar": "",
+      "translation": "znajdujący się na obrzeżach; drugorzędny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "expresar",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wyrażać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "todo el",
+      "transcription": "",
+      "grammar": "",
+      "translation": "cały",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "toda la",
+      "transcription": "",
+      "grammar": "",
+      "translation": "cała",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la melancolía",
+      "transcription": "",
+      "grammar": "",
+      "translation": "melancholia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el emigrante",
+      "transcription": "",
+      "grammar": "",
+      "translation": "emigrant",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "la emigrante",
+      "transcription": "",
+      "grammar": "",
+      "translation": "emigrantka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "el mundo",
+      "transcription": "",
+      "grammar": "",
+      "translation": "świat",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿Todo bien?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Wszystko w porządku?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "chao",
+      "transcription": "",
+      "grammar": "",
+      "translation": "cześć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "pożegnanie"
+    },
+    {
+      "phrase": "hasta la próxima",
+      "transcription": "",
+      "grammar": "",
+      "translation": "do następnego razu",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "nos vemos",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zobaczymy się jeszcze",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿Cómo están?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Jak się macie?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "¿Qué onda?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Jak leci?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "potocznie w Meksyku"
+    },
+    {
+      "phrase": "¿Cómo estás?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Jak się masz?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}
