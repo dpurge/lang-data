@@ -1,0 +1,37 @@
+.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+.cjk {
+ font-family: 'SimSun', serif;
+ font-size: 300%;
+ color: red;
+}
+
+.cjk-small {
+ font-family: 'SimSun', serif;
+ font-size: 200%;
+ color: red;
+}
+
+.transcription {
+ color: blue;
+ font-style:italic;
+}
+
+.translation {
+}
+
+.translation-small {
+  font-size: 80%;
+  color: grey;
+}
+
+.notes {
+ font-size: 80%;
+ color: grey;
+}

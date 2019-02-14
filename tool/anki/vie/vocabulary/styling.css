@@ -1,0 +1,37 @@
+.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+.latin {
+ font-family: 'Arial', serif;
+ font-size: 150%;
+ color: red;
+}
+
+.latin-small {
+ font-family: 'Arial', serif;
+ font-size: 100%;
+ color: red;
+}
+
+.transcription {
+ color: blue;
+ font-style:italic;
+}
+
+.translation {
+}
+
+.translation-small {
+  font-size: 80%;
+  color: grey;
+}
+
+.notes {
+ font-size: 80%;
+ color: grey;
+}

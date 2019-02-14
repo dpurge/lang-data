@@ -1,0 +1,39 @@
+.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+.arabic {
+ direction: rtl;
+ font-family: 'Scheherazade', serif;
+ font-size: 300%;
+ color: red;
+}
+
+.arabic-small {
+ direction: rtl;
+ font-family: 'Scheherazade', serif;
+ font-size: 200%;
+ color: red;
+}
+
+.transcription {
+ color: blue;
+font-style:italic;
+}
+
+.translation {
+}
+
+.translation-small {
+  font-size: 80%;
+  color: grey;
+}
+
+.notes {
+ font-size: 80%;
+ color: grey;
+}
