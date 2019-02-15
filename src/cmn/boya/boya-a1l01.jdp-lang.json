@@ -5,18 +5,190 @@
     "language": "",
     "source": "",
     "status": "pending",
-    "tags": []
+    "tags": [
+      "boya-a1-01"
+    ]
   },
   "data": [
     {
-      "phrase": "",
-      "transcription": "",
+      "phrase": "你",
+      "transcription": "nǐ",
       "grammar": "",
-      "translation": "",
+      "translation": "ty",
       "image": "",
       "audio": "",
       "video": "",
       "note": ""
+    },
+    {
+      "phrase": "好",
+      "transcription": "hǎo",
+      "grammar": "",
+      "translation": "dobry; dobrze",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "是",
+      "transcription": "shì",
+      "grammar": "",
+      "translation": "być",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "老师",
+      "transcription": "lǎoshī",
+      "grammar": "",
+      "translation": "nauczyciel",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "吗",
+      "transcription": "ma",
+      "grammar": "",
+      "translation": "czy?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "不",
+      "transcription": "bù",
+      "grammar": "",
+      "translation": "nie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "我",
+      "transcription": "wǒ",
+      "grammar": "",
+      "translation": "ja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "学生",
+      "transcription": "xuéshēng",
+      "grammar": "",
+      "translation": "uczeń, student",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "她",
+      "transcription": "tā",
+      "grammar": "",
+      "translation": "ona",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "谢谢",
+      "transcription": "xièxie",
+      "grammar": "",
+      "translation": "dziękuję!",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "不客气",
+      "transcription": "bú kèqi",
+      "grammar": "",
+      "translation": "Nie ma za co.",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "Odpowiedź na \"dziękuję\"."
+    },
+    {
+      "phrase": "您",
+      "transcription": "nín",
+      "grammar": "",
+      "translation": "pan; pani",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "留学生",
+      "transcription": "liúxuéshēng",
+      "grammar": "",
+      "translation": "student zagraniczny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "叫",
+      "transcription": "jiāo",
+      "grammar": "",
+      "translation": "wołać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "什么",
+      "transcription": "shénme",
+      "grammar": "",
+      "translation": "co?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "名字",
+      "transcription": "míngzi",
+      "grammar": "",
+      "translation": "imię",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "李",
+      "transcription": "Lǐ",
+      "grammar": "",
+      "translation": "Li",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "chińskie nazwisko"
+    },
+    {
+      "phrase": "王",
+      "transcription": "Wáng",
+      "grammar": "",
+      "translation": "Wang",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "chińskie nazwisko"
     }
   ]
 }

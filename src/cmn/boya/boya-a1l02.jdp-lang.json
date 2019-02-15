@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "boya-a1-02"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "哪",
+      "transcription": "nǎ",
+      "grammar": "",
+      "translation": "który?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "国",
+      "transcription": "guó",
+      "grammar": "",
+      "translation": "kraj, państwo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "人",
+      "transcription": "rén",
+      "grammar": "",
+      "translation": "człowiek, ludzie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "同学",
+      "transcription": "tóngxué",
+      "grammar": "",
+      "translation": "kolega ze szkoły",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "们",
+      "transcription": "-men",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "końcówka liczby mnogiej"
+    },
+    {
+      "phrase": "来",
+      "transcription": "lái",
+      "grammar": "",
+      "translation": "przyjść, przyjechać, przybyć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "介绍",
+      "transcription": "jièshào",
+      "grammar": "",
+      "translation": "przedstawić",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "一下儿",
+      "transcription": "yíxiàr",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "słówko pomocnicze używane po czasowniku dla wyrażenia, że czynność trwała krótko"
+    },
+    {
+      "phrase": "姓",
+      "transcription": "xìng",
+      "grammar": "",
+      "translation": "nazwisko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "的",
+      "transcription": "de",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "partykuła dopełniacza"
+    },
+    {
+      "phrase": "他",
+      "transcription": "tā",
+      "grammar": "",
+      "translation": "on",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "认识",
+      "transcription": "rènshi",
+      "grammar": "",
+      "translation": "znać się",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "很",
+      "transcription": "hěn",
+      "grammar": "",
+      "translation": "bardzo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "高兴",
+      "transcription": "gāoxìng",
+      "grammar": "",
+      "translation": "zadowolony",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "也",
+      "transcription": "yě",
+      "grammar": "",
+      "translation": "też, także, również",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "呢",
+      "transcription": "ne",
+      "grammar": "",
+      "translation": "a...",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "partykuła modalna"
+    },
+    {
+      "phrase": "英国",
+      "transcription": "Yīngguó",
+      "grammar": "",
+      "translation": "Wielka Brytania",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "法国",
+      "transcription": "Fǎguó",
+      "grammar": "",
+      "translation": "Francja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "日本",
+      "transcription": "Rìběn",
+      "grammar": "",
+      "translation": "Japonia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "韩国",
+      "transcription": "Hánguó",
+      "grammar": "",
+      "translation": "Korea",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}
