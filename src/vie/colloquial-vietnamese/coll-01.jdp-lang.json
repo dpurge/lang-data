@@ -1,0 +1,594 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "Colloquial Vietnamese",
+    "status": "pending",
+    "tags": [
+      "coll01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "gặp",
+      "transcription": "",
+      "grammar": "",
+      "translation": "spotkać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "trên",
+      "transcription": "",
+      "grammar": "",
+      "translation": "na",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "chuyến bay",
+      "transcription": "",
+      "grammar": "",
+      "translation": "lot",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "từ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "z, od",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Mỹ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Ameryka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "dến",
+      "transcription": "",
+      "grammar": "",
+      "translation": "do, ku",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "Việt Nam",
+      "transcription": "",
+      "grammar": "",
+      "translation": "Wietnam",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "chào",
+      "transcription": "",
+      "grammar": "",
+      "translation": "cześć, dzień dobry",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "chị",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ty",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "starsza siostra"
+    },
+    {
+      "phrase": "anh",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ty",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "starszy brat"
+    },
+    {
+      "phrase": "tên",
+      "transcription": "",
+      "grammar": "",
+      "translation": "imię",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "là",
+      "transcription": "",
+      "grammar": "",
+      "translation": "być",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "gì",
+      "transcription": "",
+      "grammar": "",
+      "translation": "co",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "tôi",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "rất",
+      "transcription": "",
+      "grammar": "",
+      "translation": "bardzo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "vui",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wesoły, szczęśliwy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "được",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mieć okazję",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "xin",
+      "transcription": "",
+      "grammar": "",
+      "translation": "prosić",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "giới thiệu",
+      "transcription": "",
+      "grammar": "",
+      "translation": "przedstawić",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "với",
+      "transcription": "",
+      "grammar": "",
+      "translation": "z",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "đây",
+      "transcription": "",
+      "grammar": "",
+      "translation": "tutaj",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "có",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mieć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "không",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "có ... không?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "czy?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "khỏe",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mieć się dobrze; zdrowy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "cám ơn",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dziękować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "còn",
+      "transcription": "",
+      "grammar": "",
+      "translation": "a",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "cũng",
+      "transcription": "",
+      "grammar": "",
+      "translation": "również, też",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "hẹn",
+      "transcription": "",
+      "grammar": "",
+      "translation": "umówić się na spotkanie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "lại",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ponownie, jeszcze raz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "ông",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pan, dziadek",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "bác",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pan, wujek",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "cháu",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ty, siostrzeniec, siostrzenica",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "xin lỗi",
+      "transcription": "",
+      "grammar": "",
+      "translation": "przepraszam",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "hân hạnh",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zaszczycony",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "biết",
+      "transcription": "",
+      "grammar": "",
+      "translation": "znać, wiedzieć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "em",
+      "transcription": "",
+      "grammar": "",
+      "translation": "młodsze rodzeństwo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "dạ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "tak jest proszę pana/pani",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "hơi",
+      "transcription": "",
+      "grammar": "",
+      "translation": "raczej, bardziej, więcej",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "mệt",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zmęczony",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "họ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "oni",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "tiếp tục",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kontynuować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "nói chuyện",
+      "transcription": "",
+      "grammar": "",
+      "translation": "rozmawiać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "đi",
+      "transcription": "",
+      "grammar": "",
+      "translation": "iść, jechać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "với",
+      "transcription": "",
+      "grammar": "",
+      "translation": "z",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "ai",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kto?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "một mình",
+      "transcription": "",
+      "grammar": "",
+      "translation": "sam",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "bố",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ojciec",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "na północy"
+    },
+    {
+      "phrase": "ba",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ojciec",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "na południu"
+    },
+    {
+      "phrase": "mẹ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "matka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "na północy"
+    },
+    {
+      "phrase": "má",
+      "transcription": "",
+      "grammar": "",
+      "translation": "matka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "na południu"
+    },
+    {
+      "phrase": "của",
+      "transcription": "",
+      "grammar": "",
+      "translation": "należący do",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "buồn",
+      "transcription": "",
+      "grammar": "",
+      "translation": "smutny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "buồn ngủ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "senny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "quá",
+      "transcription": "",
+      "grammar": "",
+      "translation": "więcej, w ten sposób",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "về",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wracać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "chỗ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "miejsce do siedzenia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "đây",
+      "transcription": "",
+      "grammar": "",
+      "translation": "teraz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "partykuła"
+    }
+  ]
+}
