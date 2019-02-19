@@ -1,0 +1,360 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "hyky-a1-01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+	{
+		"phrase": "开心",
+		"transcription": "kāixīn",
+		"grammar": "j",
+		"translation": "zadowolony, szczęśliwy",
+		"note": ""
+	},
+	{
+		"phrase": "互相",
+		"transcription": "hùxiāng",
+		"grammar": "a",
+		"translation": "nawzajem",
+		"note": ""
+	},
+	{
+		"phrase": "金",
+		"transcription": "jīn",
+		"grammar": "",
+		"translation": "metal; złoto; miedź",
+		"note": ""
+	},
+	{
+		"phrase": "甲",
+		"transcription": "jiǎ",
+		"grammar": "",
+		"translation": "pancerz",
+		"note": ""
+	},
+	{
+		"phrase": "银",
+		"transcription": "yín",
+		"grammar": "",
+		"translation": "srebro; pieniądze, gotówka",
+		"note": ""
+	},
+	{
+		"phrase": "幸福",
+		"transcription": "xìngfú",
+		"grammar": "j",
+		"translation": "szczęśliwy, błogosławiony",
+		"note": ""
+	},
+	{
+		"phrase": "福",
+		"transcription": "fú",
+		"grammar": "",
+		"translation": "fortuna, szczęście, błogosławieństwo",
+		"note": ""
+	},
+	{
+		"phrase": "另外",
+		"transcription": "lìngwài",
+		"grammar": "j,a",
+		"translation": "inny, drugi; ponadto, poza tym",
+		"note": ""
+	},
+	{
+		"phrase": "乙",
+		"transcription": "yǐ",
+		"grammar": "",
+		"translation": "drugi",
+		"note": ""
+	},
+	{
+		"phrase": "关照",
+		"transcription": "guānzhào",
+		"grammar": "v",
+		"translation": "dbać, troszczyć się, opiekować się",
+		"note": ""
+	},
+	{
+		"phrase": "好听",
+		"transcription": "hǎotīng",
+		"grammar": "j",
+		"translation": "o miłym dźwięku",
+		"note": ""
+	},
+	{
+		"phrase": "下边",
+		"transcription": "xiàbiān",
+		"grammar": "n",
+		"translation": "spód, poniżej, pod",
+		"note": ""
+	},
+	{
+		"phrase": "接着",
+		"transcription": "jiēzhe",
+		"grammar": "v",
+		"translation": "przyjąć, odebrać; kontynuować",
+		"note": ""
+	},
+	{
+		"phrase": "丙",
+		"transcription": "bǐng",
+		"grammar": "",
+		"translation": "trzeci",
+		"note": ""
+	},
+	{
+		"phrase": "华裔",
+		"transcription": "huáyì",
+		"grammar": "n",
+		"translation": "osoba o chińskim pochodzeniu",
+		"note": ""
+	},
+	{
+		"phrase": "团结",
+		"transcription": "tuánjié",
+		"grammar": "v,j",
+		"translation": "zjednoczyć się; jednomyślny, zjednoczony",
+		"note": ""
+	},
+	{
+		"phrase": "行李",
+		"transcription": "xínglǐ",
+		"grammar": "n",
+		"translation": "bagaż",
+		"note": ""
+	},
+	{
+		"phrase": "家乡",
+		"transcription": "jiāxiāng",
+		"grammar": "n",
+		"translation": "rodzinna miejscowość",
+		"note": ""
+	},
+	{
+		"phrase": "特产",
+		"transcription": "tèchǎn",
+		"grammar": "n",
+		"translation": "lokalna specjalność",
+		"note": ""
+	},
+	{
+		"phrase": "向",
+		"transcription": "xiàng",
+		"grammar": "",
+		"translation": "zwrócić się w kierunku do",
+		"note": ""
+	},
+	{
+		"phrase": "问好",
+		"transcription": "wènhǎo",
+		"grammar": "v",
+		"translation": "pozdrawiać",
+		"note": ""
+	},
+	{
+		"phrase": "碰见",
+		"transcription": "pèngjiàn",
+		"grammar": "",
+		"translation": "spotkać przypadkowo",
+		"note": ""
+	},
+	{
+		"phrase": "聚",
+		"transcription": "jù",
+		"grammar": "",
+		"translation": "zebrać, skupić",
+		"note": ""
+	},
+	{
+		"phrase": "聚会",
+		"transcription": "jùhuì",
+		"grammar": "v, n",
+		"translation": "zebrać się, spotkać się; spotkanie, zebranie, impreza",
+		"note": ""
+	},
+	{
+		"phrase": "好久",
+		"transcription": "hǎojiǔ",
+		"grammar": "a",
+		"translation": "od dawna",
+		"note": ""
+	},
+	{
+		"phrase": "假期",
+		"transcription": "jiàqí",
+		"grammar": "n",
+		"translation": "wakacje, urlop",
+		"note": ""
+	},
+	{
+		"phrase": "当",
+		"transcription": "dāng",
+		"grammar": "",
+		"translation": "zwrócić sie ku; znosić, ścierpieć; być równym",
+		"note": ""
+	},
+	{
+		"phrase": "辛苦",
+		"transcription": "xīnkǔ",
+		"grammar": "j",
+		"translation": "uciążliwy, męczący, przykry",
+		"note": ""
+	},
+	{
+		"phrase": "老",
+		"transcription": "lǎo",
+		"grammar": "",
+		"translation": "stary",
+		"note": ""
+	},
+	{
+		"phrase": "忘",
+		"transcription": "wàng",
+		"grammar": "",
+		"translation": "zapomnieć, zlekceważyć, pominąć",
+		"note": ""
+	},
+	{
+		"phrase": "爷爷",
+		"transcription": "yéye",
+		"grammar": "n",
+		"translation": "wujek ze strony ojca",
+		"note": ""
+	},
+	{
+		"phrase": "寿",
+		"transcription": "shòu",
+		"grammar": "",
+		"translation": "podeszły wiek; długie życie",
+		"note": ""
+	},
+	{
+		"phrase": "热闹",
+		"transcription": "rènao",
+		"grammar": "j",
+		"translation": "ożywiony, hałaśliwy",
+		"note": ""
+	},
+	{
+		"phrase": "小时候",
+		"transcription": "xiǎoshíhòu",
+		"grammar": "a",
+		"translation": "w dzieciństwie, będąc dzieckiem",
+		"note": ""
+	},
+	{
+		"phrase": "生活",
+		"transcription": "shēnghuó",
+		"grammar": "n, v",
+		"translation": "życie; żyć",
+		"note": ""
+	},
+	{
+		"phrase": "出生",
+		"transcription": "chūshēng",
+		"grammar": "v, n",
+		"translation": "urodzić się; narodziny",
+		"note": ""
+	},
+	{
+		"phrase": "感到",
+		"transcription": "gǎndào",
+		"grammar": "v",
+		"translation": "czuć, mieć uczucie",
+		"note": ""
+	},
+	{
+		"phrase": "亲切",
+		"transcription": "qīnqiè",
+		"grammar": "j",
+		"translation": "bliski, serdeczny, przyjazny",
+		"note": ""
+	},
+	{
+		"phrase": "变化",
+		"transcription": "biànhuà",
+		"grammar": "v, n",
+		"translation": "zmienić się; zmiana",
+		"note": ""
+	},
+	{
+		"phrase": "国家",
+		"transcription": "guójiā",
+		"grammar": "n, j",
+		"translation": "państwo, kraj, naród; narodowy, państwowy",
+		"note": ""
+	},
+	{
+		"phrase": "组",
+		"transcription": "zǔ",
+		"grammar": "",
+		"translation": "prząść, tkać, organizować",
+		"note": ""
+	},
+	{
+		"phrase": "情况",
+		"transcription": "qíngkuàng",
+		"grammar": "n",
+		"translation": "sytuacja, status, okoliczności",
+		"note": ""
+	},
+	{
+		"phrase": "重新",
+		"transcription": "chóngxīn",
+		"grammar": "a",
+		"translation": "znów, ponownie, jeszcze raz, od nowa",
+		"note": ""
+	},
+	{
+		"phrase": "分",
+		"transcription": "fēn",
+		"grammar": "",
+		"translation": "dzielić; minuta",
+		"note": ""
+	},
+	{
+		"phrase": "组员",
+		"transcription": "zǔyuán",
+		"grammar": "n",
+		"translation": "członek grupy",
+		"note": ""
+	},
+	{
+		"phrase": "缺点",
+		"transcription": "quēdiǎn",
+		"grammar": "n",
+		"translation": "wada, defekt, niedogodność",
+		"note": ""
+	},
+	{
+		"phrase": "广东话",
+		"transcription": "Guǎngdōnghuà",
+		"grammar": "n",
+		"translation": "język kantoński",
+		"note": ""
+	},
+	{
+		"phrase": "普通话",
+		"transcription": "pǔtōnghuà",
+		"grammar": "n",
+		"translation": "standardowy język chiński",
+		"note": ""
+	}
+]
+}

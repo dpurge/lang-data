@@ -63,7 +63,7 @@
     {
       "phrase": "vosotras",
       "transcription": "",
-      "grammar": "f",
+      "grammar": "",
       "translation": "wy",
       "image": "",
       "audio": "",
@@ -283,7 +283,7 @@
     {
       "phrase": "España",
       "transcription": "",
-      "grammar": "f",
+      "grammar": "",
       "translation": "Hiszpania",
       "image": "",
       "audio": "",
@@ -333,7 +333,7 @@
     {
       "phrase": "el aula",
       "transcription": "",
-      "grammar": "f",
+      "grammar": "N f",
       "translation": "sala wykładowa, aula",
       "image": "",
       "audio": "",
@@ -833,7 +833,7 @@
     {
       "phrase": "tus",
       "transcription": "",
-      "grammar": "pl",
+      "grammar": "",
       "translation": "twoi",
       "image": "",
       "audio": "",
@@ -993,7 +993,7 @@
     {
       "phrase": "mis",
       "transcription": "",
-      "grammar": "pl",
+      "grammar": "",
       "translation": "moi",
       "image": "",
       "audio": "",
@@ -1423,7 +1423,7 @@
     {
       "phrase": "sus",
       "transcription": "",
-      "grammar": "pl",
+      "grammar": "",
       "translation": "jego",
       "image": "",
       "audio": "",
@@ -1943,7 +1943,7 @@
     {
       "phrase": "Cuba",
       "transcription": "",
-      "grammar": "f",
+      "grammar": "N f",
       "translation": "Kuba",
       "image": "",
       "audio": "",
@@ -1973,7 +1973,7 @@
     {
       "phrase": "Guatemala",
       "transcription": "",
-      "grammar": "f",
+      "grammar": "N f",
       "translation": "Gwatemala",
       "image": "",
       "audio": "",
@@ -1983,7 +1983,7 @@
     {
       "phrase": "Honduras",
       "transcription": "",
-      "grammar": "f",
+      "grammar": "N f",
       "translation": "Honduras",
       "image": "",
       "audio": "",
@@ -1993,7 +1993,7 @@
     {
       "phrase": "Nicaragua",
       "transcription": "",
-      "grammar": "f",
+      "grammar": "N f",
       "translation": "Nikaragua",
       "image": "",
       "audio": "",
@@ -2033,7 +2033,7 @@
     {
       "phrase": "Venezuela",
       "transcription": "",
-      "grammar": "f",
+      "grammar": "N f",
       "translation": "Wenezuela",
       "image": "",
       "audio": "",
@@ -2043,7 +2043,7 @@
     {
       "phrase": "Colombia",
       "transcription": "",
-      "grammar": "f",
+      "grammar": "N f",
       "translation": "Kolumbia",
       "image": "",
       "audio": "",
@@ -2073,7 +2073,7 @@
     {
       "phrase": "Bolivia",
       "transcription": "",
-      "grammar": "f",
+      "grammar": "N f",
       "translation": "Boliwia",
       "image": "",
       "audio": "",
@@ -2083,7 +2083,7 @@
     {
       "phrase": "Paraguay",
       "transcription": "",
-      "grammar": "m",
+      "grammar": "N m",
       "translation": "Paragwaj",
       "image": "",
       "audio": "",
@@ -2103,7 +2103,7 @@
     {
       "phrase": "Uruguay",
       "transcription": "",
-      "grammar": "m",
+      "grammar": "N m",
       "translation": "Urugwaj",
       "image": "",
       "audio": "",
@@ -2113,7 +2113,7 @@
     {
       "phrase": "Argentina",
       "transcription": "",
-      "grammar": "f",
+      "grammar": "N f",
       "translation": "Argentyna",
       "image": "",
       "audio": "",
@@ -2485,6 +2485,9 @@
       "transcription": "",
       "grammar": "",
       "translation": "zwykle",
+      "image": "",
+      "audio": "",
+      "video": "",
       "note": ""
     },
     {

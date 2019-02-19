@@ -33,7 +33,7 @@
     {
       "phrase": "矮",
       "transcription": "ǎi",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -43,7 +43,7 @@
     {
       "phrase": "爱",
       "transcription": "ài",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -53,7 +53,7 @@
     {
       "phrase": "爱人",
       "transcription": "àirén",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -63,7 +63,7 @@
     {
       "phrase": "安静",
       "transcription": "ānjìng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -73,7 +73,7 @@
     {
       "phrase": "安排",
       "transcription": "ānpái",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -83,7 +83,7 @@
     {
       "phrase": "安排",
       "transcription": "ānpái",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -123,7 +123,7 @@
     {
       "phrase": "爸爸",
       "transcription": "bàba",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -143,7 +143,7 @@
     {
       "phrase": "白",
       "transcription": "bái",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -163,7 +163,7 @@
     {
       "phrase": "摆",
       "transcription": "bǎi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -173,7 +173,7 @@
     {
       "phrase": "班",
       "transcription": "bān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -193,7 +193,7 @@
     {
       "phrase": "搬",
       "transcription": "bān",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -213,7 +213,7 @@
     {
       "phrase": "半天",
       "transcription": "bàntiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -223,7 +223,7 @@
     {
       "phrase": "办",
       "transcription": "bàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -233,7 +233,7 @@
     {
       "phrase": "办法",
       "transcription": "bànfǎ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -243,7 +243,7 @@
     {
       "phrase": "办公室",
       "transcription": "bàngōngshì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -253,7 +253,7 @@
     {
       "phrase": "帮助",
       "transcription": "bāngzhù",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -263,7 +263,7 @@
     {
       "phrase": "饱",
       "transcription": "bǎo",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -273,7 +273,7 @@
     {
       "phrase": "抱",
       "transcription": "bào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -283,7 +283,7 @@
     {
       "phrase": "报",
       "transcription": "bào",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -293,7 +293,7 @@
     {
       "phrase": "杯",
       "transcription": "bēi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -313,7 +313,7 @@
     {
       "phrase": "杯子",
       "transcription": "bēizi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -323,7 +323,7 @@
     {
       "phrase": "北",
       "transcription": "běi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -333,7 +333,7 @@
     {
       "phrase": "北边",
       "transcription": "běibiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -363,7 +363,7 @@
     {
       "phrase": "本",
       "transcription": "běn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -383,7 +383,7 @@
     {
       "phrase": "本子",
       "transcription": "běnzi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -403,7 +403,7 @@
     {
       "phrase": "比",
       "transcription": "bǐ",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -413,7 +413,7 @@
     {
       "phrase": "比较",
       "transcription": "bǐjiào",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -423,7 +423,7 @@
     {
       "phrase": "比较",
       "transcription": "bǐjiào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -433,7 +433,7 @@
     {
       "phrase": "比赛",
       "transcription": "bǐsài",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -443,7 +443,7 @@
     {
       "phrase": "比赛",
       "transcription": "bǐsài",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -453,7 +453,7 @@
     {
       "phrase": "笔",
       "transcription": "bǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -483,7 +483,7 @@
     {
       "phrase": "边",
       "transcription": "biān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -493,7 +493,7 @@
     {
       "phrase": "变",
       "transcription": "biàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -513,7 +513,7 @@
     {
       "phrase": "变化",
       "transcription": "biànhuà",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -533,7 +533,7 @@
     {
       "phrase": "表",
       "transcription": "biǎo",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -543,7 +543,7 @@
     {
       "phrase": "表示",
       "transcription": "biǎoshì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -553,7 +553,7 @@
     {
       "phrase": "表示",
       "transcription": "biǎoshì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -563,7 +563,7 @@
     {
       "phrase": "表现",
       "transcription": "biǎoxiàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -573,7 +573,7 @@
     {
       "phrase": "表现",
       "transcription": "biǎoxiàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -583,7 +583,7 @@
     {
       "phrase": "表演",
       "transcription": "biǎoyǎn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -593,7 +593,7 @@
     {
       "phrase": "表演",
       "transcription": "biǎoyǎn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -603,7 +603,7 @@
     {
       "phrase": "表扬",
       "transcription": "biǎoyáng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -613,7 +613,7 @@
     {
       "phrase": "别",
       "transcription": "bié",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -643,7 +643,7 @@
     {
       "phrase": "病",
       "transcription": "bìng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -653,7 +653,7 @@
     {
       "phrase": "病",
       "transcription": "bìng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -663,7 +663,7 @@
     {
       "phrase": "不",
       "transcription": "bù",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -673,7 +673,7 @@
     {
       "phrase": "不错",
       "transcription": "bùcuò",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -693,7 +693,7 @@
     {
       "phrase": "不久",
       "transcription": "bùjiǔ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -703,7 +703,7 @@
     {
       "phrase": "不如",
       "transcription": "bùrú",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -723,7 +723,7 @@
     {
       "phrase": "不同",
       "transcription": "bùtóng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -733,7 +733,7 @@
     {
       "phrase": "不要",
       "transcription": "bùyào",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -743,7 +743,7 @@
     {
       "phrase": "不用",
       "transcription": "bùyòng",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -753,7 +753,7 @@
     {
       "phrase": "布",
       "transcription": "bù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -763,7 +763,7 @@
     {
       "phrase": "部分",
       "transcription": "bùfen",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -773,7 +773,7 @@
     {
       "phrase": "擦",
       "transcription": "cā",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -783,7 +783,7 @@
     {
       "phrase": "才",
       "transcription": "cái",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -793,7 +793,7 @@
     {
       "phrase": "菜",
       "transcription": "cài",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -803,7 +803,7 @@
     {
       "phrase": "参观",
       "transcription": "cānguān",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -813,7 +813,7 @@
     {
       "phrase": "参加",
       "transcription": "cānjiā",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -823,7 +823,7 @@
     {
       "phrase": "操场",
       "transcription": "cāochǎng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -833,7 +833,7 @@
     {
       "phrase": "草",
       "transcription": "cǎo",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -853,7 +853,7 @@
     {
       "phrase": "茶",
       "transcription": "chá",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -863,7 +863,7 @@
     {
       "phrase": "查",
       "transcription": "chá",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -873,7 +873,7 @@
     {
       "phrase": "差",
       "transcription": "chà",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -883,7 +883,7 @@
     {
       "phrase": "常",
       "transcription": "cháng",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -893,7 +893,7 @@
     {
       "phrase": "常常",
       "transcription": "chángcháng",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -903,7 +903,7 @@
     {
       "phrase": "长",
       "transcription": "cháng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -923,7 +923,7 @@
     {
       "phrase": "场",
       "transcription": "chǎng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -933,7 +933,7 @@
     {
       "phrase": "唱",
       "transcription": "chàng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -953,7 +953,7 @@
     {
       "phrase": "朝",
       "transcription": "cháo",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -963,7 +963,7 @@
     {
       "phrase": "车",
       "transcription": "chē",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -973,7 +973,7 @@
     {
       "phrase": "车站",
       "transcription": "chēzhàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -983,7 +983,7 @@
     {
       "phrase": "城",
       "transcription": "chéng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -993,7 +993,7 @@
     {
       "phrase": "城市",
       "transcription": "chéngshì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1003,7 +1003,7 @@
     {
       "phrase": "成",
       "transcription": "chéng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1013,7 +1013,7 @@
     {
       "phrase": "成绩",
       "transcription": "chéngjì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1023,7 +1023,7 @@
     {
       "phrase": "吃",
       "transcription": "chī",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1033,7 +1033,7 @@
     {
       "phrase": "迟到",
       "transcription": "chídào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1043,7 +1043,7 @@
     {
       "phrase": "抽",
       "transcription": "chōu",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1053,7 +1053,7 @@
     {
       "phrase": "出",
       "transcription": "chū",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1063,7 +1063,7 @@
     {
       "phrase": "出发",
       "transcription": "chūfā",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1093,7 +1093,7 @@
     {
       "phrase": "出现",
       "transcription": "chūxiàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1123,7 +1123,7 @@
     {
       "phrase": "穿",
       "transcription": "chuān",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1133,7 +1133,7 @@
     {
       "phrase": "船",
       "transcription": "chuán",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1143,7 +1143,7 @@
     {
       "phrase": "窗",
       "transcription": "chuāng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1153,7 +1153,7 @@
     {
       "phrase": "窗户",
       "transcription": "chuānghu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1163,7 +1163,7 @@
     {
       "phrase": "床",
       "transcription": "chuáng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1173,7 +1173,7 @@
     {
       "phrase": "吹",
       "transcription": "chuī",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1183,7 +1183,7 @@
     {
       "phrase": "春",
       "transcription": "chūn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1193,7 +1193,7 @@
     {
       "phrase": "春天",
       "transcription": "chūntiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1203,7 +1203,7 @@
     {
       "phrase": "磁带",
       "transcription": "cídài",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1213,7 +1213,7 @@
     {
       "phrase": "词",
       "transcription": "cí",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1223,7 +1223,7 @@
     {
       "phrase": "词典",
       "transcription": "cídiǎn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1273,7 +1273,7 @@
     {
       "phrase": "从前",
       "transcription": "cóngqián",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1283,7 +1283,7 @@
     {
       "phrase": "错",
       "transcription": "cuò",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1293,7 +1293,7 @@
     {
       "phrase": "错",
       "transcription": "cuò",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1303,7 +1303,7 @@
     {
       "phrase": "错误",
       "transcription": "cuòwù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1313,7 +1313,7 @@
     {
       "phrase": "打",
       "transcription": "dǎ",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1323,7 +1323,7 @@
     {
       "phrase": "打算",
       "transcription": "dǎsuàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1333,7 +1333,7 @@
     {
       "phrase": "打算",
       "transcription": "dǎsuàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1343,7 +1343,7 @@
     {
       "phrase": "大",
       "transcription": "dà",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1353,7 +1353,7 @@
     {
       "phrase": "大概",
       "transcription": "dàgài",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1383,7 +1383,7 @@
     {
       "phrase": "大学",
       "transcription": "dàxué",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1393,7 +1393,7 @@
     {
       "phrase": "大夫",
       "transcription": "dàifu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1403,7 +1403,7 @@
     {
       "phrase": "戴",
       "transcription": "dài",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1413,7 +1413,7 @@
     {
       "phrase": "带",
       "transcription": "dài",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1423,7 +1423,7 @@
     {
       "phrase": "代表",
       "transcription": "dàibiǎo",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1433,7 +1433,7 @@
     {
       "phrase": "代表",
       "transcription": "dàibiǎo",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1463,7 +1463,7 @@
     {
       "phrase": "当",
       "transcription": "dāng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1473,7 +1473,7 @@
     {
       "phrase": "当然",
       "transcription": "dāngrán",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1483,7 +1483,7 @@
     {
       "phrase": "刀",
       "transcription": "dāo",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1493,7 +1493,7 @@
     {
       "phrase": "倒",
       "transcription": "dǎo",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1503,7 +1503,7 @@
     {
       "phrase": "到",
       "transcription": "dào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1523,7 +1523,7 @@
     {
       "phrase": "道理",
       "transcription": "dàolǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1533,7 +1533,7 @@
     {
       "phrase": "得",
       "transcription": "dé",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1603,7 +1603,7 @@
     {
       "phrase": "灯",
       "transcription": "dēng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1613,7 +1613,7 @@
     {
       "phrase": "等",
       "transcription": "děng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1633,7 +1633,7 @@
     {
       "phrase": "低",
       "transcription": "dī",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1643,7 +1643,7 @@
     {
       "phrase": "低",
       "transcription": "dī",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1653,7 +1653,7 @@
     {
       "phrase": "地",
       "transcription": "dì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1663,7 +1663,7 @@
     {
       "phrase": "地方",
       "transcription": "dìfang",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1683,7 +1683,7 @@
     {
       "phrase": "弟弟",
       "transcription": "dìdi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1693,7 +1693,7 @@
     {
       "phrase": "点",
       "transcription": "diǎn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1713,7 +1713,7 @@
     {
       "phrase": "点",
       "transcription": "diǎn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1723,7 +1723,7 @@
     {
       "phrase": "点心",
       "transcription": "diǎnxin",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1733,7 +1733,7 @@
     {
       "phrase": "点钟",
       "transcription": "diǎnzhōng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1743,7 +1743,7 @@
     {
       "phrase": "电",
       "transcription": "diàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1753,7 +1753,7 @@
     {
       "phrase": "电车",
       "transcription": "diànchē",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1763,7 +1763,7 @@
     {
       "phrase": "电灯",
       "transcription": "diàndēng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1773,7 +1773,7 @@
     {
       "phrase": "电话",
       "transcription": "diànhuà",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1783,7 +1783,7 @@
     {
       "phrase": "电视",
       "transcription": "diànshì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1793,7 +1793,7 @@
     {
       "phrase": "电影",
       "transcription": "diànyǐng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1803,7 +1803,7 @@
     {
       "phrase": "掉",
       "transcription": "diào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1813,7 +1813,7 @@
     {
       "phrase": "丢",
       "transcription": "diū",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1823,7 +1823,7 @@
     {
       "phrase": "东",
       "transcription": "dōng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1833,7 +1833,7 @@
     {
       "phrase": "东边",
       "transcription": "dōngbiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1843,7 +1843,7 @@
     {
       "phrase": "东西",
       "transcription": "dōngxi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1853,7 +1853,7 @@
     {
       "phrase": "冬",
       "transcription": "dōng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1863,7 +1863,7 @@
     {
       "phrase": "冬天",
       "transcription": "dōngtiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1873,7 +1873,7 @@
     {
       "phrase": "懂",
       "transcription": "dǒng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1883,7 +1883,7 @@
     {
       "phrase": "动",
       "transcription": "dòng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1893,7 +1893,7 @@
     {
       "phrase": "动物",
       "transcription": "dòngwù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1903,7 +1903,7 @@
     {
       "phrase": "都",
       "transcription": "dōu",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1913,7 +1913,7 @@
     {
       "phrase": "读",
       "transcription": "dú",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1923,7 +1923,7 @@
     {
       "phrase": "短",
       "transcription": "duǎn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1933,7 +1933,7 @@
     {
       "phrase": "锻炼",
       "transcription": "duànliàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1963,7 +1963,7 @@
     {
       "phrase": "对",
       "transcription": "duì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -1973,7 +1973,7 @@
     {
       "phrase": "对",
       "transcription": "duì",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2003,7 +2003,7 @@
     {
       "phrase": "多",
       "transcription": "duō",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2013,7 +2013,7 @@
     {
       "phrase": "多",
       "transcription": "duō",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2033,7 +2033,7 @@
     {
       "phrase": "多么",
       "transcription": "duōme",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2053,7 +2053,7 @@
     {
       "phrase": "饿",
       "transcription": "è",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2063,7 +2063,7 @@
     {
       "phrase": "饿",
       "transcription": "è",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2083,7 +2083,7 @@
     {
       "phrase": "儿子",
       "transcription": "érzi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2103,7 +2103,7 @@
     {
       "phrase": "发",
       "transcription": "fā",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2123,7 +2123,7 @@
     {
       "phrase": "发生",
       "transcription": "fāshēng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2133,7 +2133,7 @@
     {
       "phrase": "发现",
       "transcription": "fāxiàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2143,7 +2143,7 @@
     {
       "phrase": "发现",
       "transcription": "fāxiàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2153,7 +2153,7 @@
     {
       "phrase": "发展",
       "transcription": "fāzhǎn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2163,7 +2163,7 @@
     {
       "phrase": "发展",
       "transcription": "fāzhǎn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2173,7 +2173,7 @@
     {
       "phrase": "法语",
       "transcription": "fǎyǔ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2183,7 +2183,7 @@
     {
       "phrase": "法文",
       "transcription": "fǎwén",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2193,7 +2193,7 @@
     {
       "phrase": "翻",
       "transcription": "fān",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2203,7 +2203,7 @@
     {
       "phrase": "翻译",
       "transcription": "fānyì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2213,7 +2213,7 @@
     {
       "phrase": "翻译",
       "transcription": "fānyì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2223,7 +2223,7 @@
     {
       "phrase": "反对",
       "transcription": "fǎnduì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2233,7 +2233,7 @@
     {
       "phrase": "饭",
       "transcription": "fàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2243,7 +2243,7 @@
     {
       "phrase": "饭店",
       "transcription": "fàndiàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2253,7 +2253,7 @@
     {
       "phrase": "方便",
       "transcription": "fāngbiàn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2263,7 +2263,7 @@
     {
       "phrase": "方便",
       "transcription": "fāngbiàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2273,7 +2273,7 @@
     {
       "phrase": "方法",
       "transcription": "fāngfǎ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2283,7 +2283,7 @@
     {
       "phrase": "方面",
       "transcription": "fāngmiàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2293,7 +2293,7 @@
     {
       "phrase": "方向",
       "transcription": "fāngxiàng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2303,7 +2303,7 @@
     {
       "phrase": "房间",
       "transcription": "fángjiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2313,7 +2313,7 @@
     {
       "phrase": "访问",
       "transcription": "fǎngwèn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2323,7 +2323,7 @@
     {
       "phrase": "放",
       "transcription": "fàng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2343,7 +2343,7 @@
     {
       "phrase": "非常",
       "transcription": "fēicháng",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2353,7 +2353,7 @@
     {
       "phrase": "飞",
       "transcription": "fēi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2363,7 +2363,7 @@
     {
       "phrase": "飞机",
       "transcription": "fēijī",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2373,7 +2373,7 @@
     {
       "phrase": "分",
       "transcription": "fēn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2383,7 +2383,7 @@
     {
       "phrase": "分",
       "transcription": "fēn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2413,7 +2413,7 @@
     {
       "phrase": "分钟",
       "transcription": "fēnzhōng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2423,7 +2423,7 @@
     {
       "phrase": "丰富",
       "transcription": "fēngfù",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2433,7 +2433,7 @@
     {
       "phrase": "丰富",
       "transcription": "fēngfù",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2453,7 +2453,7 @@
     {
       "phrase": "风",
       "transcription": "fēng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2463,7 +2463,7 @@
     {
       "phrase": "夫人",
       "transcription": "fūrén",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2473,7 +2473,7 @@
     {
       "phrase": "服务",
       "transcription": "fúwù",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2483,7 +2483,7 @@
     {
       "phrase": "服务员",
       "transcription": "fúwùyuán",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2493,7 +2493,7 @@
     {
       "phrase": "辅导",
       "transcription": "fǔdǎo",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2503,7 +2503,7 @@
     {
       "phrase": "辅导",
       "transcription": "fǔdǎo",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2513,7 +2513,7 @@
     {
       "phrase": "复习",
       "transcription": "fùxí",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2523,7 +2523,7 @@
     {
       "phrase": "复杂",
       "transcription": "fùzá",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2533,7 +2533,7 @@
     {
       "phrase": "父亲",
       "transcription": "fùqin",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2543,7 +2543,7 @@
     {
       "phrase": "负责",
       "transcription": "fùzé",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2553,7 +2553,7 @@
     {
       "phrase": "负责",
       "transcription": "fùzé",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2563,7 +2563,7 @@
     {
       "phrase": "附近",
       "transcription": "fùjìn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2583,7 +2583,7 @@
     {
       "phrase": "该",
       "transcription": "gāi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2593,7 +2593,7 @@
     {
       "phrase": "改",
       "transcription": "gǎi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2603,7 +2603,7 @@
     {
       "phrase": "改变",
       "transcription": "gǎibiàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2613,7 +2613,7 @@
     {
       "phrase": "改变",
       "transcription": "gǎibiàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2623,7 +2623,7 @@
     {
       "phrase": "干净",
       "transcription": "gānjìng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2633,7 +2633,7 @@
     {
       "phrase": "感到",
       "transcription": "gǎndào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2643,7 +2643,7 @@
     {
       "phrase": "感冒",
       "transcription": "gǎnmào",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2653,7 +2653,7 @@
     {
       "phrase": "感冒",
       "transcription": "gǎnmào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2663,7 +2663,7 @@
     {
       "phrase": "感谢",
       "transcription": "gǎnxiè",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2683,7 +2683,7 @@
     {
       "phrase": "干",
       "transcription": "gàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2693,7 +2693,7 @@
     {
       "phrase": "干部",
       "transcription": "gànbù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2703,7 +2703,7 @@
     {
       "phrase": "刚",
       "transcription": "gāng",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2713,7 +2713,7 @@
     {
       "phrase": "刚才",
       "transcription": "gāngcái",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2723,7 +2723,7 @@
     {
       "phrase": "钢笔",
       "transcription": "gāngbǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2733,7 +2733,7 @@
     {
       "phrase": "高",
       "transcription": "gāo",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2743,7 +2743,7 @@
     {
       "phrase": "高兴",
       "transcription": "gāoxìng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2753,7 +2753,7 @@
     {
       "phrase": "高兴",
       "transcription": "gāoxìng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2763,7 +2763,7 @@
     {
       "phrase": "搞",
       "transcription": "gǎo",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2773,7 +2773,7 @@
     {
       "phrase": "告诉",
       "transcription": "gàosù",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2783,7 +2783,7 @@
     {
       "phrase": "哥哥",
       "transcription": "gēge",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2793,7 +2793,7 @@
     {
       "phrase": "歌",
       "transcription": "gē",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2833,7 +2833,7 @@
     {
       "phrase": "给",
       "transcription": "gěi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2863,7 +2863,7 @@
     {
       "phrase": "根",
       "transcription": "gēn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2893,7 +2893,7 @@
     {
       "phrase": "跟",
       "transcription": "gēn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2903,7 +2903,7 @@
     {
       "phrase": "更",
       "transcription": "gèng",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2913,7 +2913,7 @@
     {
       "phrase": "工厂",
       "transcription": "gōngchǎng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2923,7 +2923,7 @@
     {
       "phrase": "工人",
       "transcription": "gōngrén",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2933,7 +2933,7 @@
     {
       "phrase": "工业",
       "transcription": "gōngyè",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2943,7 +2943,7 @@
     {
       "phrase": "工作",
       "transcription": "gōngzuò",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2953,7 +2953,7 @@
     {
       "phrase": "工作",
       "transcription": "gōngzuò",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2963,7 +2963,7 @@
     {
       "phrase": "公共汽车",
       "transcription": "gōnggòng qìchē",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -2993,7 +2993,7 @@
     {
       "phrase": "公园",
       "transcription": "gōngyuán",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3003,7 +3003,7 @@
     {
       "phrase": "够",
       "transcription": "gòu",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3013,7 +3013,7 @@
     {
       "phrase": "够",
       "transcription": "gòu",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3023,7 +3023,7 @@
     {
       "phrase": "姑娘",
       "transcription": "gūniang",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3033,7 +3033,7 @@
     {
       "phrase": "故事",
       "transcription": "gùshi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3043,7 +3043,7 @@
     {
       "phrase": "刮",
       "transcription": "guā",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3053,7 +3053,7 @@
     {
       "phrase": "挂",
       "transcription": "guà",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3063,7 +3063,7 @@
     {
       "phrase": "关",
       "transcription": "guān",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3073,7 +3073,7 @@
     {
       "phrase": "关系",
       "transcription": "guānxì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3083,7 +3083,7 @@
     {
       "phrase": "关系",
       "transcription": "guānxì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3093,7 +3093,7 @@
     {
       "phrase": "关心",
       "transcription": "guānxīn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3103,7 +3103,7 @@
     {
       "phrase": "馆",
       "transcription": "guǎn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3113,7 +3113,7 @@
     {
       "phrase": "广播",
       "transcription": "guǎngbō",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3123,7 +3123,7 @@
     {
       "phrase": "广播",
       "transcription": "guǎngbō",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3133,7 +3133,7 @@
     {
       "phrase": "贵",
       "transcription": "guì",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3153,7 +3153,7 @@
     {
       "phrase": "国",
       "transcription": "guó",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3163,7 +3163,7 @@
     {
       "phrase": "国家",
       "transcription": "guójiā",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3173,7 +3173,7 @@
     {
       "phrase": "过",
       "transcription": "guò",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3203,7 +3203,7 @@
     {
       "phrase": "过去",
       "transcription": "guòqù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3233,7 +3233,7 @@
     {
       "phrase": "还",
       "transcription": "hái",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3243,7 +3243,7 @@
     {
       "phrase": "还是",
       "transcription": "háishì",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3263,7 +3263,7 @@
     {
       "phrase": "孩子",
       "transcription": "háizi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3273,7 +3273,7 @@
     {
       "phrase": "海",
       "transcription": "hǎi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3283,7 +3283,7 @@
     {
       "phrase": "寒假",
       "transcription": "hánjià",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3293,7 +3293,7 @@
     {
       "phrase": "喊",
       "transcription": "hǎn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3303,7 +3303,7 @@
     {
       "phrase": "汉语",
       "transcription": "hànyǔ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3313,7 +3313,7 @@
     {
       "phrase": "汉字",
       "transcription": "hànzì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3323,7 +3323,7 @@
     {
       "phrase": "好",
       "transcription": "hǎo",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3333,7 +3333,7 @@
     {
       "phrase": "好",
       "transcription": "hǎo",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3343,7 +3343,7 @@
     {
       "phrase": "好吃",
       "transcription": "hǎochī",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3353,7 +3353,7 @@
     {
       "phrase": "好处",
       "transcription": "hǎochu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3363,7 +3363,7 @@
     {
       "phrase": "好看",
       "transcription": "hǎokàn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3373,7 +3373,7 @@
     {
       "phrase": "好像",
       "transcription": "hǎoxiàng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3383,7 +3383,7 @@
     {
       "phrase": "号",
       "transcription": "hào",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3403,7 +3403,7 @@
     {
       "phrase": "喝",
       "transcription": "hē",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3433,7 +3433,7 @@
     {
       "phrase": "合适",
       "transcription": "héshì",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3443,7 +3443,7 @@
     {
       "phrase": "河",
       "transcription": "hé",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3453,7 +3453,7 @@
     {
       "phrase": "黑",
       "transcription": "hēi",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3463,7 +3463,7 @@
     {
       "phrase": "黑板",
       "transcription": "hēibǎn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3473,7 +3473,7 @@
     {
       "phrase": "很",
       "transcription": "hěn",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3483,7 +3483,7 @@
     {
       "phrase": "红",
       "transcription": "hóng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3493,7 +3493,7 @@
     {
       "phrase": "后",
       "transcription": "hòu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3503,7 +3503,7 @@
     {
       "phrase": "后边",
       "transcription": "hòubian",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3513,7 +3513,7 @@
     {
       "phrase": "忽然",
       "transcription": "hūrán",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3523,7 +3523,7 @@
     {
       "phrase": "湖",
       "transcription": "hú",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3533,7 +3533,7 @@
     {
       "phrase": "互相",
       "transcription": "hùxiāng",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3543,7 +3543,7 @@
     {
       "phrase": "花",
       "transcription": "huā",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3553,7 +3553,7 @@
     {
       "phrase": "花",
       "transcription": "huā",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3563,7 +3563,7 @@
     {
       "phrase": "花",
       "transcription": "huā",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3573,7 +3573,7 @@
     {
       "phrase": "画",
       "transcription": "huà",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3583,7 +3583,7 @@
     {
       "phrase": "画儿",
       "transcription": "huàr",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3593,7 +3593,7 @@
     {
       "phrase": "化学",
       "transcription": "huàxué",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3603,7 +3603,7 @@
     {
       "phrase": "话",
       "transcription": "huà",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3613,7 +3613,7 @@
     {
       "phrase": "坏",
       "transcription": "huài",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3623,7 +3623,7 @@
     {
       "phrase": "欢迎",
       "transcription": "huānyíng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3633,7 +3633,7 @@
     {
       "phrase": "还",
       "transcription": "huán",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3643,7 +3643,7 @@
     {
       "phrase": "换",
       "transcription": "huàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3653,7 +3653,7 @@
     {
       "phrase": "黄",
       "transcription": "huáng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3663,7 +3663,7 @@
     {
       "phrase": "回",
       "transcription": "huí",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3683,7 +3683,7 @@
     {
       "phrase": "回答",
       "transcription": "huídá",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3693,7 +3693,7 @@
     {
       "phrase": "回答",
       "transcription": "huídá",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3733,7 +3733,7 @@
     {
       "phrase": "会",
       "transcription": "huì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3743,7 +3743,7 @@
     {
       "phrase": "会",
       "transcription": "huì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3753,7 +3753,7 @@
     {
       "phrase": "会话",
       "transcription": "huìhuà",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3763,7 +3763,7 @@
     {
       "phrase": "会话",
       "transcription": "huìhuà",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3773,7 +3773,7 @@
     {
       "phrase": "活",
       "transcription": "huó",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3783,7 +3783,7 @@
     {
       "phrase": "活儿",
       "transcription": "huó",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3793,7 +3793,7 @@
     {
       "phrase": "活动",
       "transcription": "huódòng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3803,7 +3803,7 @@
     {
       "phrase": "活动",
       "transcription": "huódòng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3813,7 +3813,7 @@
     {
       "phrase": "火车",
       "transcription": "huǒchē",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3833,7 +3833,7 @@
     {
       "phrase": "基本",
       "transcription": "jīběn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3843,7 +3843,7 @@
     {
       "phrase": "基础",
       "transcription": "jīchǔ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3853,7 +3853,7 @@
     {
       "phrase": "机场",
       "transcription": "jīchǎng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3863,7 +3863,7 @@
     {
       "phrase": "机会",
       "transcription": "jīhuì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3873,7 +3873,7 @@
     {
       "phrase": "机器",
       "transcription": "jīqì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3883,7 +3883,7 @@
     {
       "phrase": "鸡",
       "transcription": "jī",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3893,7 +3893,7 @@
     {
       "phrase": "鸡蛋",
       "transcription": "jīdàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3913,7 +3913,7 @@
     {
       "phrase": "集合",
       "transcription": "jíhé",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3923,7 +3923,7 @@
     {
       "phrase": "急",
       "transcription": "jí",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3933,7 +3933,7 @@
     {
       "phrase": "挤",
       "transcription": "jǐ",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3943,7 +3943,7 @@
     {
       "phrase": "挤",
       "transcription": "jǐ",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3963,7 +3963,7 @@
     {
       "phrase": "技术",
       "transcription": "jìshù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3973,7 +3973,7 @@
     {
       "phrase": "寄",
       "transcription": "jì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3983,7 +3983,7 @@
     {
       "phrase": "计划",
       "transcription": "jìhuà",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -3993,7 +3993,7 @@
     {
       "phrase": "计划",
       "transcription": "jìhuà",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4003,7 +4003,7 @@
     {
       "phrase": "记",
       "transcription": "jì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4013,7 +4013,7 @@
     {
       "phrase": "继续",
       "transcription": "jìxù",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4023,7 +4023,7 @@
     {
       "phrase": "家",
       "transcription": "jiā",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4053,7 +4053,7 @@
     {
       "phrase": "家庭",
       "transcription": "jiātíng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4063,7 +4063,7 @@
     {
       "phrase": "加",
       "transcription": "jiā",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4073,7 +4073,7 @@
     {
       "phrase": "坚持",
       "transcription": "jiānchí",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4093,7 +4093,7 @@
     {
       "phrase": "检查",
       "transcription": "jiǎnchá",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4103,7 +4103,7 @@
     {
       "phrase": "检查",
       "transcription": "jiǎnchá",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4113,7 +4113,7 @@
     {
       "phrase": "简单",
       "transcription": "jiǎndān",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4123,7 +4123,7 @@
     {
       "phrase": "见",
       "transcription": "jiàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4153,7 +4153,7 @@
     {
       "phrase": "健康",
       "transcription": "jiànkāng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4163,7 +4163,7 @@
     {
       "phrase": "健康",
       "transcription": "jiànkāng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4173,7 +4173,7 @@
     {
       "phrase": "建设",
       "transcription": "jiànshè",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4183,7 +4183,7 @@
     {
       "phrase": "建设",
       "transcription": "jiànshè",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4193,7 +4193,7 @@
     {
       "phrase": "将来",
       "transcription": "jiānglái",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4203,7 +4203,7 @@
     {
       "phrase": "江",
       "transcription": "jiāng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4213,7 +4213,7 @@
     {
       "phrase": "讲",
       "transcription": "jiǎng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4223,7 +4223,7 @@
     {
       "phrase": "交",
       "transcription": "jiāo",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4233,7 +4233,7 @@
     {
       "phrase": "教",
       "transcription": "jiāo",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4243,7 +4243,7 @@
     {
       "phrase": "脚",
       "transcription": "jiǎo",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4263,7 +4263,7 @@
     {
       "phrase": "饺子",
       "transcription": "jiǎozi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4273,7 +4273,7 @@
     {
       "phrase": "教室",
       "transcription": "jiàoshì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4283,7 +4283,7 @@
     {
       "phrase": "教育",
       "transcription": "jiàoyù",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4293,7 +4293,7 @@
     {
       "phrase": "教育",
       "transcription": "jiàoyù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4303,7 +4303,7 @@
     {
       "phrase": "叫",
       "transcription": "jiào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4313,7 +4313,7 @@
     {
       "phrase": "叫",
       "transcription": "jiào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4333,7 +4333,7 @@
     {
       "phrase": "接",
       "transcription": "jiē",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4343,7 +4343,7 @@
     {
       "phrase": "接着",
       "transcription": "jiēzhe",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4363,7 +4363,7 @@
     {
       "phrase": "街",
       "transcription": "jiē",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4373,7 +4373,7 @@
     {
       "phrase": "节",
       "transcription": "jié",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4393,7 +4393,7 @@
     {
       "phrase": "节目",
       "transcription": "jiémù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4403,7 +4403,7 @@
     {
       "phrase": "节日",
       "transcription": "jiérì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4423,7 +4423,7 @@
     {
       "phrase": "结束",
       "transcription": "jiéshù",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4433,7 +4433,7 @@
     {
       "phrase": "解决",
       "transcription": "jiějué",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4443,7 +4443,7 @@
     {
       "phrase": "姐姐",
       "transcription": "jiějie",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4453,7 +4453,7 @@
     {
       "phrase": "借",
       "transcription": "jiè",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4463,7 +4463,7 @@
     {
       "phrase": "介绍",
       "transcription": "jièshào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4483,7 +4483,7 @@
     {
       "phrase": "今年",
       "transcription": "jīnnián",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4493,7 +4493,7 @@
     {
       "phrase": "今天",
       "transcription": "jīntiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4503,7 +4503,7 @@
     {
       "phrase": "紧",
       "transcription": "jǐn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4513,7 +4513,7 @@
     {
       "phrase": "紧张",
       "transcription": "jǐnzhāng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4523,7 +4523,7 @@
     {
       "phrase": "进",
       "transcription": "jìn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4533,7 +4533,7 @@
     {
       "phrase": "进来",
       "transcription": "jìnlái",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4543,7 +4543,7 @@
     {
       "phrase": "进去",
       "transcription": "jìnqu",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4553,7 +4553,7 @@
     {
       "phrase": "进行",
       "transcription": "jìnxíng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4563,7 +4563,7 @@
     {
       "phrase": "近",
       "transcription": "jìn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4573,7 +4573,7 @@
     {
       "phrase": "精彩",
       "transcription": "jīngcǎi",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4583,7 +4583,7 @@
     {
       "phrase": "精神",
       "transcription": "jīngshén",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4593,7 +4593,7 @@
     {
       "phrase": "经常",
       "transcription": "jīngcháng",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4603,7 +4603,7 @@
     {
       "phrase": "经过",
       "transcription": "jīngguò",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4613,7 +4613,7 @@
     {
       "phrase": "经过",
       "transcription": "jīngguò",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4623,7 +4623,7 @@
     {
       "phrase": "经济",
       "transcription": "jīngjì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4633,7 +4633,7 @@
     {
       "phrase": "经验",
       "transcription": "jīngyàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4643,7 +4643,7 @@
     {
       "phrase": "久",
       "transcription": "jiǔ",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4663,7 +4663,7 @@
     {
       "phrase": "酒",
       "transcription": "jiǔ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4673,7 +4673,7 @@
     {
       "phrase": "旧",
       "transcription": "jiù",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4683,7 +4683,7 @@
     {
       "phrase": "就",
       "transcription": "jiù",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4703,7 +4703,7 @@
     {
       "phrase": "桔子",
       "transcription": "júzi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4713,7 +4713,7 @@
     {
       "phrase": "橘子",
       "transcription": "júzi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4723,7 +4723,7 @@
     {
       "phrase": "举",
       "transcription": "jǔ",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4743,7 +4743,7 @@
     {
       "phrase": "句子",
       "transcription": "jùzi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4753,7 +4753,7 @@
     {
       "phrase": "觉得",
       "transcription": "juéde",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4763,7 +4763,7 @@
     {
       "phrase": "决定",
       "transcription": "juédìng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4773,7 +4773,7 @@
     {
       "phrase": "决定",
       "transcription": "juédìng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4783,7 +4783,7 @@
     {
       "phrase": "咖啡",
       "transcription": "kāfēi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4793,7 +4793,7 @@
     {
       "phrase": "卡车",
       "transcription": "kǎchē",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4803,7 +4803,7 @@
     {
       "phrase": "开",
       "transcription": "kāi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4813,7 +4813,7 @@
     {
       "phrase": "开始",
       "transcription": "kāishǐ",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4823,7 +4823,7 @@
     {
       "phrase": "开始",
       "transcription": "kāishǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4853,7 +4853,7 @@
     {
       "phrase": "看",
       "transcription": "kàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4873,7 +4873,7 @@
     {
       "phrase": "看见",
       "transcription": "kànjiàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4883,7 +4883,7 @@
     {
       "phrase": "考试",
       "transcription": "kǎoshì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4893,7 +4893,7 @@
     {
       "phrase": "考试",
       "transcription": "kǎoshì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4913,7 +4913,7 @@
     {
       "phrase": "科学",
       "transcription": "kēxué",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4923,7 +4923,7 @@
     {
       "phrase": "科学",
       "transcription": "kēxué",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4933,7 +4933,7 @@
     {
       "phrase": "咳嗽",
       "transcription": "késou",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4953,7 +4953,7 @@
     {
       "phrase": "可能",
       "transcription": "kěnéng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -4983,7 +4983,7 @@
     {
       "phrase": "渴",
       "transcription": "kě",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5013,7 +5013,7 @@
     {
       "phrase": "客气",
       "transcription": "kèqi",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5023,7 +5023,7 @@
     {
       "phrase": "客气",
       "transcription": "kèqi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5033,7 +5033,7 @@
     {
       "phrase": "课",
       "transcription": "kè",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5043,7 +5043,7 @@
     {
       "phrase": "课本",
       "transcription": "kèběn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5053,7 +5053,7 @@
     {
       "phrase": "课文",
       "transcription": "kèwén",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5063,7 +5063,7 @@
     {
       "phrase": "空气",
       "transcription": "kōngqì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5073,7 +5073,7 @@
     {
       "phrase": "口",
       "transcription": "kǒu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5093,7 +5093,7 @@
     {
       "phrase": "口语",
       "transcription": "kǒuyǔ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5103,7 +5103,7 @@
     {
       "phrase": "哭",
       "transcription": "kū",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5113,7 +5113,7 @@
     {
       "phrase": "苦",
       "transcription": "kǔ",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5123,7 +5123,7 @@
     {
       "phrase": "块",
       "transcription": "kuài",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5143,7 +5143,7 @@
     {
       "phrase": "快",
       "transcription": "kuài",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5153,7 +5153,7 @@
     {
       "phrase": "困难",
       "transcription": "kùnnán",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5163,7 +5163,7 @@
     {
       "phrase": "困难",
       "transcription": "kùnnán",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5173,7 +5173,7 @@
     {
       "phrase": "拉",
       "transcription": "lā",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5193,7 +5193,7 @@
     {
       "phrase": "来",
       "transcription": "lái",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5203,7 +5203,7 @@
     {
       "phrase": "蓝",
       "transcription": "lán",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5213,7 +5213,7 @@
     {
       "phrase": "篮球",
       "transcription": "lánqiú",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5223,7 +5223,7 @@
     {
       "phrase": "劳动",
       "transcription": "láodòng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5243,7 +5243,7 @@
     {
       "phrase": "老",
       "transcription": "lǎo",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5263,7 +5263,7 @@
     {
       "phrase": "老师",
       "transcription": "lǎoshī",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5283,7 +5283,7 @@
     {
       "phrase": "累",
       "transcription": "lèi",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5293,7 +5293,7 @@
     {
       "phrase": "冷",
       "transcription": "lěng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5303,7 +5303,7 @@
     {
       "phrase": "离",
       "transcription": "lí",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5323,7 +5323,7 @@
     {
       "phrase": "离开",
       "transcription": "líkāi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5333,7 +5333,7 @@
     {
       "phrase": "里",
       "transcription": "lǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5353,7 +5353,7 @@
     {
       "phrase": "里边",
       "transcription": "lǐbian",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5363,7 +5363,7 @@
     {
       "phrase": "礼物",
       "transcription": "lǐwù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5373,7 +5373,7 @@
     {
       "phrase": "历史",
       "transcription": "lìshǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5383,7 +5383,7 @@
     {
       "phrase": "利用",
       "transcription": "lìyòng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5393,7 +5393,7 @@
     {
       "phrase": "例如",
       "transcription": "lìrú",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5403,7 +5403,7 @@
     {
       "phrase": "立刻",
       "transcription": "lìkè",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5423,7 +5423,7 @@
     {
       "phrase": "联系",
       "transcription": "liánxì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5433,7 +5433,7 @@
     {
       "phrase": "联系",
       "transcription": "liánxì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5453,7 +5453,7 @@
     {
       "phrase": "脸",
       "transcription": "liǎn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5463,7 +5463,7 @@
     {
       "phrase": "练习",
       "transcription": "liànxí",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5473,7 +5473,7 @@
     {
       "phrase": "练习",
       "transcription": "liànxí",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5483,7 +5483,7 @@
     {
       "phrase": "凉快",
       "transcription": "liángkuai",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5513,7 +5513,7 @@
     {
       "phrase": "亮",
       "transcription": "liàng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5523,7 +5523,7 @@
     {
       "phrase": "亮",
       "transcription": "liàng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5533,7 +5533,7 @@
     {
       "phrase": "了",
       "transcription": "liǎo",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5543,7 +5543,7 @@
     {
       "phrase": "了解",
       "transcription": "liǎojiě",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5563,7 +5563,7 @@
     {
       "phrase": "领导",
       "transcription": "lǐngdǎo",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5573,7 +5573,7 @@
     {
       "phrase": "领导",
       "transcription": "lǐngdǎo",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5583,7 +5583,7 @@
     {
       "phrase": "留",
       "transcription": "liú",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5593,7 +5593,7 @@
     {
       "phrase": "留念",
       "transcription": "liúniàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5603,7 +5603,7 @@
     {
       "phrase": "留学生",
       "transcription": "liúxuéshēng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5613,7 +5613,7 @@
     {
       "phrase": "流",
       "transcription": "liú",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5623,7 +5623,7 @@
     {
       "phrase": "流",
       "transcription": "liú",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5643,7 +5643,7 @@
     {
       "phrase": "楼",
       "transcription": "lóu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5653,7 +5653,7 @@
     {
       "phrase": "路",
       "transcription": "lù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5663,7 +5663,7 @@
     {
       "phrase": "录音",
       "transcription": "lùyīn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5673,7 +5673,7 @@
     {
       "phrase": "录音",
       "transcription": "lùyīn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5683,7 +5683,7 @@
     {
       "phrase": "旅行",
       "transcription": "lǚxíng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5693,7 +5693,7 @@
     {
       "phrase": "绿",
       "transcription": "lǜ",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5703,7 +5703,7 @@
     {
       "phrase": "乱",
       "transcription": "luàn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5713,7 +5713,7 @@
     {
       "phrase": "妈妈",
       "transcription": "māma",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5723,7 +5723,7 @@
     {
       "phrase": "麻烦",
       "transcription": "máfan",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5733,7 +5733,7 @@
     {
       "phrase": "麻烦",
       "transcription": "máfan",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5743,7 +5743,7 @@
     {
       "phrase": "马",
       "transcription": "mǎ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5753,7 +5753,7 @@
     {
       "phrase": "马上",
       "transcription": "mǎshàng",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5783,7 +5783,7 @@
     {
       "phrase": "买",
       "transcription": "mǎi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5793,7 +5793,7 @@
     {
       "phrase": "卖",
       "transcription": "mài",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5803,7 +5803,7 @@
     {
       "phrase": "满",
       "transcription": "mǎn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5813,7 +5813,7 @@
     {
       "phrase": "满意",
       "transcription": "mǎnyì",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5823,7 +5823,7 @@
     {
       "phrase": "慢",
       "transcription": "màn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5833,7 +5833,7 @@
     {
       "phrase": "忙",
       "transcription": "máng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5853,7 +5853,7 @@
     {
       "phrase": "帽子",
       "transcription": "màozi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5863,7 +5863,7 @@
     {
       "phrase": "没",
       "transcription": "méi",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5873,7 +5873,7 @@
     {
       "phrase": "没",
       "transcription": "méi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5903,7 +5903,7 @@
     {
       "phrase": "没有",
       "transcription": "méiyǒu",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5923,7 +5923,7 @@
     {
       "phrase": "妹妹",
       "transcription": "mèimei",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5933,7 +5933,7 @@
     {
       "phrase": "门",
       "transcription": "mén",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5953,7 +5953,7 @@
     {
       "phrase": "门口",
       "transcription": "ménkǒu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5983,7 +5983,7 @@
     {
       "phrase": "米饭",
       "transcription": "mǐfàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -5993,7 +5993,7 @@
     {
       "phrase": "面包",
       "transcription": "miànbāo",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6003,7 +6003,7 @@
     {
       "phrase": "面条儿",
       "transcription": "miàntiáor",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6013,7 +6013,7 @@
     {
       "phrase": "民族",
       "transcription": "mínzú",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6023,7 +6023,7 @@
     {
       "phrase": "明年",
       "transcription": "míngnián",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6033,7 +6033,7 @@
     {
       "phrase": "明天",
       "transcription": "míngtiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6043,7 +6043,7 @@
     {
       "phrase": "名字",
       "transcription": "míngzi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6053,7 +6053,7 @@
     {
       "phrase": "母亲",
       "transcription": "mǔqīn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6063,7 +6063,7 @@
     {
       "phrase": "目前",
       "transcription": "mùqián",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6073,7 +6073,7 @@
     {
       "phrase": "拿",
       "transcription": "ná",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6203,7 +6203,7 @@
     {
       "phrase": "南",
       "transcription": "nán",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6213,7 +6213,7 @@
     {
       "phrase": "南边",
       "transcription": "nánbian",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6223,7 +6223,7 @@
     {
       "phrase": "男",
       "transcription": "nán",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6233,7 +6233,7 @@
     {
       "phrase": "难",
       "transcription": "nán",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6253,7 +6253,7 @@
     {
       "phrase": "内",
       "transcription": "nèi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6263,7 +6263,7 @@
     {
       "phrase": "内容",
       "transcription": "nèiróng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6323,7 +6323,7 @@
     {
       "phrase": "年",
       "transcription": "nián",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6333,7 +6333,7 @@
     {
       "phrase": "年级",
       "transcription": "niánjí",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6343,7 +6343,7 @@
     {
       "phrase": "年纪",
       "transcription": "niánjì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6353,7 +6353,7 @@
     {
       "phrase": "年轻",
       "transcription": "niánqīng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6363,7 +6363,7 @@
     {
       "phrase": "念",
       "transcription": "niàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6383,7 +6383,7 @@
     {
       "phrase": "牛",
       "transcription": "niú",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6393,7 +6393,7 @@
     {
       "phrase": "牛奶",
       "transcription": "niúnǎi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6403,7 +6403,7 @@
     {
       "phrase": "农村",
       "transcription": "nóngcūn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6413,7 +6413,7 @@
     {
       "phrase": "农民",
       "transcription": "nóngmín",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6423,7 +6423,7 @@
     {
       "phrase": "农业",
       "transcription": "nóngyè",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6433,7 +6433,7 @@
     {
       "phrase": "努力",
       "transcription": "nǔlì",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6443,7 +6443,7 @@
     {
       "phrase": "女",
       "transcription": "nǚ",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6453,7 +6453,7 @@
     {
       "phrase": "女儿",
       "transcription": "nǚ'ér",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6463,7 +6463,7 @@
     {
       "phrase": "暖和",
       "transcription": "nuǎnhuo",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6473,7 +6473,7 @@
     {
       "phrase": "爬",
       "transcription": "pá",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6483,7 +6483,7 @@
     {
       "phrase": "怕",
       "transcription": "pà",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6493,7 +6493,7 @@
     {
       "phrase": "拍",
       "transcription": "pāi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6503,7 +6503,7 @@
     {
       "phrase": "排球",
       "transcription": "páiqiú",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6513,7 +6513,7 @@
     {
       "phrase": "派",
       "transcription": "pài",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6523,7 +6523,7 @@
     {
       "phrase": "派",
       "transcription": "pài",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6533,7 +6533,7 @@
     {
       "phrase": "旁边",
       "transcription": "pángbiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6543,7 +6543,7 @@
     {
       "phrase": "跑",
       "transcription": "pǎo",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6563,7 +6563,7 @@
     {
       "phrase": "朋友",
       "transcription": "péngyou",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6573,7 +6573,7 @@
     {
       "phrase": "碰",
       "transcription": "pèng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6583,7 +6583,7 @@
     {
       "phrase": "批评",
       "transcription": "pīpíng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6593,7 +6593,7 @@
     {
       "phrase": "批评",
       "transcription": "pīpíng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6603,7 +6603,7 @@
     {
       "phrase": "啤酒",
       "transcription": "píjiǔ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6623,7 +6623,7 @@
     {
       "phrase": "便宜",
       "transcription": "piányi",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6633,7 +6633,7 @@
     {
       "phrase": "便宜",
       "transcription": "piányi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6653,7 +6653,7 @@
     {
       "phrase": "片",
       "transcription": "piàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6663,7 +6663,7 @@
     {
       "phrase": "漂亮",
       "transcription": "piàoliang",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6673,7 +6673,7 @@
     {
       "phrase": "票",
       "transcription": "piào",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6683,7 +6683,7 @@
     {
       "phrase": "苹果",
       "transcription": "píngguǒ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6693,7 +6693,7 @@
     {
       "phrase": "瓶",
       "transcription": "píng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6713,7 +6713,7 @@
     {
       "phrase": "破",
       "transcription": "pò",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6723,7 +6723,7 @@
     {
       "phrase": "破",
       "transcription": "pò",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6743,7 +6743,7 @@
     {
       "phrase": "骑",
       "transcription": "qí",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6753,7 +6753,7 @@
     {
       "phrase": "起",
       "transcription": "qǐ",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6783,7 +6783,7 @@
     {
       "phrase": "汽车",
       "transcription": "qìchē",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6793,7 +6793,7 @@
     {
       "phrase": "汽水",
       "transcription": "qìshuǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6803,7 +6803,7 @@
     {
       "phrase": "铅笔",
       "transcription": "qiānbǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6823,7 +6823,7 @@
     {
       "phrase": "钱",
       "transcription": "qián",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6833,7 +6833,7 @@
     {
       "phrase": "前",
       "transcription": "qián",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6843,7 +6843,7 @@
     {
       "phrase": "前边",
       "transcription": "qiánbian",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6853,7 +6853,7 @@
     {
       "phrase": "浅",
       "transcription": "qiǎn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6863,7 +6863,7 @@
     {
       "phrase": "墙",
       "transcription": "qiáng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6873,7 +6873,7 @@
     {
       "phrase": "桥",
       "transcription": "qiáo",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6883,7 +6883,7 @@
     {
       "phrase": "青年",
       "transcription": "qīngnián",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6893,7 +6893,7 @@
     {
       "phrase": "轻",
       "transcription": "qīng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6903,7 +6903,7 @@
     {
       "phrase": "清楚",
       "transcription": "qīngchu",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6913,7 +6913,7 @@
     {
       "phrase": "晴",
       "transcription": "qíng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6923,7 +6923,7 @@
     {
       "phrase": "情况",
       "transcription": "qíngkuàng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6933,7 +6933,7 @@
     {
       "phrase": "请",
       "transcription": "qǐng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6963,7 +6963,7 @@
     {
       "phrase": "秋",
       "transcription": "qiū",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6973,7 +6973,7 @@
     {
       "phrase": "秋天",
       "transcription": "qiūtiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6983,7 +6983,7 @@
     {
       "phrase": "球",
       "transcription": "qiú",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -6993,7 +6993,7 @@
     {
       "phrase": "取得",
       "transcription": "qǔdé",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7003,7 +7003,7 @@
     {
       "phrase": "去",
       "transcription": "qù",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7013,7 +7013,7 @@
     {
       "phrase": "去年",
       "transcription": "qùnián",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7023,7 +7023,7 @@
     {
       "phrase": "全",
       "transcription": "quán",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7033,7 +7033,7 @@
     {
       "phrase": "全部",
       "transcription": "quánbù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7043,7 +7043,7 @@
     {
       "phrase": "全体",
       "transcription": "quántǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7053,7 +7053,7 @@
     {
       "phrase": "确实",
       "transcription": "quèshí",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7063,7 +7063,7 @@
     {
       "phrase": "然后",
       "transcription": "ránhòu",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7073,7 +7073,7 @@
     {
       "phrase": "让",
       "transcription": "ràng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7083,7 +7083,7 @@
     {
       "phrase": "热",
       "transcription": "rè",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7093,7 +7093,7 @@
     {
       "phrase": "热",
       "transcription": "rè",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7103,7 +7103,7 @@
     {
       "phrase": "热情",
       "transcription": "rèqíng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7113,7 +7113,7 @@
     {
       "phrase": "人",
       "transcription": "rén",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7123,7 +7123,7 @@
     {
       "phrase": "人们",
       "transcription": "rénmen",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7133,7 +7133,7 @@
     {
       "phrase": "人民",
       "transcription": "rénmín",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7153,7 +7153,7 @@
     {
       "phrase": "认识",
       "transcription": "rènshi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7163,7 +7163,7 @@
     {
       "phrase": "认识",
       "transcription": "rènshi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7173,7 +7173,7 @@
     {
       "phrase": "认为",
       "transcription": "rènwéi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7183,7 +7183,7 @@
     {
       "phrase": "认真",
       "transcription": "rènzhēn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7193,7 +7193,7 @@
     {
       "phrase": "日",
       "transcription": "rì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7203,7 +7203,7 @@
     {
       "phrase": "日语(日文)",
       "transcription": "rìyǔ(rìwén)",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7213,7 +7213,7 @@
     {
       "phrase": "日子",
       "transcription": "rìzi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7223,7 +7223,7 @@
     {
       "phrase": "容易",
       "transcription": "róngyì",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7233,7 +7233,7 @@
     {
       "phrase": "肉",
       "transcription": "ròu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7263,7 +7263,7 @@
     {
       "phrase": "山",
       "transcription": "shān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7273,7 +7273,7 @@
     {
       "phrase": "商店",
       "transcription": "shāngdiàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7283,7 +7283,7 @@
     {
       "phrase": "上",
       "transcription": "shàng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7293,7 +7293,7 @@
     {
       "phrase": "上",
       "transcription": "shàng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7303,7 +7303,7 @@
     {
       "phrase": "上边",
       "transcription": "shàngbian",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7343,7 +7343,7 @@
     {
       "phrase": "上午",
       "transcription": "shàngwǔ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7363,7 +7363,7 @@
     {
       "phrase": "少",
       "transcription": "shǎo",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7373,7 +7373,7 @@
     {
       "phrase": "少",
       "transcription": "shǎo",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7383,7 +7383,7 @@
     {
       "phrase": "社会",
       "transcription": "shèhuì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7393,7 +7393,7 @@
     {
       "phrase": "身体",
       "transcription": "shēntǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7403,7 +7403,7 @@
     {
       "phrase": "深",
       "transcription": "shēn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7423,7 +7423,7 @@
     {
       "phrase": "声",
       "transcription": "shēng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7443,7 +7443,7 @@
     {
       "phrase": "声调",
       "transcription": "shēngdiào",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7453,7 +7453,7 @@
     {
       "phrase": "声音",
       "transcription": "shēngyīn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7463,7 +7463,7 @@
     {
       "phrase": "生产",
       "transcription": "shēngchǎn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7473,7 +7473,7 @@
     {
       "phrase": "生词",
       "transcription": "shēngcí",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7483,7 +7483,7 @@
     {
       "phrase": "生活",
       "transcription": "shēnghuó",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7493,7 +7493,7 @@
     {
       "phrase": "生活",
       "transcription": "shēnghuó",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7503,7 +7503,7 @@
     {
       "phrase": "生日",
       "transcription": "shēngrì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7513,7 +7513,7 @@
     {
       "phrase": "省",
       "transcription": "shěng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7523,7 +7523,7 @@
     {
       "phrase": "剩",
       "transcription": "shèng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7533,7 +7533,7 @@
     {
       "phrase": "胜利",
       "transcription": "shènglì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7543,7 +7543,7 @@
     {
       "phrase": "胜利",
       "transcription": "shènglì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7553,7 +7553,7 @@
     {
       "phrase": "师傅",
       "transcription": "shīfu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7573,7 +7573,7 @@
     {
       "phrase": "十分",
       "transcription": "shífēn",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7583,7 +7583,7 @@
     {
       "phrase": "时候",
       "transcription": "shíhou",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7593,7 +7593,7 @@
     {
       "phrase": "时间",
       "transcription": "shíjiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7603,7 +7603,7 @@
     {
       "phrase": "食堂",
       "transcription": "shítáng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7613,7 +7613,7 @@
     {
       "phrase": "实践",
       "transcription": "shíjiàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7623,7 +7623,7 @@
     {
       "phrase": "实践",
       "transcription": "shíjiàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7633,7 +7633,7 @@
     {
       "phrase": "实现",
       "transcription": "shíxiàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7643,7 +7643,7 @@
     {
       "phrase": "使用",
       "transcription": "shǐyòng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7653,7 +7653,7 @@
     {
       "phrase": "世界",
       "transcription": "shìjiè",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7663,7 +7663,7 @@
     {
       "phrase": "事",
       "transcription": "shì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7673,7 +7673,7 @@
     {
       "phrase": "事情",
       "transcription": "shìqing",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7683,7 +7683,7 @@
     {
       "phrase": "是",
       "transcription": "shì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7693,7 +7693,7 @@
     {
       "phrase": "市",
       "transcription": "shì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7703,7 +7703,7 @@
     {
       "phrase": "试",
       "transcription": "shì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7713,7 +7713,7 @@
     {
       "phrase": "收",
       "transcription": "shōu",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7723,7 +7723,7 @@
     {
       "phrase": "收拾",
       "transcription": "shōushi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7733,7 +7733,7 @@
     {
       "phrase": "手",
       "transcription": "shǒu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7743,7 +7743,7 @@
     {
       "phrase": "手表",
       "transcription": "shǒubiǎo",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7753,7 +7753,7 @@
     {
       "phrase": "首都",
       "transcription": "shǒudū",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7763,7 +7763,7 @@
     {
       "phrase": "输",
       "transcription": "shū",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7773,7 +7773,7 @@
     {
       "phrase": "舒服",
       "transcription": "shūfu",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7783,7 +7783,7 @@
     {
       "phrase": "书",
       "transcription": "shū",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7793,7 +7793,7 @@
     {
       "phrase": "熟",
       "transcription": "shú",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7803,7 +7803,7 @@
     {
       "phrase": "数",
       "transcription": "shǔ",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7813,7 +7813,7 @@
     {
       "phrase": "树",
       "transcription": "shù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7823,7 +7823,7 @@
     {
       "phrase": "数学",
       "transcription": "shùxué",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7853,7 +7853,7 @@
     {
       "phrase": "水",
       "transcription": "shuǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7863,7 +7863,7 @@
     {
       "phrase": "水果",
       "transcription": "shuǐguǒ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7873,7 +7873,7 @@
     {
       "phrase": "水平",
       "transcription": "shuǐpíng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7883,7 +7883,7 @@
     {
       "phrase": "睡",
       "transcription": "shuì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7903,7 +7903,7 @@
     {
       "phrase": "说",
       "transcription": "shuō",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7913,7 +7913,7 @@
     {
       "phrase": "说明",
       "transcription": "shuōmíng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7923,7 +7923,7 @@
     {
       "phrase": "说明",
       "transcription": "shuōmíng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7933,7 +7933,7 @@
     {
       "phrase": "思想",
       "transcription": "sīxiǎng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7943,7 +7943,7 @@
     {
       "phrase": "死",
       "transcription": "sǐ",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7963,7 +7963,7 @@
     {
       "phrase": "送",
       "transcription": "sòng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7973,7 +7973,7 @@
     {
       "phrase": "宿舍",
       "transcription": "sùshè",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7983,7 +7983,7 @@
     {
       "phrase": "酸",
       "transcription": "suān",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -7993,7 +7993,7 @@
     {
       "phrase": "算",
       "transcription": "suàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8033,7 +8033,7 @@
     {
       "phrase": "所有",
       "transcription": "suǒyǒu",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8103,7 +8103,7 @@
     {
       "phrase": "抬",
       "transcription": "tái",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8113,7 +8113,7 @@
     {
       "phrase": "太",
       "transcription": "tài",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8123,7 +8123,7 @@
     {
       "phrase": "太阳",
       "transcription": "tàiyáng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8133,7 +8133,7 @@
     {
       "phrase": "态度",
       "transcription": "tàidu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8143,7 +8143,7 @@
     {
       "phrase": "谈",
       "transcription": "tán",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8153,7 +8153,7 @@
     {
       "phrase": "汤",
       "transcription": "tāng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8163,7 +8163,7 @@
     {
       "phrase": "糖",
       "transcription": "táng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8173,7 +8173,7 @@
     {
       "phrase": "躺",
       "transcription": "tǎng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8183,7 +8183,7 @@
     {
       "phrase": "讨论",
       "transcription": "tǎolùn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8193,7 +8193,7 @@
     {
       "phrase": "特别",
       "transcription": "tèbié",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8203,7 +8203,7 @@
     {
       "phrase": "疼",
       "transcription": "téng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8213,7 +8213,7 @@
     {
       "phrase": "踢",
       "transcription": "tī",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8223,7 +8223,7 @@
     {
       "phrase": "提",
       "transcription": "tí",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8233,7 +8233,7 @@
     {
       "phrase": "提高",
       "transcription": "tígāo",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8243,7 +8243,7 @@
     {
       "phrase": "体育",
       "transcription": "tǐyù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8253,7 +8253,7 @@
     {
       "phrase": "天",
       "transcription": "tiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8263,7 +8263,7 @@
     {
       "phrase": "天气",
       "transcription": "tiānqì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8283,7 +8283,7 @@
     {
       "phrase": "条件",
       "transcription": "tiáojiàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8293,7 +8293,7 @@
     {
       "phrase": "跳",
       "transcription": "tiào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8313,7 +8313,7 @@
     {
       "phrase": "听",
       "transcription": "tīng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8323,7 +8323,7 @@
     {
       "phrase": "听见",
       "transcription": "tīngjiàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8343,7 +8343,7 @@
     {
       "phrase": "听写",
       "transcription": "tīngxiě",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8353,7 +8353,7 @@
     {
       "phrase": "听写",
       "transcription": "tīngxiě",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8363,7 +8363,7 @@
     {
       "phrase": "停",
       "transcription": "tíng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8373,7 +8373,7 @@
     {
       "phrase": "挺",
       "transcription": "tǐng",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8383,7 +8383,7 @@
     {
       "phrase": "通",
       "transcription": "tōng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8393,7 +8393,7 @@
     {
       "phrase": "通",
       "transcription": "tōng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8403,7 +8403,7 @@
     {
       "phrase": "通过",
       "transcription": "tōngguò",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8423,7 +8423,7 @@
     {
       "phrase": "通知",
       "transcription": "tōngzhī",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8433,7 +8433,7 @@
     {
       "phrase": "通知",
       "transcription": "tōngzhī",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8443,7 +8443,7 @@
     {
       "phrase": "同时",
       "transcription": "tóngshí",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8453,7 +8453,7 @@
     {
       "phrase": "同学",
       "transcription": "tóngxué",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8463,7 +8463,7 @@
     {
       "phrase": "同意",
       "transcription": "tóngyì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8473,7 +8473,7 @@
     {
       "phrase": "同志",
       "transcription": "tóngzhì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8483,7 +8483,7 @@
     {
       "phrase": "痛快",
       "transcription": "tòngkuai",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8493,7 +8493,7 @@
     {
       "phrase": "头",
       "transcription": "tóu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8513,7 +8513,7 @@
     {
       "phrase": "突然",
       "transcription": "tūrán",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8523,7 +8523,7 @@
     {
       "phrase": "图书馆",
       "transcription": "túshūguǎn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8533,7 +8533,7 @@
     {
       "phrase": "团结",
       "transcription": "tuánjié",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8543,7 +8543,7 @@
     {
       "phrase": "推",
       "transcription": "tuī",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8553,7 +8553,7 @@
     {
       "phrase": "腿",
       "transcription": "tuǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8563,7 +8563,7 @@
     {
       "phrase": "退",
       "transcription": "tuì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8573,7 +8573,7 @@
     {
       "phrase": "脱",
       "transcription": "tuō",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8583,7 +8583,7 @@
     {
       "phrase": "袜子",
       "transcription": "wàzi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8593,7 +8593,7 @@
     {
       "phrase": "外",
       "transcription": "wài",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8603,7 +8603,7 @@
     {
       "phrase": "外边",
       "transcription": "wàibian",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8613,7 +8613,7 @@
     {
       "phrase": "外国",
       "transcription": "wàiguó",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8623,7 +8623,7 @@
     {
       "phrase": "外语(外文)",
       "transcription": "wàiyǔ(wàiwén)",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8633,7 +8633,7 @@
     {
       "phrase": "完",
       "transcription": "wán",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8643,7 +8643,7 @@
     {
       "phrase": "完成",
       "transcription": "wánchéng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8653,7 +8653,7 @@
     {
       "phrase": "完全",
       "transcription": "wánquán",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8663,7 +8663,7 @@
     {
       "phrase": "玩儿",
       "transcription": "wánr",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8673,7 +8673,7 @@
     {
       "phrase": "碗",
       "transcription": "wǎn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8683,7 +8683,7 @@
     {
       "phrase": "晚",
       "transcription": "wǎn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8693,7 +8693,7 @@
     {
       "phrase": "晚饭",
       "transcription": "wǎnfàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8703,7 +8703,7 @@
     {
       "phrase": "晚会",
       "transcription": "wǎnhuì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8713,7 +8713,7 @@
     {
       "phrase": "晚上",
       "transcription": "wǎnshang",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8733,7 +8733,7 @@
     {
       "phrase": "往",
       "transcription": "wǎng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8753,7 +8753,7 @@
     {
       "phrase": "忘",
       "transcription": "wàng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8763,7 +8763,7 @@
     {
       "phrase": "危险",
       "transcription": "wēixiǎn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8773,7 +8773,7 @@
     {
       "phrase": "危险",
       "transcription": "wēixiǎn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8783,7 +8783,7 @@
     {
       "phrase": "为",
       "transcription": "wéi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8793,7 +8793,7 @@
     {
       "phrase": "伟大",
       "transcription": "wěidà",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8853,7 +8853,7 @@
     {
       "phrase": "文化",
       "transcription": "wénhuà",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8863,7 +8863,7 @@
     {
       "phrase": "文学",
       "transcription": "wénxué",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8873,7 +8873,7 @@
     {
       "phrase": "文学家",
       "transcription": "wénxuéjiā",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8883,7 +8883,7 @@
     {
       "phrase": "文艺",
       "transcription": "wényì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8893,7 +8893,7 @@
     {
       "phrase": "文章",
       "transcription": "wénzhāng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8903,7 +8903,7 @@
     {
       "phrase": "问",
       "transcription": "wèn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8923,7 +8923,7 @@
     {
       "phrase": "问题",
       "transcription": "wèntí",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8963,7 +8963,7 @@
     {
       "phrase": "屋子",
       "transcription": "wūzi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8983,7 +8983,7 @@
     {
       "phrase": "午饭",
       "transcription": "wǔfàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -8993,7 +8993,7 @@
     {
       "phrase": "物理",
       "transcription": "wùlǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9003,7 +9003,7 @@
     {
       "phrase": "西",
       "transcription": "xī",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9013,7 +9013,7 @@
     {
       "phrase": "西边",
       "transcription": "xībian",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9023,7 +9023,7 @@
     {
       "phrase": "希望",
       "transcription": "xīwàng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9033,7 +9033,7 @@
     {
       "phrase": "希望",
       "transcription": "xīwàng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9043,7 +9043,7 @@
     {
       "phrase": "习惯",
       "transcription": "xíguàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9053,7 +9053,7 @@
     {
       "phrase": "习惯",
       "transcription": "xíguàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9063,7 +9063,7 @@
     {
       "phrase": "喜欢",
       "transcription": "xǐhuan",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9073,7 +9073,7 @@
     {
       "phrase": "洗",
       "transcription": "xǐ",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9093,7 +9093,7 @@
     {
       "phrase": "系",
       "transcription": "xì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9103,7 +9103,7 @@
     {
       "phrase": "细",
       "transcription": "xì",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9113,7 +9113,7 @@
     {
       "phrase": "下",
       "transcription": "xià",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9123,7 +9123,7 @@
     {
       "phrase": "下",
       "transcription": "xià",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9143,7 +9143,7 @@
     {
       "phrase": "下边",
       "transcription": "xiàbian",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9183,7 +9183,7 @@
     {
       "phrase": "下午",
       "transcription": "xiàwǔ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9193,7 +9193,7 @@
     {
       "phrase": "夏",
       "transcription": "xià",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9203,7 +9203,7 @@
     {
       "phrase": "夏天",
       "transcription": "xiàtiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9213,7 +9213,7 @@
     {
       "phrase": "先",
       "transcription": "xiān",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9223,7 +9223,7 @@
     {
       "phrase": "先",
       "transcription": "xiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9233,7 +9233,7 @@
     {
       "phrase": "先生",
       "transcription": "xiānsheng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9243,7 +9243,7 @@
     {
       "phrase": "现代",
       "transcription": "xiàndài",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9253,7 +9253,7 @@
     {
       "phrase": "现在",
       "transcription": "xiànzài",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9263,7 +9263,7 @@
     {
       "phrase": "相信",
       "transcription": "xiāngxìn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9273,7 +9273,7 @@
     {
       "phrase": "香",
       "transcription": "xiāng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9283,7 +9283,7 @@
     {
       "phrase": "香蕉",
       "transcription": "xiāngjiāo",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9293,7 +9293,7 @@
     {
       "phrase": "想",
       "transcription": "xiǎng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9313,7 +9313,7 @@
     {
       "phrase": "响",
       "transcription": "xiǎng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9323,7 +9323,7 @@
     {
       "phrase": "像",
       "transcription": "xiàng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9333,7 +9333,7 @@
     {
       "phrase": "像",
       "transcription": "xiàng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9363,7 +9363,7 @@
     {
       "phrase": "向",
       "transcription": "xiàng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9373,7 +9373,7 @@
     {
       "phrase": "消息",
       "transcription": "xiāoxi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9383,7 +9383,7 @@
     {
       "phrase": "小",
       "transcription": "xiǎo",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9403,7 +9403,7 @@
     {
       "phrase": "小孩儿",
       "transcription": "xiǎoháir",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9413,7 +9413,7 @@
     {
       "phrase": "小姐",
       "transcription": "xiǎojie",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9423,7 +9423,7 @@
     {
       "phrase": "小时",
       "transcription": "xiǎoshí",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9433,7 +9433,7 @@
     {
       "phrase": "笑",
       "transcription": "xiào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9453,7 +9453,7 @@
     {
       "phrase": "鞋",
       "transcription": "xié",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9463,7 +9463,7 @@
     {
       "phrase": "写",
       "transcription": "xiě",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9473,7 +9473,7 @@
     {
       "phrase": "谢谢",
       "transcription": "xièxie",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9483,7 +9483,7 @@
     {
       "phrase": "辛苦",
       "transcription": "xīnkǔ",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9493,7 +9493,7 @@
     {
       "phrase": "辛苦",
       "transcription": "xīnkǔ",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9503,7 +9503,7 @@
     {
       "phrase": "新",
       "transcription": "xīn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9513,7 +9513,7 @@
     {
       "phrase": "新年",
       "transcription": "xīnnián",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9523,7 +9523,7 @@
     {
       "phrase": "新闻",
       "transcription": "xīnwén",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9533,7 +9533,7 @@
     {
       "phrase": "心",
       "transcription": "xīn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9543,7 +9543,7 @@
     {
       "phrase": "信",
       "transcription": "xìn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9553,7 +9553,7 @@
     {
       "phrase": "信封",
       "transcription": "xìnfēng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9563,7 +9563,7 @@
     {
       "phrase": "星期",
       "transcription": "xīngqī",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9573,7 +9573,7 @@
     {
       "phrase": "星期日(星期天)",
       "transcription": "xīngqīrì(xīngqītiān)",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9583,7 +9583,7 @@
     {
       "phrase": "行",
       "transcription": "xíng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9593,7 +9593,7 @@
     {
       "phrase": "行",
       "transcription": "xíng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9603,7 +9603,7 @@
     {
       "phrase": "幸福",
       "transcription": "xìngfú",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9613,7 +9613,7 @@
     {
       "phrase": "姓",
       "transcription": "xìng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9623,7 +9623,7 @@
     {
       "phrase": "姓",
       "transcription": "xìng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9633,7 +9633,7 @@
     {
       "phrase": "休息",
       "transcription": "xiūxi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9643,7 +9643,7 @@
     {
       "phrase": "需要",
       "transcription": "xūyào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9653,7 +9653,7 @@
     {
       "phrase": "需要",
       "transcription": "xūyào",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9663,7 +9663,7 @@
     {
       "phrase": "许多",
       "transcription": "xǔduō",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9673,7 +9673,7 @@
     {
       "phrase": "学",
       "transcription": "xué",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9683,7 +9683,7 @@
     {
       "phrase": "学生",
       "transcription": "xuésheng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9693,7 +9693,7 @@
     {
       "phrase": "学习",
       "transcription": "xuéxí",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9703,7 +9703,7 @@
     {
       "phrase": "学习",
       "transcription": "xuéxí",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9713,7 +9713,7 @@
     {
       "phrase": "学校",
       "transcription": "xuéxiào",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9723,7 +9723,7 @@
     {
       "phrase": "学院",
       "transcription": "xuéyuàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9733,7 +9733,7 @@
     {
       "phrase": "雪",
       "transcription": "xuě",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9763,7 +9763,7 @@
     {
       "phrase": "研究",
       "transcription": "yánjiū",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9773,7 +9773,7 @@
     {
       "phrase": "颜色",
       "transcription": "yánsè",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9783,7 +9783,7 @@
     {
       "phrase": "眼睛",
       "transcription": "yǎnjing",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9793,7 +9793,7 @@
     {
       "phrase": "演出",
       "transcription": "yǎnchū",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9803,7 +9803,7 @@
     {
       "phrase": "演出",
       "transcription": "yǎnchū",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9813,7 +9813,7 @@
     {
       "phrase": "宴会",
       "transcription": "yànhuì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9823,7 +9823,7 @@
     {
       "phrase": "羊",
       "transcription": "yáng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9833,7 +9833,7 @@
     {
       "phrase": "样子",
       "transcription": "yàngzi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9843,7 +9843,7 @@
     {
       "phrase": "要求",
       "transcription": "yāoqiú",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9853,7 +9853,7 @@
     {
       "phrase": "要求",
       "transcription": "yāoqiú",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9863,7 +9863,7 @@
     {
       "phrase": "药",
       "transcription": "yào",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9883,7 +9883,7 @@
     {
       "phrase": "要",
       "transcription": "yào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9903,7 +9903,7 @@
     {
       "phrase": "也",
       "transcription": "yě",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9913,7 +9913,7 @@
     {
       "phrase": "也许",
       "transcription": "yěxǔ",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9933,7 +9933,7 @@
     {
       "phrase": "夜",
       "transcription": "yè",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9953,7 +9953,7 @@
     {
       "phrase": "一般",
       "transcription": "yībān",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9973,7 +9973,7 @@
     {
       "phrase": "一点儿",
       "transcription": "yīdiǎnr",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9983,7 +9983,7 @@
     {
       "phrase": "一定",
       "transcription": "yīdìng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -9993,7 +9993,7 @@
     {
       "phrase": "一共",
       "transcription": "yīgòng",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10003,7 +10003,7 @@
     {
       "phrase": "一会儿",
       "transcription": "yīhuìr",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10013,7 +10013,7 @@
     {
       "phrase": "一会儿",
       "transcription": "yīhuìr",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10033,7 +10033,7 @@
     {
       "phrase": "一块儿",
       "transcription": "yīkuàir",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10043,7 +10043,7 @@
     {
       "phrase": "一起",
       "transcription": "yīqǐ",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10053,7 +10053,7 @@
     {
       "phrase": "一切",
       "transcription": "yīqiè",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10093,7 +10093,7 @@
     {
       "phrase": "一样",
       "transcription": "yīyàng",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10113,7 +10113,7 @@
     {
       "phrase": "一直",
       "transcription": "yīzhí",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10123,7 +10123,7 @@
     {
       "phrase": "医生",
       "transcription": "yīshēng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10133,7 +10133,7 @@
     {
       "phrase": "医院",
       "transcription": "yīyuàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10143,7 +10143,7 @@
     {
       "phrase": "衣服",
       "transcription": "yīfu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10153,7 +10153,7 @@
     {
       "phrase": "椅子",
       "transcription": "yǐzi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10163,7 +10163,7 @@
     {
       "phrase": "已经",
       "transcription": "yǐjing",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10173,7 +10173,7 @@
     {
       "phrase": "以后",
       "transcription": "yǐhòu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10183,7 +10183,7 @@
     {
       "phrase": "以前",
       "transcription": "yǐqián",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10193,7 +10193,7 @@
     {
       "phrase": "以为",
       "transcription": "yǐwéi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10203,7 +10203,7 @@
     {
       "phrase": "艺术",
       "transcription": "yìshù",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10223,7 +10223,7 @@
     {
       "phrase": "意见",
       "transcription": "yìjiàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10233,7 +10233,7 @@
     {
       "phrase": "意思",
       "transcription": "yìsi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10243,7 +10243,7 @@
     {
       "phrase": "意义",
       "transcription": "yìyì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10263,7 +10263,7 @@
     {
       "phrase": "音乐",
       "transcription": "yīnyuè",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10273,7 +10273,7 @@
     {
       "phrase": "阴",
       "transcription": "yīn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10283,7 +10283,7 @@
     {
       "phrase": "银行",
       "transcription": "yínháng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10293,7 +10293,7 @@
     {
       "phrase": "英语(英文)",
       "transcription": "yīngyǔ(yīngwén)",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10313,7 +10313,7 @@
     {
       "phrase": "赢",
       "transcription": "yíng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10323,7 +10323,7 @@
     {
       "phrase": "影响",
       "transcription": "yǐngxiǎng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10333,7 +10333,7 @@
     {
       "phrase": "影响",
       "transcription": "yǐngxiǎng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10343,7 +10343,7 @@
     {
       "phrase": "永远",
       "transcription": "yǒngyuǎn",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10353,7 +10353,7 @@
     {
       "phrase": "用",
       "transcription": "yòng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10363,7 +10363,7 @@
     {
       "phrase": "尤其",
       "transcription": "yóuqí",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10373,7 +10373,7 @@
     {
       "phrase": "邮局",
       "transcription": "yóujú",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10383,7 +10383,7 @@
     {
       "phrase": "邮票",
       "transcription": "yóupiào",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10403,7 +10403,7 @@
     {
       "phrase": "有",
       "transcription": "yǒu",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10423,7 +10423,7 @@
     {
       "phrase": "有名",
       "transcription": "yǒumíng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10463,7 +10463,7 @@
     {
       "phrase": "友好",
       "transcription": "yǒuhǎo",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10473,7 +10473,7 @@
     {
       "phrase": "友谊",
       "transcription": "yǒuyì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10483,7 +10483,7 @@
     {
       "phrase": "右",
       "transcription": "yòu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10493,7 +10493,7 @@
     {
       "phrase": "又",
       "transcription": "yòu",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10503,7 +10503,7 @@
     {
       "phrase": "鱼",
       "transcription": "yú",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10513,7 +10513,7 @@
     {
       "phrase": "愉快",
       "transcription": "yúkuài",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10523,7 +10523,7 @@
     {
       "phrase": "雨",
       "transcription": "yǔ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10533,7 +10533,7 @@
     {
       "phrase": "语法",
       "transcription": "yǔfǎ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10543,7 +10543,7 @@
     {
       "phrase": "语言",
       "transcription": "yǔyán",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10553,7 +10553,7 @@
     {
       "phrase": "遇到",
       "transcription": "yùdào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10563,7 +10563,7 @@
     {
       "phrase": "预习",
       "transcription": "yùxí",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10583,7 +10583,7 @@
     {
       "phrase": "原来",
       "transcription": "yuánlái",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10593,7 +10593,7 @@
     {
       "phrase": "原谅",
       "transcription": "yuánliàng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10603,7 +10603,7 @@
     {
       "phrase": "圆",
       "transcription": "yuán",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10613,7 +10613,7 @@
     {
       "phrase": "圆",
       "transcription": "yuán",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10623,7 +10623,7 @@
     {
       "phrase": "远",
       "transcription": "yuǎn",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10643,7 +10643,7 @@
     {
       "phrase": "愿意",
       "transcription": "yuànyì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10653,7 +10653,7 @@
     {
       "phrase": "月",
       "transcription": "yuè",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10663,7 +10663,7 @@
     {
       "phrase": "月亮",
       "transcription": "yuèliang",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10673,7 +10673,7 @@
     {
       "phrase": "月球",
       "transcription": "yuèqiú",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10683,7 +10683,7 @@
     {
       "phrase": "云",
       "transcription": "yún",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10693,7 +10693,7 @@
     {
       "phrase": "运动",
       "transcription": "yùndòng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10703,7 +10703,7 @@
     {
       "phrase": "运动",
       "transcription": "yùndòng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10713,7 +10713,7 @@
     {
       "phrase": "再",
       "transcription": "zài",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10723,7 +10723,7 @@
     {
       "phrase": "再见",
       "transcription": "zàijiàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10743,7 +10743,7 @@
     {
       "phrase": "在",
       "transcription": "zài",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10753,7 +10753,7 @@
     {
       "phrase": "在",
       "transcription": "zài",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10783,7 +10783,7 @@
     {
       "phrase": "脏",
       "transcription": "zāng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10793,7 +10793,7 @@
     {
       "phrase": "早",
       "transcription": "zǎo",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10803,7 +10803,7 @@
     {
       "phrase": "早晨(早上)",
       "transcription": "zǎochen(zǎoshang)",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10813,7 +10813,7 @@
     {
       "phrase": "早饭",
       "transcription": "zǎofàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10853,7 +10853,7 @@
     {
       "phrase": "增加",
       "transcription": "zēngjiā",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10863,7 +10863,7 @@
     {
       "phrase": "展览",
       "transcription": "zhǎnlǎn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10873,7 +10873,7 @@
     {
       "phrase": "展览",
       "transcription": "zhǎnlǎn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10883,7 +10883,7 @@
     {
       "phrase": "占",
       "transcription": "zhàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10893,7 +10893,7 @@
     {
       "phrase": "站",
       "transcription": "zhàn",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10903,7 +10903,7 @@
     {
       "phrase": "站",
       "transcription": "zhàn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10923,7 +10923,7 @@
     {
       "phrase": "长",
       "transcription": "zhǎng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10933,7 +10933,7 @@
     {
       "phrase": "掌握",
       "transcription": "zhǎngwò",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10943,7 +10943,7 @@
     {
       "phrase": "着急",
       "transcription": "zháojí",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10953,7 +10953,7 @@
     {
       "phrase": "找",
       "transcription": "zhǎo",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -10963,7 +10963,7 @@
     {
       "phrase": "照顾",
       "transcription": "zhàogù",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11053,7 +11053,7 @@
     {
       "phrase": "真",
       "transcription": "zhēn",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11063,7 +11063,7 @@
     {
       "phrase": "真正",
       "transcription": "zhēnzhèng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11073,7 +11073,7 @@
     {
       "phrase": "整齐",
       "transcription": "zhěngqí",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11083,7 +11083,7 @@
     {
       "phrase": "正",
       "transcription": "zhèng",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11093,7 +11093,7 @@
     {
       "phrase": "正确",
       "transcription": "zhèngquè",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11103,7 +11103,7 @@
     {
       "phrase": "正在",
       "transcription": "zhèngzài",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11113,7 +11113,7 @@
     {
       "phrase": "政府",
       "transcription": "zhèngfǔ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11123,7 +11123,7 @@
     {
       "phrase": "政治",
       "transcription": "zhèngzhì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11153,7 +11153,7 @@
     {
       "phrase": "知道",
       "transcription": "zhīdào",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11163,7 +11163,7 @@
     {
       "phrase": "知识",
       "transcription": "zhīshi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11183,7 +11183,7 @@
     {
       "phrase": "指",
       "transcription": "zhǐ",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11193,7 +11193,7 @@
     {
       "phrase": "只",
       "transcription": "zhǐ",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11203,7 +11203,7 @@
     {
       "phrase": "只好",
       "transcription": "zhǐhǎo",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11213,7 +11213,7 @@
     {
       "phrase": "纸",
       "transcription": "zhǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11223,7 +11223,7 @@
     {
       "phrase": "中",
       "transcription": "zhōng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11233,7 +11233,7 @@
     {
       "phrase": "中",
       "transcription": "zhōng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11243,7 +11243,7 @@
     {
       "phrase": "中间",
       "transcription": "zhōngjiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11253,7 +11253,7 @@
     {
       "phrase": "中文",
       "transcription": "zhōngwén",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11263,7 +11263,7 @@
     {
       "phrase": "中午",
       "transcription": "zhōngwǔ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11273,7 +11273,7 @@
     {
       "phrase": "中学",
       "transcription": "zhōngxué",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11283,7 +11283,7 @@
     {
       "phrase": "钟",
       "transcription": "zhōng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11293,7 +11293,7 @@
     {
       "phrase": "钟头",
       "transcription": "zhōngtóu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11303,7 +11303,7 @@
     {
       "phrase": "种",
       "transcription": "zhǒng",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11323,7 +11323,7 @@
     {
       "phrase": "重",
       "transcription": "zhòng",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11333,7 +11333,7 @@
     {
       "phrase": "重要",
       "transcription": "zhòngyào",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11343,7 +11343,7 @@
     {
       "phrase": "周",
       "transcription": "zhōu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11353,7 +11353,7 @@
     {
       "phrase": "周围",
       "transcription": "zhōuwéi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11363,7 +11363,7 @@
     {
       "phrase": "猪",
       "transcription": "zhū",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11373,7 +11373,7 @@
     {
       "phrase": "主要",
       "transcription": "zhǔyào",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11383,7 +11383,7 @@
     {
       "phrase": "主意",
       "transcription": "zhǔyi",
-      "grammar": "adj",
+      "grammar": "Adj",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11393,7 +11393,7 @@
     {
       "phrase": "住",
       "transcription": "zhù",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11403,7 +11403,7 @@
     {
       "phrase": "注意",
       "transcription": "zhùyì",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11413,7 +11413,7 @@
     {
       "phrase": "祝",
       "transcription": "zhù",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11423,7 +11423,7 @@
     {
       "phrase": "装",
       "transcription": "zhuāng",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11433,7 +11433,7 @@
     {
       "phrase": "准备",
       "transcription": "zhǔnbèi",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11443,7 +11443,7 @@
     {
       "phrase": "准备",
       "transcription": "zhǔnbèi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11453,7 +11453,7 @@
     {
       "phrase": "桌子",
       "transcription": "zhuōzi",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11473,7 +11473,7 @@
     {
       "phrase": "自行车",
       "transcription": "zìxíngchē",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11483,7 +11483,7 @@
     {
       "phrase": "字",
       "transcription": "zì",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11493,7 +11493,7 @@
     {
       "phrase": "总(是)",
       "transcription": "zǒng(shì)",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11503,7 +11503,7 @@
     {
       "phrase": "走",
       "transcription": "zǒu",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11513,7 +11513,7 @@
     {
       "phrase": "足球",
       "transcription": "zúqiú",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11523,7 +11523,7 @@
     {
       "phrase": "祖国",
       "transcription": "zǔguó",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11533,7 +11533,7 @@
     {
       "phrase": "组织",
       "transcription": "zǔzhī",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11543,7 +11543,7 @@
     {
       "phrase": "组织",
       "transcription": "zǔzhī",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11553,7 +11553,7 @@
     {
       "phrase": "嘴",
       "transcription": "zuǐ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11563,7 +11563,7 @@
     {
       "phrase": "最",
       "transcription": "zuì",
-      "grammar": "adv",
+      "grammar": "Adv",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11573,7 +11573,7 @@
     {
       "phrase": "最初",
       "transcription": "zuìchū",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11583,7 +11583,7 @@
     {
       "phrase": "最后",
       "transcription": "zuìhòu",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11593,7 +11593,7 @@
     {
       "phrase": "最近",
       "transcription": "zuìjìn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11603,7 +11603,7 @@
     {
       "phrase": "昨天",
       "transcription": "zuótiān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11613,7 +11613,7 @@
     {
       "phrase": "左",
       "transcription": "zuǒ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11623,7 +11623,7 @@
     {
       "phrase": "做",
       "transcription": "zuò",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11633,7 +11633,7 @@
     {
       "phrase": "作",
       "transcription": "zuò",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11643,7 +11643,7 @@
     {
       "phrase": "作业",
       "transcription": "zuòyè",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -11653,7 +11653,7 @@
     {
       "phrase": "坐",
       "transcription": "zuò",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",

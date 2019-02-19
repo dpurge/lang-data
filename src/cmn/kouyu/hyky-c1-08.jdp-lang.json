@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "hyky-a1-01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+	{
+		"phrase": "补",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "熬夜",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "脾胃",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "失调",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "脉",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "虚",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "调理",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "见效",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "把脉",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "平衡",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "对症下药",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "人参",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "白木耳",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "养生",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "动脉硬化",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "适可而止",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "输液",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "元气",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "晕头转向",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "口服液",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "阑尾炎",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "大惊小怪",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "打滚儿",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "七手八脚",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "后遗症",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "惩罚",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "龇牙咧嘴",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "捂",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "团团转",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "调",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "过敏",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "鼻涕",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "转基因食品",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "异想天开",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "短信",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "保重",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	}
+]
+
+}

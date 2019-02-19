@@ -91,7 +91,7 @@
 		"grammar": {
 	      "description": "",
 	      "type": "string",
-		  "pattern": "^(n|v|adv|adj|interj|pref|prep|part|num|m|aux|pron|conj|ono|suf)?(\\s[a-z0-9]+)*$"
+		  "pattern": "^(N|V|Adv|Adj|interj|pref|prep|part|num|m|aux|pron|conj|ono|suf)?(\\s[a-z0-9]+)*$"
 		},
 		"translation": {
 	      "description": "",

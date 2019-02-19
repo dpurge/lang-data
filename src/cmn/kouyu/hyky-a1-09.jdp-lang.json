@@ -1,0 +1,368 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "hyky-a1-01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+	{
+		"phrase": "真正",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "平等",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "沙发",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "抽",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "烟",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "干活",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "气",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "批评",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "社会",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "模范",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "改变",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "认错",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "今后",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "表现",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "演讲",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "题目",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "定",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "组织",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "复杂",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "到处",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "报",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "认为",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "男人",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "女人",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "特点",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "浅",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "稿",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "话题",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "既",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "也",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "政治",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "经济",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "思想",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "打基础",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "目前",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "存在",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "现象",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "嫁",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "摆",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "劝架",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "恋爱",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "下岗",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "能力",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "强",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "公平",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "现实",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "玻璃",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "亲爱的",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "却",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	}
+]
+
+}

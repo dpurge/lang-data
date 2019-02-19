@@ -77,7 +77,7 @@ def validate(c):
                 raise Exception("Missing required 'version' key in: {filename}".format(filename = filename))
             jsonschema.validate(jsondata, schema['{format}-{version}'.format(format=jsondata['meta']['format'], version=jsondata['meta']['version'])])
         except jsonschema.exceptions.ValidationError as e:
-            print('{filename}: {message}'.format(filename = filename, message = e.message))
+            print('{filename} ({path}): {message}'.format(filename = filename, message = e.message, path = e.path))
         except Exception as e:
             print('{filename}: {message}'.format(filename = filename, message = str(e)))
 

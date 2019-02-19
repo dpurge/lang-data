@@ -6,14 +6,14 @@
     "source": "Al-Arabiyyah Bayna Yadayk",
     "status": "pending",
     "tags": [
-      "aby-1-1"
+      "aby1-01"
     ]
   },
   "data": [
     {
       "phrase": "مُعلِّمٌ",
       "transcription": "muʿallim",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "nauczyciel",
       "image": "",
       "audio": "",
@@ -23,7 +23,7 @@
     {
       "phrase": "طَالِبَةٌ",
       "transcription": "ṭāliba",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "studentka",
       "image": "",
       "audio": "",
@@ -33,7 +33,7 @@
     {
       "phrase": "طَبِيبَةٌ",
       "transcription": "ṭabība",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "lekarka",
       "image": "",
       "audio": "",
@@ -43,7 +43,7 @@
     {
       "phrase": "مُهَنْدِسٌ",
       "transcription": "muhandis",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "inżynier",
       "image": "",
       "audio": "",
@@ -53,7 +53,7 @@
     {
       "phrase": "أَخٌ",
       "transcription": "aḫ",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "brat",
       "image": "",
       "audio": "",
@@ -63,7 +63,7 @@
     {
       "phrase": "أُخْتٌ",
       "transcription": "uḫt",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "siostra",
       "image": "",
       "audio": "",
@@ -73,7 +73,7 @@
     {
       "phrase": "صَدِيقَةٌ",
       "transcription": "ṣadīqa",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "koleżanka",
       "image": "",
       "audio": "",
@@ -83,7 +83,7 @@
     {
       "phrase": "صَدِيقٌ",
       "transcription": "ṣadīq",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "kolega",
       "image": "",
       "audio": "",

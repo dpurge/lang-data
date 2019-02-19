@@ -6,14 +6,14 @@
     "source": "Al-Arabiyyah Bayna Yadayk",
     "status": "pending",
     "tags": [
-      "aby-1-2"
+      "aby1-02"
     ]
   },
   "data": [
     {
       "phrase": "صُورَةٌ",
       "transcription": "ṣūra",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "obraz, rysunek",
       "image": "",
       "audio": "",
@@ -23,7 +23,7 @@
     {
       "phrase": "أُسْرَةٌ",
       "transcription": "usra",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "rodzina",
       "image": "",
       "audio": "",
@@ -33,7 +33,7 @@
     {
       "phrase": "وَالِدٌ",
       "transcription": "wālid",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "ojciec",
       "image": "",
       "audio": "",
@@ -43,7 +43,7 @@
     {
       "phrase": "وَالِدَةٌ",
       "transcription": "wālida",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "matka",
       "image": "",
       "audio": "",
@@ -53,7 +53,7 @@
     {
       "phrase": "جَدٌّ",
       "transcription": "ǧadd",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "dziadek",
       "image": "",
       "audio": "",
@@ -63,7 +63,7 @@
     {
       "phrase": "جَدَّةٌ",
       "transcription": "ǧadda",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "babcia",
       "image": "",
       "audio": "",
@@ -73,7 +73,7 @@
     {
       "phrase": "اِبْنٌ",
       "transcription": "ibn",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "syn",
       "image": "",
       "audio": "",
@@ -83,7 +83,7 @@
     {
       "phrase": "اِبْنَةٌ",
       "transcription": "ibna",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "córka",
       "image": "",
       "audio": "",
@@ -93,7 +93,7 @@
     {
       "phrase": "عَمٌّ",
       "transcription": "ʿamm",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "wuj",
       "image": "",
       "audio": "",
@@ -103,7 +103,7 @@
     {
       "phrase": "عَمَّةٌ",
       "transcription": "ʿamma",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "ciotka",
       "image": "",
       "audio": "",
@@ -113,7 +113,7 @@
     {
       "phrase": "أَوْلَادٌ",
       "transcription": "awlād",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "dzieci",
       "image": "",
       "audio": "",
@@ -123,7 +123,7 @@
     {
       "phrase": "شَجَرَةٌ",
       "transcription": "šaǧara",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "drzewo",
       "image": "",
       "audio": "",
@@ -133,7 +133,7 @@
     {
       "phrase": "مَسْجِدٌ",
       "transcription": "masǧid",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "meczet",
       "image": "",
       "audio": "",
@@ -153,7 +153,7 @@
     {
       "phrase": "غُرْفَةٌ",
       "transcription": "",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "pokój, izba",
       "image": "",
       "audio": "",
@@ -163,7 +163,7 @@
     {
       "phrase": "أَذَانُ الفَجْرِ",
       "transcription": "aḏānu-l-faǧr",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "",
       "image": "",
       "audio": "",
@@ -173,7 +173,7 @@
     {
       "phrase": "القُرآنُ",
       "transcription": "al-Qurʾān",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "Koran",
       "image": "",
       "audio": "",
@@ -183,7 +183,7 @@
     {
       "phrase": "مِعْطَفٌ",
       "transcription": "miʿṭaf",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "płaszcz",
       "image": "",
       "audio": "",
@@ -193,7 +193,7 @@
     {
       "phrase": "نَظَّارَةٌ",
       "transcription": "naẓẓāra",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "okulary",
       "image": "",
       "audio": "",
@@ -203,7 +203,7 @@
     {
       "phrase": "حَمَّامٌ",
       "transcription": "ḥammām",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "łazienka",
       "image": "",
       "audio": "",
@@ -213,7 +213,7 @@
     {
       "phrase": "يَتَوَضَّأُ",
       "transcription": "yatawaḍḍaʾ",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "",
       "image": "",
       "audio": "",
@@ -223,7 +223,7 @@
     {
       "phrase": "يَقْرَأُ",
       "transcription": "yaqraʾ",
-      "grammar": "v",
+      "grammar": "V",
       "translation": "czyta",
       "image": "",
       "audio": "",
@@ -233,7 +233,7 @@
     {
       "phrase": "يُصَلّي",
       "transcription": "yuṣallī",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "modli się",
       "image": "",
       "audio": "",
@@ -243,7 +243,7 @@
     {
       "phrase": "مُعَلِّمَةٌ",
       "transcription": "muʿallima",
-      "grammar": "n",
+      "grammar": "N",
       "translation": "nauczycielka",
       "image": "",
       "audio": "",

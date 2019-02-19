@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "hyky-a1-01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+	{
+		"phrase": "消息",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "成绩",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "语文",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "数学",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "外语",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "名",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "表扬",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "奖励",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "打人",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "打",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "管",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "严",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "提高",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "得到",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "成才",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "课外",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "活动",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "组",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "按照",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "兴趣",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "报名",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "表格",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "物理",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "梦想",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "科学家",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "搞",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "科学",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "研究",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "发明",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "创造",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "实现",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "从",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "起",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "任何",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "困难",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "掌握",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "基础",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "解决",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "知识",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "方法",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "同意",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "意见",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "照顾",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "明年",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "甲方",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "重要",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "乙方",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "过程",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	}
+]
+
+}

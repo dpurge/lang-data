@@ -1,0 +1,381 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "hyky-a1-03"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+	{
+		"phrase": "乘客",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "售票员",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "反",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "南边",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "北边",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "开车",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "对面",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "劳驾",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "车站",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "准",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "急事",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "出事",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "闯",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "红灯",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "白干",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "伤",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "当时",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "出现",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "上班",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "平安",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "大爷",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "存",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "存车处",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "牌子",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "宽",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "多么",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "碰",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "怪",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "立刻",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "新闻",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "市",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "起",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "事故",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "酒",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "后",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "结果",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "重伤",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "轻伤",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "同志",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "危险",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "零钱",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "下班",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "成绩",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "大声",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "渴",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "爱人",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "表格",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "孙子",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "到处",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "弄",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	},
+	{
+		"phrase": "擦",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"note": ""
+	}
+]
+}

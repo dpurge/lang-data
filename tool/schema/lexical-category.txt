@@ -1,0 +1,23 @@
+N	noun
+V	verb
+Adj	adjective
+Adv	adverb
+?	interjection
+
+
+?	pronoun
+?	preposition
+Conj	conjunction
+Det	determiner
+?	auxiliary verb
+Cl	clitic
+?	converb
+?	particle
+Clf	measure word, classifier
+?	adposition (preposition, postposition, circumposition)
+?	preverb
+?	contraction
+?	number
+
+Afx	affix
+Aux	auxiliary
