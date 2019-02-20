@@ -11,245 +11,334 @@
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "ada",
       "transcription": "",
       "grammar": "",
-      "translation": "",
+      "translation": "mieć; istnieć, być",
       "image": "",
       "audio": "",
       "video": "",
       "note": ""
     },
     {
-        "phrase": "ada",
+      "phrase": "apa",
       "transcription": "",
-        "grammar": "",
-        "translation": "mieć; istnieć, być",
-        "note": ""
+      "grammar": "",
+      "translation": "co",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "apa",
+      "phrase": "asing",
       "transcription": "",
-        "grammar": "",
-        "translation": "co",
-        "note": ""
+      "grammar": "",
+      "translation": "cudzoziemski",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "asing",
+      "phrase": "baik",
       "transcription": "",
-        "grammar": "",
-        "translation": "cudzoziemski",
-        "note": ""
+      "grammar": "",
+      "translation": "dobry",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "baik",
+      "phrase": "beli",
       "transcription": "",
-        "grammar": "",
-        "translation": "dobry",
-        "note": ""
+      "grammar": "",
+      "translation": "kupować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "beli",
+      "phrase": "berhenti",
       "transcription": "",
-        "grammar": "",
-        "translation": "kupować",
-        "note": ""
+      "grammar": "",
+      "translation": "zatrzymać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "berhenti",
+      "phrase": "biasa",
       "transcription": "",
-        "grammar": "",
-        "translation": "zatrzymać",
-        "note": ""
+      "grammar": "",
+      "translation": "zwykle",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "biasa",
+      "phrase": "buah",
       "transcription": "",
-        "grammar": "",
-        "translation": "zwykle",
-        "note": ""
+      "grammar": "",
+      "translation": "owoc",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "buah",
+      "phrase": "daerah",
       "transcription": "",
-        "grammar": "",
-        "translation": "owoc",
-        "note": ""
+      "grammar": "",
+      "translation": "kraj, wieś",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "daerah",
+      "phrase": "desa",
       "transcription": "",
-        "grammar": "",
-        "translation": "kraj, wieś",
-        "note": ""
+      "grammar": "",
+      "translation": "wioska",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "desa",
+      "phrase": "dua",
       "transcription": "",
-        "grammar": "",
-        "translation": "wioska",
-        "note": ""
+      "grammar": "",
+      "translation": "dwa",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "dua",
+      "phrase": "empat",
       "transcription": "",
-        "grammar": "",
-        "translation": "dwa",
-        "note": ""
+      "grammar": "",
+      "translation": "cztery",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "empat",
+      "phrase": "harus",
       "transcription": "",
-        "grammar": "",
-        "translation": "cztery",
-        "note": ""
+      "grammar": "",
+      "translation": "musieć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "harus",
+      "phrase": "kami",
       "transcription": "",
-        "grammar": "",
-        "translation": "musieć",
-        "note": ""
+      "grammar": "",
+      "translation": "my",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "bez ciebie"
     },
     {
-        "phrase": "kami",
+      "phrase": "lihat",
       "transcription": "",
-        "grammar": "",
-        "translation": "my",
-        "note": "bez ciebie"
+      "grammar": "",
+      "translation": "patrzeć, widzieć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "lihat",
+      "phrase": "mahal",
       "transcription": "",
-        "grammar": "",
-        "translation": "patrzeć, widzieć",
-        "note": ""
+      "grammar": "",
+      "translation": "drogi",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "mahal",
+      "phrase": "makan",
       "transcription": "",
-        "grammar": "",
-        "translation": "drogi",
-        "note": ""
+      "grammar": "",
+      "translation": "jeść",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "makan",
+      "phrase": "mari",
       "transcription": "",
-        "grammar": "",
-        "translation": "jeść",
-        "note": ""
+      "grammar": "",
+      "translation": "chodź...",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "zachęta"
     },
     {
-        "phrase": "mari",
+      "phrase": "mengapa",
       "transcription": "",
-        "grammar": "",
-        "translation": "chodź...",
-        "note": "zachęta"
+      "grammar": "",
+      "translation": "dlaczego",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "mengapa",
+      "phrase": "murah",
       "transcription": "",
-        "grammar": "",
-        "translation": "dlaczego",
-        "note": ""
+      "grammar": "",
+      "translation": "tani",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "murah",
+      "phrase": "orang",
       "transcription": "",
-        "grammar": "",
-        "translation": "tani",
-        "note": ""
+      "grammar": "",
+      "translation": "człowiek, osoba",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "orang",
+      "phrase": "pepaya",
       "transcription": "",
-        "grammar": "",
-        "translation": "człowiek, osoba",
-        "note": ""
+      "grammar": "",
+      "translation": "papaja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "pepaya",
+      "phrase": "perjalanan",
       "transcription": "",
-        "grammar": "",
-        "translation": "papaja",
-        "note": ""
+      "grammar": "",
+      "translation": "podróż",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "perjalanan",
+      "phrase": "pikir",
       "transcription": "",
-        "grammar": "",
-        "translation": "podróż",
-        "note": ""
+      "grammar": "",
+      "translation": "myśleć, sądzić, być zdania",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "pikir",
+      "phrase": "rambutan",
       "transcription": "",
-        "grammar": "",
-        "translation": "myśleć, sądzić, być zdania",
-        "note": ""
+      "grammar": "",
+      "translation": "rambutan",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "rambutan",
+      "phrase": "segar",
       "transcription": "",
-        "grammar": "",
-        "translation": "rambutan",
-        "note": ""
+      "grammar": "",
+      "translation": "rzeźki, odświerzony",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "segar",
+      "phrase": "sekarang",
       "transcription": "",
-        "grammar": "",
-        "translation": "rzeźki, odświerzony",
-        "note": ""
+      "grammar": "",
+      "translation": "teraz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "sekarang",
+      "phrase": "sore",
       "transcription": "",
-        "grammar": "",
-        "translation": "teraz",
-        "note": ""
+      "grammar": "",
+      "translation": "popołudnie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "sore",
+      "phrase": "sudah",
       "transcription": "",
-        "grammar": "",
-        "translation": "popołudnie",
-        "note": ""
+      "grammar": "",
+      "translation": "już",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "sudah",
+      "phrase": "suka",
       "transcription": "",
-        "grammar": "",
-        "translation": "już",
-        "note": ""
+      "grammar": "",
+      "translation": "lubić",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "suka",
+      "phrase": "tetapi",
       "transcription": "",
-        "grammar": "",
-        "translation": "lubić",
-        "note": ""
+      "grammar": "",
+      "translation": "ale",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "tetapi",
+      "phrase": "tidak",
       "transcription": "",
-        "grammar": "",
-        "translation": "ale",
-        "note": ""
+      "grammar": "",
+      "translation": "nie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "tidak",
+      "phrase": "warung",
       "transcription": "",
-        "grammar": "",
-        "translation": "nie",
-        "note": ""
-    },
-    {
-        "phrase": "warung",
-      "transcription": "",
-        "grammar": "",
-        "translation": "stragan",
-        "note": ""
+      "grammar": "",
+      "translation": "stragan",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     }
-]
+  ]
 }

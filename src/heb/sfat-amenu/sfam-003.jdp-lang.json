@@ -6,146 +6,189 @@
     "source": "",
     "status": "pending",
     "tags": [
-      "sfam001"
+      "sfam003"
     ]
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "אָב",
       "transcription": "",
       "grammar": "",
-      "translation": "",
+      "translation": "ojciec",
       "image": "",
       "audio": "",
       "video": "",
       "note": ""
     },
     {
-        "phrase": "אָב",
-        "transcription": "",
-        "grammar": "",
-        "translation": "ojciec",
-        "note": ""
+      "phrase": "אֵם",
+      "transcription": "",
+      "grammar": "",
+      "translation": "matka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אֵם",
-        "transcription": "",
-        "grammar": "",
-        "translation": "matka",
-        "note": ""
+      "phrase": "רַק",
+      "transcription": "",
+      "grammar": "",
+      "translation": "tylko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "רַק",
-        "transcription": "",
-        "grammar": "",
-        "translation": "tylko",
-        "note": ""
+      "phrase": "הוּא",
+      "transcription": "",
+      "grammar": "",
+      "translation": "on (jest)",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "הוּא",
-        "transcription": "",
-        "grammar": "",
-        "translation": "on (jest)",
-        "note": ""
+      "phrase": "אִישׁ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mężczyzna, człowiek",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אִישׁ",
-        "transcription": "",
-        "grammar": "",
-        "translation": "mężczyzna, człowiek",
-        "note": ""
+      "phrase": "טוֹב",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dobry",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "טוֹב",
-        "transcription": "",
-        "grammar": "",
-        "translation": "dobry",
-        "note": ""
+      "phrase": "מְאֹד",
+      "transcription": "",
+      "grammar": "",
+      "translation": "bardzo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "מְאֹד",
-        "transcription": "",
-        "grammar": "",
-        "translation": "bardzo",
-        "note": ""
+      "phrase": "אָח",
+      "transcription": "",
+      "grammar": "",
+      "translation": "brat",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אָח",
-        "transcription": "",
-        "grammar": "",
-        "translation": "brat",
-        "note": ""
+      "phrase": "אֲשֶׁר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "który",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אֲשֶׁר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "który",
-        "note": ""
+      "phrase": "חָכָם",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mądry",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "חָכָם",
-        "transcription": "",
-        "grammar": "",
-        "translation": "mądry",
-        "note": ""
+      "phrase": "קָטָן",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mały",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "קָטָן",
-        "transcription": "",
-        "grammar": "",
-        "translation": "mały",
-        "note": ""
+      "phrase": "גָּדוֹל",
+      "transcription": "",
+      "grammar": "",
+      "translation": "duży, wielki",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "גָּדוֹל",
-        "transcription": "",
-        "grammar": "",
-        "translation": "duży, wielki",
-        "note": ""
+      "phrase": "גַּם",
+      "transcription": "",
+      "grammar": "",
+      "translation": "także",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "גַּם",
-        "transcription": "",
-        "grammar": "",
-        "translation": "także",
-        "note": ""
+      "phrase": "הֲ? הַאִם?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "czy?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "הֲ? הַאִם?",
-        "transcription": "",
-        "grammar": "",
-        "translation": "czy?",
-        "note": ""
+      "phrase": "כֵּן",
+      "transcription": "",
+      "grammar": "",
+      "translation": "tak, tak jest",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "כֵּן",
-        "transcription": "",
-        "grammar": "",
-        "translation": "tak, tak jest",
-        "note": ""
+      "phrase": "לֹא",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "לֹא",
-        "transcription": "",
-        "grammar": "",
-        "translation": "nie",
-        "note": ""
+      "phrase": "מִי?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kto?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "מִי?",
-        "transcription": "",
-        "grammar": "",
-        "translation": "kto?",
-        "note": ""
-    },
-    {
-        "phrase": "שָׁנָה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "rok",
-        "note": ""
+      "phrase": "שָׁנָה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "rok",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     }
-]
-
+  ]
 }

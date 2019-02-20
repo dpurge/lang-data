@@ -6,167 +6,219 @@
     "source": "",
     "status": "pending",
     "tags": [
-      "sfam001"
+      "sfam008"
     ]
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "נַעֲרָה",
       "transcription": "",
       "grammar": "",
-      "translation": "",
+      "translation": "dziewczyna",
       "image": "",
       "audio": "",
       "video": "",
       "note": ""
     },
     {
-        "phrase": "נַעֲרָה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "dziewczyna",
-        "note": ""
+      "phrase": "אִכָּר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "rolnik, wieśniak",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אִכָּר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "rolnik, wieśniak",
-        "note": ""
+      "phrase": "חוֹרֵשׁ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "orze",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "חוֹרֵשׁ",
-        "transcription": "",
-        "grammar": "",
-        "translation": "orze",
-        "note": ""
+      "phrase": "אֲדָמָה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "rola, ziemia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אֲדָמָה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "rola, ziemia",
-        "note": ""
+      "phrase": "מַחֲרֵשָׁה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pług",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "מַחֲרֵשָׁה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "pług",
-        "note": ""
+      "phrase": "רוֹעֶה",
+      "transcription": "",
+      "grammar": "N",
+      "translation": "pasterz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "רוֹעֶה",
-        "transcription": "",
-        "grammar": "n",
-        "translation": "pasterz",
-        "note": ""
+      "phrase": "רוֹעֶה",
+      "transcription": "",
+      "grammar": "V",
+      "translation": "pasie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "רוֹעֶה",
-        "transcription": "",
-        "grammar": "v",
-        "translation": "pasie",
-        "note": ""
+      "phrase": "עֵדֶר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "trzoda",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "עֵדֶר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "trzoda",
-        "note": ""
+      "phrase": "בַּנָאִי",
+      "transcription": "",
+      "grammar": "",
+      "translation": "murarz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "בַּנָאִי",
-        "transcription": "",
-        "grammar": "",
-        "translation": "murarz",
-        "note": ""
+      "phrase": "בּוֹנֶה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "buduje",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "בּוֹנֶה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "buduje",
-        "note": ""
+      "phrase": "לְבֵנָה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "cegła",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "לְבֵנָה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "cegła",
-        "note": ""
+      "phrase": "אוֹפֶה",
+      "transcription": "",
+      "grammar": "N",
+      "translation": "piekarz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אוֹפֶה",
-        "transcription": "",
-        "grammar": "n",
-        "translation": "piekarz",
-        "note": ""
+      "phrase": "אוֹפֶה",
+      "transcription": "",
+      "grammar": "V",
+      "translation": "piecze",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אוֹפֶה",
-        "transcription": "",
-        "grammar": "v",
-        "translation": "piecze",
-        "note": ""
+      "phrase": "לֶחֶם",
+      "transcription": "",
+      "grammar": "",
+      "translation": "chleb",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "לֶחֶם",
-        "transcription": "",
-        "grammar": "",
-        "translation": "chleb",
-        "note": ""
+      "phrase": "קֶמַח",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mąka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "קֶמַח",
-        "transcription": "",
-        "grammar": "",
-        "translation": "mąka",
-        "note": ""
+      "phrase": "אוֹכֵל",
+      "transcription": "",
+      "grammar": "",
+      "translation": "je, jedzący",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אוֹכֵל",
-        "transcription": "",
-        "grammar": "",
-        "translation": "je, jedzący",
-        "note": ""
+      "phrase": "עֻגָה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ciastko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "עֻגָה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "ciastko",
-        "note": ""
+      "phrase": "גָּר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "mieszka, mieszkający",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "גָּר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "mieszka, mieszkający",
-        "note": ""
+      "phrase": "כְּפָר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wieś",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "כְּפָר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "wieś",
-        "note": ""
+      "phrase": "דּוֹד",
+      "transcription": "",
+      "grammar": "",
+      "translation": "stryj, wuj",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "דּוֹד",
-        "transcription": "",
-        "grammar": "",
-        "translation": "stryj, wuj",
-        "note": ""
-    },
-    {
-        "phrase": "עִיר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "miasto",
-        "note": ""
+      "phrase": "עִיר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "miasto",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     }
-]
-
+  ]
 }

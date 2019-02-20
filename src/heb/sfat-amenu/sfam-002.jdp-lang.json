@@ -6,83 +6,99 @@
     "source": "",
     "status": "pending",
     "tags": [
-      "sfam001"
+      "sfam002"
     ]
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "תַּנּוּר",
       "transcription": "",
       "grammar": "",
-      "translation": "",
+      "translation": "piec",
       "image": "",
       "audio": "",
       "video": "",
       "note": ""
     },
     {
-        "phrase": "תַּנּוּר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "piec",
-        "note": ""
+      "phrase": "עַל",
+      "transcription": "",
+      "grammar": "",
+      "translation": "na, nad",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "עַל",
-        "transcription": "",
-        "grammar": "",
-        "translation": "na, nad",
-        "note": ""
+      "phrase": "גַּג",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dach",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "גַּג",
-        "transcription": "",
-        "grammar": "",
-        "translation": "dach",
-        "note": ""
+      "phrase": "תְּמוּנָה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "obraz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "תְּמוּנָה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "obraz",
-        "note": ""
+      "phrase": "עוֹמֵד",
+      "transcription": "",
+      "grammar": "",
+      "translation": "stoi, stojący",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "עוֹמֵד",
-        "transcription": "",
-        "grammar": "",
-        "translation": "stoi, stojący",
-        "note": ""
+      "phrase": "פִּנָּה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kąt",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "פִּנָּה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "kąt",
-        "note": ""
+      "phrase": "אֵיפֹה?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "gdzie?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אֵיפֹה?",
-        "transcription": "",
-        "grammar": "",
-        "translation": "gdzie?",
-        "note": ""
+      "phrase": "שֶׁל־מִי?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "czyj?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "שֶׁל־מִי?",
-        "transcription": "",
-        "grammar": "",
-        "translation": "czyj?",
-        "note": ""
-    },
-    {
-        "phrase": "לְ",
-        "transcription": "",
-        "grammar": "",
-        "translation": "do",
-        "note": ""
+      "phrase": "לְ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "do",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     }
-]
-
+  ]
 }

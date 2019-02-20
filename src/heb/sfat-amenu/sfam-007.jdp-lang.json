@@ -6,160 +6,209 @@
     "source": "",
     "status": "pending",
     "tags": [
-      "sfam001"
+      "sfam007"
     ]
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "בֵּית־הַסֵפֶר",
       "transcription": "",
       "grammar": "",
-      "translation": "",
+      "translation": "szkoła",
       "image": "",
       "audio": "",
       "video": "",
       "note": ""
     },
     {
-        "phrase": "בֵּית־הַסֵפֶר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "szkoła",
-        "note": ""
+      "phrase": "סַפסָל",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ławka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "סַפסָל",
-        "transcription": "",
-        "grammar": "",
-        "translation": "ławka",
-        "note": ""
+      "phrase": "מְסַפֵר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "opowiada",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "מְסַפֵר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "opowiada",
-        "note": ""
+      "phrase": "מוֹרָה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "nauczycielka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "מוֹרָה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "nauczycielka",
-        "note": ""
+      "phrase": "אִשָּׁה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "niewiasta, kobieta",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אִשָּׁה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "niewiasta, kobieta",
-        "note": ""
+      "phrase": "אָחוֹת",
+      "transcription": "",
+      "grammar": "",
+      "translation": "siostra",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אָחוֹת",
-        "transcription": "",
-        "grammar": "",
-        "translation": "siostra",
-        "note": ""
+      "phrase": "תַּלְמִידָה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "uczennica",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "תַּלְמִידָה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "uczennica",
-        "note": ""
+      "phrase": "נָתְנָה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ona dała",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "נָתְנָה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "ona dała",
-        "note": ""
+      "phrase": "חַיַּט",
+      "transcription": "",
+      "grammar": "",
+      "translation": "krawiec",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "חַיַּט",
-        "transcription": "",
-        "grammar": "",
-        "translation": "krawiec",
-        "note": ""
+      "phrase": "תּוֹפֵר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "szyje, szyjący",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "תּוֹפֵר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "szyje, szyjący",
-        "note": ""
+      "phrase": "בֶּגֶד",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ubranie, odzież",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "בֶּגֶד",
-        "transcription": "",
-        "grammar": "",
-        "translation": "ubranie, odzież",
-        "note": ""
+      "phrase": "חֲלִיפָה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ubranie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "חֲלִיפָה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "ubranie",
-        "note": ""
+      "phrase": "מַחַט",
+      "transcription": "",
+      "grammar": "",
+      "translation": "igła",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "מַחַט",
-        "transcription": "",
-        "grammar": "",
-        "translation": "igła",
-        "note": ""
+      "phrase": "סַנְדְּלָר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "szewc",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "סַנְדְּלָר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "szewc",
-        "note": ""
+      "phrase": "עוֹשֶׂה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "robi",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "עוֹשֶׂה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "robi",
-        "note": ""
+      "phrase": "נַעַל",
+      "transcription": "",
+      "grammar": "",
+      "translation": "bucik",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "נַעַל",
-        "transcription": "",
-        "grammar": "",
-        "translation": "bucik",
-        "note": ""
+      "phrase": "עוֹר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "skóra",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "עוֹר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "skóra",
-        "note": ""
+      "phrase": "נַגָּר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "stolarz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "נַגָּר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "stolarz",
-        "note": ""
+      "phrase": "עֵץ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "drzewo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "עֵץ",
-        "transcription": "",
-        "grammar": "",
-        "translation": "drzewo",
-        "note": ""
-    },
-    {
-        "phrase": "אֵיזֶה?",
-        "transcription": "",
-        "grammar": "",
-        "translation": "jaki? który?",
-        "note": ""
+      "phrase": "אֵיזֶה?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "jaki? który?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     }
-]
-
+  ]
 }

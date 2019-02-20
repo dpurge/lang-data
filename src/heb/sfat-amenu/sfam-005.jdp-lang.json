@@ -6,132 +6,169 @@
     "source": "",
     "status": "pending",
     "tags": [
-      "sfam001"
+      "sfam005"
     ]
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "מוֹרֶה",
       "transcription": "",
       "grammar": "",
-      "translation": "",
+      "translation": "nauczyciel",
       "image": "",
       "audio": "",
       "video": "",
       "note": ""
     },
     {
-        "phrase": "מוֹרֶה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "nauczyciel",
-        "note": ""
+      "phrase": "תַּלמִיד",
+      "transcription": "",
+      "grammar": "",
+      "translation": "uczeń",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "תַּלמִיד",
-        "transcription": "",
-        "grammar": "",
-        "translation": "uczeń",
-        "note": ""
+      "phrase": "מְלַמֵּד",
+      "transcription": "",
+      "grammar": "",
+      "translation": "uczy, uczący",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "מְלַמֵּד",
-        "transcription": "",
-        "grammar": "",
-        "translation": "uczy, uczący",
-        "note": ""
+      "phrase": "יוֹם",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dzień",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "יוֹם",
-        "transcription": "",
-        "grammar": "",
-        "translation": "dzień",
-        "note": ""
+      "phrase": "חָרוּץ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "pilny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "חָרוּץ",
-        "transcription": "",
-        "grammar": "",
-        "translation": "pilny",
-        "note": ""
+      "phrase": "לוֹמֵד",
+      "transcription": "",
+      "grammar": "",
+      "translation": "uczy się, uczący się",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "לוֹמֵד",
-        "transcription": "",
-        "grammar": "",
-        "translation": "uczy się, uczący się",
-        "note": ""
+      "phrase": "הֵיטֵב",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dobrze",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "הֵיטֵב",
-        "transcription": "",
-        "grammar": "",
-        "translation": "dobrze",
-        "note": ""
+      "phrase": "רַבִּים",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wiele, liczni",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "רַבִּים",
-        "transcription": "",
-        "grammar": "",
-        "translation": "wiele, liczni",
-        "note": ""
+      "phrase": "הַיּוֹם",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dziś",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "הַיּוֹם",
-        "transcription": "",
-        "grammar": "",
-        "translation": "dziś",
-        "note": ""
+      "phrase": "יָפֶה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ładny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "יָפֶה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "ładny",
-        "note": ""
+      "phrase": "מַתָּנָה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dar, podarunek",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "מַתָּנָה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "dar, podarunek",
-        "note": ""
+      "phrase": "קוֹרֵא",
+      "transcription": "",
+      "grammar": "",
+      "translation": "czyta, czytający",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "קוֹרֵא",
-        "transcription": "",
-        "grammar": "",
-        "translation": "czyta, czytający",
-        "note": ""
+      "phrase": "סִפּוּר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "opowiadanie, opowieść",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "סִפּוּר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "opowiadanie, opowieść",
-        "note": ""
+      "phrase": "אֲשֶׁר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "który",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אֲשֶׁר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "który",
-        "note": ""
+      "phrase": "מָתַי?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kiedy?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "מָתַי?",
-        "transcription": "",
-        "grammar": "",
-        "translation": "kiedy?",
-        "note": ""
-    },
-    {
-        "phrase": "מַדוּעַ",
-        "transcription": "",
-        "grammar": "",
-        "translation": "dlaczego?",
-        "note": ""
+      "phrase": "מַדוּעַ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dlaczego?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     }
-]
-
+  ]
 }

@@ -6,146 +6,189 @@
     "source": "",
     "status": "pending",
     "tags": [
-      "sfam001"
+      "sfam004"
     ]
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "אָנֹכִי",
       "transcription": "",
       "grammar": "",
-      "translation": "",
+      "translation": "ja",
       "image": "",
       "audio": "",
       "video": "",
       "note": ""
     },
     {
-        "phrase": "אָנֹכִי",
-        "transcription": "",
-        "grammar": "",
-        "translation": "ja",
-        "note": ""
+      "phrase": "אוֹהֵב",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kocha, lubi",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אוֹהֵב",
-        "transcription": "",
-        "grammar": "",
-        "translation": "kocha, lubi",
-        "note": ""
+      "phrase": "נָתַן",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dał",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "נָתַן",
-        "transcription": "",
-        "grammar": "",
-        "translation": "dał",
-        "note": ""
+      "phrase": "סֵפֶר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "książka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "סֵפֶר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "książka",
-        "note": ""
+      "phrase": "כָּל־",
+      "transcription": "",
+      "grammar": "",
+      "translation": "każdy, wszystek, cały",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "כָּל־",
-        "transcription": "",
-        "grammar": "",
-        "translation": "każdy, wszystek, cały",
-        "note": ""
+      "phrase": "אֶחַד",
+      "transcription": "",
+      "grammar": "",
+      "translation": "jeden",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אֶחַד",
-        "transcription": "",
-        "grammar": "",
-        "translation": "jeden",
-        "note": ""
+      "phrase": "גָּבֹהַּ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wysoki",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "גָּבֹהַּ",
-        "transcription": "",
-        "grammar": "",
-        "translation": "wysoki",
-        "note": ""
+      "phrase": "אֲרֻבָּה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "komin",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אֲרֻבָּה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "komin",
-        "note": ""
+      "phrase": "מִן",
+      "transcription": "",
+      "grammar": "",
+      "translation": "od, z",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "מִן",
-        "transcription": "",
-        "grammar": "",
-        "translation": "od, z",
-        "note": ""
+      "phrase": "יוֹצֵא",
+      "transcription": "",
+      "grammar": "",
+      "translation": "wychodzi",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "יוֹצֵא",
-        "transcription": "",
-        "grammar": "",
-        "translation": "wychodzi",
-        "note": ""
+      "phrase": "עָשָׁן",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dym",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "עָשָׁן",
-        "transcription": "",
-        "grammar": "",
-        "translation": "dym",
-        "note": ""
+      "phrase": "כִּי",
+      "transcription": "",
+      "grammar": "",
+      "translation": "bo, ponieważ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "כִּי",
-        "transcription": "",
-        "grammar": "",
-        "translation": "bo, ponieważ",
-        "note": ""
+      "phrase": "נַעַר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "chłopiec",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "נַעַר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "chłopiec",
-        "note": ""
+      "phrase": "רַע",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zły",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "רַע",
-        "transcription": "",
-        "grammar": "",
-        "translation": "zły",
-        "note": ""
+      "phrase": "עוֹד",
+      "transcription": "",
+      "grammar": "",
+      "translation": "jeszcze",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "עוֹד",
-        "transcription": "",
-        "grammar": "",
-        "translation": "jeszcze",
-        "note": ""
+      "phrase": "כַּמָּה?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ile?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "כַּמָּה?",
-        "transcription": "",
-        "grammar": "",
-        "translation": "ile?",
-        "note": ""
+      "phrase": "לָמָּה?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dlaczego? po co?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "לָמָּה?",
-        "transcription": "",
-        "grammar": "",
-        "translation": "dlaczego? po co?",
-        "note": ""
-    },
-    {
-        "phrase": "אֶת־מִי?",
-        "transcription": "",
-        "grammar": "",
-        "translation": "kogo?",
-        "note": ""
+      "phrase": "אֶת־מִי?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kogo?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     }
-]
-
+  ]
 }

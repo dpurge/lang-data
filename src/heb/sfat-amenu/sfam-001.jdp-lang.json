@@ -11,113 +11,144 @@
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "בַּיִת",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
+      "grammar": "N",
+      "translation": "dom",
       "image": "",
       "audio": "",
       "video": "",
       "note": ""
     },
     {
-        "phrase": "בַּיִת",
-        "transcription": "",
-        "grammar": "n",
-        "translation": "dom",
-        "note": ""
+      "phrase": "חֶדֶר",
+      "transcription": "",
+      "grammar": "N",
+      "translation": "pokój, izba",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "חֶדֶר",
-        "transcription": "",
-        "grammar": "n",
-        "translation": "pokój, izba",
-        "note": ""
+      "phrase": "יֶשׁ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "jest, istnieje, są",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "יֶשׁ",
-        "transcription": "",
-        "grammar": "",
-        "translation": "jest, istnieje, są",
-        "note": ""
+      "phrase": "תִקְרָה",
+      "transcription": "",
+      "grammar": "N",
+      "translation": "powała, sufit",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "תִקְרָה",
-        "transcription": "",
-        "grammar": "n",
-        "translation": "powała, sufit",
-        "note": ""
+      "phrase": "רִצְפָּה",
+      "transcription": "",
+      "grammar": "N",
+      "translation": "podłoga",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "רִצְפָּה",
-        "transcription": "",
-        "grammar": "n",
-        "translation": "podłoga",
-        "note": ""
+      "phrase": "קִיר",
+      "transcription": "",
+      "grammar": "N",
+      "translation": "ściana",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "קִיר",
-        "transcription": "",
-        "grammar": "n",
-        "translation": "ściana",
-        "note": ""
+      "phrase": "דֶּלֶת",
+      "transcription": "",
+      "grammar": "N",
+      "translation": "drzwi",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "דֶּלֶת",
-        "transcription": "",
-        "grammar": "n",
-        "translation": "drzwi",
-        "note": ""
+      "phrase": "חַלּוֹן",
+      "transcription": "",
+      "grammar": "N",
+      "translation": "okno",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "חַלּוֹן",
-        "transcription": "",
-        "grammar": "n",
-        "translation": "okno",
-        "note": ""
+      "phrase": "בְּ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "w; z",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "בְּ",
-        "transcription": "",
-        "grammar": "",
-        "translation": "w; z",
-        "note": ""
+      "phrase": "וְ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "i; a",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "וְ",
-        "transcription": "",
-        "grammar": "",
-        "translation": "i; a",
-        "note": ""
+      "phrase": "מַה?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "co? jak?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "מַה?",
-        "transcription": "",
-        "grammar": "",
-        "translation": "co? jak?",
-        "note": ""
+      "phrase": "אַיֵּה?",
+      "transcription": "",
+      "grammar": "",
+      "translation": "gdzie?",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "אַיֵּה?",
-        "transcription": "",
-        "grammar": "",
-        "translation": "gdzie?",
-        "note": ""
+      "phrase": "שְׁאֵלָה",
+      "transcription": "",
+      "grammar": "N",
+      "translation": "pytanie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "שְׁאֵלָה",
-        "transcription": "",
-        "grammar": "n",
-        "translation": "pytanie",
-        "note": ""
-    },
-    {
-        "phrase": "תְּשׁוּבָה",
-        "transcription": "",
-        "grammar": "n",
-        "translation": "odpowiedź",
-        "note": ""
+      "phrase": "תְּשׁוּבָה",
+      "transcription": "",
+      "grammar": "N",
+      "translation": "odpowiedź",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     }
-]
-
+  ]
 }

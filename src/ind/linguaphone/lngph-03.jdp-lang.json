@@ -11,357 +11,494 @@
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "adat",
       "transcription": "",
       "grammar": "",
-      "translation": "",
+      "translation": "zwyczaj",
       "image": "",
       "audio": "",
       "video": "",
       "note": ""
     },
     {
-        "phrase": "adat",
+      "phrase": "akan",
       "transcription": "",
-        "grammar": "",
-        "translation": "zwyczaj",
-        "note": ""
+      "grammar": "",
+      "translation": "będę",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "oznaczenie czasu przyszłego"
     },
     {
-        "phrase": "akan",
+      "phrase": "atur",
       "transcription": "",
-        "grammar": "",
-        "translation": "będę",
-        "note": "oznaczenie czasu przyszłego"
+      "grammar": "",
+      "translation": "dopilnować, zorganizować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "atur",
+      "phrase": "bak",
       "transcription": "",
-        "grammar": "",
-        "translation": "dopilnować, zorganizować",
-        "note": ""
+      "grammar": "",
+      "translation": "pojemnik na wodę do mycia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "bak",
+      "phrase": "banyak",
       "transcription": "",
-        "grammar": "",
-        "translation": "pojemnik na wodę do mycia",
-        "note": ""
+      "grammar": "",
+      "translation": "dużo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "banyak",
+      "phrase": "bawa",
       "transcription": "",
-        "grammar": "",
-        "translation": "dużo",
-        "note": ""
+      "grammar": "",
+      "translation": "zabrać ze sobą, przynieść",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "bawa",
+      "phrase": "besar",
       "transcription": "",
-        "grammar": "",
-        "translation": "zabrać ze sobą, przynieść",
-        "note": ""
+      "grammar": "",
+      "translation": "duży",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "besar",
+      "phrase": "buka",
       "transcription": "",
-        "grammar": "",
-        "translation": "duży",
-        "note": ""
+      "grammar": "",
+      "translation": "zdjąć obuwie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "buka",
+      "phrase": "bukan",
       "transcription": "",
-        "grammar": "",
-        "translation": "zdjąć obuwie",
-        "note": ""
+      "grammar": "",
+      "translation": "nie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "bukan",
+      "phrase": "cuci",
       "transcription": "",
-        "grammar": "",
-        "translation": "nie",
-        "note": ""
+      "grammar": "",
+      "translation": "prać; myć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "cuci",
+      "phrase": "di samping",
       "transcription": "",
-        "grammar": "",
-        "translation": "prać; myć",
-        "note": ""
+      "grammar": "",
+      "translation": "obok",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "di samping",
+      "phrase": "dia",
       "transcription": "",
-        "grammar": "",
-        "translation": "obok",
-        "note": ""
+      "grammar": "",
+      "translation": "on",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "dia",
+      "phrase": "enak",
       "transcription": "",
-        "grammar": "",
-        "translation": "on",
-        "note": ""
+      "grammar": "",
+      "translation": "smaczny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "enak",
+      "phrase": "gigi",
       "transcription": "",
-        "grammar": "",
-        "translation": "smaczny",
-        "note": ""
+      "grammar": "",
+      "translation": "zęby",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "gigi",
+      "phrase": "hitam",
       "transcription": "",
-        "grammar": "",
-        "translation": "zęby",
-        "note": ""
+      "grammar": "",
+      "translation": "czarny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "hitam",
+      "phrase": "Indonesia",
       "transcription": "",
-        "grammar": "",
-        "translation": "czarny",
-        "note": ""
+      "grammar": "",
+      "translation": "indonezyjski",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "Indonesia",
+      "phrase": "jangan",
       "transcription": "",
-        "grammar": "",
-        "translation": "indonezyjski",
-        "note": ""
+      "grammar": "",
+      "translation": "nie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "zakaz"
     },
     {
-        "phrase": "jangan",
+      "phrase": "kakus",
       "transcription": "",
-        "grammar": "",
-        "translation": "nie",
-        "note": "zakaz"
+      "grammar": "",
+      "translation": "ubikacja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kakus",
+      "phrase": "kamar",
       "transcription": "",
-        "grammar": "",
-        "translation": "ubikacja",
-        "note": ""
+      "grammar": "",
+      "translation": "pokój, izba",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kamar",
+      "phrase": "kamar duduk",
       "transcription": "",
-        "grammar": "",
-        "translation": "pokój, izba",
-        "note": ""
+      "grammar": "",
+      "translation": "salon",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kamar duduk",
+      "phrase": "kamar makan",
       "transcription": "",
-        "grammar": "",
-        "translation": "salon",
-        "note": ""
+      "grammar": "",
+      "translation": "jadalnia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kamar makan",
+      "phrase": "kamar tamu",
       "transcription": "",
-        "grammar": "",
-        "translation": "jadalnia",
-        "note": ""
+      "grammar": "",
+      "translation": "pokój gościnny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kamar tamu",
+      "phrase": "kamar tidur",
       "transcription": "",
-        "grammar": "",
-        "translation": "pokój gościnny",
-        "note": ""
+      "grammar": "",
+      "translation": "sypialnia",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kamar tidur",
+      "phrase": "kami",
       "transcription": "",
-        "grammar": "",
-        "translation": "sypialnia",
-        "note": ""
+      "grammar": "",
+      "translation": "my",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kami",
+      "phrase": "kapan",
       "transcription": "",
-        "grammar": "",
-        "translation": "my",
-        "note": ""
+      "grammar": "",
+      "translation": "kiedy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kapan",
+      "phrase": "kecil",
       "transcription": "",
-        "grammar": "",
-        "translation": "kiedy",
-        "note": ""
+      "grammar": "",
+      "translation": "mały",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kecil",
+      "phrase": "ketan",
       "transcription": "",
-        "grammar": "",
-        "translation": "mały",
-        "note": ""
+      "grammar": "",
+      "translation": "kleisty ryż",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "ketan",
+      "phrase": "kita",
       "transcription": "",
-        "grammar": "",
-        "translation": "kleisty ryż",
-        "note": ""
+      "grammar": "",
+      "translation": "my",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kita",
+      "phrase": "kueh",
       "transcription": "",
-        "grammar": "",
-        "translation": "my",
-        "note": ""
+      "grammar": "",
+      "translation": "ciasto, ciastko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kueh",
+      "phrase": "mandi",
       "transcription": "",
-        "grammar": "",
-        "translation": "ciasto, ciastko",
-        "note": ""
+      "grammar": "",
+      "translation": "brać kąpiel",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "mandi",
+      "phrase": "masak",
       "transcription": "",
-        "grammar": "",
-        "translation": "brać kąpiel",
-        "note": ""
+      "grammar": "",
+      "translation": "gotować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "masak",
+      "phrase": "masuk",
       "transcription": "",
-        "grammar": "",
-        "translation": "gotować",
-        "note": ""
+      "grammar": "",
+      "translation": "wchodzić",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "masuk",
+      "phrase": "pakai",
       "transcription": "",
-        "grammar": "",
-        "translation": "wchodzić",
-        "note": ""
+      "grammar": "",
+      "translation": "nosić ubranie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "pakai",
+      "phrase": "pembantu",
       "transcription": "",
-        "grammar": "",
-        "translation": "nosić ubranie",
-        "note": ""
+      "grammar": "",
+      "translation": "pomocnik; pracownik",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "pembantu",
+      "phrase": "perempuan",
       "transcription": "",
-        "grammar": "",
-        "translation": "pomocnik; pracownik",
-        "note": ""
+      "grammar": "",
+      "translation": "kobieta",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "perempuan",
+      "phrase": "perlu",
       "transcription": "",
-        "grammar": "",
-        "translation": "kobieta",
-        "note": ""
+      "grammar": "",
+      "translation": "potrzebować szybko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "perlu",
+      "phrase": "rumah",
       "transcription": "",
-        "grammar": "",
-        "translation": "potrzebować szybko",
-        "note": ""
+      "grammar": "",
+      "translation": "dom",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "rumah",
+      "phrase": "sangat",
       "transcription": "",
-        "grammar": "",
-        "translation": "dom",
-        "note": ""
+      "grammar": "",
+      "translation": "bardzo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "sangat",
+      "phrase": "selop",
       "transcription": "",
-        "grammar": "",
-        "translation": "bardzo",
-        "note": ""
+      "grammar": "",
+      "translation": "śliski",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "selop",
+      "phrase": "senang",
       "transcription": "",
-        "grammar": "",
-        "translation": "śliski",
-        "note": ""
+      "grammar": "",
+      "translation": "zadowolony",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "senang",
+      "phrase": "sepatu",
       "transcription": "",
-        "grammar": "",
-        "translation": "zadowolony",
-        "note": ""
+      "grammar": "",
+      "translation": "buty, obuwie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "sepatu",
+      "phrase": "siapa",
       "transcription": "",
-        "grammar": "",
-        "translation": "buty, obuwie",
-        "note": ""
+      "grammar": "",
+      "translation": "kto",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "siapa",
+      "phrase": "sikat",
       "transcription": "",
-        "grammar": "",
-        "translation": "kto",
-        "note": ""
+      "grammar": "",
+      "translation": "szczoteczka, pędzel",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "sikat",
+      "phrase": "tamu",
       "transcription": "",
-        "grammar": "",
-        "translation": "szczoteczka, pędzel",
-        "note": ""
+      "grammar": "",
+      "translation": "gość",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "tamu",
+      "phrase": "tiba",
       "transcription": "",
-        "grammar": "",
-        "translation": "gość",
-        "note": ""
+      "grammar": "",
+      "translation": "przybyć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "tiba",
+      "phrase": "tuan",
       "transcription": "",
-        "grammar": "",
-        "translation": "przybyć",
-        "note": ""
+      "grammar": "",
+      "translation": "pan",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "tuan",
+      "phrase": "tubruk",
       "transcription": "",
-        "grammar": "",
-        "translation": "pan",
-        "note": ""
+      "grammar": "",
+      "translation": "po turecku",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "kawa"
     },
     {
-        "phrase": "tubruk",
+      "phrase": "tunggu",
       "transcription": "",
-        "grammar": "",
-        "translation": "po turecku",
-        "note": "kawa"
+      "grammar": "",
+      "translation": "czekać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "tunggu",
+      "phrase": "untuk",
       "transcription": "",
-        "grammar": "",
-        "translation": "czekać",
-        "note": ""
-    },
-    {
-        "phrase": "untuk",
-      "transcription": "",
-        "grammar": "",
-        "translation": "dla",
-        "note": ""
+      "grammar": "",
+      "translation": "dla",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     }
-]
+  ]
 }

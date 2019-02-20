@@ -6,118 +6,149 @@
     "source": "",
     "status": "pending",
     "tags": [
-      "sfam001"
+      "sfam009"
     ]
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "אַיִן",
       "transcription": "",
       "grammar": "",
-      "translation": "",
+      "translation": "nie ma",
       "image": "",
       "audio": "",
       "video": "",
       "note": ""
     },
     {
-        "phrase": "אַיִן",
-        "transcription": "",
-        "grammar": "",
-        "translation": "nie ma",
-        "note": ""
+      "phrase": "גַּן",
+      "transcription": "",
+      "grammar": "",
+      "translation": "ogród",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "גַּן",
-        "transcription": "",
-        "grammar": "",
-        "translation": "ogród",
-        "note": ""
+      "phrase": "הַרְבֵּה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "dużo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "הַרְבֵּה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "dużo",
-        "note": ""
+      "phrase": "עָנָף",
+      "transcription": "",
+      "grammar": "",
+      "translation": "gałąź",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "עָנָף",
-        "transcription": "",
-        "grammar": "",
-        "translation": "gałąź",
-        "note": ""
+      "phrase": "עָלֶה",
+      "transcription": "",
+      "grammar": "",
+      "translation": "liść",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "עָלֶה",
-        "transcription": "",
-        "grammar": "",
-        "translation": "liść",
-        "note": ""
+      "phrase": "פְּרִי",
+      "transcription": "",
+      "grammar": "",
+      "translation": "owoc",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "פְּרִי",
-        "transcription": "",
-        "grammar": "",
-        "translation": "owoc",
-        "note": ""
+      "phrase": "צוֹמֵחַ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "rośnie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "צוֹמֵחַ",
-        "transcription": "",
-        "grammar": "",
-        "translation": "rośnie",
-        "note": ""
+      "phrase": "נוֹתֵן",
+      "transcription": "",
+      "grammar": "",
+      "translation": "daje",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "נוֹתֵן",
-        "transcription": "",
-        "grammar": "",
-        "translation": "daje",
-        "note": ""
+      "phrase": "רֵיחַ",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zapach, woń",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "רֵיחַ",
-        "transcription": "",
-        "grammar": "",
-        "translation": "zapach, woń",
-        "note": ""
+      "phrase": "יַעַר",
+      "transcription": "",
+      "grammar": "",
+      "translation": "las",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "יַעַר",
-        "transcription": "",
-        "grammar": "",
-        "translation": "las",
-        "note": ""
+      "phrase": "נָעִים",
+      "transcription": "",
+      "grammar": "",
+      "translation": "przyjemny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "נָעִים",
-        "transcription": "",
-        "grammar": "",
-        "translation": "przyjemny",
-        "note": ""
+      "phrase": "פֶּרַח",
+      "transcription": "",
+      "grammar": "",
+      "translation": "kwiat",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "פֶּרַח",
-        "transcription": "",
-        "grammar": "",
-        "translation": "kwiat",
-        "note": ""
+      "phrase": "סוֹף",
+      "transcription": "",
+      "grammar": "",
+      "translation": "koniec",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "סוֹף",
-        "transcription": "",
-        "grammar": "",
-        "translation": "koniec",
-        "note": ""
-    },
-    {
-        "phrase": "פָּסוּק",
-        "transcription": "",
-        "grammar": "",
-        "translation": "zdanie; wiersz",
-        "note": ""
+      "phrase": "פָּסוּק",
+      "transcription": "",
+      "grammar": "",
+      "translation": "zdanie; wiersz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     }
-]
-
+  ]
 }

@@ -11,399 +11,554 @@
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "adik",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
+      "grammar": "N",
+      "translation": "młodszy brat; młodsza siostra",
       "image": "",
       "audio": "",
       "video": "",
       "note": ""
     },
     {
-        "phrase": "adik",
+      "phrase": "bagus",
       "transcription": "",
-        "grammar": "n",
-        "translation": "młodszy brat; młodsza siostra",
-        "note": ""
+      "grammar": "Adj",
+      "translation": "miły, piękny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "bagus",
+      "phrase": "barang",
       "transcription": "",
-        "grammar": "adj",
-        "translation": "miły, piękny",
-        "note": ""
+      "grammar": "N",
+      "translation": "bagaż",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "barang",
+      "phrase": "bayar",
       "transcription": "",
-        "grammar": "n",
-        "translation": "bagaż",
-        "note": ""
+      "grammar": "V",
+      "translation": "płacić",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "bayar",
+      "phrase": "belakang",
       "transcription": "",
-        "grammar": "v",
-        "translation": "płacić",
-        "note": ""
+      "grammar": "N",
+      "translation": "tył",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "belakang",
+      "phrase": "bir",
       "transcription": "",
-        "grammar": "n",
-        "translation": "tył",
-        "note": ""
+      "grammar": "N",
+      "translation": "piwo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "bir",
+      "phrase": "bisa",
       "transcription": "",
-        "grammar": "n",
-        "translation": "piwo",
-        "note": ""
+      "grammar": "V",
+      "translation": "móc",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "bisa",
+      "phrase": "capek",
       "transcription": "",
-        "grammar": "v",
-        "translation": "móc",
-        "note": ""
+      "grammar": "Adj",
+      "translation": "zmęczony",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "capek",
+      "phrase": "contoh",
       "transcription": "",
-        "grammar": "adj",
-        "translation": "zmęczony",
-        "note": ""
+      "grammar": "N",
+      "translation": "przykład",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "contoh",
+      "phrase": "dan",
       "transcription": "",
-        "grammar": "n",
-        "translation": "przykład",
-        "note": ""
+      "grammar": "",
+      "translation": "i",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "dan",
+      "phrase": "dari",
       "transcription": "",
-        "grammar": "",
-        "translation": "i",
-        "note": ""
+      "grammar": "",
+      "translation": "z; od",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "dari",
+      "phrase": "datang",
       "transcription": "",
-        "grammar": "",
-        "translation": "z; od",
-        "note": ""
+      "grammar": "V",
+      "translation": "przychodzić",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "datang",
+      "phrase": "depan",
       "transcription": "",
-        "grammar": "v",
-        "translation": "przychodzić",
-        "note": ""
+      "grammar": "",
+      "translation": "przód",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "depan",
+      "phrase": "di",
       "transcription": "",
-        "grammar": "",
-        "translation": "przód",
-        "note": ""
+      "grammar": "",
+      "translation": "w",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "di",
+      "phrase": "di mana",
       "transcription": "",
-        "grammar": "",
-        "translation": "w",
-        "note": ""
+      "grammar": "",
+      "translation": "gdzie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "di mana",
+      "phrase": "di sini",
       "transcription": "",
-        "grammar": "",
-        "translation": "gdzie",
-        "note": ""
+      "grammar": "",
+      "translation": "tutaj",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "di sini",
+      "phrase": "dia",
       "transcription": "",
-        "grammar": "",
-        "translation": "tutaj",
-        "note": ""
+      "grammar": "",
+      "translation": "on; ona; ono",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "dia",
+      "phrase": "duduk",
       "transcription": "",
-        "grammar": "",
-        "translation": "on; ona; ono",
-        "note": ""
+      "grammar": "V",
+      "translation": "siedzieć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "duduk",
+      "phrase": "habis",
       "transcription": "",
-        "grammar": "v",
-        "translation": "siedzieć",
-        "note": ""
+      "grammar": "",
+      "translation": "po",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "habis",
+      "phrase": "Indonesia",
       "transcription": "",
-        "grammar": "",
-        "translation": "po",
-        "note": ""
+      "grammar": "N",
+      "translation": "Indonezja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "Indonesia",
+      "phrase": "ini",
       "transcription": "",
-        "grammar": "n",
-        "translation": "Indonezja",
-        "note": ""
+      "grammar": "",
+      "translation": "to; ten",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "ini",
+      "phrase": "itu",
       "transcription": "",
-        "grammar": "",
-        "translation": "to; ten",
-        "note": ""
+      "grammar": "",
+      "translation": "tamto; tamten",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "itu",
+      "phrase": "jam",
       "transcription": "",
-        "grammar": "",
-        "translation": "tamto; tamten",
-        "note": ""
+      "grammar": "N",
+      "translation": "godzina; zegar",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "jam",
+      "phrase": "jawaban",
       "transcription": "",
-        "grammar": "n",
-        "translation": "godzina; zegar",
-        "note": ""
+      "grammar": "N",
+      "translation": "odpowiedzi",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "jawaban",
+      "phrase": "juga",
       "transcription": "",
-        "grammar": "n",
-        "translation": "odpowiedzi",
-        "note": ""
+      "grammar": "",
+      "translation": "także, też",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "juga",
+      "phrase": "kantor",
       "transcription": "",
-        "grammar": "",
-        "translation": "także, też",
-        "note": ""
+      "grammar": "N",
+      "translation": "biuro",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kantor",
+      "phrase": "ke",
       "transcription": "",
-        "grammar": "n",
-        "translation": "biuro",
-        "note": ""
+      "grammar": "",
+      "translation": "do, ku",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "ke",
+      "phrase": "kita",
       "transcription": "",
-        "grammar": "",
-        "translation": "do, ku",
-        "note": ""
+      "grammar": "",
+      "translation": "my",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kita",
+      "phrase": "kopi",
       "transcription": "",
-        "grammar": "",
-        "translation": "my",
-        "note": ""
+      "grammar": "N",
+      "translation": "kawa",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kopi",
+      "phrase": "lapangan",
       "transcription": "",
-        "grammar": "n",
-        "translation": "kawa",
-        "note": ""
+      "grammar": "N",
+      "translation": "pole",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "lapangan",
+      "phrase": "lapangan terbang",
       "transcription": "",
-        "grammar": "n",
-        "translation": "pole",
-        "note": ""
+      "grammar": "N",
+      "translation": "lotnisko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "lapangan terbang",
+      "phrase": "latihan",
       "transcription": "",
-        "grammar": "n",
-        "translation": "lotnisko",
-        "note": ""
+      "grammar": "N",
+      "translation": "ćwiczenie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "latihan",
+      "phrase": "latihan ucapan",
       "transcription": "",
-        "grammar": "n",
-        "translation": "ćwiczenie",
-        "note": ""
+      "grammar": "N",
+      "translation": "ćwiczenie ustne",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "latihan ucapan",
+      "phrase": "mau",
       "transcription": "",
-        "grammar": "n",
-        "translation": "ćwiczenie ustne",
-        "note": ""
+      "grammar": "V",
+      "translation": "chcieć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "mau",
+      "phrase": "minum",
       "transcription": "",
-        "grammar": "v",
-        "translation": "chcieć",
-        "note": ""
+      "grammar": "V",
+      "translation": "pić",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "minum",
+      "phrase": "mobil",
       "transcription": "",
-        "grammar": "v",
-        "translation": "pić",
-        "note": ""
+      "grammar": "V",
+      "translation": "samochód",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "mobil",
+      "phrase": "mulai",
       "transcription": "",
-        "grammar": "v",
-        "translation": "samochód",
-        "note": ""
+      "grammar": "V",
+      "translation": "zaczynać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "mulai",
+      "phrase": "naik",
       "transcription": "",
-        "grammar": "v",
-        "translation": "zaczynać",
-        "note": ""
+      "grammar": "V",
+      "translation": "wsiadać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "naik",
+      "phrase": "nama",
       "transcription": "",
-        "grammar": "v",
-        "translation": "wsiadać",
-        "note": ""
+      "grammar": "N",
+      "translation": "imię",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "nama",
+      "phrase": "pelajaran",
       "transcription": "",
-        "grammar": "n",
-        "translation": "imię",
-        "note": ""
+      "grammar": "N",
+      "translation": "lekcja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "pelajaran",
+      "phrase": "pergi",
       "transcription": "",
-        "grammar": "n",
-        "translation": "lekcja",
-        "note": ""
+      "grammar": "V",
+      "translation": "iść; jechać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "pergi",
+      "phrase": "pikir",
       "transcription": "",
-        "grammar": "v",
-        "translation": "iść; jechać",
-        "note": ""
+      "grammar": "V",
+      "translation": "myśleć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "pikir",
+      "phrase": "restoran",
       "transcription": "",
-        "grammar": "v",
-        "translation": "myśleć",
-        "note": ""
+      "grammar": "N",
+      "translation": "restauracja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "restoran",
+      "phrase": "satu",
       "transcription": "",
-        "grammar": "n",
-        "translation": "restauracja",
-        "note": ""
+      "grammar": "",
+      "translation": "jeden",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "satu",
+      "phrase": "saudara",
       "transcription": "",
-        "grammar": "",
-        "translation": "jeden",
-        "note": ""
+      "grammar": "N",
+      "translation": "ty; pan",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "saudara",
+      "phrase": "saya",
       "transcription": "",
-        "grammar": "n",
-        "translation": "ty; pan",
-        "note": ""
+      "grammar": "",
+      "translation": "ja",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "saya",
+      "phrase": "selamat datang di",
       "transcription": "",
-        "grammar": "",
-        "translation": "ja",
-        "note": ""
+      "grammar": "",
+      "translation": "witamy w",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "selamat datang di",
+      "phrase": "silakan",
       "transcription": "",
-        "grammar": "",
-        "translation": "witamy w",
-        "note": ""
+      "grammar": "",
+      "translation": "proszę",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "silakan",
+      "phrase": "suka",
       "transcription": "",
-        "grammar": "",
-        "translation": "proszę",
-        "note": ""
+      "grammar": "V",
+      "translation": "lubić",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "suka",
+      "phrase": "teh",
       "transcription": "",
-        "grammar": "v",
-        "translation": "lubić",
-        "note": ""
+      "grammar": "N",
+      "translation": "herbata",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "teh",
+      "phrase": "terbang",
       "transcription": "",
-        "grammar": "n",
-        "translation": "herbata",
-        "note": ""
+      "grammar": "V",
+      "translation": "latać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "terbang",
+      "phrase": "terima kasih",
       "transcription": "",
-        "grammar": "v",
-        "translation": "latać",
-        "note": ""
+      "grammar": "",
+      "translation": "dziękuję",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "terima kasih",
+      "phrase": "tidur",
       "transcription": "",
-        "grammar": "",
-        "translation": "dziękuję",
-        "note": ""
+      "grammar": "V",
+      "translation": "spać",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "tidur",
+      "phrase": "tiga",
       "transcription": "",
-        "grammar": "v",
-        "translation": "spać",
-        "note": ""
+      "grammar": "",
+      "translation": "trzy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "tiga",
+      "phrase": "ya",
       "transcription": "",
-        "grammar": "",
-        "translation": "trzy",
-        "note": ""
-    },
-    {
-        "phrase": "ya",
-      "transcription": "",
-        "grammar": "",
-        "translation": "tak",
-        "note": ""
+      "grammar": "",
+      "translation": "tak",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     }
-]
+  ]
 }

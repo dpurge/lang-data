@@ -11,371 +11,514 @@
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "air",
       "transcription": "",
       "grammar": "",
-      "translation": "",
+      "translation": "woda",
       "image": "",
       "audio": "",
       "video": "",
       "note": ""
     },
     {
-        "phrase": "air",
+      "phrase": "apakah",
       "transcription": "",
-        "grammar": "",
-        "translation": "woda",
-        "note": ""
+      "grammar": "",
+      "translation": "czy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "apakah",
+      "phrase": "awas",
       "transcription": "",
-        "grammar": "",
-        "translation": "czy",
-        "note": ""
+      "grammar": "",
+      "translation": "bądź ostrożny, strzeż się",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "awas",
+      "phrase": "ayam",
       "transcription": "",
-        "grammar": "",
-        "translation": "bądź ostrożny, strzeż się",
-        "note": ""
+      "grammar": "",
+      "translation": "kurczak",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "ayam",
+      "phrase": "ayam jago",
       "transcription": "",
-        "grammar": "",
-        "translation": "kurczak",
-        "note": ""
+      "grammar": "",
+      "translation": "kogut",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "ayam jago",
+      "phrase": "bebek",
       "transcription": "",
-        "grammar": "",
-        "translation": "kogut",
-        "note": ""
+      "grammar": "",
+      "translation": "kaczka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "bebek",
+      "phrase": "belum",
       "transcription": "",
-        "grammar": "",
-        "translation": "kaczka",
-        "note": ""
+      "grammar": "",
+      "translation": "jeszcze nie; zanim",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "belum",
+      "phrase": "biasa",
       "transcription": "",
-        "grammar": "",
-        "translation": "jeszcze nie; zanim",
-        "note": ""
+      "grammar": "",
+      "translation": "przywyknąć, przyzwyczaić się",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "biasa",
+      "phrase": "botol",
       "transcription": "",
-        "grammar": "",
-        "translation": "przywyknąć, przyzwyczaić się",
-        "note": ""
+      "grammar": "",
+      "translation": "butelka",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "botol",
+      "phrase": "bunga",
       "transcription": "",
-        "grammar": "",
-        "translation": "butelka",
-        "note": ""
+      "grammar": "",
+      "translation": "kwiat",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "bunga",
+      "phrase": "bunga anggerek",
       "transcription": "",
-        "grammar": "",
-        "translation": "kwiat",
-        "note": ""
+      "grammar": "",
+      "translation": "orchidea",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "bunga anggerek",
+      "phrase": "coba",
       "transcription": "",
-        "grammar": "",
-        "translation": "orchidea",
-        "note": ""
+      "grammar": "",
+      "translation": "próbować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "coba",
+      "phrase": "dengar",
       "transcription": "",
-        "grammar": "",
-        "translation": "próbować",
-        "note": ""
+      "grammar": "",
+      "translation": "słyszeć",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "dengar",
+      "phrase": "gereja",
       "transcription": "",
-        "grammar": "",
-        "translation": "słyszeć",
-        "note": ""
+      "grammar": "",
+      "translation": "kościół",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "gereja",
+      "phrase": "goreng",
       "transcription": "",
-        "grammar": "",
-        "translation": "kościół",
-        "note": ""
+      "grammar": "",
+      "translation": "smażony",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "goreng",
+      "phrase": "ikan",
       "transcription": "",
-        "grammar": "",
-        "translation": "smażony",
-        "note": ""
+      "grammar": "",
+      "translation": "ryba",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "ikan",
+      "phrase": "isteri",
       "transcription": "",
-        "grammar": "",
-        "translation": "ryba",
-        "note": ""
+      "grammar": "",
+      "translation": "żona",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "isteri",
+      "phrase": "kalau",
       "transcription": "",
-        "grammar": "",
-        "translation": "żona",
-        "note": ""
+      "grammar": "",
+      "translation": "jeśli",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kalau",
+      "phrase": "kambing",
       "transcription": "",
-        "grammar": "",
-        "translation": "jeśli",
-        "note": ""
+      "grammar": "",
+      "translation": "koza; owca",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kambing",
+      "phrase": "kebun",
       "transcription": "",
-        "grammar": "",
-        "translation": "koza; owca",
-        "note": ""
+      "grammar": "",
+      "translation": "ogród",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kebun",
+      "phrase": "kelapa",
       "transcription": "",
-        "grammar": "",
-        "translation": "ogród",
-        "note": ""
+      "grammar": "",
+      "translation": "orzech kokosowy",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kelapa",
+      "phrase": "kemudian",
       "transcription": "",
-        "grammar": "",
-        "translation": "orzech kokosowy",
-        "note": ""
+      "grammar": "",
+      "translation": "następnie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "kemudian",
+      "phrase": "laki-laki",
       "transcription": "",
-        "grammar": "",
-        "translation": "następnie",
-        "note": ""
+      "grammar": "",
+      "translation": "męski, mężczyzna",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "laki-laki",
+      "phrase": "makanan",
       "transcription": "",
-        "grammar": "",
-        "translation": "męski, mężczyzna",
-        "note": ""
+      "grammar": "",
+      "translation": "jedzenie, żywność",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "makanan",
+      "phrase": "masak",
       "transcription": "",
-        "grammar": "",
-        "translation": "jedzenie, żywność",
-        "note": ""
+      "grammar": "",
+      "translation": "gotować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "masak",
+      "phrase": "masih",
       "transcription": "",
-        "grammar": "",
-        "translation": "gotować",
-        "note": ""
+      "grammar": "",
+      "translation": "jeszcze",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "masih",
+      "phrase": "mata",
       "transcription": "",
-        "grammar": "",
-        "translation": "jeszcze",
-        "note": ""
+      "grammar": "",
+      "translation": "oko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "mata",
+      "phrase": "mata sapi",
       "transcription": "",
-        "grammar": "",
-        "translation": "oko",
-        "note": ""
+      "grammar": "",
+      "translation": "smażone jajko",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "mata sapi",
+      "phrase": "merah",
       "transcription": "",
-        "grammar": "",
-        "translation": "smażone jajko",
-        "note": ""
+      "grammar": "",
+      "translation": "czerwony",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "merah",
+      "phrase": "mesjid",
       "transcription": "",
-        "grammar": "",
-        "translation": "czerwony",
-        "note": ""
+      "grammar": "",
+      "translation": "meczet",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "mesjid",
+      "phrase": "muka",
       "transcription": "",
-        "grammar": "",
-        "translation": "meczet",
-        "note": ""
+      "grammar": "",
+      "translation": "twarz; przód",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "muka",
+      "phrase": "nasi",
       "transcription": "",
-        "grammar": "",
-        "translation": "twarz; przód",
-        "note": ""
+      "grammar": "",
+      "translation": "ryż",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "nasi",
+      "phrase": "pagi",
       "transcription": "",
-        "grammar": "",
-        "translation": "ryż",
-        "note": ""
+      "grammar": "",
+      "translation": "poranek",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "pagi",
+      "phrase": "panas",
       "transcription": "",
-        "grammar": "",
-        "translation": "poranek",
-        "note": ""
+      "grammar": "",
+      "translation": "gorący",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "panas",
+      "phrase": "pedas",
       "transcription": "",
-        "grammar": "",
-        "translation": "gorący",
-        "note": ""
+      "grammar": "",
+      "translation": "pikantny",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "pedas",
+      "phrase": "piara",
       "transcription": "",
-        "grammar": "",
-        "translation": "pikantny",
-        "note": ""
+      "grammar": "",
+      "translation": "hodować",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "piara",
+      "phrase": "pisang",
       "transcription": "",
-        "grammar": "",
-        "translation": "hodować",
-        "note": ""
+      "grammar": "",
+      "translation": "banan",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "pisang",
+      "phrase": "pohon",
       "transcription": "",
-        "grammar": "",
-        "translation": "banan",
-        "note": ""
+      "grammar": "",
+      "translation": "drzewo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "pohon",
+      "phrase": "rasa",
       "transcription": "",
-        "grammar": "",
-        "translation": "drzewo",
-        "note": ""
+      "grammar": "",
+      "translation": "smak",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "rasa",
+      "phrase": "rendah",
       "transcription": "",
-        "grammar": "",
-        "translation": "smak",
-        "note": ""
+      "grammar": "",
+      "translation": "niski",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "rendah",
+      "phrase": "sapi",
       "transcription": "",
-        "grammar": "",
-        "translation": "niski",
-        "note": ""
+      "grammar": "",
+      "translation": "krowa",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "sapi",
+      "phrase": "sarapan",
       "transcription": "",
-        "grammar": "",
-        "translation": "krowa",
-        "note": ""
+      "grammar": "",
+      "translation": "śniadanie",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "sarapan",
+      "phrase": "sekali",
       "transcription": "",
-        "grammar": "",
-        "translation": "śniadanie",
-        "note": ""
+      "grammar": "",
+      "translation": "bardzo",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "sekali",
+      "phrase": "selalu",
       "transcription": "",
-        "grammar": "",
-        "translation": "bardzo",
-        "note": ""
+      "grammar": "",
+      "translation": "zawsze",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "selalu",
+      "phrase": "selamat pagi",
       "transcription": "",
-        "grammar": "",
-        "translation": "zawsze",
-        "note": ""
+      "grammar": "",
+      "translation": "dzień dobry",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": "rano"
     },
     {
-        "phrase": "selamat pagi",
+      "phrase": "suami",
       "transcription": "",
-        "grammar": "",
-        "translation": "dzień dobry",
-        "note": "rano"
+      "grammar": "",
+      "translation": "mąż",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "suami",
+      "phrase": "suara",
       "transcription": "",
-        "grammar": "",
-        "translation": "mąż",
-        "note": ""
+      "grammar": "",
+      "translation": "głos",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "suara",
+      "phrase": "tanam",
       "transcription": "",
-        "grammar": "",
-        "translation": "głos",
-        "note": ""
+      "grammar": "",
+      "translation": "zasadzić",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "tanam",
+      "phrase": "tinggi",
       "transcription": "",
-        "grammar": "",
-        "translation": "zasadzić",
-        "note": ""
+      "grammar": "",
+      "translation": "wysoki",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "tinggi",
+      "phrase": "tukang kebun",
       "transcription": "",
-        "grammar": "",
-        "translation": "wysoki",
-        "note": ""
+      "grammar": "",
+      "translation": "ogrodnik",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     },
     {
-        "phrase": "tukang kebun",
+      "phrase": "waduh!",
       "transcription": "",
-        "grammar": "",
-        "translation": "ogrodnik",
-        "note": ""
-    },
-    {
-        "phrase": "waduh!",
-      "transcription": "",
-        "grammar": "",
-        "translation": "O Boże!",
-        "note": ""
+      "grammar": "",
+      "translation": "O Boże!",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
     }
-]
+  ]
 }
