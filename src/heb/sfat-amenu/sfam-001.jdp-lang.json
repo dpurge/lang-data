@@ -25,98 +25,98 @@
         "transcription": "",
         "grammar": "n",
         "translation": "dom",
-        "notes": ""
+        "note": ""
     },
     {
         "phrase": "חֶדֶר",
         "transcription": "",
         "grammar": "n",
         "translation": "pokój, izba",
-        "notes": ""
+        "note": ""
     },
     {
         "phrase": "יֶשׁ",
         "transcription": "",
         "grammar": "",
         "translation": "jest, istnieje, są",
-        "notes": ""
+        "note": ""
     },
     {
         "phrase": "תִקְרָה",
         "transcription": "",
         "grammar": "n",
         "translation": "powała, sufit",
-        "notes": ""
+        "note": ""
     },
     {
         "phrase": "רִצְפָּה",
         "transcription": "",
         "grammar": "n",
         "translation": "podłoga",
-        "notes": ""
+        "note": ""
     },
     {
         "phrase": "קִיר",
         "transcription": "",
         "grammar": "n",
         "translation": "ściana",
-        "notes": ""
+        "note": ""
     },
     {
         "phrase": "דֶּלֶת",
         "transcription": "",
         "grammar": "n",
         "translation": "drzwi",
-        "notes": ""
+        "note": ""
     },
     {
         "phrase": "חַלּוֹן",
         "transcription": "",
         "grammar": "n",
         "translation": "okno",
-        "notes": ""
+        "note": ""
     },
     {
         "phrase": "בְּ",
         "transcription": "",
         "grammar": "",
         "translation": "w; z",
-        "notes": ""
+        "note": ""
     },
     {
         "phrase": "וְ",
         "transcription": "",
         "grammar": "",
         "translation": "i; a",
-        "notes": ""
+        "note": ""
     },
     {
         "phrase": "מַה?",
         "transcription": "",
         "grammar": "",
         "translation": "co? jak?",
-        "notes": ""
+        "note": ""
     },
     {
         "phrase": "אַיֵּה?",
         "transcription": "",
         "grammar": "",
         "translation": "gdzie?",
-        "notes": ""
+        "note": ""
     },
     {
         "phrase": "שְׁאֵלָה",
         "transcription": "",
         "grammar": "n",
         "translation": "pytanie",
-        "notes": ""
+        "note": ""
     },
     {
         "phrase": "תְּשׁוּבָה",
         "transcription": "",
         "grammar": "n",
         "translation": "odpowiedź",
-        "notes": ""
+        "note": ""
     }
 ]
 
