@@ -19,6 +19,189 @@
       "audio": "",
       "video": "",
       "note": ""
-    }
-  ]
+    },
+	{
+		"phrase": "看",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "病人",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "别",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "别客气",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "无聊",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "睡觉",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "做梦",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "幸福",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "背",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "生词",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "考试",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "累",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "死",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "换",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "医院",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "住",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "得",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "问",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "医生",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "对了",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "炒",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "菜",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "面条",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "身体",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "麦当劳",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "方法",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	}
+]
+
 }

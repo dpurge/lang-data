@@ -19,6 +19,161 @@
       "audio": "",
       "video": "",
       "note": ""
-    }
-  ]
+    },
+	{
+		"phrase": "图书馆",
+		"transcription": "túshūguǎn",
+		"grammar": "",
+		"translation": "biblioteka",
+		"notes": ""
+	},
+	{
+		"phrase": "在",
+		"transcription": "zài",
+		"grammar": "",
+		"translation": "być w",
+		"notes": ""
+	},
+	{
+		"phrase": "哪儿",
+		"transcription": "nǎr",
+		"grammar": "",
+		"translation": "gdzie?",
+		"notes": ""
+	},
+	{
+		"phrase": "请问",
+		"transcription": "qǐng wèn",
+		"grammar": "",
+		"translation": "przepraszam, czy mogę zapytać",
+		"notes": ""
+	},
+	{
+		"phrase": "对不起",
+		"transcription": "duìbuqǐ",
+		"grammar": "",
+		"translation": "przepraszam, przykro mi",
+		"notes": ""
+	},
+	{
+		"phrase": "这儿",
+		"transcription": "zhèr",
+		"grammar": "",
+		"translation": "tutaj",
+		"notes": ""
+	},
+	{
+		"phrase": "知道",
+		"transcription": "zhīdào",
+		"grammar": "",
+		"translation": "wiedzieć",
+		"notes": ""
+	},
+	{
+		"phrase": "没关系",
+		"transcription": "méi guānxi",
+		"grammar": "",
+		"translation": "nic nie szkodzi",
+		"notes": ""
+	},
+	{
+		"phrase": "教学",
+		"transcription": "jiàoxué",
+		"grammar": "",
+		"translation": "nauczanie",
+		"notes": ""
+	},
+	{
+		"phrase": "楼",
+		"transcription": "lóu",
+		"grammar": "",
+		"translation": "budynek",
+		"notes": ""
+	},
+	{
+		"phrase": "那儿",
+		"transcription": "nàr",
+		"grammar": "",
+		"translation": "tam",
+		"notes": ""
+	},
+	{
+		"phrase": "宿舍",
+		"transcription": "sùshè",
+		"grammar": "",
+		"translation": "internat, akademik",
+		"notes": ""
+	},
+	{
+		"phrase": "北边",
+		"transcription": "běibian",
+		"grammar": "",
+		"translation": "północ",
+		"notes": ""
+	},
+	{
+		"phrase": "左边",
+		"transcription": "zuǒbian",
+		"grammar": "",
+		"translation": "lewa strona",
+		"notes": ""
+	},
+	{
+		"phrase": "右边",
+		"transcription": "yòubian",
+		"grammar": "",
+		"translation": "prawa strona",
+		"notes": ""
+	},
+	{
+		"phrase": "不用",
+		"transcription": "bú yòng",
+		"grammar": "",
+		"translation": "nie trzeba",
+		"notes": ""
+	},
+	{
+		"phrase": "不用谢",
+		"transcription": "bú yòng xiè",
+		"grammar": "",
+		"translation": "nie ma za co",
+		"notes": "odpowiedź na podziękowanie"
+	},
+	{
+		"phrase": "东边",
+		"transcription": "dōngbian",
+		"grammar": "",
+		"translation": "wschód",
+		"notes": ""
+	},
+	{
+		"phrase": "南边",
+		"transcription": "nánbian",
+		"grammar": "",
+		"translation": "południe",
+		"notes": ""
+	},
+	{
+		"phrase": "邮局",
+		"transcription": "yóujú",
+		"grammar": "",
+		"translation": "poczta, urząd pocztowy",
+		"notes": ""
+	},
+	{
+		"phrase": "商店",
+		"transcription": "shāngdiàn",
+		"grammar": "",
+		"translation": "sklep",
+		"notes": ""
+	},
+	{
+		"phrase": "下边",
+		"transcription": "xiàbian",
+		"grammar": "",
+		"translation": "pod spodem",
+		"notes": ""
+	}
+]
+
 }

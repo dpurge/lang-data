@@ -19,6 +19,168 @@
       "audio": "",
       "video": "",
       "note": ""
-    }
-  ]
+    },
+	{
+		"phrase": "刘",
+		"transcription": "Liú",
+		"grammar": "",
+		"translation": "Liu",
+		"notes": "chińskie nazwisko"
+	},
+	{
+		"phrase": "东方大学",
+		"transcription": "Dōngfāng dàxué",
+		"grammar": "",
+		"translation": "uniwersytet Dongfang",
+		"notes": ""
+	},
+	{
+		"phrase": "美国",
+		"transcription": "Měiguó",
+		"grammar": "",
+		"translation": "Ameryka",
+		"notes": ""
+	},
+	{
+		"phrase": "加拿大",
+		"transcription": "Jiānádà",
+		"grammar": "",
+		"translation": "Kanada",
+		"notes": ""
+	},
+	{
+		"phrase": "中国",
+		"transcription": "Zhōngguó",
+		"grammar": "",
+		"translation": "Chiny",
+		"notes": ""
+	},
+	{
+		"phrase": "那",
+		"transcription": "nà",
+		"grammar": "",
+		"translation": "tamto",
+		"notes": ""
+	},
+	{
+		"phrase": "书",
+		"transcription": "shū",
+		"grammar": "",
+		"translation": "książka",
+		"notes": ""
+	},
+	{
+		"phrase": "谁",
+		"transcription": "shuí",
+		"grammar": "",
+		"translation": "kto?",
+		"notes": ""
+	},
+	{
+		"phrase": "同屋",
+		"transcription": "tóngwū",
+		"grammar": "",
+		"translation": "współlokator",
+		"notes": ""
+	},
+	{
+		"phrase": "汉语",
+		"transcription": "Hànyǔ",
+		"grammar": "",
+		"translation": "język chiński",
+		"notes": ""
+	},
+	{
+		"phrase": "课本",
+		"transcription": "kèběn",
+		"grammar": "",
+		"translation": "podręcznik",
+		"notes": ""
+	},
+	{
+		"phrase": "词典",
+		"transcription": "cídiǎn",
+		"grammar": "",
+		"translation": "słownik",
+		"notes": ""
+	},
+	{
+		"phrase": "就是",
+		"transcription": "jiù shì",
+		"grammar": "",
+		"translation": "to znaczy, to jest",
+		"notes": ""
+	},
+	{
+		"phrase": "日语",
+		"transcription": "Rìyǔ",
+		"grammar": "",
+		"translation": "język japoński",
+		"notes": ""
+	},
+	{
+		"phrase": "这",
+		"transcription": "zhè",
+		"grammar": "",
+		"translation": "to",
+		"notes": ""
+	},
+	{
+		"phrase": "磁带",
+		"transcription": "cídài",
+		"grammar": "",
+		"translation": "taśma, kaseta",
+		"notes": "muzyczna"
+	},
+	{
+		"phrase": "音乐",
+		"transcription": "yīnyuè",
+		"grammar": "",
+		"translation": "muzyka",
+		"notes": ""
+	},
+	{
+		"phrase": "朋友",
+		"transcription": "péngyou",
+		"grammar": "",
+		"translation": "kolega, przyjaciel",
+		"notes": ""
+	},
+	{
+		"phrase": "汉日词典",
+		"transcription": "Hàn-Rì cídiǎn",
+		"grammar": "",
+		"translation": "słownik chińsko-japoński",
+		"notes": ""
+	},
+	{
+		"phrase": "日本",
+		"transcription": "Rìběn",
+		"grammar": "",
+		"translation": "Japonia",
+		"notes": ""
+	},
+	{
+		"phrase": "英语",
+		"transcription": "Yīngyǔ",
+		"grammar": "",
+		"translation": "język angielski",
+		"notes": ""
+	},
+	{
+		"phrase": "法语",
+		"transcription": "Fǎyǔ",
+		"grammar": "",
+		"translation": "język francuski",
+		"notes": ""
+	},
+	{
+		"phrase": "本",
+		"transcription": "běn",
+		"grammar": "",
+		"translation": "",
+		"notes": "klasyfikator książek"
+	}
+]
+
 }

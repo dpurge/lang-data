@@ -19,6 +19,168 @@
       "audio": "",
       "video": "",
       "note": ""
-    }
-  ]
+    },
+	{
+		"phrase": "明天",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "课",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "上午",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "没有",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "下午",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "自行车",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "吧",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "事",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "可是",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "没问题",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "钥匙",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "车",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "下",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "车棚",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "里",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "后便",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "今天",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "晚上",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "时间",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "电影院",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "听说",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "有名",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "当然",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	}
+]
+
 }

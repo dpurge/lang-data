@@ -19,6 +19,196 @@
       "audio": "",
       "video": "",
       "note": ""
-    }
-  ]
+    },
+	{
+		"phrase": "现在",
+		"transcription": "xiànzài",
+		"grammar": "",
+		"translation": "teraz",
+		"notes": ""
+	},
+	{
+		"phrase": "几",
+		"transcription": "jǐ",
+		"grammar": "",
+		"translation": "ile?",
+		"notes": ""
+	},
+	{
+		"phrase": "点",
+		"transcription": "diǎn",
+		"grammar": "",
+		"translation": "godzina",
+		"notes": ""
+	},
+	{
+		"phrase": "大学",
+		"transcription": "dàxué",
+		"grammar": "",
+		"translation": "uniwersytet",
+		"notes": ""
+	},
+	{
+		"phrase": "早上",
+		"transcription": "zǎoshang",
+		"grammar": "",
+		"translation": "rano, poranek",
+		"notes": ""
+	},
+	{
+		"phrase": "上课",
+		"transcription": "shàng kè",
+		"grammar": "",
+		"translation": "iść na lekcje, mieć lekcje",
+		"notes": ""
+	},
+	{
+		"phrase": "部分",
+		"transcription": "bùfēn",
+		"grammar": "",
+		"translation": "część",
+		"notes": ""
+	},
+	{
+		"phrase": "大部分",
+		"transcription": "dà bùfēn",
+		"grammar": "",
+		"translation": "większość",
+		"notes": ""
+	},
+	{
+		"phrase": "八",
+		"transcription": "bā",
+		"grammar": "",
+		"translation": "osiem",
+		"notes": ""
+	},
+	{
+		"phrase": "五十",
+		"transcription": "wǔshí",
+		"grammar": "",
+		"translation": "pięćdziesiąt",
+		"notes": ""
+	},
+	{
+		"phrase": "分",
+		"transcription": "fēn",
+		"grammar": "",
+		"translation": "minuta",
+		"notes": ""
+	},
+	{
+		"phrase": "我们",
+		"transcription": "wǒmen",
+		"grammar": "",
+		"translation": "my",
+		"notes": ""
+	},
+	{
+		"phrase": "学校",
+		"transcription": "xuéxiào",
+		"grammar": "",
+		"translation": "szkoła",
+		"notes": ""
+	},
+	{
+		"phrase": "九",
+		"transcription": "jiǔ",
+		"grammar": "",
+		"translation": "dziewięć",
+		"notes": ""
+	},
+	{
+		"phrase": "下课",
+		"transcription": "xià kè",
+		"grammar": "",
+		"translation": "kończyć lekcje",
+		"notes": ""
+	},
+	{
+		"phrase": "十",
+		"transcription": "shí",
+		"grammar": "",
+		"translation": "dziesięć",
+		"notes": ""
+	},
+	{
+		"phrase": "半",
+		"transcription": "bàn",
+		"grammar": "",
+		"translation": "połowa",
+		"notes": ""
+	},
+	{
+		"phrase": "太。。。了",
+		"transcription": "tài ... le",
+		"grammar": "",
+		"translation": "zbyt, za",
+		"notes": ""
+	},
+	{
+		"phrase": "早",
+		"transcription": "zǎo",
+		"grammar": "",
+		"translation": "wcześnie",
+		"notes": ""
+	},
+	{
+		"phrase": "电影",
+		"transcription": "diànyǐng",
+		"grammar": "",
+		"translation": "film",
+		"notes": ""
+	},
+	{
+		"phrase": "开始",
+		"transcription": "kāishǐ",
+		"grammar": "",
+		"translation": "zaczynać (się)",
+		"notes": ""
+	},
+	{
+		"phrase": "六",
+		"transcription": "liù",
+		"grammar": "",
+		"translation": "sześć",
+		"notes": ""
+	},
+	{
+		"phrase": "差",
+		"transcription": "chà",
+		"grammar": "",
+		"translation": "brakować, nie wystarczać",
+		"notes": ""
+	},
+	{
+		"phrase": "一",
+		"transcription": "yī",
+		"grammar": "",
+		"translation": "jeden",
+		"notes": ""
+	},
+	{
+		"phrase": "刻",
+		"transcription": "kè",
+		"grammar": "",
+		"translation": "ćwierć",
+		"notes": ""
+	},
+	{
+		"phrase": "一会儿",
+		"transcription": "yíhuìr",
+		"grammar": "",
+		"translation": "za chwilę",
+		"notes": ""
+	},
+	{
+		"phrase": "见",
+		"transcription": "jiàn",
+		"grammar": "",
+		"translation": "zobaczyć, spotkać",
+		"notes": ""
+	}
+]
+
 }

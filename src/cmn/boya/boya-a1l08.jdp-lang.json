@@ -19,6 +19,196 @@
       "audio": "",
       "video": "",
       "note": ""
-    }
-  ]
+    },
+	{
+		"phrase": "电话",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "号码",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "多少",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "周末",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "呀",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "不过",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "怎么",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "走",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "和",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "路",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "公共汽车",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "都",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "到",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "骑",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "快",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "十五",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "分钟",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "校园",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "东南",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "东",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "号",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "房间",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "室",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "手机",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "等",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "学生证",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	},
+	{
+		"phrase": "要",
+		"transcription": "",
+		"grammar": "",
+		"translation": "",
+		"notes": ""
+	}
+]
+
 }

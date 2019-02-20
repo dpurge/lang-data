@@ -19,6 +19,161 @@
       "audio": "",
       "video": "",
       "note": ""
-    }
-  ]
+    },
+	{
+		"phrase": "西边",
+		"transcription": "xībian",
+		"grammar": "",
+		"translation": "zachód",
+		"notes": ""
+	},
+	{
+		"phrase": "专业",
+		"transcription": "zhuānyè",
+		"grammar": "",
+		"translation": "specjlność",
+		"notes": ""
+	},
+	{
+		"phrase": "国际",
+		"transcription": "guójì",
+		"grammar": "",
+		"translation": "międzynarodowy",
+		"notes": ""
+	},
+	{
+		"phrase": "关系",
+		"transcription": "guānxi",
+		"grammar": "",
+		"translation": "znajomości, układy",
+		"notes": ""
+	},
+	{
+		"phrase": "中文",
+		"transcription": "Zhōngwén",
+		"grammar": "",
+		"translation": "język chiński",
+		"notes": ""
+	},
+	{
+		"phrase": "系",
+		"transcription": "xì",
+		"grammar": "",
+		"translation": "wydział, departament",
+		"notes": ""
+	},
+	{
+		"phrase": "研究生",
+		"transcription": "yánjiūshēng",
+		"grammar": "",
+		"translation": "magistrant, słuchacz studiów magisterskich",
+		"notes": ""
+	},
+	{
+		"phrase": "现代",
+		"transcription": "xiàndài",
+		"grammar": "",
+		"translation": "współczesny, nowoczesny",
+		"notes": ""
+	},
+	{
+		"phrase": "文学",
+		"transcription": "wénxué",
+		"grammar": "",
+		"translation": "literatura",
+		"notes": ""
+	},
+	{
+		"phrase": "有",
+		"transcription": "yǒu",
+		"grammar": "",
+		"translation": "mieć",
+		"notes": ""
+	},
+	{
+		"phrase": "空儿",
+		"transcription": "kòngr",
+		"grammar": "",
+		"translation": "czas wolny",
+		"notes": ""
+	},
+	{
+		"phrase": "时候",
+		"transcription": "shíhou",
+		"grammar": "",
+		"translation": "czas, chwila",
+		"notes": ""
+	},
+	{
+		"phrase": "欢迎",
+		"transcription": "huānyíng",
+		"grammar": "",
+		"translation": "witaj",
+		"notes": ""
+	},
+	{
+		"phrase": "去",
+		"transcription": "qù",
+		"grammar": "",
+		"translation": "iść, jechać",
+		"notes": ""
+	},
+	{
+		"phrase": "玩儿",
+		"transcription": "wánr",
+		"grammar": "",
+		"translation": "bawić się",
+		"notes": ""
+	},
+	{
+		"phrase": "卫生间",
+		"transcription": "wèishēngjiān",
+		"grammar": "",
+		"translation": "toaleta, WC",
+		"notes": ""
+	},
+	{
+		"phrase": "",
+		"transcription": "jiàoshì",
+		"grammar": "",
+		"translation": "klasa, sala wykładowa",
+		"notes": ""
+	},
+	{
+		"phrase": "旁边",
+		"transcription": "pángbiān",
+		"grammar": "",
+		"translation": "bok",
+		"notes": ""
+	},
+	{
+		"phrase": "东边",
+		"transcription": "dōngbian",
+		"grammar": "",
+		"translation": "wschód",
+		"notes": ""
+	},
+	{
+		"phrase": "对",
+		"transcription": "dùi",
+		"grammar": "",
+		"translation": "tak jest",
+		"notes": ""
+	},
+	{
+		"phrase": "中华大学",
+		"transcription": "Zhōnghuá dàxué",
+		"grammar": "",
+		"translation": "uniwersytet Zhonghua",
+		"notes": ""
+	},
+	{
+		"phrase": "现在",
+		"transcription": "xiànzài",
+		"grammar": "",
+		"translation": "teraz",
+		"notes": ""
+	}
+]
+
 }
