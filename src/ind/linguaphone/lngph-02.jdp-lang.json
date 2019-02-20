@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "lngph02"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+        "phrase": "ada",
+        "grammar": "",
+        "translation": "mieć; istnieć, być",
+        "notes": ""
+    },
+    {
+        "phrase": "apa",
+        "grammar": "",
+        "translation": "co",
+        "notes": ""
+    },
+    {
+        "phrase": "asing",
+        "grammar": "",
+        "translation": "cudzoziemski",
+        "notes": ""
+    },
+    {
+        "phrase": "baik",
+        "grammar": "",
+        "translation": "dobry",
+        "notes": ""
+    },
+    {
+        "phrase": "beli",
+        "grammar": "",
+        "translation": "kupować",
+        "notes": ""
+    },
+    {
+        "phrase": "berhenti",
+        "grammar": "",
+        "translation": "zatrzymać",
+        "notes": ""
+    },
+    {
+        "phrase": "biasa",
+        "grammar": "",
+        "translation": "zwykle",
+        "notes": ""
+    },
+    {
+        "phrase": "buah",
+        "grammar": "",
+        "translation": "owoc",
+        "notes": ""
+    },
+    {
+        "phrase": "daerah",
+        "grammar": "",
+        "translation": "kraj, wieś",
+        "notes": ""
+    },
+    {
+        "phrase": "desa",
+        "grammar": "",
+        "translation": "wioska",
+        "notes": ""
+    },
+    {
+        "phrase": "dua",
+        "grammar": "",
+        "translation": "dwa",
+        "notes": ""
+    },
+    {
+        "phrase": "empat",
+        "grammar": "",
+        "translation": "cztery",
+        "notes": ""
+    },
+    {
+        "phrase": "harus",
+        "grammar": "",
+        "translation": "musieć",
+        "notes": ""
+    },
+    {
+        "phrase": "kami",
+        "grammar": "",
+        "translation": "my",
+        "notes": "bez ciebie"
+    },
+    {
+        "phrase": "lihat",
+        "grammar": "",
+        "translation": "patrzeć, widzieć",
+        "notes": ""
+    },
+    {
+        "phrase": "mahal",
+        "grammar": "",
+        "translation": "drogi",
+        "notes": ""
+    },
+    {
+        "phrase": "makan",
+        "grammar": "",
+        "translation": "jeść",
+        "notes": ""
+    },
+    {
+        "phrase": "mari",
+        "grammar": "",
+        "translation": "chodź...",
+        "notes": "zachęta"
+    },
+    {
+        "phrase": "mengapa",
+        "grammar": "",
+        "translation": "dlaczego",
+        "notes": ""
+    },
+    {
+        "phrase": "murah",
+        "grammar": "",
+        "translation": "tani",
+        "notes": ""
+    },
+    {
+        "phrase": "orang",
+        "grammar": "",
+        "translation": "człowiek, osoba",
+        "notes": ""
+    },
+    {
+        "phrase": "pepaya",
+        "grammar": "",
+        "translation": "papaja",
+        "notes": ""
+    },
+    {
+        "phrase": "perjalanan",
+        "grammar": "",
+        "translation": "podróż",
+        "notes": ""
+    },
+    {
+        "phrase": "pikir",
+        "grammar": "",
+        "translation": "myśleć, sądzić, być zdania",
+        "notes": ""
+    },
+    {
+        "phrase": "rambutan",
+        "grammar": "",
+        "translation": "rambutan",
+        "notes": ""
+    },
+    {
+        "phrase": "segar",
+        "grammar": "",
+        "translation": "rzeźki, odświerzony",
+        "notes": ""
+    },
+    {
+        "phrase": "sekarang",
+        "grammar": "",
+        "translation": "teraz",
+        "notes": ""
+    },
+    {
+        "phrase": "sore",
+        "grammar": "",
+        "translation": "popołudnie",
+        "notes": ""
+    },
+    {
+        "phrase": "sudah",
+        "grammar": "",
+        "translation": "już",
+        "notes": ""
+    },
+    {
+        "phrase": "suka",
+        "grammar": "",
+        "translation": "lubić",
+        "notes": ""
+    },
+    {
+        "phrase": "tetapi",
+        "grammar": "",
+        "translation": "ale",
+        "notes": ""
+    },
+    {
+        "phrase": "tidak",
+        "grammar": "",
+        "translation": "nie",
+        "notes": ""
+    },
+    {
+        "phrase": "warung",
+        "grammar": "",
+        "translation": "stragan",
+        "notes": ""
+    }
+]
+}

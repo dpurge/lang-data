@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "sfam001"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+        "phrase": "מוֹרֶה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "nauczyciel",
+        "notes": ""
+    },
+    {
+        "phrase": "תַּלמִיד",
+        "transcription": "",
+        "grammar": "",
+        "translation": "uczeń",
+        "notes": ""
+    },
+    {
+        "phrase": "מְלַמֵּד",
+        "transcription": "",
+        "grammar": "",
+        "translation": "uczy, uczący",
+        "notes": ""
+    },
+    {
+        "phrase": "יוֹם",
+        "transcription": "",
+        "grammar": "",
+        "translation": "dzień",
+        "notes": ""
+    },
+    {
+        "phrase": "חָרוּץ",
+        "transcription": "",
+        "grammar": "",
+        "translation": "pilny",
+        "notes": ""
+    },
+    {
+        "phrase": "לוֹמֵד",
+        "transcription": "",
+        "grammar": "",
+        "translation": "uczy się, uczący się",
+        "notes": ""
+    },
+    {
+        "phrase": "הֵיטֵב",
+        "transcription": "",
+        "grammar": "",
+        "translation": "dobrze",
+        "notes": ""
+    },
+    {
+        "phrase": "רַבִּים",
+        "transcription": "",
+        "grammar": "",
+        "translation": "wiele, liczni",
+        "notes": ""
+    },
+    {
+        "phrase": "הַיּוֹם",
+        "transcription": "",
+        "grammar": "",
+        "translation": "dziś",
+        "notes": ""
+    },
+    {
+        "phrase": "יָפֶה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "ładny",
+        "notes": ""
+    },
+    {
+        "phrase": "מַתָּנָה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "dar, podarunek",
+        "notes": ""
+    },
+    {
+        "phrase": "קוֹרֵא",
+        "transcription": "",
+        "grammar": "",
+        "translation": "czyta, czytający",
+        "notes": ""
+    },
+    {
+        "phrase": "סִפּוּר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "opowiadanie, opowieść",
+        "notes": ""
+    },
+    {
+        "phrase": "אֲשֶׁר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "który",
+        "notes": ""
+    },
+    {
+        "phrase": "מָתַי?",
+        "transcription": "",
+        "grammar": "",
+        "translation": "kiedy?",
+        "notes": ""
+    },
+    {
+        "phrase": "מַדוּעַ",
+        "transcription": "",
+        "grammar": "",
+        "translation": "dlaczego?",
+        "notes": ""
+    }
+]
+
+}

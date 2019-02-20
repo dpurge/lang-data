@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "sfam001"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+        "phrase": "כּוֹתֵב",
+        "transcription": "",
+        "grammar": "",
+        "translation": "pisze, piszący",
+        "notes": ""
+    },
+    {
+        "phrase": "שִׁעוּר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "zadanie, lekcja",
+        "notes": ""
+    },
+    {
+        "phrase": "מַחְבֶּרֶת",
+        "transcription": "",
+        "grammar": "",
+        "translation": "zeszyt",
+        "notes": ""
+    },
+    {
+        "phrase": "נְיָר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "papier",
+        "notes": ""
+    },
+    {
+        "phrase": "עֵט",
+        "transcription": "",
+        "grammar": "",
+        "translation": "pióro",
+        "notes": ""
+    },
+    {
+        "phrase": "רָהִיט",
+        "transcription": "",
+        "grammar": "",
+        "translation": "mebel, sprzęt",
+        "notes": ""
+    },
+    {
+        "phrase": "יוֹשֵׁב",
+        "transcription": "",
+        "grammar": "",
+        "translation": "siedzi, siedzący",
+        "notes": ""
+    },
+    {
+        "phrase": "כִּסֵּא",
+        "transcription": "",
+        "grammar": "",
+        "translation": "krzesło",
+        "notes": ""
+    },
+    {
+        "phrase": "תַּרְגּוּם",
+        "transcription": "",
+        "grammar": "",
+        "translation": "tłumaczenie",
+        "notes": ""
+    },
+    {
+        "phrase": "אוֹ",
+        "transcription": "",
+        "grammar": "",
+        "translation": "albo",
+        "notes": ""
+    },
+    {
+        "phrase": "עִפָּרוֹן",
+        "transcription": "",
+        "grammar": "",
+        "translation": "ołówek",
+        "notes": ""
+    },
+    {
+        "phrase": "לוּחַ",
+        "transcription": "",
+        "grammar": "",
+        "translation": "tablica",
+        "notes": ""
+    },
+    {
+        "phrase": "קִרְטוֹן",
+        "transcription": "",
+        "grammar": "",
+        "translation": "kreda",
+        "notes": ""
+    },
+    {
+        "phrase": "",
+        "transcription": "gir",
+        "grammar": "",
+        "translation": "kreda",
+        "notes": ""
+    },
+    {
+        "phrase": "חֶרֶט",
+        "transcription": "",
+        "grammar": "",
+        "translation": "rysik, rylec",
+        "notes": ""
+    },
+    {
+        "phrase": "שֻׁלְחָן",
+        "transcription": "",
+        "grammar": "",
+        "translation": "stół",
+        "notes": ""
+    },
+    {
+        "phrase": "אֲרוֹן",
+        "transcription": "",
+        "grammar": "",
+        "translation": "szafa",
+        "notes": ""
+    },
+    {
+        "phrase": "אֵצֶל",
+        "transcription": "",
+        "grammar": "",
+        "translation": "przy, obok, u",
+        "notes": ""
+    },
+    {
+        "phrase": "אֶל",
+        "transcription": "",
+        "grammar": "",
+        "translation": "do; przy, obok",
+        "notes": ""
+    }
+]
+
+}

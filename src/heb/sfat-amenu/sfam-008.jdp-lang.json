@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "sfam001"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+        "phrase": "נַעֲרָה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "dziewczyna",
+        "notes": ""
+    },
+    {
+        "phrase": "אִכָּר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "rolnik, wieśniak",
+        "notes": ""
+    },
+    {
+        "phrase": "חוֹרֵשׁ",
+        "transcription": "",
+        "grammar": "",
+        "translation": "orze",
+        "notes": ""
+    },
+    {
+        "phrase": "אֲדָמָה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "rola, ziemia",
+        "notes": ""
+    },
+    {
+        "phrase": "מַחֲרֵשָׁה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "pług",
+        "notes": ""
+    },
+    {
+        "phrase": "רוֹעֶה",
+        "transcription": "",
+        "grammar": "n",
+        "translation": "pasterz",
+        "notes": ""
+    },
+    {
+        "phrase": "רוֹעֶה",
+        "transcription": "",
+        "grammar": "v",
+        "translation": "pasie",
+        "notes": ""
+    },
+    {
+        "phrase": "עֵדֶר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "trzoda",
+        "notes": ""
+    },
+    {
+        "phrase": "בַּנָאִי",
+        "transcription": "",
+        "grammar": "",
+        "translation": "murarz",
+        "notes": ""
+    },
+    {
+        "phrase": "בּוֹנֶה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "buduje",
+        "notes": ""
+    },
+    {
+        "phrase": "לְבֵנָה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "cegła",
+        "notes": ""
+    },
+    {
+        "phrase": "אוֹפֶה",
+        "transcription": "",
+        "grammar": "n",
+        "translation": "piekarz",
+        "notes": ""
+    },
+    {
+        "phrase": "אוֹפֶה",
+        "transcription": "",
+        "grammar": "v",
+        "translation": "piecze",
+        "notes": ""
+    },
+    {
+        "phrase": "לֶחֶם",
+        "transcription": "",
+        "grammar": "",
+        "translation": "chleb",
+        "notes": ""
+    },
+    {
+        "phrase": "קֶמַח",
+        "transcription": "",
+        "grammar": "",
+        "translation": "mąka",
+        "notes": ""
+    },
+    {
+        "phrase": "אוֹכֵל",
+        "transcription": "",
+        "grammar": "",
+        "translation": "je, jedzący",
+        "notes": ""
+    },
+    {
+        "phrase": "עֻגָה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "ciastko",
+        "notes": ""
+    },
+    {
+        "phrase": "גָּר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "mieszka, mieszkający",
+        "notes": ""
+    },
+    {
+        "phrase": "כְּפָר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "wieś",
+        "notes": ""
+    },
+    {
+        "phrase": "דּוֹד",
+        "transcription": "",
+        "grammar": "",
+        "translation": "stryj, wuj",
+        "notes": ""
+    },
+    {
+        "phrase": "עִיר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "miasto",
+        "notes": ""
+    }
+]
+
+}

@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "lngph03"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+        "phrase": "adat",
+        "grammar": "",
+        "translation": "zwyczaj",
+        "notes": ""
+    },
+    {
+        "phrase": "akan",
+        "grammar": "",
+        "translation": "będę",
+        "notes": "oznaczenie czasu przyszłego"
+    },
+    {
+        "phrase": "atur",
+        "grammar": "",
+        "translation": "dopilnować, zorganizować",
+        "notes": ""
+    },
+    {
+        "phrase": "bak",
+        "grammar": "",
+        "translation": "pojemnik na wodę do mycia",
+        "notes": ""
+    },
+    {
+        "phrase": "banyak",
+        "grammar": "",
+        "translation": "dużo",
+        "notes": ""
+    },
+    {
+        "phrase": "bawa",
+        "grammar": "",
+        "translation": "zabrać ze sobą, przynieść",
+        "notes": ""
+    },
+    {
+        "phrase": "besar",
+        "grammar": "",
+        "translation": "duży",
+        "notes": ""
+    },
+    {
+        "phrase": "buka",
+        "grammar": "",
+        "translation": "zdjąć obuwie",
+        "notes": ""
+    },
+    {
+        "phrase": "bukan",
+        "grammar": "",
+        "translation": "nie",
+        "notes": ""
+    },
+    {
+        "phrase": "cuci",
+        "grammar": "",
+        "translation": "prać; myć",
+        "notes": ""
+    },
+    {
+        "phrase": "di samping",
+        "grammar": "",
+        "translation": "obok",
+        "notes": ""
+    },
+    {
+        "phrase": "dia",
+        "grammar": "",
+        "translation": "on",
+        "notes": ""
+    },
+    {
+        "phrase": "enak",
+        "grammar": "",
+        "translation": "smaczny",
+        "notes": ""
+    },
+    {
+        "phrase": "gigi",
+        "grammar": "",
+        "translation": "zęby",
+        "notes": ""
+    },
+    {
+        "phrase": "hitam",
+        "grammar": "",
+        "translation": "czarny",
+        "notes": ""
+    },
+    {
+        "phrase": "Indonesia",
+        "grammar": "",
+        "translation": "indonezyjski",
+        "notes": ""
+    },
+    {
+        "phrase": "jangan",
+        "grammar": "",
+        "translation": "nie",
+        "notes": "zakaz"
+    },
+    {
+        "phrase": "kakus",
+        "grammar": "",
+        "translation": "ubikacja",
+        "notes": ""
+    },
+    {
+        "phrase": "kamar",
+        "grammar": "",
+        "translation": "pokój, izba",
+        "notes": ""
+    },
+    {
+        "phrase": "kamar duduk",
+        "grammar": "",
+        "translation": "salon",
+        "notes": ""
+    },
+    {
+        "phrase": "kamar makan",
+        "grammar": "",
+        "translation": "jadalnia",
+        "notes": ""
+    },
+    {
+        "phrase": "kamar tamu",
+        "grammar": "",
+        "translation": "pokój gościnny",
+        "notes": ""
+    },
+    {
+        "phrase": "kamar tidur",
+        "grammar": "",
+        "translation": "sypialnia",
+        "notes": ""
+    },
+    {
+        "phrase": "kami",
+        "grammar": "",
+        "translation": "my",
+        "notes": ""
+    },
+    {
+        "phrase": "kapan",
+        "grammar": "",
+        "translation": "kiedy",
+        "notes": ""
+    },
+    {
+        "phrase": "kecil",
+        "grammar": "",
+        "translation": "mały",
+        "notes": ""
+    },
+    {
+        "phrase": "ketan",
+        "grammar": "",
+        "translation": "kleisty ryż",
+        "notes": ""
+    },
+    {
+        "phrase": "kita",
+        "grammar": "",
+        "translation": "my",
+        "notes": ""
+    },
+    {
+        "phrase": "kueh",
+        "grammar": "",
+        "translation": "ciasto, ciastko",
+        "notes": ""
+    },
+    {
+        "phrase": "mandi",
+        "grammar": "",
+        "translation": "brać kąpiel",
+        "notes": ""
+    },
+    {
+        "phrase": "masak",
+        "grammar": "",
+        "translation": "gotować",
+        "notes": ""
+    },
+    {
+        "phrase": "masuk",
+        "grammar": "",
+        "translation": "wchodzić",
+        "notes": ""
+    },
+    {
+        "phrase": "pakai",
+        "grammar": "",
+        "translation": "nosić ubranie",
+        "notes": ""
+    },
+    {
+        "phrase": "pembantu",
+        "grammar": "",
+        "translation": "pomocnik; pracownik",
+        "notes": ""
+    },
+    {
+        "phrase": "perempuan",
+        "grammar": "",
+        "translation": "kobieta",
+        "notes": ""
+    },
+    {
+        "phrase": "perlu",
+        "grammar": "",
+        "translation": "potrzebować szybko",
+        "notes": ""
+    },
+    {
+        "phrase": "rumah",
+        "grammar": "",
+        "translation": "dom",
+        "notes": ""
+    },
+    {
+        "phrase": "sangat",
+        "grammar": "",
+        "translation": "bardzo",
+        "notes": ""
+    },
+    {
+        "phrase": "selop",
+        "grammar": "",
+        "translation": "śliski",
+        "notes": ""
+    },
+    {
+        "phrase": "senang",
+        "grammar": "",
+        "translation": "zadowolony",
+        "notes": ""
+    },
+    {
+        "phrase": "sepatu",
+        "grammar": "",
+        "translation": "buty, obuwie",
+        "notes": ""
+    },
+    {
+        "phrase": "siapa",
+        "grammar": "",
+        "translation": "kto",
+        "notes": ""
+    },
+    {
+        "phrase": "sikat",
+        "grammar": "",
+        "translation": "szczoteczka, pędzel",
+        "notes": ""
+    },
+    {
+        "phrase": "tamu",
+        "grammar": "",
+        "translation": "gość",
+        "notes": ""
+    },
+    {
+        "phrase": "tiba",
+        "grammar": "",
+        "translation": "przybyć",
+        "notes": ""
+    },
+    {
+        "phrase": "tuan",
+        "grammar": "",
+        "translation": "pan",
+        "notes": ""
+    },
+    {
+        "phrase": "tubruk",
+        "grammar": "",
+        "translation": "po turecku",
+        "notes": "kawa"
+    },
+    {
+        "phrase": "tunggu",
+        "grammar": "",
+        "translation": "czekać",
+        "notes": ""
+    },
+    {
+        "phrase": "untuk",
+        "grammar": "",
+        "translation": "dla",
+        "notes": ""
+    }
+]
+}

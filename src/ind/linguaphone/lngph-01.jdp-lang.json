@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "lngph01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+        "phrase": "adik",
+        "grammar": "n",
+        "translation": "młodszy brat; młodsza siostra",
+        "notes": ""
+    },
+    {
+        "phrase": "bagus",
+        "grammar": "adj",
+        "translation": "miły, piękny",
+        "notes": ""
+    },
+    {
+        "phrase": "barang",
+        "grammar": "n",
+        "translation": "bagaż",
+        "notes": ""
+    },
+    {
+        "phrase": "bayar",
+        "grammar": "v",
+        "translation": "płacić",
+        "notes": ""
+    },
+    {
+        "phrase": "belakang",
+        "grammar": "n",
+        "translation": "tył",
+        "notes": ""
+    },
+    {
+        "phrase": "bir",
+        "grammar": "n",
+        "translation": "piwo",
+        "notes": ""
+    },
+    {
+        "phrase": "bisa",
+        "grammar": "v",
+        "translation": "móc",
+        "notes": ""
+    },
+    {
+        "phrase": "capek",
+        "grammar": "adj",
+        "translation": "zmęczony",
+        "notes": ""
+    },
+    {
+        "phrase": "contoh",
+        "grammar": "n",
+        "translation": "przykład",
+        "notes": ""
+    },
+    {
+        "phrase": "dan",
+        "grammar": "",
+        "translation": "i",
+        "notes": ""
+    },
+    {
+        "phrase": "dari",
+        "grammar": "",
+        "translation": "z; od",
+        "notes": ""
+    },
+    {
+        "phrase": "datang",
+        "grammar": "v",
+        "translation": "przychodzić",
+        "notes": ""
+    },
+    {
+        "phrase": "depan",
+        "grammar": "",
+        "translation": "przód",
+        "notes": ""
+    },
+    {
+        "phrase": "di",
+        "grammar": "",
+        "translation": "w",
+        "notes": ""
+    },
+    {
+        "phrase": "di mana",
+        "grammar": "",
+        "translation": "gdzie",
+        "notes": ""
+    },
+    {
+        "phrase": "di sini",
+        "grammar": "",
+        "translation": "tutaj",
+        "notes": ""
+    },
+    {
+        "phrase": "dia",
+        "grammar": "",
+        "translation": "on; ona; ono",
+        "notes": ""
+    },
+    {
+        "phrase": "duduk",
+        "grammar": "v",
+        "translation": "siedzieć",
+        "notes": ""
+    },
+    {
+        "phrase": "habis",
+        "grammar": "",
+        "translation": "po",
+        "notes": ""
+    },
+    {
+        "phrase": "Indonesia",
+        "grammar": "n",
+        "translation": "Indonezja",
+        "notes": ""
+    },
+    {
+        "phrase": "ini",
+        "grammar": "",
+        "translation": "to; ten",
+        "notes": ""
+    },
+    {
+        "phrase": "itu",
+        "grammar": "",
+        "translation": "tamto; tamten",
+        "notes": ""
+    },
+    {
+        "phrase": "jam",
+        "grammar": "n",
+        "translation": "godzina; zegar",
+        "notes": ""
+    },
+    {
+        "phrase": "jawaban",
+        "grammar": "n",
+        "translation": "odpowiedzi",
+        "notes": ""
+    },
+    {
+        "phrase": "juga",
+        "grammar": "",
+        "translation": "także, też",
+        "notes": ""
+    },
+    {
+        "phrase": "kantor",
+        "grammar": "n",
+        "translation": "biuro",
+        "notes": ""
+    },
+    {
+        "phrase": "ke",
+        "grammar": "",
+        "translation": "do, ku",
+        "notes": ""
+    },
+    {
+        "phrase": "kita",
+        "grammar": "",
+        "translation": "my",
+        "notes": ""
+    },
+    {
+        "phrase": "kopi",
+        "grammar": "n",
+        "translation": "kawa",
+        "notes": ""
+    },
+    {
+        "phrase": "lapangan",
+        "grammar": "n",
+        "translation": "pole",
+        "notes": ""
+    },
+    {
+        "phrase": "lapangan terbang",
+        "grammar": "n",
+        "translation": "lotnisko",
+        "notes": ""
+    },
+    {
+        "phrase": "latihan",
+        "grammar": "n",
+        "translation": "ćwiczenie",
+        "notes": ""
+    },
+    {
+        "phrase": "latihan ucapan",
+        "grammar": "n",
+        "translation": "ćwiczenie ustne",
+        "notes": ""
+    },
+    {
+        "phrase": "mau",
+        "grammar": "v",
+        "translation": "chcieć",
+        "notes": ""
+    },
+    {
+        "phrase": "minum",
+        "grammar": "v",
+        "translation": "pić",
+        "notes": ""
+    },
+    {
+        "phrase": "mobil",
+        "grammar": "v",
+        "translation": "samochód",
+        "notes": ""
+    },
+    {
+        "phrase": "mulai",
+        "grammar": "v",
+        "translation": "zaczynać",
+        "notes": ""
+    },
+    {
+        "phrase": "naik",
+        "grammar": "v",
+        "translation": "wsiadać",
+        "notes": ""
+    },
+    {
+        "phrase": "nama",
+        "grammar": "n",
+        "translation": "imię",
+        "notes": ""
+    },
+    {
+        "phrase": "pelajaran",
+        "grammar": "n",
+        "translation": "lekcja",
+        "notes": ""
+    },
+    {
+        "phrase": "pergi",
+        "grammar": "v",
+        "translation": "iść; jechać",
+        "notes": ""
+    },
+    {
+        "phrase": "pikir",
+        "grammar": "v",
+        "translation": "myśleć",
+        "notes": ""
+    },
+    {
+        "phrase": "restoran",
+        "grammar": "n",
+        "translation": "restauracja",
+        "notes": ""
+    },
+    {
+        "phrase": "satu",
+        "grammar": "",
+        "translation": "jeden",
+        "notes": ""
+    },
+    {
+        "phrase": "saudara",
+        "grammar": "n",
+        "translation": "ty; pan",
+        "notes": ""
+    },
+    {
+        "phrase": "saya",
+        "grammar": "",
+        "translation": "ja",
+        "notes": ""
+    },
+    {
+        "phrase": "selamat datang di",
+        "grammar": "",
+        "translation": "witamy w",
+        "notes": ""
+    },
+    {
+        "phrase": "silakan",
+        "grammar": "",
+        "translation": "proszę",
+        "notes": ""
+    },
+    {
+        "phrase": "suka",
+        "grammar": "v",
+        "translation": "lubić",
+        "notes": ""
+    },
+    {
+        "phrase": "teh",
+        "grammar": "n",
+        "translation": "herbata",
+        "notes": ""
+    },
+    {
+        "phrase": "terbang",
+        "grammar": "v",
+        "translation": "latać",
+        "notes": ""
+    },
+    {
+        "phrase": "terima kasih",
+        "grammar": "",
+        "translation": "dziękuję",
+        "notes": ""
+    },
+    {
+        "phrase": "tidur",
+        "grammar": "v",
+        "translation": "spać",
+        "notes": ""
+    },
+    {
+        "phrase": "tiga",
+        "grammar": "",
+        "translation": "trzy",
+        "notes": ""
+    },
+    {
+        "phrase": "ya",
+        "grammar": "",
+        "translation": "tak",
+        "notes": ""
+    }
+]
+}

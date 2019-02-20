@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "sfam001"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+        "phrase": "אָנֹכִי",
+        "transcription": "",
+        "grammar": "",
+        "translation": "ja",
+        "notes": ""
+    },
+    {
+        "phrase": "אוֹהֵב",
+        "transcription": "",
+        "grammar": "",
+        "translation": "kocha, lubi",
+        "notes": ""
+    },
+    {
+        "phrase": "נָתַן",
+        "transcription": "",
+        "grammar": "",
+        "translation": "dał",
+        "notes": ""
+    },
+    {
+        "phrase": "סֵפֶר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "książka",
+        "notes": ""
+    },
+    {
+        "phrase": "כָּל־",
+        "transcription": "",
+        "grammar": "",
+        "translation": "każdy, wszystek, cały",
+        "notes": ""
+    },
+    {
+        "phrase": "אֶחַד",
+        "transcription": "",
+        "grammar": "",
+        "translation": "jeden",
+        "notes": ""
+    },
+    {
+        "phrase": "גָּבֹהַּ",
+        "transcription": "",
+        "grammar": "",
+        "translation": "wysoki",
+        "notes": ""
+    },
+    {
+        "phrase": "אֲרֻבָּה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "komin",
+        "notes": ""
+    },
+    {
+        "phrase": "מִן",
+        "transcription": "",
+        "grammar": "",
+        "translation": "od, z",
+        "notes": ""
+    },
+    {
+        "phrase": "יוֹצֵא",
+        "transcription": "",
+        "grammar": "",
+        "translation": "wychodzi",
+        "notes": ""
+    },
+    {
+        "phrase": "עָשָׁן",
+        "transcription": "",
+        "grammar": "",
+        "translation": "dym",
+        "notes": ""
+    },
+    {
+        "phrase": "כִּי",
+        "transcription": "",
+        "grammar": "",
+        "translation": "bo, ponieważ",
+        "notes": ""
+    },
+    {
+        "phrase": "נַעַר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "chłopiec",
+        "notes": ""
+    },
+    {
+        "phrase": "רַע",
+        "transcription": "",
+        "grammar": "",
+        "translation": "zły",
+        "notes": ""
+    },
+    {
+        "phrase": "עוֹד",
+        "transcription": "",
+        "grammar": "",
+        "translation": "jeszcze",
+        "notes": ""
+    },
+    {
+        "phrase": "כַּמָּה?",
+        "transcription": "",
+        "grammar": "",
+        "translation": "ile?",
+        "notes": ""
+    },
+    {
+        "phrase": "לָמָּה?",
+        "transcription": "",
+        "grammar": "",
+        "translation": "dlaczego? po co?",
+        "notes": ""
+    },
+    {
+        "phrase": "אֶת־מִי?",
+        "transcription": "",
+        "grammar": "",
+        "translation": "kogo?",
+        "notes": ""
+    }
+]
+
+}

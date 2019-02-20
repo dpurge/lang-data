@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "sfam001"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+        "phrase": "בֵּית־הַסֵפֶר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "szkoła",
+        "notes": ""
+    },
+    {
+        "phrase": "סַפסָל",
+        "transcription": "",
+        "grammar": "",
+        "translation": "ławka",
+        "notes": ""
+    },
+    {
+        "phrase": "מְסַפֵר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "opowiada",
+        "notes": ""
+    },
+    {
+        "phrase": "מוֹרָה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "nauczycielka",
+        "notes": ""
+    },
+    {
+        "phrase": "אִשָּׁה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "niewiasta, kobieta",
+        "notes": ""
+    },
+    {
+        "phrase": "אָחוֹת",
+        "transcription": "",
+        "grammar": "",
+        "translation": "siostra",
+        "notes": ""
+    },
+    {
+        "phrase": "תַּלְמִידָה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "uczennica",
+        "notes": ""
+    },
+    {
+        "phrase": "נָתְנָה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "ona dała",
+        "notes": ""
+    },
+    {
+        "phrase": "חַיַּט",
+        "transcription": "",
+        "grammar": "",
+        "translation": "krawiec",
+        "notes": ""
+    },
+    {
+        "phrase": "תּוֹפֵר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "szyje, szyjący",
+        "notes": ""
+    },
+    {
+        "phrase": "בֶּגֶד",
+        "transcription": "",
+        "grammar": "",
+        "translation": "ubranie, odzież",
+        "notes": ""
+    },
+    {
+        "phrase": "חֲלִיפָה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "ubranie",
+        "notes": ""
+    },
+    {
+        "phrase": "מַחַט",
+        "transcription": "",
+        "grammar": "",
+        "translation": "igła",
+        "notes": ""
+    },
+    {
+        "phrase": "סַנְדְּלָר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "szewc",
+        "notes": ""
+    },
+    {
+        "phrase": "עוֹשֶׂה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "robi",
+        "notes": ""
+    },
+    {
+        "phrase": "נַעַל",
+        "transcription": "",
+        "grammar": "",
+        "translation": "bucik",
+        "notes": ""
+    },
+    {
+        "phrase": "עוֹר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "skóra",
+        "notes": ""
+    },
+    {
+        "phrase": "נַגָּר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "stolarz",
+        "notes": ""
+    },
+    {
+        "phrase": "עֵץ",
+        "transcription": "",
+        "grammar": "",
+        "translation": "drzewo",
+        "notes": ""
+    },
+    {
+        "phrase": "אֵיזֶה?",
+        "transcription": "",
+        "grammar": "",
+        "translation": "jaki? który?",
+        "notes": ""
+    }
+]
+
+}

@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "sfam001"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+        "phrase": "אָב",
+        "transcription": "",
+        "grammar": "",
+        "translation": "ojciec",
+        "notes": ""
+    },
+    {
+        "phrase": "אֵם",
+        "transcription": "",
+        "grammar": "",
+        "translation": "matka",
+        "notes": ""
+    },
+    {
+        "phrase": "רַק",
+        "transcription": "",
+        "grammar": "",
+        "translation": "tylko",
+        "notes": ""
+    },
+    {
+        "phrase": "הוּא",
+        "transcription": "",
+        "grammar": "",
+        "translation": "on (jest)",
+        "notes": ""
+    },
+    {
+        "phrase": "אִישׁ",
+        "transcription": "",
+        "grammar": "",
+        "translation": "mężczyzna, człowiek",
+        "notes": ""
+    },
+    {
+        "phrase": "טוֹב",
+        "transcription": "",
+        "grammar": "",
+        "translation": "dobry",
+        "notes": ""
+    },
+    {
+        "phrase": "מְאֹד",
+        "transcription": "",
+        "grammar": "",
+        "translation": "bardzo",
+        "notes": ""
+    },
+    {
+        "phrase": "אָח",
+        "transcription": "",
+        "grammar": "",
+        "translation": "brat",
+        "notes": ""
+    },
+    {
+        "phrase": "אֲשֶׁר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "który",
+        "notes": ""
+    },
+    {
+        "phrase": "חָכָם",
+        "transcription": "",
+        "grammar": "",
+        "translation": "mądry",
+        "notes": ""
+    },
+    {
+        "phrase": "קָטָן",
+        "transcription": "",
+        "grammar": "",
+        "translation": "mały",
+        "notes": ""
+    },
+    {
+        "phrase": "גָּדוֹל",
+        "transcription": "",
+        "grammar": "",
+        "translation": "duży, wielki",
+        "notes": ""
+    },
+    {
+        "phrase": "גַּם",
+        "transcription": "",
+        "grammar": "",
+        "translation": "także",
+        "notes": ""
+    },
+    {
+        "phrase": "הֲ? הַאִם?",
+        "transcription": "",
+        "grammar": "",
+        "translation": "czy?",
+        "notes": ""
+    },
+    {
+        "phrase": "כֵּן",
+        "transcription": "",
+        "grammar": "",
+        "translation": "tak, tak jest",
+        "notes": ""
+    },
+    {
+        "phrase": "לֹא",
+        "transcription": "",
+        "grammar": "",
+        "translation": "nie",
+        "notes": ""
+    },
+    {
+        "phrase": "מִי?",
+        "transcription": "",
+        "grammar": "",
+        "translation": "kto?",
+        "notes": ""
+    },
+    {
+        "phrase": "שָׁנָה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "rok",
+        "notes": ""
+    }
+]
+
+}

@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "format": "language",
+    "version": 1
+  },
+  "data": {
+    "name": "Hebrew",
+	"code": "heb"
+  }
+}

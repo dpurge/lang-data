@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "sfam001"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+        "phrase": "תַּנּוּר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "piec",
+        "notes": ""
+    },
+    {
+        "phrase": "עַל",
+        "transcription": "",
+        "grammar": "",
+        "translation": "na, nad",
+        "notes": ""
+    },
+    {
+        "phrase": "גַּג",
+        "transcription": "",
+        "grammar": "",
+        "translation": "dach",
+        "notes": ""
+    },
+    {
+        "phrase": "תְּמוּנָה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "obraz",
+        "notes": ""
+    },
+    {
+        "phrase": "עוֹמֵד",
+        "transcription": "",
+        "grammar": "",
+        "translation": "stoi, stojący",
+        "notes": ""
+    },
+    {
+        "phrase": "פִּנָּה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "kąt",
+        "notes": ""
+    },
+    {
+        "phrase": "אֵיפֹה?",
+        "transcription": "",
+        "grammar": "",
+        "translation": "gdzie?",
+        "notes": ""
+    },
+    {
+        "phrase": "שֶׁל־מִי?",
+        "transcription": "",
+        "grammar": "",
+        "translation": "czyj?",
+        "notes": ""
+    },
+    {
+        "phrase": "לְ",
+        "transcription": "",
+        "grammar": "",
+        "translation": "do",
+        "notes": ""
+    }
+]
+
+}

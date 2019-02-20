@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "sfam001"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+        "phrase": "אַיִן",
+        "transcription": "",
+        "grammar": "",
+        "translation": "nie ma",
+        "notes": ""
+    },
+    {
+        "phrase": "גַּן",
+        "transcription": "",
+        "grammar": "",
+        "translation": "ogród",
+        "notes": ""
+    },
+    {
+        "phrase": "הַרְבֵּה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "dużo",
+        "notes": ""
+    },
+    {
+        "phrase": "עָנָף",
+        "transcription": "",
+        "grammar": "",
+        "translation": "gałąź",
+        "notes": ""
+    },
+    {
+        "phrase": "עָלֶה",
+        "transcription": "",
+        "grammar": "",
+        "translation": "liść",
+        "notes": ""
+    },
+    {
+        "phrase": "פְּרִי",
+        "transcription": "",
+        "grammar": "",
+        "translation": "owoc",
+        "notes": ""
+    },
+    {
+        "phrase": "צוֹמֵחַ",
+        "transcription": "",
+        "grammar": "",
+        "translation": "rośnie",
+        "notes": ""
+    },
+    {
+        "phrase": "נוֹתֵן",
+        "transcription": "",
+        "grammar": "",
+        "translation": "daje",
+        "notes": ""
+    },
+    {
+        "phrase": "רֵיחַ",
+        "transcription": "",
+        "grammar": "",
+        "translation": "zapach, woń",
+        "notes": ""
+    },
+    {
+        "phrase": "יַעַר",
+        "transcription": "",
+        "grammar": "",
+        "translation": "las",
+        "notes": ""
+    },
+    {
+        "phrase": "נָעִים",
+        "transcription": "",
+        "grammar": "",
+        "translation": "przyjemny",
+        "notes": ""
+    },
+    {
+        "phrase": "פֶּרַח",
+        "transcription": "",
+        "grammar": "",
+        "translation": "kwiat",
+        "notes": ""
+    },
+    {
+        "phrase": "סוֹף",
+        "transcription": "",
+        "grammar": "",
+        "translation": "koniec",
+        "notes": ""
+    },
+    {
+        "phrase": "פָּסוּק",
+        "transcription": "",
+        "grammar": "",
+        "translation": "zdanie; wiersz",
+        "notes": ""
+    }
+]
+
+}
