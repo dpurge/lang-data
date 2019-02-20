@@ -6,12 +6,12 @@
     "source": "",
     "status": "pending",
     "tags": [
-      "hyky-a1-01"
+      "hyky-b1-02"
     ]
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "刺儿",
       "transcription": "",
       "grammar": "",
       "translation": "",
@@ -20,188 +20,255 @@
       "video": "",
       "note": ""
     },
-	{
-		"phrase": "刺儿",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "醒",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "哈欠",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "对岸",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "树枝",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "笼子",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "觉",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "闲",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "做伴",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "懒",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "遛",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "盖",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "人生",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "受惊",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "掀",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "画眉",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "扑",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "围",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "气功",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "做操",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "凑",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "功夫",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "比划",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "武术",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "拳",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "比试",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	}
-]
-
+    {
+      "phrase": "醒",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "哈欠",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "对岸",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "树枝",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "笼子",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "觉",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "闲",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "做伴",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "懒",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "遛",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "盖",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "人生",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "受惊",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "掀",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "画眉",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "扑",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "围",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "气功",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "做操",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "凑",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "功夫",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "比划",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "武术",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "拳",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "比试",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
 }

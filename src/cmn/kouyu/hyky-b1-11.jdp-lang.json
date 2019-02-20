@@ -6,12 +6,12 @@
     "source": "",
     "status": "pending",
     "tags": [
-      "hyky-a1-01"
+      "hyky-b1-11"
     ]
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "观念",
       "transcription": "",
       "grammar": "",
       "translation": "",
@@ -20,209 +20,285 @@
       "video": "",
       "note": ""
     },
-	{
-		"phrase": "观念",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "性格",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "善良",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "贤惠",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "体贴",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "娶",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "危机",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "满",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "亲热",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "婚姻",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "基础",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "实习",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "注重",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "实际",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "一生",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "寄托",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "未来",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "地位",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "甚至",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "现代化",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "家具",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "真心",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "想象",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "按照",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "考虑",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "嫁",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "离婚",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "再婚",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "看不起",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	}
-]
-
+    {
+      "phrase": "性格",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "善良",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "贤惠",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "体贴",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "娶",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "危机",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "满",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "亲热",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "婚姻",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "基础",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "实习",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "注重",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "实际",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "一生",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "寄托",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "未来",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "地位",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "甚至",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "现代化",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "家具",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "真心",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "想象",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "按照",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "考虑",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "嫁",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "离婚",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "再婚",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "看不起",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
 }

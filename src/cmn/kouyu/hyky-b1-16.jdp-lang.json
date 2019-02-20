@@ -6,12 +6,12 @@
     "source": "",
     "status": "pending",
     "tags": [
-      "hyky-a1-01"
+      "hyky-b1-16"
     ]
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "推荐",
       "transcription": "",
       "grammar": "",
       "translation": "",
@@ -20,202 +20,275 @@
       "video": "",
       "note": ""
     },
-	{
-		"phrase": "推荐",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "最佳",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "路线",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "转眼",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "多亏",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "暂时",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "秘密",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "保密",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "驾照",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "热门",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "冰雕",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "闻名",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "雕",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "五颜六色",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "通话",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "热带",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "气温",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "风光",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "迷人",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "名胜",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "古迹",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "原始",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "遗址",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "帝王",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "陵墓",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "秀丽",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "省会",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "订",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	}
-]
-
+    {
+      "phrase": "最佳",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "路线",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "转眼",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "多亏",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "暂时",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "秘密",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "保密",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "驾照",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "热门",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "冰雕",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "闻名",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "雕",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "五颜六色",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "通话",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "热带",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "气温",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "风光",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "迷人",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "名胜",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "古迹",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "原始",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "遗址",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "帝王",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "陵墓",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "秀丽",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "省会",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "订",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
 }

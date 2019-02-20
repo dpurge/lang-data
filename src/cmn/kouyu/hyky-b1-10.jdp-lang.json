@@ -6,12 +6,12 @@
     "source": "",
     "status": "pending",
     "tags": [
-      "hyky-a1-01"
+      "hyky-b1-10"
     ]
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "样品",
       "transcription": "",
       "grammar": "",
       "translation": "",
@@ -20,230 +20,315 @@
       "video": "",
       "note": ""
     },
-	{
-		"phrase": "样品",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "面料",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "高档",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "尺寸",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "打扮",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "庄重",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "宴会",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "协调",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "场合",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "晚礼服",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "怀疑",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "穿着",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "牛仔裤",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "短处",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "搭配",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "高跟鞋",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "健美裤",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "透",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "别扭",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "衣冠不整",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "统一",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "校服",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "背心",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "拖鞋",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "比基尼",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "泳装",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "好奇",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "与众不同",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "个性",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "满足",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "乞丐",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "声誉",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	}
-]
-
+    {
+      "phrase": "面料",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "高档",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "尺寸",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "打扮",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "庄重",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "宴会",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "协调",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "场合",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "晚礼服",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "怀疑",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "穿着",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "牛仔裤",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "短处",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "搭配",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "高跟鞋",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "健美裤",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "透",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "别扭",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "衣冠不整",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "统一",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "校服",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "背心",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "拖鞋",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "比基尼",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "泳装",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "好奇",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "与众不同",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "个性",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "满足",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "乞丐",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "声誉",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
 }

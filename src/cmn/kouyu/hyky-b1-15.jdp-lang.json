@@ -6,12 +6,12 @@
     "source": "",
     "status": "pending",
     "tags": [
-      "hyky-a1-01"
+      "hyky-b1-15"
     ]
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "光线",
       "transcription": "",
       "grammar": "",
       "translation": "",
@@ -20,230 +20,315 @@
       "video": "",
       "note": ""
     },
-	{
-		"phrase": "光线",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "优雅",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "补助",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "赞助",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "大手大脚",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "逢年过节",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "消费",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "后来",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "重视",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "物质",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "戏剧",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "经济",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "实力",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "目标",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "攒",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "舍不得",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "存",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "债券",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "保险",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "放心",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "信用卡",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "贷款",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "股票",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "风险",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "赔",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "动员",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "彩票",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "蒙人",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "宁可",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "透支",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "开导",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	},
-	{
-		"phrase": "巴不得",
-		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
-	}
-]
-
+    {
+      "phrase": "优雅",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "补助",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "赞助",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "大手大脚",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "逢年过节",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "消费",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "后来",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "重视",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "物质",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "戏剧",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "经济",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "实力",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "目标",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "攒",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "舍不得",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "存",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "债券",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "保险",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "放心",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "信用卡",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "贷款",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "股票",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "风险",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "赔",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "动员",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "彩票",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "蒙人",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "宁可",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "透支",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "开导",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    },
+    {
+      "phrase": "巴不得",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
 }
