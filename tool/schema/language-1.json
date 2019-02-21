@@ -5,7 +5,7 @@
   
   "required": [
     "meta",
-	"data"
+    "data"
   ],
   
   "properties": {
@@ -16,20 +16,30 @@
   
       "required": [
         "format",
-        "version"
+        "version",
+		"status"
       ],
-	  
-	  "properties": {
+      
+      "properties": {
         "format": {
           "title": "",
           "description": "",
           "type": "string",
-		  "enum": ["language"]
-		},
+          "enum": ["language"]
+        },
         "version": {
           "title": "",
           "description": "",
           "type": "integer"
+		},
+		"status": {
+          "description": "",
+          "type": "string",
+		  "enum": [
+		    "pending",
+		    "ready",
+		    "hidden"
+		  ]
 		}
 	  }
 	},
