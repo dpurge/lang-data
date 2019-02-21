@@ -12,60 +12,109 @@ tmp_dir = os.path.abspath('./tmp')
 out_dir = os.path.abspath('./out')
 tool_dir = os.path.abspath('./tool')
 
-#languages = os.listdir(src_dir)
-
-#formats = ('model', 'vocabulary', 'text')
-
 pattern = {
     'anki': {
         'vocabulary': "{phrase}\t{transcription}\t{grammar}\t{translation}\t{image}\t{audio}\t{video}\t{note}\t{tags}\n"
     }
 }
 
-Model = collections.namedtuple('Model', [
-    'phrase',
-    'transcription',
-    'translation',
-    'audio',
-    'video',
-    'note'])
+    
+def create_directories(*directories):
+    
+    for dir in directories:
+        if (not os.path.exists(dir)):
+            print(
+                "Creating directory: {directory}".format(
+                    directory = dir))
+            try:  
+                os.makedirs(dir)
+            except OSError:  
+                print(
+                    "Cannot create directory: {directory}".format(
+                        directory = dir))
 
-Vocabulary = collections.namedtuple('Vocabulary', [
-    'phrase',
-    'transcription',
-    'grammar',
-    'translation',
-    'audio',
-    'video',
-    'note'])
 
-Text = collections.namedtuple('Text', [
-    'text',
-    'transcription',
-    'translation',
-    'audio',
-    'video',
-    'note'])
-
-@task
-def validate(c):
+def get_schema(directory):
     schema = {}
-    #print('Loading schema files...')
     
     try:
-        for filename in glob.glob(
-            "{directory}/schema/**/*.json".format(directory=tool_dir),
-            recursive=True):
+        for filename in glob.glob(os.path.join(directory, '**', '*.json'), recursive = True):
             format = os.path.splitext(os.path.basename(filename))[0]
             with open(filename, encoding='utf-8') as f:
                 schema[format] = json.loads(f.read())
     except Exception as e:
         print('Failed to load schema file: {message}'.format(message = str(e)))
         
-    for filename in glob.glob(
-        "{directory}/**/*.json".format(directory=src_dir),
-        recursive=True):
-        #print("Validating file: {filename}".format(filename = filename))
+    return schema
+
+
+def get_language(directory, language):
+    Language = collections.namedtuple('Language', ['name', 'code', 'directory', 'files'])
+    for filename in glob.glob(os.path.join(directory, language, 'language.json'), recursive = True):
+        with open(filename, encoding='utf-8') as f:
+                lang = json.loads(f.read())
+        name = lang['data']['name']
+        code = lang['data']['code']
+        dir  = os.path.dirname(filename)
+        files = (datafile for datafile in glob.glob(os.path.join(dir, '**', '*.jdp-lang.json'), recursive=True))
+        
+        yield Language(
+            name = name,
+            code = code,
+            directory = dir,
+            files = files)
+
+def get_data(language, format, tag):
+    Format = collections.namedtuple('Format', ['name', 'version'])
+    Record = collections.namedtuple('Record', [
+        'phrase',
+        'transcription',
+        'grammar',
+        'translation',
+        'audio',
+        'video',
+        'note',
+        'format',
+        'tags'])
+    
+    for datafile in language.files:
+        with open(datafile, encoding='utf-8') as f:
+            langdata = json.loads(f.read())
+            
+        if not langdata['meta']['status'] == 'ready':
+            continue
+        
+        for record in langdata['data']:
+            if not record['phrase'] or not record['translation']:
+                continue
+            yield Record(
+                phrase = record['phrase'],
+                transcription = record['transcription'],
+                grammar = record['grammar'],
+                translation = record['translation'],
+                audio = record['audio'],
+                video = record['video'],
+                note = record['note'],
+                format = Format(
+                    name = langdata['meta']['format'],
+                    version = langdata['meta']['version']),
+                tags = langdata['meta']['tags'])
+
+
+@task
+def test(c, language = '*', format = '*', tag = '*'):
+    for lang in get_language(directory=src_dir, language = language):
+        print("[{lang.code}] {lang.name}: {lang.directory}".format(lang = lang))
+        #for filename in lang.files:
+        #    print("      - {filename}".format(filename = filename))
+        for record in get_data(language = lang, format = format, tag = tag):
+            print("      - {rec.phrase} ({tags})".format(rec = record, tags = ', '.join(record.tags)))
+
+@task
+def validate(c, language = '*'):
+    schema = get_schema(directory = os.path.join(tool_dir, 'schema'))
+        
+    for filename in glob.glob(os.path.join(src_dir, language, '**', '*.json'), recursive = True):
         try:
             with open(filename, encoding='utf-8') as f:
                 jsondata = json.loads(f.read())
@@ -97,89 +146,44 @@ def clean(c, output = False):
 
 
 @task
-def build(c):
-    #print(
-    #    "Executing task: build --language={language} --format={format}".format(
-    #        language = language,
-    #        format = format))
+def build(c, language = '*', format = '*', tag = '*'):
     
-    for dir in tmp_dir, out_dir:
-        if (not os.path.exists(dir)):
-            print(
-                "Creating directory: {directory}".format(
-                    directory = dir))
-            try:  
-                os.makedirs(dir)
-            except OSError:  
-                print(
-                    "Cannot create directory: {directory}".format(
-                        directory = dir))
-            #else:  
-            #    print(
-            #        "Directory created: {directory}".format(
-            #            directory = dir))
+    create_directories(tmp_dir, out_dir)
             
-    for langfile in glob.glob(
-        "{directory}/**/language.json".format(directory=src_dir),
-        recursive=True):
-        with open(langfile, encoding='utf-8') as f:
-                langmeta = json.loads(f.read())
-        langname = langmeta['data']['name']
-        langcode = langmeta['data']['code']
-        
-        print("Processing language: {langname} ({langcode})".format(
-            langname = langname,
-            langcode = langcode))
+    for lang in get_language(directory=src_dir, language = language):
+        print("[{lang.code}] {lang.name}: {lang.directory}".format(lang = lang))
         data = {}
-        for datafile in glob.glob(
-            "{directory}/**/*.jdp-lang.json".format(
-                directory= os.path.dirname(langfile)),
-            recursive=True):
-            with open(datafile, encoding='utf-8') as f:
-                langdata = json.loads(f.read())
-            formatname = langdata['meta']['format']
-            formatversion = langdata['meta']['version']
-            datastatus = langdata['meta']['status']
-            tags = langdata['meta']['tags']
-            records = langdata['data']
-            
-            if not formatname in data:
-                data[formatname] = {}
-            for record in records:
-                if not record['phrase'] or not record['translation']:
-                    continue
-                key = "{phrase}/{grammar}".format(
-                    phrase = record['phrase'], grammar = record['grammar'])
-                if not key in data[formatname]:
-                    data[formatname][key] = {
-                        'phrase': record['phrase'],
-                        'transcription': record['transcription'],
-                        'grammar': record['grammar'],
-                        'translation': [],
-                        'image': [],
-                        'audio': [],
-                        'video': [],
-                        'note': [],
-                        'tags': []
-                    }
-                for translation in record['translation'].split(';'):
-                    translation = translation.strip()
-                    if not translation in data[formatname][key]['translation']:
-                        data[formatname][key]['translation'].append(translation)
-                for note in record['note'].split(';'):
-                    note = note.strip()
-                    if not note in data[formatname][key]['note']:
-                        data[formatname][key]['note'].append(note)
-                for tag in tags:
-                    if not tag in data[formatname][key]['tags']:
-                        data[formatname][key]['tags'].append(tag)
+        
+        for record in get_data(language = lang, format = format, tag = tag):
+            if not record.format.name in data:
+                data[record.format.name] = {}
+            key = "{record.phrase}/{record.grammar}".format(record = record)
+            if not key in data[record.format.name]:
+                data[record.format.name][key] = {
+                    'phrase': record.phrase,
+                    'transcription': record.transcription,
+                    'grammar': record.grammar,
+                    'translation': [],
+                    'image': [],
+                    'audio': [],
+                    'video': [],
+                    'note': [],
+                    'tags': []}
+                    
+            for translation in record.translation.split(';'):
+                translation = translation.strip()
+                if not translation in data[record.format.name][key]['translation']:
+                    data[record.format.name][key]['translation'].append(translation)
+            for note in record.note.split(';'):
+                note = note.strip()
+                if not note in data[record.format.name][key]['note']:
+                    data[record.format.name][key]['note'].append(note)
+            for tagname in record.tags:
+                if not tagname in data[record.format.name][key]['tags']:
+                    data[record.format.name][key]['tags'].append(tagname)
         
         for formatname in data:
-            with open(
-                '{directory}/{filename}.txt'.format(
-                    directory = out_dir,
-                    filename = "{}-{}".format(langcode, formatname)),
-                'w', encoding='utf-8') as f:
+            with open(os.path.join(out_dir, "{}-{}".format(lang.code, formatname)), 'w', encoding='utf-8') as f:
                 for key in data[formatname]:
                     f.write(pattern['anki']['vocabulary'].format(
                         phrase =
