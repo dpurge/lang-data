@@ -13,180 +13,153 @@
     {
       "phrase": "",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
 	{
 		"phrase": "联欢会",
 		"transcription": "liánhuānhuì",
-		"grammar": "n",
-		"translation": "spotkanie",
-		"note": ""
+		"category": {"lexical": "n"},
+		"translation": {"eng": "", "pol": "spotkanie"}
 	},
 	{
 		"phrase": "行李",
 		"transcription": "xínglǐ",
-		"grammar": "n",
-		"translation": "bagaż",
-		"note": ""
+		"category": {"lexical": "n"},
+		"translation": {"eng": "", "pol": "bagaż"}
 	},
 	{
 		"phrase": "收拾",
 		"transcription": "shōushí",
-		"grammar": "v",
-		"translation": "ogarnąć, uporządkować",
-		"note": ""
+		"category": {"lexical": "v"},
+		"translation": {"eng": "", "pol": "ogarnąć, uporządkować"}
 	},
 	{
 		"phrase": "半天",
 		"transcription": "bàntiān",
-		"grammar": "n,a",
-		"translation": "pół dnia",
-		"note": ""
+		"category": {"lexical": "n,a"},
+		"translation": {"eng": "", "pol": "pół dnia"}
 	},
 	{
 		"phrase": "整天",
 		"transcription": "zhěngtiān",
-		"grammar": "a",
-		"translation": "cały dzień",
-		"note": ""
+		"category": {"lexical": "a"},
+		"translation": {"eng": "", "pol": "cały dzień"}
 	},
 	{
 		"phrase": "歌",
 		"transcription": "gē",
-		"grammar": "v,n",
-		"translation": "śpiewać; piosenka",
-		"note": ""
+		"category": {"lexical": "v,n"},
+		"translation": {"eng": "", "pol": "śpiewać; piosenka"}
 	},
 	{
 		"phrase": "需要",
 		"transcription": "xūyào",
-		"grammar": "v,n",
-		"translation": "potrzebować; potrzeba",
-		"note": ""
+		"category": {"lexical": "v,n"},
+		"translation": {"eng": "", "pol": "potrzebować; potrzeba"}
 	},
 	{
 		"phrase": "英文",
 		"transcription": "yīngwén",
-		"grammar": "n",
-		"translation": "język angielski",
-		"note": ""
+		"category": {"lexical": "n"},
+		"translation": {"eng": "", "pol": "język angielski"}
 	},
 	{
 		"phrase": "首",
 		"transcription": "shǒu",
-		"grammar": "c",
-		"translation": "",
-		"note": "klasyfikator dla pieśni i wierszy"
+		"category": {"lexical": "c"},
+		"translation": {"eng": "", "pol": ""},
+		"note": {"eng": "", "pol": "klasyfikator dla pieśni i wierszy"}
 	},
 	{
 		"phrase": "流行",
 		"transcription": "liúxíng",
-		"grammar": "j",
-		"translation": "popularny, znany, modny",
-		"note": ""
+		"category": {"lexical": "j"},
+		"translation": {"eng": "", "pol": "popularny, znany, modny"}
 	},
 	{
 		"phrase": "歌曲",
 		"transcription": "gēqǔ",
-		"grammar": "n",
-		"translation": "pieśń",
-		"note": ""
+		"category": {"lexical": "n"},
+		"translation": {"eng": "", "pol": "pieśń"}
 	},
 	{
 		"phrase": "民歌",
 		"transcription": "míngē",
-		"grammar": "n",
-		"translation": "pieśń ludowa",
-		"note": ""
+		"category": {"lexical": "n"},
+		"translation": {"eng": "", "pol": "pieśń ludowa"}
 	},
 	{
 		"phrase": "好听",
 		"transcription": "hǎotīng",
-		"grammar": "j",
-		"translation": "ładny, przyjemny do słuchania",
-		"note": ""
+		"category": {"lexical": "j"},
+		"translation": {"eng": "", "pol": "ładny, przyjemny do słuchania"}
 	},
 	{
 		"phrase": "发音",
 		"transcription": "fāyīn",
-		"grammar": "v,n",
-		"translation": "wymawiać; wymowa",
-		"note": ""
+		"category": {"lexical": "v,n"},
+		"translation": {"eng": "", "pol": "wymawiać; wymowa"}
 	},
 	{
 		"phrase": "懂",
 		"transcription": "dǒng",
-		"grammar": "v",
-		"translation": "rozumieć",
-		"note": ""
+		"category": {"lexical": "v"},
+		"translation": {"eng": "", "pol": "rozumieć"}
 	},
 	{
 		"phrase": "如果",
 		"transcription": "rúguǒ",
-		"grammar": "",
-		"translation": "jeśli, jeżeli",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "jeśli, jeżeli"}
 	},
 	{
 		"phrase": "熟悉",
 		"transcription": "shúxī",
-		"grammar": "v,j",
-		"translation": "dobrze znać; dobrze znany",
-		"note": ""
+		"category": {"lexical": "v,j"},
+		"translation": {"eng": "", "pol": "dobrze znać; dobrze znany"}
 	},
 	{
 		"phrase": "歌词",
 		"transcription": "gēcí",
-		"grammar": "n",
-		"translation": "słowa piosenki",
-		"note": ""
+		"category": {"lexical": "n"},
+		"translation": {"eng": "", "pol": "słowa piosenki"}
 	},
 	{
 		"phrase": "标准",
 		"transcription": "biāozhǔn",
-		"grammar": "n,j",
-		"translation": "standard; standardowy",
-		"note": ""
+		"category": {"lexical": "n,j"},
+		"translation": {"eng": "", "pol": "standard; standardowy"}
 	},
 	{
 		"phrase": "面子",
 		"transcription": "miànzi",
-		"grammar": "",
-		"translation": "twarz",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "twarz"}
 	},
 	{
 		"phrase": "怕",
 		"transcription": "pà",
-		"grammar": "v",
-		"translation": "bać się",
-		"note": ""
+		"category": {"lexical": "v"},
+		"translation": {"eng": "", "pol": "bać się"}
 	},
 	{
 		"phrase": "中",
 		"transcription": "zhòng",
-		"grammar": "",
-		"translation": "zostać trafionym",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "zostać trafionym"}
 	},
 	{
 		"phrase": "年代",
 		"transcription": "niándài",
-		"grammar": "n",
-		"translation": "wiek, era, lata",
-		"note": ""
+		"category": {"lexical": "n"},
+		"translation": {"eng": "", "pol": "wiek, era, lata"}
 	},
 	{
 		"phrase": "歌手",
 		"transcription": "gēshǒu",
-		"grammar": "n",
-		"translation": "wokalista, piosenkarz, śpiewak",
-		"note": ""
+		"category": {"lexical": "n"},
+		"translation": {"eng": "", "pol": "wokalista, piosenkarz, śpiewak"}
 	}
 ]
 

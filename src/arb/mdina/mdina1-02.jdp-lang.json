@@ -13,42 +13,26 @@
     {
       "phrase": "سُكَّرٌ",
       "transcription": "sukkar",
-      "grammar": "",
-      "translation": "cukier",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "cukier"}
     },
     {
       "phrase": "لَبَنٌ",
       "transcription": "laban",
-      "grammar": "",
-      "translation": "mleko",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "mleko"}
     },
     {
       "phrase": "إِمَامٌ",
       "transcription": "imām",
-      "grammar": "",
-      "translation": "imam",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "imam"}
     },
     {
       "phrase": "حَجَرٌ",
       "transcription": "ḥaǧar",
-      "grammar": "",
-      "translation": "kamień",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kamień"}
     }
   ]
 }

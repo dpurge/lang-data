@@ -13,322 +13,194 @@
     {
       "phrase": "不好",
       "transcription": "bùhǎo",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "摄氏",
       "transcription": "shèshì",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "多云",
       "transcription": "duōyún",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "冷",
       "transcription": "lěng",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "凉快",
       "transcription": "liángkuai",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "度",
       "transcription": "dù",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "级",
       "transcription": "jí",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "下小雨",
       "transcription": "xià xiǎoyǔ",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "晴天",
       "transcription": "qíngtiān",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "雾",
       "transcription": "wù",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "大风",
       "transcription": "dàfēng",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "冰雹",
       "transcription": "bīngbáo",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "热",
       "transcription": "rè",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "闷热",
       "transcription": "mēnrè",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "湿热",
       "transcription": "shīrè",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "闪电",
       "transcription": "shǎndiàn",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "很好",
       "transcription": "hěnhǎo",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "阴天",
       "transcription": "yīntiān",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "雨",
       "transcription": "yǔ",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "阵雨",
       "transcription": "zhèn yǔ",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "雪",
       "transcription": "xuě",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "下雨",
       "transcription": "xiàyǔ",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "下雪",
       "transcription": "xiàxuě",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "暴风雪",
       "transcription": "bàofēng xuě",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "晴朗",
       "transcription": "qínglǎng",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "雷",
       "transcription": "léi",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "打雷",
       "transcription": "dǎléi",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "雷雨",
       "transcription": "léiyǔ",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "台风",
       "transcription": "táifēng",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "暖和",
       "transcription": "nuǎnhuo",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "天气",
       "transcription": "tiānqì",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "风很大",
       "transcription": "fēng hěndà",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     }
   ]
 }

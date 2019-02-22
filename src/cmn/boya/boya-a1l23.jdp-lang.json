@@ -13,173 +13,146 @@
     {
       "phrase": "",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
 	{
 		"phrase": "迟到",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "堵",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "堵车",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "坏",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "轮胎",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "破",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "倒霉",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "小时",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "平时",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "钟头",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "着急",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "用",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "写",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "作文",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "口语",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "看",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "学",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "初中",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "语法",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "简单",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "翻译",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "下",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "学期",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	}
 ]
 

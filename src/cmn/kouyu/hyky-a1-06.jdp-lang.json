@@ -13,512 +13,308 @@
     {
       "phrase": "迟到",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "手表",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "下班",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "复印",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "分",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "速度",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "堵车",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "总",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "总是",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "理由",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "约会",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "原谅",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "愿意",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "心事",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "有些",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "为",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "另",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "文化",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "同意",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "选择",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "国界",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "真心",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "相爱",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "不同",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "正",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "明白",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "爱人",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "得",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "满分",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "想法",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "表示",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "尊重",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "受",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "教育",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "心",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "周围",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "夸",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "确实",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "AA制",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "早茶",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "点心",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "步",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "活",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "金钱",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "可爱",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "墨镜",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "理解",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "交朋友",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "交",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "抱",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
     {
       "phrase": "修理",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     }
   ]
 }

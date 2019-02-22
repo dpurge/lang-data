@@ -13,552 +13,332 @@
     {
       "phrase": "adik",
       "transcription": "",
-      "grammar": "N",
-      "translation": "młodszy brat; młodsza siostra",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "młodszy brat; młodsza siostra"}
     },
     {
       "phrase": "bagus",
       "transcription": "",
-      "grammar": "Adj",
-      "translation": "miły, piękny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "Adj"},
+      "translation": {"eng": "", "pol": "miły, piękny"}
     },
     {
       "phrase": "barang",
       "transcription": "",
-      "grammar": "N",
-      "translation": "bagaż",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "bagaż"}
     },
     {
       "phrase": "bayar",
       "transcription": "",
-      "grammar": "V",
-      "translation": "płacić",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "płacić"}
     },
     {
       "phrase": "belakang",
       "transcription": "",
-      "grammar": "N",
-      "translation": "tył",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "tył"}
     },
     {
       "phrase": "bir",
       "transcription": "",
-      "grammar": "N",
-      "translation": "piwo",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "piwo"}
     },
     {
       "phrase": "bisa",
       "transcription": "",
-      "grammar": "V",
-      "translation": "móc",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "móc"}
     },
     {
       "phrase": "capek",
       "transcription": "",
-      "grammar": "Adj",
-      "translation": "zmęczony",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "Adj"},
+      "translation": {"eng": "", "pol": "zmęczony"}
     },
     {
       "phrase": "contoh",
       "transcription": "",
-      "grammar": "N",
-      "translation": "przykład",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "przykład"}
     },
     {
       "phrase": "dan",
       "transcription": "",
-      "grammar": "",
-      "translation": "i",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "i"}
     },
     {
       "phrase": "dari",
       "transcription": "",
-      "grammar": "",
-      "translation": "z; od",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "z; od"}
     },
     {
       "phrase": "datang",
       "transcription": "",
-      "grammar": "V",
-      "translation": "przychodzić",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "przychodzić"}
     },
     {
       "phrase": "depan",
       "transcription": "",
-      "grammar": "",
-      "translation": "przód",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "przód"}
     },
     {
       "phrase": "di",
       "transcription": "",
-      "grammar": "",
-      "translation": "w",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "w"}
     },
     {
       "phrase": "di mana",
       "transcription": "",
-      "grammar": "",
-      "translation": "gdzie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "gdzie"}
     },
     {
       "phrase": "di sini",
       "transcription": "",
-      "grammar": "",
-      "translation": "tutaj",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "tutaj"}
     },
     {
       "phrase": "dia",
       "transcription": "",
-      "grammar": "",
-      "translation": "on; ona; ono",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "on; ona; ono"}
     },
     {
       "phrase": "duduk",
       "transcription": "",
-      "grammar": "V",
-      "translation": "siedzieć",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "siedzieć"}
     },
     {
       "phrase": "habis",
       "transcription": "",
-      "grammar": "",
-      "translation": "po",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "po"}
     },
     {
       "phrase": "Indonesia",
       "transcription": "",
-      "grammar": "N",
-      "translation": "Indonezja",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "Indonezja"}
     },
     {
       "phrase": "ini",
       "transcription": "",
-      "grammar": "",
-      "translation": "to; ten",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "to; ten"}
     },
     {
       "phrase": "itu",
       "transcription": "",
-      "grammar": "",
-      "translation": "tamto; tamten",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "tamto; tamten"}
     },
     {
       "phrase": "jam",
       "transcription": "",
-      "grammar": "N",
-      "translation": "godzina; zegar",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "godzina; zegar"}
     },
     {
       "phrase": "jawaban",
       "transcription": "",
-      "grammar": "N",
-      "translation": "odpowiedzi",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "odpowiedzi"}
     },
     {
       "phrase": "juga",
       "transcription": "",
-      "grammar": "",
-      "translation": "także, też",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "także, też"}
     },
     {
       "phrase": "kantor",
       "transcription": "",
-      "grammar": "N",
-      "translation": "biuro",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "biuro"}
     },
     {
       "phrase": "ke",
       "transcription": "",
-      "grammar": "",
-      "translation": "do, ku",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "do, ku"}
     },
     {
       "phrase": "kita",
       "transcription": "",
-      "grammar": "",
-      "translation": "my",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "my"}
     },
     {
       "phrase": "kopi",
       "transcription": "",
-      "grammar": "N",
-      "translation": "kawa",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "kawa"}
     },
     {
       "phrase": "lapangan",
       "transcription": "",
-      "grammar": "N",
-      "translation": "pole",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "pole"}
     },
     {
       "phrase": "lapangan terbang",
       "transcription": "",
-      "grammar": "N",
-      "translation": "lotnisko",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "lotnisko"}
     },
     {
       "phrase": "latihan",
       "transcription": "",
-      "grammar": "N",
-      "translation": "ćwiczenie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "ćwiczenie"}
     },
     {
       "phrase": "latihan ucapan",
       "transcription": "",
-      "grammar": "N",
-      "translation": "ćwiczenie ustne",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "ćwiczenie ustne"}
     },
     {
       "phrase": "mau",
       "transcription": "",
-      "grammar": "V",
-      "translation": "chcieć",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "chcieć"}
     },
     {
       "phrase": "minum",
       "transcription": "",
-      "grammar": "V",
-      "translation": "pić",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "pić"}
     },
     {
       "phrase": "mobil",
       "transcription": "",
-      "grammar": "V",
-      "translation": "samochód",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "samochód"}
     },
     {
       "phrase": "mulai",
       "transcription": "",
-      "grammar": "V",
-      "translation": "zaczynać",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "zaczynać"}
     },
     {
       "phrase": "naik",
       "transcription": "",
-      "grammar": "V",
-      "translation": "wsiadać",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "wsiadać"}
     },
     {
       "phrase": "nama",
       "transcription": "",
-      "grammar": "N",
-      "translation": "imię",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "imię"}
     },
     {
       "phrase": "pelajaran",
       "transcription": "",
-      "grammar": "N",
-      "translation": "lekcja",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "lekcja"}
     },
     {
       "phrase": "pergi",
       "transcription": "",
-      "grammar": "V",
-      "translation": "iść; jechać",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "iść; jechać"}
     },
     {
       "phrase": "pikir",
       "transcription": "",
-      "grammar": "V",
-      "translation": "myśleć",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "myśleć"}
     },
     {
       "phrase": "restoran",
       "transcription": "",
-      "grammar": "N",
-      "translation": "restauracja",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "restauracja"}
     },
     {
       "phrase": "satu",
       "transcription": "",
-      "grammar": "",
-      "translation": "jeden",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "jeden"}
     },
     {
       "phrase": "saudara",
       "transcription": "",
-      "grammar": "N",
-      "translation": "ty; pan",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "ty; pan"}
     },
     {
       "phrase": "saya",
       "transcription": "",
-      "grammar": "",
-      "translation": "ja",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ja"}
     },
     {
       "phrase": "selamat datang di",
       "transcription": "",
-      "grammar": "",
-      "translation": "witamy w",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "witamy w"}
     },
     {
       "phrase": "silakan",
       "transcription": "",
-      "grammar": "",
-      "translation": "proszę",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "proszę"}
     },
     {
       "phrase": "suka",
       "transcription": "",
-      "grammar": "V",
-      "translation": "lubić",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "lubić"}
     },
     {
       "phrase": "teh",
       "transcription": "",
-      "grammar": "N",
-      "translation": "herbata",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "herbata"}
     },
     {
       "phrase": "terbang",
       "transcription": "",
-      "grammar": "V",
-      "translation": "latać",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "latać"}
     },
     {
       "phrase": "terima kasih",
       "transcription": "",
-      "grammar": "",
-      "translation": "dziękuję",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dziękuję"}
     },
     {
       "phrase": "tidur",
       "transcription": "",
-      "grammar": "V",
-      "translation": "spać",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "spać"}
     },
     {
       "phrase": "tiga",
       "transcription": "",
-      "grammar": "",
-      "translation": "trzy",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "trzy"}
     },
     {
       "phrase": "ya",
       "transcription": "",
-      "grammar": "",
-      "translation": "tak",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "tak"}
     }
   ]
 }

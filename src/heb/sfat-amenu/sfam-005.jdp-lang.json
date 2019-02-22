@@ -13,162 +13,98 @@
     {
       "phrase": "מוֹרֶה",
       "transcription": "",
-      "grammar": "",
-      "translation": "nauczyciel",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "nauczyciel"}
     },
     {
       "phrase": "תַּלמִיד",
       "transcription": "",
-      "grammar": "",
-      "translation": "uczeń",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "uczeń"}
     },
     {
       "phrase": "מְלַמֵּד",
       "transcription": "",
-      "grammar": "",
-      "translation": "uczy, uczący",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "uczy, uczący"}
     },
     {
       "phrase": "יוֹם",
       "transcription": "",
-      "grammar": "",
-      "translation": "dzień",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dzień"}
     },
     {
       "phrase": "חָרוּץ",
       "transcription": "",
-      "grammar": "",
-      "translation": "pilny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "pilny"}
     },
     {
       "phrase": "לוֹמֵד",
       "transcription": "",
-      "grammar": "",
-      "translation": "uczy się, uczący się",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "uczy się, uczący się"}
     },
     {
       "phrase": "הֵיטֵב",
       "transcription": "",
-      "grammar": "",
-      "translation": "dobrze",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dobrze"}
     },
     {
       "phrase": "רַבִּים",
       "transcription": "",
-      "grammar": "",
-      "translation": "wiele, liczni",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "wiele, liczni"}
     },
     {
       "phrase": "הַיּוֹם",
       "transcription": "",
-      "grammar": "",
-      "translation": "dziś",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dziś"}
     },
     {
       "phrase": "יָפֶה",
       "transcription": "",
-      "grammar": "",
-      "translation": "ładny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ładny"}
     },
     {
       "phrase": "מַתָּנָה",
       "transcription": "",
-      "grammar": "",
-      "translation": "dar, podarunek",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dar, podarunek"}
     },
     {
       "phrase": "קוֹרֵא",
       "transcription": "",
-      "grammar": "",
-      "translation": "czyta, czytający",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "czyta, czytający"}
     },
     {
       "phrase": "סִפּוּר",
       "transcription": "",
-      "grammar": "",
-      "translation": "opowiadanie, opowieść",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "opowiadanie, opowieść"}
     },
     {
       "phrase": "אֲשֶׁר",
       "transcription": "",
-      "grammar": "",
-      "translation": "który",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "który"}
     },
     {
       "phrase": "מָתַי?",
       "transcription": "",
-      "grammar": "",
-      "translation": "kiedy?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kiedy?"}
     },
     {
       "phrase": "מַדוּעַ",
       "transcription": "",
-      "grammar": "",
-      "translation": "dlaczego?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dlaczego?"}
     }
   ]
 }

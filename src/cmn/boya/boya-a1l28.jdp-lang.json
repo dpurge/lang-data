@@ -13,222 +13,188 @@
     {
       "phrase": "",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
 	{
 		"phrase": "星期",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "门",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "完",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "有些",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "报告",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "放松",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "紧张",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "效果",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "道",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "题",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "为什么",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "够",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "阅读",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "汉字",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "难",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "慢",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "确实",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "记",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "方法",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "编",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "故事",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "借",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "也许",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "帮助",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "担心",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "解决",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "欧美",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "第一次",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "票",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "公平",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	}
 ]
 

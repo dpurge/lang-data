@@ -13,194 +13,164 @@
     {
       "phrase": "",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
 	{
 		"phrase": "看",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "病人",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "别",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "别客气",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "无聊",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "睡觉",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "做梦",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "幸福",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "背",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "生词",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "考试",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "累",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "死",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "换",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "医院",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "住",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "得",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "问",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "医生",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "对了",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "炒",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "菜",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "面条",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "身体",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "麦当劳",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "方法",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	}
 ]
 

@@ -13,142 +13,86 @@
     {
       "phrase": "אַיִן",
       "transcription": "",
-      "grammar": "",
-      "translation": "nie ma",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "nie ma"}
     },
     {
       "phrase": "גַּן",
       "transcription": "",
-      "grammar": "",
-      "translation": "ogród",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ogród"}
     },
     {
       "phrase": "הַרְבֵּה",
       "transcription": "",
-      "grammar": "",
-      "translation": "dużo",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dużo"}
     },
     {
       "phrase": "עָנָף",
       "transcription": "",
-      "grammar": "",
-      "translation": "gałąź",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "gałąź"}
     },
     {
       "phrase": "עָלֶה",
       "transcription": "",
-      "grammar": "",
-      "translation": "liść",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "liść"}
     },
     {
       "phrase": "פְּרִי",
       "transcription": "",
-      "grammar": "",
-      "translation": "owoc",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "owoc"}
     },
     {
       "phrase": "צוֹמֵחַ",
       "transcription": "",
-      "grammar": "",
-      "translation": "rośnie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "rośnie"}
     },
     {
       "phrase": "נוֹתֵן",
       "transcription": "",
-      "grammar": "",
-      "translation": "daje",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "daje"}
     },
     {
       "phrase": "רֵיחַ",
       "transcription": "",
-      "grammar": "",
-      "translation": "zapach, woń",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zapach, woń"}
     },
     {
       "phrase": "יַעַר",
       "transcription": "",
-      "grammar": "",
-      "translation": "las",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "las"}
     },
     {
       "phrase": "נָעִים",
       "transcription": "",
-      "grammar": "",
-      "translation": "przyjemny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "przyjemny"}
     },
     {
       "phrase": "פֶּרַח",
       "transcription": "",
-      "grammar": "",
-      "translation": "kwiat",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kwiat"}
     },
     {
       "phrase": "סוֹף",
       "transcription": "",
-      "grammar": "",
-      "translation": "koniec",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "koniec"}
     },
     {
       "phrase": "פָּסוּק",
       "transcription": "",
-      "grammar": "",
-      "translation": "zdanie; wiersz",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zdanie; wiersz"}
     }
   ]
 }

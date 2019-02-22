@@ -13,187 +13,158 @@
     {
       "phrase": "",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
 	{
 		"phrase": "生日",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "晚饭",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "以后",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "一只",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "忙",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "准备",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "礼物",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "蛋糕",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "送",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "特别",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "说",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "男",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "还是",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "女",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "可",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "巧克力",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "甜",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "号",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "那么",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "束",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "花",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "主意",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "最后",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "告诉",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "一定",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	}
 ]
 

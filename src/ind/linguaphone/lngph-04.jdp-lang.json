@@ -13,512 +13,312 @@
     {
       "phrase": "air",
       "transcription": "",
-      "grammar": "",
-      "translation": "woda",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "woda"}
     },
     {
       "phrase": "apakah",
       "transcription": "",
-      "grammar": "",
-      "translation": "czy",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "czy"}
     },
     {
       "phrase": "awas",
       "transcription": "",
-      "grammar": "",
-      "translation": "bądź ostrożny, strzeż się",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "bądź ostrożny, strzeż się"}
     },
     {
       "phrase": "ayam",
       "transcription": "",
-      "grammar": "",
-      "translation": "kurczak",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kurczak"}
     },
     {
       "phrase": "ayam jago",
       "transcription": "",
-      "grammar": "",
-      "translation": "kogut",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kogut"}
     },
     {
       "phrase": "bebek",
       "transcription": "",
-      "grammar": "",
-      "translation": "kaczka",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kaczka"}
     },
     {
       "phrase": "belum",
       "transcription": "",
-      "grammar": "",
-      "translation": "jeszcze nie; zanim",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "jeszcze nie; zanim"}
     },
     {
       "phrase": "biasa",
       "transcription": "",
-      "grammar": "",
-      "translation": "przywyknąć, przyzwyczaić się",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "przywyknąć, przyzwyczaić się"}
     },
     {
       "phrase": "botol",
       "transcription": "",
-      "grammar": "",
-      "translation": "butelka",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "butelka"}
     },
     {
       "phrase": "bunga",
       "transcription": "",
-      "grammar": "",
-      "translation": "kwiat",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kwiat"}
     },
     {
       "phrase": "bunga anggerek",
       "transcription": "",
-      "grammar": "",
-      "translation": "orchidea",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "orchidea"}
     },
     {
       "phrase": "coba",
       "transcription": "",
-      "grammar": "",
-      "translation": "próbować",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "próbować"}
     },
     {
       "phrase": "dengar",
       "transcription": "",
-      "grammar": "",
-      "translation": "słyszeć",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "słyszeć"}
     },
     {
       "phrase": "gereja",
       "transcription": "",
-      "grammar": "",
-      "translation": "kościół",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kościół"}
     },
     {
       "phrase": "goreng",
       "transcription": "",
-      "grammar": "",
-      "translation": "smażony",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "smażony"}
     },
     {
       "phrase": "ikan",
       "transcription": "",
-      "grammar": "",
-      "translation": "ryba",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ryba"}
     },
     {
       "phrase": "isteri",
       "transcription": "",
-      "grammar": "",
-      "translation": "żona",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "żona"}
     },
     {
       "phrase": "kalau",
       "transcription": "",
-      "grammar": "",
-      "translation": "jeśli",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "jeśli"}
     },
     {
       "phrase": "kambing",
       "transcription": "",
-      "grammar": "",
-      "translation": "koza; owca",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "koza; owca"}
     },
     {
       "phrase": "kebun",
       "transcription": "",
-      "grammar": "",
-      "translation": "ogród",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ogród"}
     },
     {
       "phrase": "kelapa",
       "transcription": "",
-      "grammar": "",
-      "translation": "orzech kokosowy",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "orzech kokosowy"}
     },
     {
       "phrase": "kemudian",
       "transcription": "",
-      "grammar": "",
-      "translation": "następnie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "następnie"}
     },
     {
       "phrase": "laki-laki",
       "transcription": "",
-      "grammar": "",
-      "translation": "męski, mężczyzna",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "męski, mężczyzna"}
     },
     {
       "phrase": "makanan",
       "transcription": "",
-      "grammar": "",
-      "translation": "jedzenie, żywność",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "jedzenie, żywność"}
     },
     {
       "phrase": "masak",
       "transcription": "",
-      "grammar": "",
-      "translation": "gotować",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "gotować"}
     },
     {
       "phrase": "masih",
       "transcription": "",
-      "grammar": "",
-      "translation": "jeszcze",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "jeszcze"}
     },
     {
       "phrase": "mata",
       "transcription": "",
-      "grammar": "",
-      "translation": "oko",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "oko"}
     },
     {
       "phrase": "mata sapi",
       "transcription": "",
-      "grammar": "",
-      "translation": "smażone jajko",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "smażone jajko"}
     },
     {
       "phrase": "merah",
       "transcription": "",
-      "grammar": "",
-      "translation": "czerwony",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "czerwony"}
     },
     {
       "phrase": "mesjid",
       "transcription": "",
-      "grammar": "",
-      "translation": "meczet",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "meczet"}
     },
     {
       "phrase": "muka",
       "transcription": "",
-      "grammar": "",
-      "translation": "twarz; przód",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "twarz; przód"}
     },
     {
       "phrase": "nasi",
       "transcription": "",
-      "grammar": "",
-      "translation": "ryż",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ryż"}
     },
     {
       "phrase": "pagi",
       "transcription": "",
-      "grammar": "",
-      "translation": "poranek",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "poranek"}
     },
     {
       "phrase": "panas",
       "transcription": "",
-      "grammar": "",
-      "translation": "gorący",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "gorący"}
     },
     {
       "phrase": "pedas",
       "transcription": "",
-      "grammar": "",
-      "translation": "pikantny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "pikantny"}
     },
     {
       "phrase": "piara",
       "transcription": "",
-      "grammar": "",
-      "translation": "hodować",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "hodować"}
     },
     {
       "phrase": "pisang",
       "transcription": "",
-      "grammar": "",
-      "translation": "banan",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "banan"}
     },
     {
       "phrase": "pohon",
       "transcription": "",
-      "grammar": "",
-      "translation": "drzewo",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "drzewo"}
     },
     {
       "phrase": "rasa",
       "transcription": "",
-      "grammar": "",
-      "translation": "smak",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "smak"}
     },
     {
       "phrase": "rendah",
       "transcription": "",
-      "grammar": "",
-      "translation": "niski",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "niski"}
     },
     {
       "phrase": "sapi",
       "transcription": "",
-      "grammar": "",
-      "translation": "krowa",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "krowa"}
     },
     {
       "phrase": "sarapan",
       "transcription": "",
-      "grammar": "",
-      "translation": "śniadanie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "śniadanie"}
     },
     {
       "phrase": "sekali",
       "transcription": "",
-      "grammar": "",
-      "translation": "bardzo",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "bardzo"}
     },
     {
       "phrase": "selalu",
       "transcription": "",
-      "grammar": "",
-      "translation": "zawsze",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zawsze"}
     },
     {
       "phrase": "selamat pagi",
       "transcription": "",
-      "grammar": "",
-      "translation": "dzień dobry",
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dzień dobry"},
       "image": "",
       "audio": "",
       "video": "",
-      "note": "rano"
+      "note": {"eng": "", "pol": "rano"}
     },
     {
       "phrase": "suami",
       "transcription": "",
-      "grammar": "",
-      "translation": "mąż",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "mąż"}
     },
     {
       "phrase": "suara",
       "transcription": "",
-      "grammar": "",
-      "translation": "głos",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "głos"}
     },
     {
       "phrase": "tanam",
       "transcription": "",
-      "grammar": "",
-      "translation": "zasadzić",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zasadzić"}
     },
     {
       "phrase": "tinggi",
       "transcription": "",
-      "grammar": "",
-      "translation": "wysoki",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "wysoki"}
     },
     {
       "phrase": "tukang kebun",
       "transcription": "",
-      "grammar": "",
-      "translation": "ogrodnik",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ogrodnik"}
     },
     {
       "phrase": "waduh!",
       "transcription": "",
-      "grammar": "",
-      "translation": "O Boże!",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "O Boże!"}
     }
   ]
 }

@@ -13,212 +13,128 @@
     {
       "phrase": "נַעֲרָה",
       "transcription": "",
-      "grammar": "",
-      "translation": "dziewczyna",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dziewczyna"}
     },
     {
       "phrase": "אִכָּר",
       "transcription": "",
-      "grammar": "",
-      "translation": "rolnik, wieśniak",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "rolnik, wieśniak"}
     },
     {
       "phrase": "חוֹרֵשׁ",
       "transcription": "",
-      "grammar": "",
-      "translation": "orze",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "orze"}
     },
     {
       "phrase": "אֲדָמָה",
       "transcription": "",
-      "grammar": "",
-      "translation": "rola, ziemia",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "rola, ziemia"}
     },
     {
       "phrase": "מַחֲרֵשָׁה",
       "transcription": "",
-      "grammar": "",
-      "translation": "pług",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "pług"}
     },
     {
       "phrase": "רוֹעֶה",
       "transcription": "",
-      "grammar": "N",
-      "translation": "pasterz",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "pasterz"}
     },
     {
       "phrase": "רוֹעֶה",
       "transcription": "",
-      "grammar": "V",
-      "translation": "pasie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "pasie"}
     },
     {
       "phrase": "עֵדֶר",
       "transcription": "",
-      "grammar": "",
-      "translation": "trzoda",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "trzoda"}
     },
     {
       "phrase": "בַּנָאִי",
       "transcription": "",
-      "grammar": "",
-      "translation": "murarz",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "murarz"}
     },
     {
       "phrase": "בּוֹנֶה",
       "transcription": "",
-      "grammar": "",
-      "translation": "buduje",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "buduje"}
     },
     {
       "phrase": "לְבֵנָה",
       "transcription": "",
-      "grammar": "",
-      "translation": "cegła",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "cegła"}
     },
     {
       "phrase": "אוֹפֶה",
       "transcription": "",
-      "grammar": "N",
-      "translation": "piekarz",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "piekarz"}
     },
     {
       "phrase": "אוֹפֶה",
       "transcription": "",
-      "grammar": "V",
-      "translation": "piecze",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "piecze"}
     },
     {
       "phrase": "לֶחֶם",
       "transcription": "",
-      "grammar": "",
-      "translation": "chleb",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "chleb"}
     },
     {
       "phrase": "קֶמַח",
       "transcription": "",
-      "grammar": "",
-      "translation": "mąka",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "mąka"}
     },
     {
       "phrase": "אוֹכֵל",
       "transcription": "",
-      "grammar": "",
-      "translation": "je, jedzący",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "je, jedzący"}
     },
     {
       "phrase": "עֻגָה",
       "transcription": "",
-      "grammar": "",
-      "translation": "ciastko",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ciastko"}
     },
     {
       "phrase": "גָּר",
       "transcription": "",
-      "grammar": "",
-      "translation": "mieszka, mieszkający",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "mieszka, mieszkający"}
     },
     {
       "phrase": "כְּפָר",
       "transcription": "",
-      "grammar": "",
-      "translation": "wieś",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "wieś"}
     },
     {
       "phrase": "דּוֹד",
       "transcription": "",
-      "grammar": "",
-      "translation": "stryj, wuj",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "stryj, wuj"}
     },
     {
       "phrase": "עִיר",
       "transcription": "",
-      "grammar": "",
-      "translation": "miasto",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "miasto"}
     }
   ]
 }

@@ -13,332 +13,208 @@
     {
       "phrase": "ada",
       "transcription": "",
-      "grammar": "",
-      "translation": "mieć; istnieć, być",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "mieć; istnieć, być"}
     },
     {
       "phrase": "apa",
       "transcription": "",
-      "grammar": "",
-      "translation": "co",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "co"}
     },
     {
       "phrase": "asing",
       "transcription": "",
-      "grammar": "",
-      "translation": "cudzoziemski",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "cudzoziemski"}
     },
     {
       "phrase": "baik",
       "transcription": "",
-      "grammar": "",
-      "translation": "dobry",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dobry"}
     },
     {
       "phrase": "beli",
       "transcription": "",
-      "grammar": "",
-      "translation": "kupować",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kupować"}
     },
     {
       "phrase": "berhenti",
       "transcription": "",
-      "grammar": "",
-      "translation": "zatrzymać",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zatrzymać"}
     },
     {
       "phrase": "biasa",
       "transcription": "",
-      "grammar": "",
-      "translation": "zwykle",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zwykle"}
     },
     {
       "phrase": "buah",
       "transcription": "",
-      "grammar": "",
-      "translation": "owoc",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "owoc"}
     },
     {
       "phrase": "daerah",
       "transcription": "",
-      "grammar": "",
-      "translation": "kraj, wieś",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kraj, wieś"}
     },
     {
       "phrase": "desa",
       "transcription": "",
-      "grammar": "",
-      "translation": "wioska",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "wioska"}
     },
     {
       "phrase": "dua",
       "transcription": "",
-      "grammar": "",
-      "translation": "dwa",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dwa"}
     },
     {
       "phrase": "empat",
       "transcription": "",
-      "grammar": "",
-      "translation": "cztery",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "cztery"}
     },
     {
       "phrase": "harus",
       "transcription": "",
-      "grammar": "",
-      "translation": "musieć",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "musieć"}
     },
     {
       "phrase": "kami",
       "transcription": "",
-      "grammar": "",
-      "translation": "my",
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "my"},
       "image": "",
       "audio": "",
       "video": "",
-      "note": "bez ciebie"
+      "note": {"eng": "", "pol": "bez ciebie"}
     },
     {
       "phrase": "lihat",
       "transcription": "",
-      "grammar": "",
-      "translation": "patrzeć, widzieć",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "patrzeć, widzieć"}
     },
     {
       "phrase": "mahal",
       "transcription": "",
-      "grammar": "",
-      "translation": "drogi",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "drogi"}
     },
     {
       "phrase": "makan",
       "transcription": "",
-      "grammar": "",
-      "translation": "jeść",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "jeść"}
     },
     {
       "phrase": "mari",
       "transcription": "",
-      "grammar": "",
-      "translation": "chodź...",
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "chodź..."},
       "image": "",
       "audio": "",
       "video": "",
-      "note": "zachęta"
+      "note": {"eng": "", "pol": "zachęta"}
     },
     {
       "phrase": "mengapa",
       "transcription": "",
-      "grammar": "",
-      "translation": "dlaczego",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dlaczego"}
     },
     {
       "phrase": "murah",
       "transcription": "",
-      "grammar": "",
-      "translation": "tani",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "tani"}
     },
     {
       "phrase": "orang",
       "transcription": "",
-      "grammar": "",
-      "translation": "człowiek, osoba",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "człowiek, osoba"}
     },
     {
       "phrase": "pepaya",
       "transcription": "",
-      "grammar": "",
-      "translation": "papaja",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "papaja"}
     },
     {
       "phrase": "perjalanan",
       "transcription": "",
-      "grammar": "",
-      "translation": "podróż",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "podróż"}
     },
     {
       "phrase": "pikir",
       "transcription": "",
-      "grammar": "",
-      "translation": "myśleć, sądzić, być zdania",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "myśleć, sądzić, być zdania"}
     },
     {
       "phrase": "rambutan",
       "transcription": "",
-      "grammar": "",
-      "translation": "rambutan",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "rambutan"}
     },
     {
       "phrase": "segar",
       "transcription": "",
-      "grammar": "",
-      "translation": "rzeźki, odświerzony",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "rzeźki, odświerzony"}
     },
     {
       "phrase": "sekarang",
       "transcription": "",
-      "grammar": "",
-      "translation": "teraz",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "teraz"}
     },
     {
       "phrase": "sore",
       "transcription": "",
-      "grammar": "",
-      "translation": "popołudnie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "popołudnie"}
     },
     {
       "phrase": "sudah",
       "transcription": "",
-      "grammar": "",
-      "translation": "już",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "już"}
     },
     {
       "phrase": "suka",
       "transcription": "",
-      "grammar": "",
-      "translation": "lubić",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "lubić"}
     },
     {
       "phrase": "tetapi",
       "transcription": "",
-      "grammar": "",
-      "translation": "ale",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ale"}
     },
     {
       "phrase": "tidak",
       "transcription": "",
-      "grammar": "",
-      "translation": "nie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "nie"}
     },
     {
       "phrase": "warung",
       "transcription": "",
-      "grammar": "",
-      "translation": "stragan",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "stragan"}
     }
   ]
 }

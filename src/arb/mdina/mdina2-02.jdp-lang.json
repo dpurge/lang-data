@@ -13,82 +13,50 @@
     {
       "phrase": "نَهْرٌ",
       "transcription": "",
-      "grammar": "",
-      "translation": "rzeka",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "rzeka"}
     },
     {
       "phrase": "بَرْقِيَّةٌ",
       "transcription": "",
-      "grammar": "",
-      "translation": "telegram",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "telegram"}
     },
     {
       "phrase": "مَصْرَفٌ",
       "transcription": "",
-      "grammar": "",
-      "translation": "bank",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "bank"}
     },
     {
       "phrase": "مَكْتَبُ البَرِيدِ",
       "transcription": "",
-      "grammar": "",
-      "translation": "urząd pocztowy",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "urząd pocztowy"}
     },
     {
       "phrase": "لِقَاءٌ",
       "transcription": "",
-      "grammar": "",
-      "translation": "spotkanie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "spotkanie"}
     },
     {
       "phrase": "أنا مَسْرُورٌ بِلِقائِكَ",
       "transcription": "",
-      "grammar": "",
-      "translation": "miło mi cię poznać",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "miło mi cię poznać"}
     },
     {
       "phrase": "جَيِّدٌ",
       "transcription": "",
-      "grammar": "",
-      "translation": "dobry",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dobry"}
     },
     {
       "phrase": "جَيْبٌ",
       "transcription": "",
-      "grammar": "",
-      "translation": "kieszeń",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kieszeń"}
     }
   ]
 }

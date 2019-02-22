@@ -13,142 +13,86 @@
     {
       "phrase": "בַּיִת",
       "transcription": "",
-      "grammar": "N",
-      "translation": "dom",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "dom"}
     },
     {
       "phrase": "חֶדֶר",
       "transcription": "",
-      "grammar": "N",
-      "translation": "pokój, izba",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "pokój, izba"}
     },
     {
       "phrase": "יֶשׁ",
       "transcription": "",
-      "grammar": "",
-      "translation": "jest, istnieje, są",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "jest, istnieje, są"}
     },
     {
       "phrase": "תִקְרָה",
       "transcription": "",
-      "grammar": "N",
-      "translation": "powała, sufit",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "powała, sufit"}
     },
     {
       "phrase": "רִצְפָּה",
       "transcription": "",
-      "grammar": "N",
-      "translation": "podłoga",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "podłoga"}
     },
     {
       "phrase": "קִיר",
       "transcription": "",
-      "grammar": "N",
-      "translation": "ściana",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "ściana"}
     },
     {
       "phrase": "דֶּלֶת",
       "transcription": "",
-      "grammar": "N",
-      "translation": "drzwi",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "drzwi"}
     },
     {
       "phrase": "חַלּוֹן",
       "transcription": "",
-      "grammar": "N",
-      "translation": "okno",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "okno"}
     },
     {
       "phrase": "בְּ",
       "transcription": "",
-      "grammar": "",
-      "translation": "w; z",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "w; z"}
     },
     {
       "phrase": "וְ",
       "transcription": "",
-      "grammar": "",
-      "translation": "i; a",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "i; a"}
     },
     {
       "phrase": "מַה?",
       "transcription": "",
-      "grammar": "",
-      "translation": "co? jak?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "co? jak?"}
     },
     {
       "phrase": "אַיֵּה?",
       "transcription": "",
-      "grammar": "",
-      "translation": "gdzie?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "gdzie?"}
     },
     {
       "phrase": "שְׁאֵלָה",
       "transcription": "",
-      "grammar": "N",
-      "translation": "pytanie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "pytanie"}
     },
     {
       "phrase": "תְּשׁוּבָה",
       "transcription": "",
-      "grammar": "N",
-      "translation": "odpowiedź",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "odpowiedź"}
     }
   ]
 }

@@ -13,229 +13,194 @@
     {
       "phrase": "",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
 	{
 		"phrase": "在",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "干",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "喂",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "啊",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "正在",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "做",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "作业",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "每",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "天",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "多",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "星期三",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "从。。。到。。。",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "中午",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "四",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "节",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "听写",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "所以",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "酒吧",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "喝",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "咖啡",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "书店",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "对面",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "自己",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "唱",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "卡拉OK",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "回",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "讲座",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "星期一",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "星期五",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "星期六",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	},
 	{
 		"phrase": "休息",
 		"transcription": "",
-		"grammar": "",
-		"translation": "",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""}
 	}
 ]
 

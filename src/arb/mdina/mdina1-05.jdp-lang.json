@@ -13,152 +13,92 @@
     {
       "phrase": "تَحْتَ",
       "transcription": "taḥta",
-      "grammar": "",
-      "translation": "pod",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "pod"}
     },
     {
       "phrase": "الاِبْنُ",
       "transcription": "al-ibn",
-      "grammar": "",
-      "translation": "syn",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "syn"}
     },
     {
       "phrase": "السَّيَّارَةُ",
       "transcription": "as-sayyāra",
-      "grammar": "",
-      "translation": "samochód",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "samochód"}
     },
     {
       "phrase": "هُنَا",
       "transcription": "hunā",
-      "grammar": "",
-      "translation": "tutaj",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "tutaj"}
     },
     {
       "phrase": "هُنَاكَ",
       "transcription": "hunāka",
-      "grammar": "",
-      "translation": "tam",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "tam"}
     },
     {
       "phrase": "البِنْتُ",
       "transcription": "al-bint",
-      "grammar": "",
-      "translation": "córka; dziewczyna",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "córka; dziewczyna"}
     },
     {
       "phrase": "الطَّبِيبُ",
       "transcription": "aṭ-ṭabīb",
-      "grammar": "",
-      "translation": "lekarz",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "lekarz"}
     },
     {
       "phrase": "الرَّسُولُ",
       "transcription": "ar-rasūl",
-      "grammar": "",
-      "translation": "posłaniec",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "posłaniec"}
     },
     {
       "phrase": "العَمُّ",
       "transcription": "al-ʿamm",
-      "grammar": "",
-      "translation": "wuj ze strony ojca",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "wuj ze strony ojca"}
     },
     {
       "phrase": "الشَّارِعُ",
       "transcription": "aš-šāriʿ",
-      "grammar": "",
-      "translation": "ulica",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ulica"}
     },
     {
       "phrase": "الكَعْبَةُ",
       "transcription": "al-Kaʿba",
-      "grammar": "",
-      "translation": "Kaaba",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Kaaba"}
     },
     {
       "phrase": "الخَالُ",
       "transcription": "al-ḫāl",
-      "grammar": "",
-      "translation": "wuj ze strony matki",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "wuj ze strony matki"}
     },
     {
       "phrase": "مُغْلَقٌ",
       "transcription": "muġlaq",
-      "grammar": "",
-      "translation": "zamknięty",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zamknięty"}
     },
     {
       "phrase": "الاِسْمُ",
       "transcription": "al-ism",
-      "grammar": "",
-      "translation": "imię",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "imię"}
     },
     {
       "phrase": "الحَقِيبَةُ",
       "transcription": "al-ḥaqība",
-      "grammar": "",
-      "translation": "torba, teczka",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "torba, teczka"}
     }
   ]
 }

@@ -13,192 +13,116 @@
     {
       "phrase": "عَلَى",
       "transcription": "ʿalā",
-      "grammar": "",
-      "translation": "na",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "na"}
     },
     {
       "phrase": "السَّمَاءُ",
       "transcription": "as-samāʾ",
-      "grammar": "",
-      "translation": "niebo",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "niebo"}
     },
     {
       "phrase": "الفَصْلُ",
       "transcription": "al-faṣl",
-      "grammar": "",
-      "translation": "klasa",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "klasa"}
     },
     {
       "phrase": "المِرْخَاضُ",
       "transcription": "al-mirḥāḍ",
-      "grammar": "",
-      "translation": "toaleta",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "toaleta"}
     },
     {
       "phrase": "أَيْنَ",
       "transcription": "ayna",
-      "grammar": "",
-      "translation": "gdzie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "gdzie"}
     },
     {
       "phrase": "غُرْفَةٌ",
       "transcription": "ġurfa",
-      "grammar": "",
-      "translation": "pokój, izba",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "pokój, izba"}
     },
     {
       "phrase": "الحَمَّامُ",
       "transcription": "al-ḥammām",
-      "grammar": "",
-      "translation": "łazienka",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "łazienka"}
     },
     {
       "phrase": "المَطْبَخُ",
       "transcription": "al-maṭbaḫ",
-      "grammar": "",
-      "translation": "kuchnia",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kuchnia"}
     },
     {
       "phrase": "فِي",
       "transcription": "fī",
-      "grammar": "",
-      "translation": "w",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "w"}
     },
     {
       "phrase": "الفِلِبِينُ",
       "transcription": "al-Filibīn",
-      "grammar": "",
-      "translation": "Filipiny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Filipiny"}
     },
     {
       "phrase": "المَدْرَسَةُ",
       "transcription": "al-madrasa",
-      "grammar": "",
-      "translation": "szkoła",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "szkoła"}
     },
     {
       "phrase": "السُّوقُ",
       "transcription": "as-sūq",
-      "grammar": "",
-      "translation": "targowisko",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "targowisko"}
     },
     {
       "phrase": "الجَامِعَةُ",
       "transcription": "al-ǧāmiʿa",
-      "grammar": "",
-      "translation": "uniwersytet",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "uniwersytet"}
     },
     {
       "phrase": "مِن",
       "transcription": "min",
-      "grammar": "",
-      "translation": "z",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "z"}
     },
     {
       "phrase": "إِلَي",
       "transcription": "ilā",
-      "grammar": "",
-      "translation": "do",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "do"}
     },
     {
       "phrase": "اليَابَانُ",
       "transcription": "al-Yābān",
-      "grammar": "",
-      "translation": "Japonia",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Japonia"}
     },
     {
       "phrase": "الصِّينُ",
       "transcription": "aṣ-Ṣīn",
-      "grammar": "",
-      "translation": "Chiny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Chiny"}
     },
     {
       "phrase": "الهِنْدُ",
       "transcription": "al-Hind",
-      "grammar": "",
-      "translation": "Indie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Indie"}
     },
     {
       "phrase": "المُدِيرُ",
       "transcription": "al-mudīr",
-      "grammar": "",
-      "translation": "dyrektor, kierownik",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dyrektor, kierownik"}
     }
   ]
 }

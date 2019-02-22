@@ -13,202 +13,126 @@
     {
       "phrase": "哪",
       "transcription": "nǎ",
-      "grammar": "",
-      "translation": "który?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "który?"}
     },
     {
       "phrase": "国",
       "transcription": "guó",
-      "grammar": "",
-      "translation": "kraj, państwo",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kraj, państwo"}
     },
     {
       "phrase": "人",
       "transcription": "rén",
-      "grammar": "",
-      "translation": "człowiek, ludzie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "człowiek, ludzie"}
     },
     {
       "phrase": "同学",
       "transcription": "tóngxué",
-      "grammar": "",
-      "translation": "kolega ze szkoły",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kolega ze szkoły"}
     },
     {
       "phrase": "们",
       "transcription": "-men",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "końcówka liczby mnogiej"
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""},
+      "note": {"eng": "", "pol": "końcówka liczby mnogiej"}
     },
     {
       "phrase": "来",
       "transcription": "lái",
-      "grammar": "",
-      "translation": "przyjść, przyjechać, przybyć",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "przyjść, przyjechać, przybyć"}
     },
     {
       "phrase": "介绍",
       "transcription": "jièshào",
-      "grammar": "",
-      "translation": "przedstawić",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "przedstawić"}
     },
     {
       "phrase": "一下儿",
       "transcription": "yíxiàr",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "słówko pomocnicze używane po czasowniku dla wyrażenia, że czynność trwała krótko"
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""},
+      "note": {"eng": "", "pol": "słówko pomocnicze używane po czasowniku dla wyrażenia, że czynność trwała krótko"}
     },
     {
       "phrase": "姓",
       "transcription": "xìng",
-      "grammar": "",
-      "translation": "nazwisko",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "nazwisko"}
     },
     {
       "phrase": "的",
       "transcription": "de",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "partykuła dopełniacza"
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""},
+      "note": {"eng": "", "pol": "partykuła dopełniacza"}
     },
     {
       "phrase": "他",
       "transcription": "tā",
-      "grammar": "",
-      "translation": "on",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "on"}
     },
     {
       "phrase": "认识",
       "transcription": "rènshi",
-      "grammar": "",
-      "translation": "znać się",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "znać się"}
     },
     {
       "phrase": "很",
       "transcription": "hěn",
-      "grammar": "",
-      "translation": "bardzo",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "bardzo"}
     },
     {
       "phrase": "高兴",
       "transcription": "gāoxìng",
-      "grammar": "",
-      "translation": "zadowolony",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zadowolony"}
     },
     {
       "phrase": "也",
       "transcription": "yě",
-      "grammar": "",
-      "translation": "też, także, również",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "też, także, również"}
     },
     {
       "phrase": "呢",
       "transcription": "ne",
-      "grammar": "",
-      "translation": "a...",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "partykuła modalna"
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "a..."},
+      "note": {"eng": "", "pol": "partykuła modalna"}
     },
     {
       "phrase": "英国",
       "transcription": "Yīngguó",
-      "grammar": "",
-      "translation": "Wielka Brytania",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Wielka Brytania"}
     },
     {
       "phrase": "法国",
       "transcription": "Fǎguó",
-      "grammar": "",
-      "translation": "Francja",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Francja"}
     },
     {
       "phrase": "日本",
       "transcription": "Rìběn",
-      "grammar": "",
-      "translation": "Japonia",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Japonia"}
     },
     {
       "phrase": "韩国",
       "transcription": "Hánguó",
-      "grammar": "",
-      "translation": "Korea",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Korea"}
     }
   ]
 }

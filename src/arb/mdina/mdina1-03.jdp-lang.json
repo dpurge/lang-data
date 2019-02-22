@@ -13,252 +13,152 @@
     {
       "phrase": "غَنِيٌّ",
       "transcription": "ġanī",
-      "grammar": "",
-      "translation": "bogaty",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "bogaty"}
     },
     {
       "phrase": "فَقِيرٌ",
       "transcription": "faqīr",
-      "grammar": "",
-      "translation": "biedny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "biedny"}
     },
     {
       "phrase": "طَوِيلٌ",
       "transcription": "ṭawīl",
-      "grammar": "",
-      "translation": "wysoki, długi",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "wysoki, długi"}
     },
     {
       "phrase": "قَصِيرٌ",
       "transcription": "qaṣīr",
-      "grammar": "",
-      "translation": "niski, krótki",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "niski, krótki"}
     },
     {
       "phrase": "بَارِدٌ",
       "transcription": "bārid",
-      "grammar": "",
-      "translation": "zimny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zimny"}
     },
     {
       "phrase": "حَارٌّ",
       "transcription": "ḥārr",
-      "grammar": "",
-      "translation": "gorący",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "gorący"}
     },
     {
       "phrase": "جَالِسٌ",
       "transcription": "ǧālis",
-      "grammar": "",
-      "translation": "siedzący",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "siedzący"}
     },
     {
       "phrase": "وَاقِفٌ",
       "transcription": "wāqif",
-      "grammar": "",
-      "translation": "stojący",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "stojący"}
     },
     {
       "phrase": "جَدِيدٌ",
       "transcription": "ǧadīd",
-      "grammar": "",
-      "translation": "nowy",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "nowy"}
     },
     {
       "phrase": "قَدِيمٌ",
       "transcription": "qadīm",
-      "grammar": "",
-      "translation": "stary",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "stary"}
     },
     {
       "phrase": "قَرِيبٌ",
       "transcription": "qarīb",
-      "grammar": "",
-      "translation": "bliski",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "bliski"}
     },
     {
       "phrase": "بَعِيدٌ",
       "transcription": "baʿīd",
-      "grammar": "",
-      "translation": "odległy",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "odległy"}
     },
     {
       "phrase": "نَظِيفٌ",
       "transcription": "naẓīf",
-      "grammar": "",
-      "translation": "czysty",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "czysty"}
     },
     {
       "phrase": "وَسِخٌ",
       "transcription": "wasiḫ",
-      "grammar": "",
-      "translation": "brudny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "brudny"}
     },
     {
       "phrase": "صَغِيرٌ",
       "transcription": "ṣaġīr",
-      "grammar": "",
-      "translation": "mały",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "mały"}
     },
     {
       "phrase": "كَبِيرٌ",
       "transcription": "kabīr",
-      "grammar": "",
-      "translation": "duży",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "duży"}
     },
     {
       "phrase": "خَفِيفٌ",
       "transcription": "ḫafīf",
-      "grammar": "",
-      "translation": "lekki",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "lekki"}
     },
     {
       "phrase": "ثَقِيلٌ",
       "transcription": "ṯaqīl",
-      "grammar": "",
-      "translation": "ciężki",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ciężki"}
     },
     {
       "phrase": "الوَرَقُ",
       "transcription": "al-waraq",
-      "grammar": "",
-      "translation": "papier",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "papier"}
     },
     {
       "phrase": "المَاءُ",
       "transcription": "al-māʾ",
-      "grammar": "",
-      "translation": "woda",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "woda"}
     },
     {
       "phrase": "التُّفَّاحُ",
       "transcription": "at-tuffāḥ",
-      "grammar": "",
-      "translation": "jabłko",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "jabłko"}
     },
     {
       "phrase": "جَمِيلٌ",
       "transcription": "ǧamīl",
-      "grammar": "",
-      "translation": "piękny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "piękny"}
     },
     {
       "phrase": "الدُّكَّانُ",
       "transcription": "ad-dukkān",
-      "grammar": "",
-      "translation": "sklep",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "sklep"}
     },
     {
       "phrase": "حُلْوٌ",
       "transcription": "ḥulw",
-      "grammar": "",
-      "translation": "słodki",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "słodki"}
     },
     {
       "phrase": "مَرِيضٌ",
       "transcription": "marīḍ",
-      "grammar": "",
-      "translation": "chory",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "chory"}
     }
   ]
 }

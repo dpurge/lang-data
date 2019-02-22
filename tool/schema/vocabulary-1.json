@@ -1,150 +1,172 @@
 {
-  "title": "",
-  "description": "",
-  "type": "object",
-  
-  "required": [
-    "meta",
-    "data"
-  ],
-  
-  "properties": {
-    "meta" : {
-      "title": "",
-      "description": "",
-      "type": "object",
-  
-      "required": [
-        "format",
-        "version",
-        "language",
-        "source",
-        "status",
-        "tags"
-      ],
-      
-      "properties": {
-        "format": {
-          "description": "name of the file format",
-          "type": "string",
-          "enum": ["vocabulary"]
-        },
-        "version": {
-          "title": "version of the file format",
-          "description": "",
-          "type": "integer"
-        },
-        "language": {
-          "description": "ISO code of the language",
-          "type": "string"
-        },
-        "source": {
-          "description": "source of the vocabulary contained in the file",
-          "type": "string"
-        },
-        "status": {
-          "description": "status of the work on the file",
-          "type": "string",
-          "enum": [
-            "pending",
-            "ready",
-            "hidden"
-          ]
-        },
-        "tags": {
-          "title": "",
-          "description": "",
-          "type": "array"
-        }
-      }
-    },
-    
-    "data" : {
-      "title": "",
-      "description": "",
-      "type": "array",
-      "items": {
-        "title": "",
-        "description": "",
-        "type": "object",
-  
-      "required": [
-        "phrase",
-        "category",
-        "translation"
-      ],
-      
-      "properties": {
-        "phrase": {
-          "description": "",
-          "type": "string"
-        },
-        "transcription": {
-          "description": "",
-          "type": "string"
-        },
-        "category": {
-          "description": "",
-          "type": "object",
-          "required": ["lexical"],
-          "properties": {
-            "lexical": {
-              "type": "string",
-              "enum": [
-                "",
-                "N",
-                "V",
-                "Adv",
-                "Adj"
-              ]
-            },
-            "grammatical": {
-              "type": "object"
-            }
-          }
-        },
-        "translation": {
-          "description": "",
-          "type": "object",
-          "properties": {
-            "eng": {
-              "type": "string"
-            },
-            "pol": {
-              "type": "string"
-            }
-          }
-        },
-        "image": {
-          "description": "",
-          "type": "string",
-          "pattern": "^([a-z0-9\\-]+(\\\\[a-z0-9\\-]+)*\\.svg)?$"
-        },
-        "audio": {
-          "description": "",
-          "type": "string",
-          "pattern": "^([a-z0-9\\-]+(\\\\[a-z0-9\\-]+)*\\.mp3)?$"
-        },
-        "video": {
-          "description": "",
-          "type": "string",
-          "pattern": "^([a-z0-9\\-]+(\\\\[a-z0-9\\-]+)*\\.mp4)?$"
-        },
-        "note": {
-          "description": "",
-          "type": "object",
-          "properties": {
-            "eng": {
-              "type": "string"
-            },
-            "pol": {
-              "type": "string"
-            }
-          }
-        }
-      }
-      }
-    }
-  }
+	"title": "",
+	"description": "",
+	"type": "object",
 
+	"additionalProperties": false,
+	"required": [
+		"meta",
+		"data"
+	],
+
+	"properties": {
+		"meta": {
+			"title": "",
+			"description": "",
+			"type": "object",
+
+			"additionalProperties": false,
+			"required": [
+				"format",
+				"version",
+				"language",
+				"source",
+				"status",
+				"tags"
+			],
+
+			"properties": {
+				"format": {
+					"description": "name of the file format",
+					"type": "string",
+					"enum": ["vocabulary"]
+				},
+				"version": {
+					"title": "version of the file format",
+					"description": "",
+					"type": "integer"
+				},
+				"language": {
+					"description": "ISO code of the language",
+					"type": "string"
+				},
+				"source": {
+					"description": "source of the vocabulary contained in the file",
+					"type": "string"
+				},
+				"status": {
+					"description": "status of the work on the file",
+					"type": "string",
+					"enum": [
+						"pending",
+						"ready",
+						"hidden"
+					]
+				},
+				"tags": {
+					"title": "",
+					"description": "",
+					"type": "array"
+				}
+			}
+		},
+
+		"data": {
+			"title": "",
+			"description": "",
+			"type": "array",
+			"items": {
+				"title": "",
+				"description": "",
+				"type": "object",
+
+				"additionalProperties": false,
+				"required": [
+					"phrase",
+					"category",
+					"translation"
+				],
+
+				"properties": {
+					"phrase": {
+						"description": "",
+						"type": "string"
+					},
+					"transcription": {
+						"description": "",
+						"type": "string"
+					},
+					"category": {
+						"description": "",
+						"type": "object",
+						"additionalProperties": false,
+						"required": ["lexical"],
+						"properties": {
+							"lexical": {
+								"type": "string",
+								"enum": [
+									"",
+									"N",
+									"V",
+									"Adv",
+									"Adj"
+								]
+							},
+							"grammatical": {
+								"type": "object",
+								"additionalProperties": false,
+								"properties": {
+									"number": {
+										"type": "string",
+										"enum": [
+											"singular",
+											"dual",
+											"plural"
+										]
+									},
+									"gender": {
+										"type": "string",
+										"enum": [
+											"masculine",
+											"feminine",
+											"neuter"
+										]
+									}
+								}
+							}
+						}
+					},
+					"translation": {
+						"description": "",
+						"type": "object",
+						"properties": {
+							"eng": {
+								"type": "string"
+							},
+							"pol": {
+								"type": "string"
+							}
+						}
+					},
+					"image": {
+						"description": "",
+						"type": "string",
+						"pattern": "^([a-z0-9\\-]+(\\\\[a-z0-9\\-]+)*\\.svg)?$"
+					},
+					"audio": {
+						"description": "",
+						"type": "string",
+						"pattern": "^([a-z0-9\\-]+(\\\\[a-z0-9\\-]+)*\\.mp3)?$"
+					},
+					"video": {
+						"description": "",
+						"type": "string",
+						"pattern": "^([a-z0-9\\-]+(\\\\[a-z0-9\\-]+)*\\.mp4)?$"
+					},
+					"note": {
+						"description": "",
+						"type": "object",
+						"properties": {
+							"eng": {
+								"type": "string"
+							},
+							"pol": {
+								"type": "string"
+							}
+						}
+					}
+				}
+			}
+		}
+	}
 }

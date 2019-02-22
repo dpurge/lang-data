@@ -13,92 +13,56 @@
     {
       "phrase": "תַּנּוּר",
       "transcription": "",
-      "grammar": "",
-      "translation": "piec",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "piec"}
     },
     {
       "phrase": "עַל",
       "transcription": "",
-      "grammar": "",
-      "translation": "na, nad",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "na, nad"}
     },
     {
       "phrase": "גַּג",
       "transcription": "",
-      "grammar": "",
-      "translation": "dach",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dach"}
     },
     {
       "phrase": "תְּמוּנָה",
       "transcription": "",
-      "grammar": "",
-      "translation": "obraz",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "obraz"}
     },
     {
       "phrase": "עוֹמֵד",
       "transcription": "",
-      "grammar": "",
-      "translation": "stoi, stojący",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "stoi, stojący"}
     },
     {
       "phrase": "פִּנָּה",
       "transcription": "",
-      "grammar": "",
-      "translation": "kąt",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kąt"}
     },
     {
       "phrase": "אֵיפֹה?",
       "transcription": "",
-      "grammar": "",
-      "translation": "gdzie?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "gdzie?"}
     },
     {
       "phrase": "שֶׁל־מִי?",
       "transcription": "",
-      "grammar": "",
-      "translation": "czyj?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "czyj?"}
     },
     {
       "phrase": "לְ",
       "transcription": "",
-      "grammar": "",
-      "translation": "do",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "do"}
     }
   ]
 }

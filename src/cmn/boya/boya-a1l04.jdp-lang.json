@@ -13,166 +13,141 @@
     {
       "phrase": "",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
 	{
 		"phrase": "图书馆",
 		"transcription": "túshūguǎn",
-		"grammar": "",
-		"translation": "biblioteka",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "biblioteka"}
 	},
 	{
 		"phrase": "在",
 		"transcription": "zài",
-		"grammar": "",
-		"translation": "być w",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "być w"}
 	},
 	{
 		"phrase": "哪儿",
 		"transcription": "nǎr",
-		"grammar": "",
-		"translation": "gdzie?",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "gdzie?"}
 	},
 	{
 		"phrase": "请问",
 		"transcription": "qǐng wèn",
-		"grammar": "",
-		"translation": "przepraszam, czy mogę zapytać",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "przepraszam, czy mogę zapytać"}
 	},
 	{
 		"phrase": "对不起",
 		"transcription": "duìbuqǐ",
-		"grammar": "",
-		"translation": "przepraszam, przykro mi",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "przepraszam, przykro mi"}
 	},
 	{
 		"phrase": "这儿",
 		"transcription": "zhèr",
-		"grammar": "",
-		"translation": "tutaj",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "tutaj"}
 	},
 	{
 		"phrase": "知道",
 		"transcription": "zhīdào",
-		"grammar": "",
-		"translation": "wiedzieć",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "wiedzieć"}
 	},
 	{
 		"phrase": "没关系",
 		"transcription": "méi guānxi",
-		"grammar": "",
-		"translation": "nic nie szkodzi",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "nic nie szkodzi"}
 	},
 	{
 		"phrase": "教学",
 		"transcription": "jiàoxué",
-		"grammar": "",
-		"translation": "nauczanie",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "nauczanie"}
 	},
 	{
 		"phrase": "楼",
 		"transcription": "lóu",
-		"grammar": "",
-		"translation": "budynek",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "budynek"}
 	},
 	{
 		"phrase": "那儿",
 		"transcription": "nàr",
-		"grammar": "",
-		"translation": "tam",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "tam"}
 	},
 	{
 		"phrase": "宿舍",
 		"transcription": "sùshè",
-		"grammar": "",
-		"translation": "internat, akademik",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "internat, akademik"}
 	},
 	{
 		"phrase": "北边",
 		"transcription": "běibian",
-		"grammar": "",
-		"translation": "północ",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "północ"}
 	},
 	{
 		"phrase": "左边",
 		"transcription": "zuǒbian",
-		"grammar": "",
-		"translation": "lewa strona",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "lewa strona"}
 	},
 	{
 		"phrase": "右边",
 		"transcription": "yòubian",
-		"grammar": "",
-		"translation": "prawa strona",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "prawa strona"}
 	},
 	{
 		"phrase": "不用",
 		"transcription": "bú yòng",
-		"grammar": "",
-		"translation": "nie trzeba",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "nie trzeba"}
 	},
 	{
 		"phrase": "不用谢",
 		"transcription": "bú yòng xiè",
-		"grammar": "",
-		"translation": "nie ma za co",
-		"note": "odpowiedź na podziękowanie"
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "nie ma za co"},
+		"note": {"eng": "", "pol": "odpowiedź na podziękowanie"}
 	},
 	{
 		"phrase": "东边",
 		"transcription": "dōngbian",
-		"grammar": "",
-		"translation": "wschód",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "wschód"}
 	},
 	{
 		"phrase": "南边",
 		"transcription": "nánbian",
-		"grammar": "",
-		"translation": "południe",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "południe"}
 	},
 	{
 		"phrase": "邮局",
 		"transcription": "yóujú",
-		"grammar": "",
-		"translation": "poczta, urząd pocztowy",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "poczta, urząd pocztowy"}
 	},
 	{
 		"phrase": "商店",
 		"transcription": "shāngdiàn",
-		"grammar": "",
-		"translation": "sklep",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "sklep"}
 	},
 	{
 		"phrase": "下边",
 		"transcription": "xiàbian",
-		"grammar": "",
-		"translation": "pod spodem",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "pod spodem"}
 	}
 ]
 

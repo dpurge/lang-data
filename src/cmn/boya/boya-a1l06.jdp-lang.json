@@ -13,201 +13,170 @@
     {
       "phrase": "",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
 	{
 		"phrase": "现在",
 		"transcription": "xiànzài",
-		"grammar": "",
-		"translation": "teraz",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "teraz"}
 	},
 	{
 		"phrase": "几",
 		"transcription": "jǐ",
-		"grammar": "",
-		"translation": "ile?",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "ile?"}
 	},
 	{
 		"phrase": "点",
 		"transcription": "diǎn",
-		"grammar": "",
-		"translation": "godzina",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "godzina"}
 	},
 	{
 		"phrase": "大学",
 		"transcription": "dàxué",
-		"grammar": "",
-		"translation": "uniwersytet",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "uniwersytet"}
 	},
 	{
 		"phrase": "早上",
 		"transcription": "zǎoshang",
-		"grammar": "",
-		"translation": "rano, poranek",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "rano, poranek"}
 	},
 	{
 		"phrase": "上课",
 		"transcription": "shàng kè",
-		"grammar": "",
-		"translation": "iść na lekcje, mieć lekcje",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "iść na lekcje, mieć lekcje"}
 	},
 	{
 		"phrase": "部分",
 		"transcription": "bùfēn",
-		"grammar": "",
-		"translation": "część",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "część"}
 	},
 	{
 		"phrase": "大部分",
 		"transcription": "dà bùfēn",
-		"grammar": "",
-		"translation": "większość",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "większość"}
 	},
 	{
 		"phrase": "八",
 		"transcription": "bā",
-		"grammar": "",
-		"translation": "osiem",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "osiem"}
 	},
 	{
 		"phrase": "五十",
 		"transcription": "wǔshí",
-		"grammar": "",
-		"translation": "pięćdziesiąt",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "pięćdziesiąt"}
 	},
 	{
 		"phrase": "分",
 		"transcription": "fēn",
-		"grammar": "",
-		"translation": "minuta",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "minuta"}
 	},
 	{
 		"phrase": "我们",
 		"transcription": "wǒmen",
-		"grammar": "",
-		"translation": "my",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "my"}
 	},
 	{
 		"phrase": "学校",
 		"transcription": "xuéxiào",
-		"grammar": "",
-		"translation": "szkoła",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "szkoła"}
 	},
 	{
 		"phrase": "九",
 		"transcription": "jiǔ",
-		"grammar": "",
-		"translation": "dziewięć",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "dziewięć"}
 	},
 	{
 		"phrase": "下课",
 		"transcription": "xià kè",
-		"grammar": "",
-		"translation": "kończyć lekcje",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "kończyć lekcje"}
 	},
 	{
 		"phrase": "十",
 		"transcription": "shí",
-		"grammar": "",
-		"translation": "dziesięć",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "dziesięć"}
 	},
 	{
 		"phrase": "半",
 		"transcription": "bàn",
-		"grammar": "",
-		"translation": "połowa",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "połowa"}
 	},
 	{
 		"phrase": "太。。。了",
 		"transcription": "tài ... le",
-		"grammar": "",
-		"translation": "zbyt, za",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "zbyt, za"}
 	},
 	{
 		"phrase": "早",
 		"transcription": "zǎo",
-		"grammar": "",
-		"translation": "wcześnie",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "wcześnie"}
 	},
 	{
 		"phrase": "电影",
 		"transcription": "diànyǐng",
-		"grammar": "",
-		"translation": "film",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "film"}
 	},
 	{
 		"phrase": "开始",
 		"transcription": "kāishǐ",
-		"grammar": "",
-		"translation": "zaczynać (się)",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "zaczynać (się)"}
 	},
 	{
 		"phrase": "六",
 		"transcription": "liù",
-		"grammar": "",
-		"translation": "sześć",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "sześć"}
 	},
 	{
 		"phrase": "差",
 		"transcription": "chà",
-		"grammar": "",
-		"translation": "brakować, nie wystarczać",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "brakować, nie wystarczać"}
 	},
 	{
 		"phrase": "一",
 		"transcription": "yī",
-		"grammar": "",
-		"translation": "jeden",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "jeden"}
 	},
 	{
 		"phrase": "刻",
 		"transcription": "kè",
-		"grammar": "",
-		"translation": "ćwierć",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "ćwierć"}
 	},
 	{
 		"phrase": "一会儿",
 		"transcription": "yíhuìr",
-		"grammar": "",
-		"translation": "za chwilę",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "za chwilę"}
 	},
 	{
 		"phrase": "见",
 		"transcription": "jiàn",
-		"grammar": "",
-		"translation": "zobaczyć, spotkać",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "zobaczyć, spotkać"}
 	}
 ]
 

@@ -13,182 +13,110 @@
     {
       "phrase": "אָב",
       "transcription": "",
-      "grammar": "",
-      "translation": "ojciec",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ojciec"}
     },
     {
       "phrase": "אֵם",
       "transcription": "",
-      "grammar": "",
-      "translation": "matka",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "matka"}
     },
     {
       "phrase": "רַק",
       "transcription": "",
-      "grammar": "",
-      "translation": "tylko",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "tylko"}
     },
     {
       "phrase": "הוּא",
       "transcription": "",
-      "grammar": "",
-      "translation": "on (jest)",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "on (jest)"}
     },
     {
       "phrase": "אִישׁ",
       "transcription": "",
-      "grammar": "",
-      "translation": "mężczyzna, człowiek",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "mężczyzna, człowiek"}
     },
     {
       "phrase": "טוֹב",
       "transcription": "",
-      "grammar": "",
-      "translation": "dobry",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dobry"}
     },
     {
       "phrase": "מְאֹד",
       "transcription": "",
-      "grammar": "",
-      "translation": "bardzo",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "bardzo"}
     },
     {
       "phrase": "אָח",
       "transcription": "",
-      "grammar": "",
-      "translation": "brat",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "brat"}
     },
     {
       "phrase": "אֲשֶׁר",
       "transcription": "",
-      "grammar": "",
-      "translation": "który",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "który"}
     },
     {
       "phrase": "חָכָם",
       "transcription": "",
-      "grammar": "",
-      "translation": "mądry",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "mądry"}
     },
     {
       "phrase": "קָטָן",
       "transcription": "",
-      "grammar": "",
-      "translation": "mały",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "mały"}
     },
     {
       "phrase": "גָּדוֹל",
       "transcription": "",
-      "grammar": "",
-      "translation": "duży, wielki",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "duży, wielki"}
     },
     {
       "phrase": "גַּם",
       "transcription": "",
-      "grammar": "",
-      "translation": "także",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "także"}
     },
     {
       "phrase": "הֲ? הַאִם?",
       "transcription": "",
-      "grammar": "",
-      "translation": "czy?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "czy?"}
     },
     {
       "phrase": "כֵּן",
       "transcription": "",
-      "grammar": "",
-      "translation": "tak, tak jest",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "tak, tak jest"}
     },
     {
       "phrase": "לֹא",
       "transcription": "",
-      "grammar": "",
-      "translation": "nie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "nie"}
     },
     {
       "phrase": "מִי?",
       "transcription": "",
-      "grammar": "",
-      "translation": "kto?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kto?"}
     },
     {
       "phrase": "שָׁנָה",
       "transcription": "",
-      "grammar": "",
-      "translation": "rok",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "rok"}
     }
   ]
 }

@@ -13,173 +13,149 @@
     {
       "phrase": "",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
 	{
 		"phrase": "刘",
 		"transcription": "Liú",
-		"grammar": "",
-		"translation": "Liu",
-		"note": "chińskie nazwisko"
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "Liu"},
+		"note": {"eng": "", "pol": "chińskie nazwisko"}
 	},
 	{
 		"phrase": "东方大学",
 		"transcription": "Dōngfāng dàxué",
-		"grammar": "",
-		"translation": "uniwersytet Dongfang",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "uniwersytet Dongfang"}
 	},
 	{
 		"phrase": "美国",
 		"transcription": "Měiguó",
-		"grammar": "",
-		"translation": "Ameryka",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "Ameryka"}
 	},
 	{
 		"phrase": "加拿大",
 		"transcription": "Jiānádà",
-		"grammar": "",
-		"translation": "Kanada",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "Kanada"}
 	},
 	{
 		"phrase": "中国",
 		"transcription": "Zhōngguó",
-		"grammar": "",
-		"translation": "Chiny",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "Chiny"}
 	},
 	{
 		"phrase": "那",
 		"transcription": "nà",
-		"grammar": "",
-		"translation": "tamto",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "tamto"}
 	},
 	{
 		"phrase": "书",
 		"transcription": "shū",
-		"grammar": "",
-		"translation": "książka",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "książka"}
 	},
 	{
 		"phrase": "谁",
 		"transcription": "shuí",
-		"grammar": "",
-		"translation": "kto?",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "kto?"}
 	},
 	{
 		"phrase": "同屋",
 		"transcription": "tóngwū",
-		"grammar": "",
-		"translation": "współlokator",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "współlokator"}
 	},
 	{
 		"phrase": "汉语",
 		"transcription": "Hànyǔ",
-		"grammar": "",
-		"translation": "język chiński",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "język chiński"}
 	},
 	{
 		"phrase": "课本",
 		"transcription": "kèběn",
-		"grammar": "",
-		"translation": "podręcznik",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "podręcznik"}
 	},
 	{
 		"phrase": "词典",
 		"transcription": "cídiǎn",
-		"grammar": "",
-		"translation": "słownik",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "słownik"}
 	},
 	{
 		"phrase": "就是",
 		"transcription": "jiù shì",
-		"grammar": "",
-		"translation": "to znaczy, to jest",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "to znaczy, to jest"}
 	},
 	{
 		"phrase": "日语",
 		"transcription": "Rìyǔ",
-		"grammar": "",
-		"translation": "język japoński",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "język japoński"}
 	},
 	{
 		"phrase": "这",
 		"transcription": "zhè",
-		"grammar": "",
-		"translation": "to",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "to"}
 	},
 	{
 		"phrase": "磁带",
 		"transcription": "cídài",
-		"grammar": "",
-		"translation": "taśma, kaseta",
-		"note": "muzyczna"
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "taśma, kaseta"},
+		"note": {"eng": "", "pol": "muzyczna"}
 	},
 	{
 		"phrase": "音乐",
 		"transcription": "yīnyuè",
-		"grammar": "",
-		"translation": "muzyka",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "muzyka"}
 	},
 	{
 		"phrase": "朋友",
 		"transcription": "péngyou",
-		"grammar": "",
-		"translation": "kolega, przyjaciel",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "kolega, przyjaciel"}
 	},
 	{
 		"phrase": "汉日词典",
 		"transcription": "Hàn-Rì cídiǎn",
-		"grammar": "",
-		"translation": "słownik chińsko-japoński",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "słownik chińsko-japoński"}
 	},
 	{
 		"phrase": "日本",
 		"transcription": "Rìběn",
-		"grammar": "",
-		"translation": "Japonia",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "Japonia"}
 	},
 	{
 		"phrase": "英语",
 		"transcription": "Yīngyǔ",
-		"grammar": "",
-		"translation": "język angielski",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "język angielski"}
 	},
 	{
 		"phrase": "法语",
 		"transcription": "Fǎyǔ",
-		"grammar": "",
-		"translation": "język francuski",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "język francuski"}
 	},
 	{
 		"phrase": "本",
 		"transcription": "běn",
-		"grammar": "",
-		"translation": "",
-		"note": "klasyfikator książek"
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": ""},
+		"note": {"eng": "", "pol": "klasyfikator książek"}
 	}
 ]
 

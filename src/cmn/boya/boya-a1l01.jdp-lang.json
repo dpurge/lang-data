@@ -13,182 +13,113 @@
     {
       "phrase": "你",
       "transcription": "nǐ",
-      "grammar": "",
-      "translation": "ty",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ty"}
     },
     {
       "phrase": "好",
       "transcription": "hǎo",
-      "grammar": "",
-      "translation": "dobry; dobrze",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dobry; dobrze"}
     },
     {
       "phrase": "是",
       "transcription": "shì",
-      "grammar": "",
-      "translation": "być",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "być"}
     },
     {
       "phrase": "老师",
       "transcription": "lǎoshī",
-      "grammar": "",
-      "translation": "nauczyciel",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "nauczyciel"}
     },
     {
       "phrase": "吗",
       "transcription": "ma",
-      "grammar": "",
-      "translation": "czy?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "czy?"}
     },
     {
       "phrase": "不",
       "transcription": "bù",
-      "grammar": "",
-      "translation": "nie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "nie"}
     },
     {
       "phrase": "我",
       "transcription": "wǒ",
-      "grammar": "",
-      "translation": "ja",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ja"}
     },
     {
       "phrase": "学生",
       "transcription": "xuéshēng",
-      "grammar": "",
-      "translation": "uczeń, student",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "uczeń, student"}
     },
     {
       "phrase": "她",
       "transcription": "tā",
-      "grammar": "",
-      "translation": "ona",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ona"}
     },
     {
       "phrase": "谢谢",
       "transcription": "xièxie",
-      "grammar": "",
-      "translation": "dziękuję!",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dziękuję!"}
     },
     {
       "phrase": "不客气",
       "transcription": "bú kèqi",
-      "grammar": "",
-      "translation": "Nie ma za co.",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "Odpowiedź na \"dziękuję\"."
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Nie ma za co."},
+      "note": {"eng": "", "pol": "Odpowiedź na \"dziękuję\"."}
     },
     {
       "phrase": "您",
       "transcription": "nín",
-      "grammar": "",
-      "translation": "pan; pani",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "pan; pani"}
     },
     {
       "phrase": "留学生",
       "transcription": "liúxuéshēng",
-      "grammar": "",
-      "translation": "student zagraniczny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "student zagraniczny"}
     },
     {
       "phrase": "叫",
       "transcription": "jiāo",
-      "grammar": "",
-      "translation": "wołać",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "wołać"}
     },
     {
       "phrase": "什么",
       "transcription": "shénme",
-      "grammar": "",
-      "translation": "co?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "co?"}
     },
     {
       "phrase": "名字",
       "transcription": "míngzi",
-      "grammar": "",
-      "translation": "imię",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "imię"}
     },
     {
       "phrase": "李",
       "transcription": "Lǐ",
-      "grammar": "",
-      "translation": "Li",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "chińskie nazwisko"
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Li"},
+      "note": {"eng": "", "pol": "chińskie nazwisko"}
     },
     {
       "phrase": "王",
       "transcription": "Wáng",
-      "grammar": "",
-      "translation": "Wang",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "chińskie nazwisko"
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Wang"},
+      "note": {"eng": "", "pol": "chińskie nazwisko"}
     }
   ]
 }

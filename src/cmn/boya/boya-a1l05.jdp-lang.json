@@ -13,166 +13,140 @@
     {
       "phrase": "",
       "transcription": "",
-      "grammar": "",
-      "translation": "",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
     },
 	{
 		"phrase": "西边",
 		"transcription": "xībian",
-		"grammar": "",
-		"translation": "zachód",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "zachód"}
 	},
 	{
 		"phrase": "专业",
 		"transcription": "zhuānyè",
-		"grammar": "",
-		"translation": "specjlność",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "specjlność"}
 	},
 	{
 		"phrase": "国际",
 		"transcription": "guójì",
-		"grammar": "",
-		"translation": "międzynarodowy",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "międzynarodowy"}
 	},
 	{
 		"phrase": "关系",
 		"transcription": "guānxi",
-		"grammar": "",
-		"translation": "znajomości, układy",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "znajomości, układy"}
 	},
 	{
 		"phrase": "中文",
 		"transcription": "Zhōngwén",
-		"grammar": "",
-		"translation": "język chiński",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "język chiński"}
 	},
 	{
 		"phrase": "系",
 		"transcription": "xì",
-		"grammar": "",
-		"translation": "wydział, departament",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "wydział, departament"}
 	},
 	{
 		"phrase": "研究生",
 		"transcription": "yánjiūshēng",
-		"grammar": "",
-		"translation": "magistrant, słuchacz studiów magisterskich",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "magistrant, słuchacz studiów magisterskich"}
 	},
 	{
 		"phrase": "现代",
 		"transcription": "xiàndài",
-		"grammar": "",
-		"translation": "współczesny, nowoczesny",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "współczesny, nowoczesny"}
 	},
 	{
 		"phrase": "文学",
 		"transcription": "wénxué",
-		"grammar": "",
-		"translation": "literatura",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "literatura"}
 	},
 	{
 		"phrase": "有",
 		"transcription": "yǒu",
-		"grammar": "",
-		"translation": "mieć",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "mieć"}
 	},
 	{
 		"phrase": "空儿",
 		"transcription": "kòngr",
-		"grammar": "",
-		"translation": "czas wolny",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "czas wolny"}
 	},
 	{
 		"phrase": "时候",
 		"transcription": "shíhou",
-		"grammar": "",
-		"translation": "czas, chwila",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "czas, chwila"}
 	},
 	{
 		"phrase": "欢迎",
 		"transcription": "huānyíng",
-		"grammar": "",
-		"translation": "witaj",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "witaj"}
 	},
 	{
 		"phrase": "去",
 		"transcription": "qù",
-		"grammar": "",
-		"translation": "iść, jechać",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "iść, jechać"}
 	},
 	{
 		"phrase": "玩儿",
 		"transcription": "wánr",
-		"grammar": "",
-		"translation": "bawić się",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "bawić się"}
 	},
 	{
 		"phrase": "卫生间",
 		"transcription": "wèishēngjiān",
-		"grammar": "",
-		"translation": "toaleta, WC",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "toaleta, WC"}
 	},
 	{
 		"phrase": "",
 		"transcription": "jiàoshì",
-		"grammar": "",
-		"translation": "klasa, sala wykładowa",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "klasa, sala wykładowa"}
 	},
 	{
 		"phrase": "旁边",
 		"transcription": "pángbiān",
-		"grammar": "",
-		"translation": "bok",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "bok"}
 	},
 	{
 		"phrase": "东边",
 		"transcription": "dōngbian",
-		"grammar": "",
-		"translation": "wschód",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "wschód"}
 	},
 	{
 		"phrase": "对",
 		"transcription": "dùi",
-		"grammar": "",
-		"translation": "tak jest",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "tak jest"}
 	},
 	{
 		"phrase": "中华大学",
 		"transcription": "Zhōnghuá dàxué",
-		"grammar": "",
-		"translation": "uniwersytet Zhonghua",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "uniwersytet Zhonghua"}
 	},
 	{
 		"phrase": "现在",
 		"transcription": "xiànzài",
-		"grammar": "",
-		"translation": "teraz",
-		"note": ""
+		"category": {"lexical": ""},
+		"translation": {"eng": "", "pol": "teraz"}
 	}
 ]
 

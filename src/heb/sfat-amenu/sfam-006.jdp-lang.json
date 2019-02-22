@@ -13,192 +13,116 @@
     {
       "phrase": "כּוֹתֵב",
       "transcription": "",
-      "grammar": "",
-      "translation": "pisze, piszący",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "pisze, piszący"}
     },
     {
       "phrase": "שִׁעוּר",
       "transcription": "",
-      "grammar": "",
-      "translation": "zadanie, lekcja",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zadanie, lekcja"}
     },
     {
       "phrase": "מַחְבֶּרֶת",
       "transcription": "",
-      "grammar": "",
-      "translation": "zeszyt",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zeszyt"}
     },
     {
       "phrase": "נְיָר",
       "transcription": "",
-      "grammar": "",
-      "translation": "papier",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "papier"}
     },
     {
       "phrase": "עֵט",
       "transcription": "",
-      "grammar": "",
-      "translation": "pióro",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "pióro"}
     },
     {
       "phrase": "רָהִיט",
       "transcription": "",
-      "grammar": "",
-      "translation": "mebel, sprzęt",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "mebel, sprzęt"}
     },
     {
       "phrase": "יוֹשֵׁב",
       "transcription": "",
-      "grammar": "",
-      "translation": "siedzi, siedzący",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "siedzi, siedzący"}
     },
     {
       "phrase": "כִּסֵּא",
       "transcription": "",
-      "grammar": "",
-      "translation": "krzesło",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "krzesło"}
     },
     {
       "phrase": "תַּרְגּוּם",
       "transcription": "",
-      "grammar": "",
-      "translation": "tłumaczenie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "tłumaczenie"}
     },
     {
       "phrase": "אוֹ",
       "transcription": "",
-      "grammar": "",
-      "translation": "albo",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "albo"}
     },
     {
       "phrase": "עִפָּרוֹן",
       "transcription": "",
-      "grammar": "",
-      "translation": "ołówek",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ołówek"}
     },
     {
       "phrase": "לוּחַ",
       "transcription": "",
-      "grammar": "",
-      "translation": "tablica",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "tablica"}
     },
     {
       "phrase": "קִרְטוֹן",
       "transcription": "",
-      "grammar": "",
-      "translation": "kreda",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kreda"}
     },
     {
       "phrase": "",
       "transcription": "gir",
-      "grammar": "",
-      "translation": "kreda",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kreda"}
     },
     {
       "phrase": "חֶרֶט",
       "transcription": "",
-      "grammar": "",
-      "translation": "rysik, rylec",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "rysik, rylec"}
     },
     {
       "phrase": "שֻׁלְחָן",
       "transcription": "",
-      "grammar": "",
-      "translation": "stół",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "stół"}
     },
     {
       "phrase": "אֲרוֹן",
       "transcription": "",
-      "grammar": "",
-      "translation": "szafa",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "szafa"}
     },
     {
       "phrase": "אֵצֶל",
       "transcription": "",
-      "grammar": "",
-      "translation": "przy, obok, u",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "przy, obok, u"}
     },
     {
       "phrase": "אֶל",
       "transcription": "",
-      "grammar": "",
-      "translation": "do; przy, obok",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "do; przy, obok"}
     }
   ]
 }

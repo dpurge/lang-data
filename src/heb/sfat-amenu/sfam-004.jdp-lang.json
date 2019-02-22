@@ -13,182 +13,110 @@
     {
       "phrase": "אָנֹכִי",
       "transcription": "",
-      "grammar": "",
-      "translation": "ja",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ja"}
     },
     {
       "phrase": "אוֹהֵב",
       "transcription": "",
-      "grammar": "",
-      "translation": "kocha, lubi",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kocha, lubi"}
     },
     {
       "phrase": "נָתַן",
       "transcription": "",
-      "grammar": "",
-      "translation": "dał",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dał"}
     },
     {
       "phrase": "סֵפֶר",
       "transcription": "",
-      "grammar": "",
-      "translation": "książka",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "książka"}
     },
     {
       "phrase": "כָּל־",
       "transcription": "",
-      "grammar": "",
-      "translation": "każdy, wszystek, cały",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "każdy, wszystek, cały"}
     },
     {
       "phrase": "אֶחַד",
       "transcription": "",
-      "grammar": "",
-      "translation": "jeden",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "jeden"}
     },
     {
       "phrase": "גָּבֹהַּ",
       "transcription": "",
-      "grammar": "",
-      "translation": "wysoki",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "wysoki"}
     },
     {
       "phrase": "אֲרֻבָּה",
       "transcription": "",
-      "grammar": "",
-      "translation": "komin",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "komin"}
     },
     {
       "phrase": "מִן",
       "transcription": "",
-      "grammar": "",
-      "translation": "od, z",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "od, z"}
     },
     {
       "phrase": "יוֹצֵא",
       "transcription": "",
-      "grammar": "",
-      "translation": "wychodzi",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "wychodzi"}
     },
     {
       "phrase": "עָשָׁן",
       "transcription": "",
-      "grammar": "",
-      "translation": "dym",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dym"}
     },
     {
       "phrase": "כִּי",
       "transcription": "",
-      "grammar": "",
-      "translation": "bo, ponieważ",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "bo, ponieważ"}
     },
     {
       "phrase": "נַעַר",
       "transcription": "",
-      "grammar": "",
-      "translation": "chłopiec",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "chłopiec"}
     },
     {
       "phrase": "רַע",
       "transcription": "",
-      "grammar": "",
-      "translation": "zły",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zły"}
     },
     {
       "phrase": "עוֹד",
       "transcription": "",
-      "grammar": "",
-      "translation": "jeszcze",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "jeszcze"}
     },
     {
       "phrase": "כַּמָּה?",
       "transcription": "",
-      "grammar": "",
-      "translation": "ile?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ile?"}
     },
     {
       "phrase": "לָמָּה?",
       "transcription": "",
-      "grammar": "",
-      "translation": "dlaczego? po co?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dlaczego? po co?"}
     },
     {
       "phrase": "אֶת־מִי?",
       "transcription": "",
-      "grammar": "",
-      "translation": "kogo?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kogo?"}
     }
   ]
 }

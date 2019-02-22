@@ -13,162 +13,98 @@
     {
       "phrase": "مِائَةٌ",
       "transcription": "miʾa",
-      "grammar": "",
-      "translation": "sto",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "sto"}
     },
     {
       "phrase": "أَلْفٌ",
       "transcription": "alf",
-      "grammar": "",
-      "translation": "tysiąc",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "tysiąc"}
     },
     {
       "phrase": "رُوبِيَّةٌ",
       "transcription": "rūbiyya",
-      "grammar": "",
-      "translation": "rupia",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "rupia"}
     },
     {
       "phrase": "ذَكِيٌّ",
       "transcription": "ḏakī",
-      "grammar": "",
-      "translation": "inteligentny, bystry",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "inteligentny, bystry"}
     },
     {
       "phrase": "غَبِيٌّ",
       "transcription": "ġabī",
-      "grammar": "",
-      "translation": "głupi",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "głupi"}
     },
     {
       "phrase": "خُلُقٌ",
       "transcription": "ḫuluq",
-      "grammar": "",
-      "translation": "maniery",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "maniery"}
     },
     {
       "phrase": "صَفْحَةٌ",
       "transcription": "ṣafḥa",
-      "grammar": "",
-      "translation": "strona, kartka",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "strona, kartka"}
     },
     {
       "phrase": "نَاجِحٌ",
       "transcription": "nāǧiḥ",
-      "grammar": "",
-      "translation": "ten kto zdał egzamin",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ten kto zdał egzamin"}
     },
     {
       "phrase": "غَالٍ",
       "transcription": "ġālin",
-      "grammar": "",
-      "translation": "drogi, kosztowny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "drogi, kosztowny"}
     },
     {
       "phrase": "كُمٌّ",
       "transcription": "kumm",
-      "grammar": "",
-      "translation": "rękaw",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "rękaw"}
     },
     {
       "phrase": "مُتَزَوِّجٌ",
       "transcription": "mutazawwiǧ",
-      "grammar": "",
-      "translation": "żonaty",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "żonaty"}
     },
     {
       "phrase": "عَزَبٌ",
       "transcription": "ʿazab",
-      "grammar": "",
-      "translation": "kawaler, stanu wolnego",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "kawaler, stanu wolnego"}
     },
     {
       "phrase": "يَهُودِيٌّ",
       "transcription": "Yahūdī",
-      "grammar": "",
-      "translation": "Żyd",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Żyd"}
     },
     {
       "phrase": "يَهُودٌ",
       "transcription": "Yahūd",
-      "grammar": "",
-      "translation": "Żydzi",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "Żydzi"}
     },
     {
       "phrase": "مُعْجَمٌ",
       "transcription": "muʿǧam",
-      "grammar": "",
-      "translation": "słownik",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "słownik"}
     },
     {
       "phrase": "دُولارٌ",
       "transcription": "dūlār",
-      "grammar": "",
-      "translation": "dolar",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dolar"}
     }
   ]
 }

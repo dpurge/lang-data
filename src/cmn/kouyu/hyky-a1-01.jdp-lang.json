@@ -13,532 +13,320 @@
     {
       "phrase": "开心",
       "transcription": "kāixīn",
-      "grammar": "Adj",
-      "translation": "zadowolony, szczęśliwy",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "Adj"},
+      "translation": {"eng": "", "pol": "zadowolony, szczęśliwy"}
     },
     {
       "phrase": "互相",
       "transcription": "hùxiāng",
-      "grammar": "",
-      "translation": "nawzajem",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "nawzajem"}
     },
     {
       "phrase": "金",
       "transcription": "jīn",
-      "grammar": "",
-      "translation": "metal; złoto; miedź",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "metal; złoto; miedź"}
     },
     {
       "phrase": "甲",
       "transcription": "jiǎ",
-      "grammar": "",
-      "translation": "pancerz",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "pancerz"}
     },
     {
       "phrase": "银",
       "transcription": "yín",
-      "grammar": "",
-      "translation": "srebro; pieniądze, gotówka",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "srebro; pieniądze, gotówka"}
     },
     {
       "phrase": "幸福",
       "transcription": "xìngfú",
-      "grammar": "Adj",
-      "translation": "szczęśliwy, błogosławiony",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "Adj"},
+      "translation": {"eng": "", "pol": "szczęśliwy, błogosławiony"}
     },
     {
       "phrase": "福",
       "transcription": "fú",
-      "grammar": "",
-      "translation": "fortuna, szczęście, błogosławieństwo",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "fortuna, szczęście, błogosławieństwo"}
     },
     {
       "phrase": "另外",
       "transcription": "lìngwài",
-      "grammar": "Adj",
-      "translation": "inny; drugi",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "Adj"},
+      "translation": {"eng": "", "pol": "inny; drugi"}
     },
     {
       "phrase": "另外",
       "transcription": "lìngwài",
-      "grammar": "",
-      "translation": "ponadto; poza tym",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "ponadto; poza tym"}
     },
     {
       "phrase": "乙",
       "transcription": "yǐ",
-      "grammar": "",
-      "translation": "drugi",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "drugi"}
     },
     {
       "phrase": "关照",
       "transcription": "guānzhào",
-      "grammar": "V",
-      "translation": "dbać, troszczyć się, opiekować się",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "dbać, troszczyć się, opiekować się"}
     },
     {
       "phrase": "好听",
       "transcription": "hǎotīng",
-      "grammar": "Adj",
-      "translation": "o miłym dźwięku",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "Adj"},
+      "translation": {"eng": "", "pol": "o miłym dźwięku"}
     },
     {
       "phrase": "下边",
       "transcription": "xiàbiān",
-      "grammar": "N",
-      "translation": "spód, poniżej, pod",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "spód, poniżej, pod"}
     },
     {
       "phrase": "接着",
       "transcription": "jiēzhe",
-      "grammar": "V",
-      "translation": "przyjąć, odebrać; kontynuować",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "przyjąć, odebrać; kontynuować"}
     },
     {
       "phrase": "丙",
       "transcription": "bǐng",
-      "grammar": "",
-      "translation": "trzeci",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "trzeci"}
     },
     {
       "phrase": "华裔",
       "transcription": "huáyì",
-      "grammar": "N",
-      "translation": "osoba o chińskim pochodzeniu",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "osoba o chińskim pochodzeniu"}
     },
     {
       "phrase": "团结",
       "transcription": "tuánjié",
-      "grammar": "V",
-      "translation": "zjednoczyć się",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "zjednoczyć się"}
     },
     {
       "phrase": "团结",
       "transcription": "tuánjié",
-      "grammar": "Adj",
-      "translation": "jednomyślny; zjednoczony",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "Adj"},
+      "translation": {"eng": "", "pol": "jednomyślny; zjednoczony"}
     },
     {
       "phrase": "行李",
       "transcription": "xínglǐ",
-      "grammar": "N",
-      "translation": "bagaż",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "bagaż"}
     },
     {
       "phrase": "家乡",
       "transcription": "jiāxiāng",
-      "grammar": "N",
-      "translation": "rodzinna miejscowość",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "rodzinna miejscowość"}
     },
     {
       "phrase": "特产",
       "transcription": "tèchǎn",
-      "grammar": "N",
-      "translation": "lokalna specjalność",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "lokalna specjalność"}
     },
     {
       "phrase": "向",
       "transcription": "xiàng",
-      "grammar": "",
-      "translation": "zwrócić się w kierunku do",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zwrócić się w kierunku do"}
     },
     {
       "phrase": "问好",
       "transcription": "wènhǎo",
-      "grammar": "V",
-      "translation": "pozdrawiać",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "pozdrawiać"}
     },
     {
       "phrase": "碰见",
       "transcription": "pèngjiàn",
-      "grammar": "",
-      "translation": "spotkać przypadkowo",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "spotkać przypadkowo"}
     },
     {
       "phrase": "聚",
       "transcription": "jù",
-      "grammar": "",
-      "translation": "zebrać, skupić",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zebrać, skupić"}
     },
     {
       "phrase": "聚会",
       "transcription": "jùhuì",
-      "grammar": "V",
-      "translation": "zebrać się; spotkać się",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "zebrać się; spotkać się"}
     },
     {
       "phrase": "聚会",
       "transcription": "jùhuì",
-      "grammar": "N",
-      "translation": "spotkanie; zebranie; impreza",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "spotkanie; zebranie; impreza"}
     },
     {
       "phrase": "好久",
       "transcription": "hǎojiǔ",
-      "grammar": "Adv",
-      "translation": "od dawna",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "Adv"},
+      "translation": {"eng": "", "pol": "od dawna"}
     },
     {
       "phrase": "假期",
       "transcription": "jiàqí",
-      "grammar": "N",
-      "translation": "wakacje, urlop",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "wakacje, urlop"}
     },
     {
       "phrase": "当",
       "transcription": "dāng",
-      "grammar": "",
-      "translation": "zwrócić sie ku; znosić, ścierpieć; być równym",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zwrócić sie ku; znosić, ścierpieć; być równym"}
     },
     {
       "phrase": "辛苦",
       "transcription": "xīnkǔ",
-      "grammar": "Adj",
-      "translation": "uciążliwy, męczący, przykry",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "Adj"},
+      "translation": {"eng": "", "pol": "uciążliwy, męczący, przykry"}
     },
     {
       "phrase": "老",
       "transcription": "lǎo",
-      "grammar": "",
-      "translation": "stary",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "stary"}
     },
     {
       "phrase": "忘",
       "transcription": "wàng",
-      "grammar": "",
-      "translation": "zapomnieć, zlekceważyć, pominąć",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "zapomnieć, zlekceważyć, pominąć"}
     },
     {
       "phrase": "爷爷",
       "transcription": "yéye",
-      "grammar": "N",
-      "translation": "wujek ze strony ojca",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "wujek ze strony ojca"}
     },
     {
       "phrase": "寿",
       "transcription": "shòu",
-      "grammar": "",
-      "translation": "podeszły wiek; długie życie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "podeszły wiek; długie życie"}
     },
     {
       "phrase": "热闹",
       "transcription": "rènao",
-      "grammar": "Adj",
-      "translation": "ożywiony, hałaśliwy",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "Adj"},
+      "translation": {"eng": "", "pol": "ożywiony, hałaśliwy"}
     },
     {
       "phrase": "小时候",
       "transcription": "xiǎoshíhòu",
-      "grammar": "Adv",
-      "translation": "w dzieciństwie, będąc dzieckiem",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "Adv"},
+      "translation": {"eng": "", "pol": "w dzieciństwie, będąc dzieckiem"}
     },
     {
       "phrase": "生活",
       "transcription": "shēnghuó",
-      "grammar": "N",
-      "translation": "życie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "życie"}
     },
     {
       "phrase": "生活",
       "transcription": "shēnghuó",
-      "grammar": "V",
-      "translation": "żyć",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "żyć"}
     },
     {
       "phrase": "出生",
       "transcription": "chūshēng",
-      "grammar": "V",
-      "translation": "urodzić się",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "urodzić się"}
     },
     {
       "phrase": "出生",
       "transcription": "chūshēng",
-      "grammar": "N",
-      "translation": "narodziny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "narodziny"}
     },
     {
       "phrase": "感到",
       "transcription": "gǎndào",
-      "grammar": "V",
-      "translation": "czuć, mieć uczucie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "czuć, mieć uczucie"}
     },
     {
       "phrase": "亲切",
       "transcription": "qīnqiè",
-      "grammar": "Adj",
-      "translation": "bliski, serdeczny, przyjazny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "Adj"},
+      "translation": {"eng": "", "pol": "bliski, serdeczny, przyjazny"}
     },
     {
       "phrase": "变化",
       "transcription": "biànhuà",
-      "grammar": "v, n",
-      "translation": "zmienić się; zmiana",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "v, n"},
+      "translation": {"eng": "", "pol": "zmienić się; zmiana"}
     },
     {
       "phrase": "国家",
       "transcription": "guójiā",
-      "grammar": "n, j",
-      "translation": "państwo, kraj, naród; narodowy, państwowy",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "n, j"},
+      "translation": {"eng": "", "pol": "państwo, kraj, naród; narodowy, państwowy"}
     },
     {
       "phrase": "组",
       "transcription": "zǔ",
-      "grammar": "",
-      "translation": "prząść, tkać, organizować",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "prząść, tkać, organizować"}
     },
     {
       "phrase": "情况",
       "transcription": "qíngkuàng",
-      "grammar": "n",
-      "translation": "sytuacja, status, okoliczności",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "n"},
+      "translation": {"eng": "", "pol": "sytuacja, status, okoliczności"}
     },
     {
       "phrase": "重新",
       "transcription": "chóngxīn",
-      "grammar": "a",
-      "translation": "znów, ponownie, jeszcze raz, od nowa",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "a"},
+      "translation": {"eng": "", "pol": "znów, ponownie, jeszcze raz, od nowa"}
     },
     {
       "phrase": "分",
       "transcription": "fēn",
-      "grammar": "",
-      "translation": "dzielić; minuta",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": "dzielić; minuta"}
     },
     {
       "phrase": "组员",
       "transcription": "zǔyuán",
-      "grammar": "n",
-      "translation": "członek grupy",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "n"},
+      "translation": {"eng": "", "pol": "członek grupy"}
     },
     {
       "phrase": "缺点",
       "transcription": "quēdiǎn",
-      "grammar": "n",
-      "translation": "wada, defekt, niedogodność",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "n"},
+      "translation": {"eng": "", "pol": "wada, defekt, niedogodność"}
     },
     {
       "phrase": "广东话",
       "transcription": "Guǎngdōnghuà",
-      "grammar": "n",
-      "translation": "język kantoński",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "n"},
+      "translation": {"eng": "", "pol": "język kantoński"}
     },
     {
       "phrase": "普通话",
       "transcription": "pǔtōnghuà",
-      "grammar": "n",
-      "translation": "standardowy język chiński",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {"lexical": "n"},
+      "translation": {"eng": "", "pol": "standardowy język chiński"}
     }
   ]
 }
