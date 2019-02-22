@@ -14,7 +14,7 @@
       "phrase": "阿拉伯语",
       "transcription": "ālābóyǔ(ālābówén)",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "Arabic",
@@ -25,7 +25,7 @@
       "phrase": "阿姨",
       "transcription": "āyí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "auntie; nurse (in a family)",
@@ -47,7 +47,7 @@
       "phrase": "爱情",
       "transcription": "àiqíng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "love",
@@ -80,7 +80,7 @@
       "phrase": "岸",
       "transcription": "àn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "bank; shore; coast",
@@ -91,7 +91,7 @@
       "phrase": "白菜",
       "transcription": "báicài",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "Chinese cabbage",
@@ -102,7 +102,7 @@
       "phrase": "白天",
       "transcription": "báitiān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "daytime",
@@ -113,7 +113,7 @@
       "phrase": "班长",
       "transcription": "bānzhǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "class monitor",
@@ -124,7 +124,7 @@
       "phrase": "板",
       "transcription": "bǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "board",
@@ -135,7 +135,7 @@
       "phrase": "半导体",
       "transcription": "bàndǎotǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "semi-conductor",
@@ -146,7 +146,7 @@
       "phrase": "半夜",
       "transcription": "bànyè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "midnight",
@@ -157,7 +157,7 @@
       "phrase": "榜样",
       "transcription": "bǎngyàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "example; model",
@@ -168,7 +168,7 @@
       "phrase": "傍晚",
       "transcription": "bàngwǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "toward evening; at nightfall",
@@ -190,7 +190,7 @@
       "phrase": "包子",
       "transcription": "bāozi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "steamed; stuffed bun",
@@ -245,7 +245,7 @@
       "phrase": "报纸",
       "transcription": "bàozhǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "newspaper",
@@ -256,7 +256,7 @@
       "phrase": "碑",
       "transcription": "bēi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tablet",
@@ -267,7 +267,7 @@
       "phrase": "北部",
       "transcription": "běibù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "north",
@@ -278,7 +278,7 @@
       "phrase": "北方",
       "transcription": "běifāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "north",
@@ -289,7 +289,7 @@
       "phrase": "北面",
       "transcription": "běimiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "north",
@@ -300,7 +300,7 @@
       "phrase": "背",
       "transcription": "bèi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "back",
@@ -311,7 +311,7 @@
       "phrase": "背后",
       "transcription": "bèihòu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "at the back; behind; in the rear",
@@ -322,7 +322,7 @@
       "phrase": "被子",
       "transcription": "bèizi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "quilt",
@@ -333,7 +333,7 @@
       "phrase": "本领",
       "transcription": "běnlǐng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "skill; ability; capability",
@@ -344,7 +344,7 @@
       "phrase": "本事",
       "transcription": "běnshi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "skill; ability; capability",
@@ -355,7 +355,7 @@
       "phrase": "本质",
       "transcription": "běnzhì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "essence; nature",
@@ -366,7 +366,7 @@
       "phrase": "鼻子",
       "transcription": "bízi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "nose",
@@ -377,7 +377,7 @@
       "phrase": "比例",
       "transcription": "bǐlì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "proportion",
@@ -388,7 +388,7 @@
       "phrase": "笔记",
       "transcription": "bǐjì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "notes",
@@ -399,7 +399,7 @@
       "phrase": "便条",
       "transcription": "biàntiáo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "informal note",
@@ -410,7 +410,7 @@
       "phrase": "标点",
       "transcription": "biāodiǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "punctuation",
@@ -432,7 +432,7 @@
       "phrase": "表面",
       "transcription": "biǎomiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "surface; outside; face; appearance",
@@ -443,7 +443,7 @@
       "phrase": "宾馆",
       "transcription": "bīnguǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "guesthouse; hotel",
@@ -454,7 +454,7 @@
       "phrase": "兵",
       "transcription": "bīng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "soldier",
@@ -465,7 +465,7 @@
       "phrase": "冰",
       "transcription": "bīng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ice",
@@ -476,7 +476,7 @@
       "phrase": "饼干",
       "transcription": "bǐnggān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "biscuit; cracker",
@@ -487,7 +487,7 @@
       "phrase": "病房",
       "transcription": "bìngfáng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ward; sickroom",
@@ -498,7 +498,7 @@
       "phrase": "病菌",
       "transcription": "bìngjūn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "pathogenic bacteria",
@@ -509,7 +509,7 @@
       "phrase": "病人",
       "transcription": "bìngrén",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "patient",
@@ -520,7 +520,7 @@
       "phrase": "玻璃",
       "transcription": "bōli",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "glass",
@@ -531,7 +531,7 @@
       "phrase": "伯父",
       "transcription": "bófù(bóbo)",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "father's elder brother",
@@ -542,7 +542,7 @@
       "phrase": "伯母",
       "transcription": "bómǔ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "aunt; wife of father's elder brother",
@@ -553,7 +553,7 @@
       "phrase": "脖子",
       "transcription": "bózi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "neck",
@@ -575,7 +575,7 @@
       "phrase": "步",
       "transcription": "bù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "pace",
@@ -597,7 +597,7 @@
       "phrase": "部队",
       "transcription": "bùduì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "army; troops; force",
@@ -608,7 +608,7 @@
       "phrase": "部门",
       "transcription": "bùmén",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "branch; department",
@@ -619,7 +619,7 @@
       "phrase": "部长",
       "transcription": "bùzhǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "minister",
@@ -630,7 +630,7 @@
       "phrase": "材料",
       "transcription": "cáiliào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "material",
@@ -641,7 +641,7 @@
       "phrase": "彩色",
       "transcription": "cǎisè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "color; multicolor",
@@ -652,7 +652,7 @@
       "phrase": "餐厅",
       "transcription": "cāntīng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "restaurant; dining room",
@@ -663,7 +663,7 @@
       "phrase": "草地",
       "transcription": "cǎodì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "grassland; lawn; meadow",
@@ -674,7 +674,7 @@
       "phrase": "草原",
       "transcription": "cǎoyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "grasslands; prairie",
@@ -685,7 +685,7 @@
       "phrase": "厕所",
       "transcription": "cèsuǒ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "W.C.; toilet; lavatory",
@@ -707,7 +707,7 @@
       "phrase": "叉子",
       "transcription": "chāzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "fork",
@@ -718,7 +718,7 @@
       "phrase": "产量",
       "transcription": "chǎnliàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "output; yield",
@@ -729,7 +729,7 @@
       "phrase": "产品",
       "transcription": "chǎnpǐn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "product",
@@ -740,7 +740,7 @@
       "phrase": "长期",
       "transcription": "chángqī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "long period of time; long term",
@@ -751,7 +751,7 @@
       "phrase": "长途",
       "transcription": "chángtú",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "long distance",
@@ -762,7 +762,7 @@
       "phrase": "车间",
       "transcription": "chējiān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "workshop",
@@ -773,7 +773,7 @@
       "phrase": "衬衫",
       "transcription": "chènshān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "shirt",
@@ -784,7 +784,7 @@
       "phrase": "衬衣",
       "transcription": "chènyī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "underclothes, shirt",
@@ -795,7 +795,7 @@
       "phrase": "成分",
       "transcription": "chéngfèn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ingredient",
@@ -806,7 +806,7 @@
       "phrase": "成果",
       "transcription": "chéngguǒ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "gain; achievement; positive result",
@@ -817,7 +817,7 @@
       "phrase": "成就",
       "transcription": "chéngjiù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "achievement; success",
@@ -828,7 +828,7 @@
       "phrase": "程度",
       "transcription": "chéngdù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "degree; extent; level",
@@ -850,7 +850,7 @@
       "phrase": "翅膀",
       "transcription": "chìbǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "wing",
@@ -861,7 +861,7 @@
       "phrase": "虫子",
       "transcription": "chóngzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "insect; worm",
@@ -872,7 +872,7 @@
       "phrase": "厨房",
       "transcription": "chúfáng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "kitchen",
@@ -905,7 +905,7 @@
       "phrase": "处",
       "transcription": "chù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "department",
@@ -916,7 +916,7 @@
       "phrase": "传统",
       "transcription": "chuántǒng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tradition",
@@ -949,7 +949,7 @@
       "phrase": "春节",
       "transcription": "chūnjié",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the Spring Festival",
@@ -960,7 +960,7 @@
       "phrase": "醋",
       "transcription": "cù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "vinegar",
@@ -971,7 +971,7 @@
       "phrase": "措施",
       "transcription": "cuòshī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "measure; step",
@@ -982,7 +982,7 @@
       "phrase": "答案",
       "transcription": "dá'àn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "answer; solution; key",
@@ -993,7 +993,7 @@
       "phrase": "答卷",
       "transcription": "dájuàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "answer sheet",
@@ -1004,7 +1004,7 @@
       "phrase": "大多数",
       "transcription": "dàduōshù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "most of",
@@ -1015,7 +1015,7 @@
       "phrase": "大会",
       "transcription": "dàhuì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "plenary session; mass meeting",
@@ -1026,7 +1026,7 @@
       "phrase": "大街",
       "transcription": "dàjiē",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "main street",
@@ -1037,7 +1037,7 @@
       "phrase": "大陆",
       "transcription": "dàlù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "continent; mainland",
@@ -1048,7 +1048,7 @@
       "phrase": "大米",
       "transcription": "dàmǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "rice",
@@ -1059,7 +1059,7 @@
       "phrase": "大人",
       "transcription": "dàren",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "adult",
@@ -1070,7 +1070,7 @@
       "phrase": "大使馆",
       "transcription": "dàshǐguǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "embassy",
@@ -1081,7 +1081,7 @@
       "phrase": "大小",
       "transcription": "dàxiǎo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "size",
@@ -1092,7 +1092,7 @@
       "phrase": "大衣",
       "transcription": "dàyī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "overcoat; topcoat",
@@ -1103,7 +1103,7 @@
       "phrase": "代",
       "transcription": "dài",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "generation",
@@ -1125,7 +1125,7 @@
       "phrase": "单词",
       "transcription": "dāncí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "word",
@@ -1136,7 +1136,7 @@
       "phrase": "单位",
       "transcription": "dānwèi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "unit",
@@ -1147,7 +1147,7 @@
       "phrase": "蛋",
       "transcription": "dàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "egg",
@@ -1158,7 +1158,7 @@
       "phrase": "蛋糕",
       "transcription": "dàngāo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "cake",
@@ -1169,7 +1169,7 @@
       "phrase": "当地",
       "transcription": "dāngdì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "local",
@@ -1180,7 +1180,7 @@
       "phrase": "当年",
       "transcription": "dāngnián",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "in those years",
@@ -1191,7 +1191,7 @@
       "phrase": "当前",
       "transcription": "dāngqián",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "present; current",
@@ -1202,7 +1202,7 @@
       "phrase": "当时",
       "transcription": "dāngshí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "at that time",
@@ -1213,7 +1213,7 @@
       "phrase": "党",
       "transcription": "dǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "party",
@@ -1224,7 +1224,7 @@
       "phrase": "党员",
       "transcription": "dǎngyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "party member",
@@ -1235,7 +1235,7 @@
       "phrase": "刀子",
       "transcription": "dāozi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "knife; sword",
@@ -1246,7 +1246,7 @@
       "phrase": "岛",
       "transcription": "dǎo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "island",
@@ -1257,7 +1257,7 @@
       "phrase": "道",
       "transcription": "dào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "street; road",
@@ -1268,7 +1268,7 @@
       "phrase": "道德",
       "transcription": "dàodé",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "morals; ethics",
@@ -1279,7 +1279,7 @@
       "phrase": "道路",
       "transcription": "dàolù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "road; way; path",
@@ -1290,7 +1290,7 @@
       "phrase": "德语(德文)",
       "transcription": "déyǔ(déwén)",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "German",
@@ -1301,7 +1301,7 @@
       "phrase": "等",
       "transcription": "děng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "grade",
@@ -1312,7 +1312,7 @@
       "phrase": "敌人",
       "transcription": "dírén",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "enemy; foe",
@@ -1323,7 +1323,7 @@
       "phrase": "底下",
       "transcription": "dǐxia",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "below; under",
@@ -1334,7 +1334,7 @@
       "phrase": "地带",
       "transcription": "dìdài",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "district; region; zone",
@@ -1345,7 +1345,7 @@
       "phrase": "地点",
       "transcription": "dìdiǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "place; site; locale",
@@ -1356,7 +1356,7 @@
       "phrase": "地方",
       "transcription": "dìfāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "locality",
@@ -1367,7 +1367,7 @@
       "phrase": "地面",
       "transcription": "dìmiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ground",
@@ -1378,7 +1378,7 @@
       "phrase": "地球",
       "transcription": "dìqiú",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "earth",
@@ -1389,7 +1389,7 @@
       "phrase": "地区",
       "transcription": "dìqū",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "area; region; district",
@@ -1400,7 +1400,7 @@
       "phrase": "地图",
       "transcription": "dìtú",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "map",
@@ -1411,7 +1411,7 @@
       "phrase": "地位",
       "transcription": "dìwèi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "position; status",
@@ -1422,7 +1422,7 @@
       "phrase": "地下",
       "transcription": "dìxià",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "underground",
@@ -1433,7 +1433,7 @@
       "phrase": "地址",
       "transcription": "dìzhǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "address",
@@ -1444,7 +1444,7 @@
       "phrase": "电报",
       "transcription": "diànbào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "cable; telegram",
@@ -1455,7 +1455,7 @@
       "phrase": "电冰箱",
       "transcription": "diànbīngxiāng(bīngxiāng)",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "refrigerator",
@@ -1466,7 +1466,7 @@
       "phrase": "电风扇",
       "transcription": "diànfēngshàn(diànshàn)",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "electric fan",
@@ -1477,7 +1477,7 @@
       "phrase": "电视台",
       "transcription": "diànshìtái",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "TV station",
@@ -1488,7 +1488,7 @@
       "phrase": "电台",
       "transcription": "diàntái",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "transceiver; broadcasting station",
@@ -1499,7 +1499,7 @@
       "phrase": "电梯",
       "transcription": "diàntī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "elevator; lift; escalator",
@@ -1510,7 +1510,7 @@
       "phrase": "电影院",
       "transcription": "diànyǐngyuàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "cinema",
@@ -1521,7 +1521,7 @@
       "phrase": "店",
       "transcription": "diàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "shop; store",
@@ -1543,7 +1543,7 @@
       "phrase": "顶",
       "transcription": "dǐng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "top",
@@ -1554,7 +1554,7 @@
       "phrase": "东北",
       "transcription": "dōngběi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "northeast",
@@ -1565,7 +1565,7 @@
       "phrase": "东部",
       "transcription": "dōngbù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "east",
@@ -1576,7 +1576,7 @@
       "phrase": "东方",
       "transcription": "dōngfāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the East",
@@ -1587,7 +1587,7 @@
       "phrase": "东面",
       "transcription": "dōngmiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "east",
@@ -1598,7 +1598,7 @@
       "phrase": "东南",
       "transcription": "dōngnán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "southeast",
@@ -1609,7 +1609,7 @@
       "phrase": "动物园",
       "transcription": "dòngwùyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "zoo",
@@ -1620,7 +1620,7 @@
       "phrase": "动作",
       "transcription": "dòngzuò",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "motion; movement",
@@ -1631,7 +1631,7 @@
       "phrase": "洞",
       "transcription": "dòng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "hole; cave",
@@ -1653,7 +1653,7 @@
       "phrase": "豆腐",
       "transcription": "dòufu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "bean curd",
@@ -1664,7 +1664,7 @@
       "phrase": "读者",
       "transcription": "dúzhě",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "reader",
@@ -1675,7 +1675,7 @@
       "phrase": "肚子",
       "transcription": "dùzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "belly; abdomen",
@@ -1697,7 +1697,7 @@
       "phrase": "短期",
       "transcription": "duǎnqī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "short-term",
@@ -1708,7 +1708,7 @@
       "phrase": "队",
       "transcription": "duì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "team",
@@ -1719,7 +1719,7 @@
       "phrase": "队长",
       "transcription": "duìzhǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "team leader; captain",
@@ -1730,7 +1730,7 @@
       "phrase": "队伍",
       "transcription": "duìwu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "troops; ranks",
@@ -1752,7 +1752,7 @@
       "phrase": "对方",
       "transcription": "duìfāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the other side",
@@ -1774,7 +1774,7 @@
       "phrase": "对面",
       "transcription": "duìmiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "opposite",
@@ -1785,7 +1785,7 @@
       "phrase": "对象",
       "transcription": "duìxiàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "object; target; boyfriend or girlfriend",
@@ -1796,7 +1796,7 @@
       "phrase": "多数",
       "transcription": "duōshù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "most; majority",
@@ -1807,7 +1807,7 @@
       "phrase": "鹅",
       "transcription": "é",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "goose",
@@ -1818,7 +1818,7 @@
       "phrase": "儿童",
       "transcription": "értóng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "children",
@@ -1829,7 +1829,7 @@
       "phrase": "耳朵",
       "transcription": "ěrduo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ear",
@@ -1851,7 +1851,7 @@
       "phrase": "法郎",
       "transcription": "fǎláng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "Franc",
@@ -1862,7 +1862,7 @@
       "phrase": "法律",
       "transcription": "fǎlǜ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "law; statute",
@@ -1906,7 +1906,7 @@
       "phrase": "范围",
       "transcription": "fànwéi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "scope; limits; range",
@@ -1917,7 +1917,7 @@
       "phrase": "方案",
       "transcription": "fāng'àn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "scheme; plan; program",
@@ -1928,7 +1928,7 @@
       "phrase": "方式",
       "transcription": "fāngshì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "way; fashion; pattern",
@@ -1939,7 +1939,7 @@
       "phrase": "方针",
       "transcription": "fāngzhēn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "policy; principle",
@@ -1950,7 +1950,7 @@
       "phrase": "房子",
       "transcription": "fángzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "building; house; room",
@@ -1961,7 +1961,7 @@
       "phrase": "肺",
       "transcription": "fèi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "lung",
@@ -1972,7 +1972,7 @@
       "phrase": "费",
       "transcription": "fèi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "fare; expense; money",
@@ -1983,7 +1983,7 @@
       "phrase": "费用",
       "transcription": "fèiyòng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "expenses; drill",
@@ -1994,7 +1994,7 @@
       "phrase": "粉笔",
       "transcription": "fěnbǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "chalk",
@@ -2005,7 +2005,7 @@
       "phrase": "风景",
       "transcription": "fēngjǐng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "scenery; landscape",
@@ -2016,7 +2016,7 @@
       "phrase": "风力",
       "transcription": "fēnglì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "wind-force; wind power",
@@ -2027,7 +2027,7 @@
       "phrase": "风俗",
       "transcription": "fēngsú",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "custom",
@@ -2038,7 +2038,7 @@
       "phrase": "副食",
       "transcription": "fùshí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "non-staple food",
@@ -2049,7 +2049,7 @@
       "phrase": "妇女",
       "transcription": "fùnǚ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "woman",
@@ -2093,7 +2093,7 @@
       "phrase": "概念",
       "transcription": "gàiniàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "concept; idea; conception",
@@ -2104,7 +2104,7 @@
       "phrase": "杆",
       "transcription": "gān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "pole; bar",
@@ -2115,7 +2115,7 @@
       "phrase": "肝",
       "transcription": "gān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "liver",
@@ -2137,7 +2137,7 @@
       "phrase": "感情",
       "transcription": "gǎnqíng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "emotion; feeling",
@@ -2148,7 +2148,7 @@
       "phrase": "感想",
       "transcription": "gǎnxiǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "impressions; reflections",
@@ -2159,7 +2159,7 @@
       "phrase": "钢",
       "transcription": "gāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "steel",
@@ -2170,7 +2170,7 @@
       "phrase": "港",
       "transcription": "gǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "port; harbor",
@@ -2192,7 +2192,7 @@
       "phrase": "高原",
       "transcription": "gāoyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "plateau; highland",
@@ -2203,7 +2203,7 @@
       "phrase": "胳膊",
       "transcription": "gēbo(gēbei)",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "arm",
@@ -2225,7 +2225,7 @@
       "phrase": "隔壁",
       "transcription": "gébì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "next door",
@@ -2236,7 +2236,7 @@
       "phrase": "个人",
       "transcription": "gèrén",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "individual",
@@ -2247,7 +2247,7 @@
       "phrase": "个体",
       "transcription": "gètǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "individual",
@@ -2258,7 +2258,7 @@
       "phrase": "个子",
       "transcription": "gèzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "height; stature; build",
@@ -2291,7 +2291,7 @@
       "phrase": "跟前",
       "transcription": "gēnqián",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "in front of; near; close to",
@@ -2302,7 +2302,7 @@
       "phrase": "工程",
       "transcription": "gōngchéng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "engineering; project",
@@ -2313,7 +2313,7 @@
       "phrase": "工程师",
       "transcription": "gōngchéngshī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "engineer",
@@ -2324,7 +2324,7 @@
       "phrase": "工夫",
       "transcription": "gōngfu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "work; labor; effect",
@@ -2335,7 +2335,7 @@
       "phrase": "工会",
       "transcription": "gōnghuì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "trade union; labor union",
@@ -2346,7 +2346,7 @@
       "phrase": "工具",
       "transcription": "gōngjù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tool",
@@ -2357,7 +2357,7 @@
       "phrase": "工艺品",
       "transcription": "gōngyìpǐn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "handicraft",
@@ -2368,7 +2368,7 @@
       "phrase": "工资",
       "transcription": "gōngzī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "wages; pay; salary",
@@ -2379,7 +2379,7 @@
       "phrase": "功夫",
       "transcription": "gōngfu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "time; skill; art; workmanship",
@@ -2390,7 +2390,7 @@
       "phrase": "公路",
       "transcription": "gōnglù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "highway; freeway",
@@ -2401,7 +2401,7 @@
       "phrase": "公司",
       "transcription": "gōngsī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "corporation; company",
@@ -2412,7 +2412,7 @@
       "phrase": "公元",
       "transcription": "gōngyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the Christian era",
@@ -2434,7 +2434,7 @@
       "phrase": "共产党",
       "transcription": "gòngchǎndǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the Communist Party",
@@ -2445,7 +2445,7 @@
       "phrase": "狗",
       "transcription": "gǒu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "dog",
@@ -2456,7 +2456,7 @@
       "phrase": "构造",
       "transcription": "gòuzào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "structure; construction",
@@ -2478,7 +2478,7 @@
       "phrase": "姑姑",
       "transcription": "gūgu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "father's sister",
@@ -2489,7 +2489,7 @@
       "phrase": "骨头",
       "transcription": "gǔtou",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "drum",
@@ -2522,7 +2522,7 @@
       "phrase": "古",
       "transcription": "gǔ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ancient",
@@ -2533,7 +2533,7 @@
       "phrase": "古代",
       "transcription": "gǔdài",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ancient times",
@@ -2544,7 +2544,7 @@
       "phrase": "古老",
       "transcription": "gǔlǎo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ancient",
@@ -2555,7 +2555,7 @@
       "phrase": "故乡",
       "transcription": "gùxiāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "hometown",
@@ -2566,7 +2566,7 @@
       "phrase": "顾客",
       "transcription": "gùkè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "shopper; customer; client",
@@ -2577,7 +2577,7 @@
       "phrase": "关键",
       "transcription": "guānjiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "crux; key; hinge",
@@ -2588,7 +2588,7 @@
       "phrase": "关",
       "transcription": "guān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "official",
@@ -2599,7 +2599,7 @@
       "phrase": "观点",
       "transcription": "guāndiǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "viewpoint; standpoint",
@@ -2610,7 +2610,7 @@
       "phrase": "观众",
       "transcription": "guānzhòng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "audience; spectator; viewer",
@@ -2621,7 +2621,7 @@
       "phrase": "冠军",
       "transcription": "guànjūn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "champion",
@@ -2632,7 +2632,7 @@
       "phrase": "罐头",
       "transcription": "guàntou",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "can; tin",
@@ -2643,7 +2643,7 @@
       "phrase": "光",
       "transcription": "guāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "light, ray",
@@ -2665,7 +2665,7 @@
       "phrase": "光线",
       "transcription": "guāngxiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "light; ray",
@@ -2676,7 +2676,7 @@
       "phrase": "广场",
       "transcription": "guǎngchǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "public square; square",
@@ -2687,7 +2687,7 @@
       "phrase": "广告",
       "transcription": "guǎnggào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "advertisement",
@@ -2709,7 +2709,7 @@
       "phrase": "规律",
       "transcription": "guīlǜ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "law; regular pattern",
@@ -2720,7 +2720,7 @@
       "phrase": "规模",
       "transcription": "guīmó",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "scale; size",
@@ -2731,7 +2731,7 @@
       "phrase": "鬼",
       "transcription": "guǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ghost",
@@ -2742,7 +2742,7 @@
       "phrase": "锅",
       "transcription": "guō",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "pan",
@@ -2753,7 +2753,7 @@
       "phrase": "国际",
       "transcription": "guójì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "international",
@@ -2764,7 +2764,7 @@
       "phrase": "国民党",
       "transcription": "guómíndǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the Nationalist Party; the Kuomintang (KMT)",
@@ -2775,7 +2775,7 @@
       "phrase": "国王",
       "transcription": "guówáng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "king",
@@ -2786,7 +2786,7 @@
       "phrase": "过程",
       "transcription": "guòchéng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "course; process",
@@ -2797,7 +2797,7 @@
       "phrase": "海关",
       "transcription": "hǎiguān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "customs",
@@ -2808,7 +2808,7 @@
       "phrase": "海洋",
       "transcription": "hǎiyáng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "sea; ocean",
@@ -2830,7 +2830,7 @@
       "phrase": "害处",
       "transcription": "hàichu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "harm",
@@ -2841,7 +2841,7 @@
       "phrase": "汗",
       "transcription": "hàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "sweat",
@@ -2852,7 +2852,7 @@
       "phrase": "航空",
       "transcription": "hángkōng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "aviation",
@@ -2863,7 +2863,7 @@
       "phrase": "好久",
       "transcription": "hǎojiǔ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "a long time",
@@ -2874,7 +2874,7 @@
       "phrase": "号码",
       "transcription": "hàomǎ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "number",
@@ -2896,7 +2896,7 @@
       "phrase": "和平",
       "transcription": "hépíng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "peace",
@@ -2907,7 +2907,7 @@
       "phrase": "合同",
       "transcription": "hétong",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "contract",
@@ -2929,7 +2929,7 @@
       "phrase": "红茶",
       "transcription": "hóngchá",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "black tea",
@@ -2940,7 +2940,7 @@
       "phrase": "红旗",
       "transcription": "hóngqí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "red flag; red banner",
@@ -2951,7 +2951,7 @@
       "phrase": "猴子",
       "transcription": "hóuzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "monkey",
@@ -2962,7 +2962,7 @@
       "phrase": "后来",
       "transcription": "hòulái",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "afterwards; after",
@@ -2973,7 +2973,7 @@
       "phrase": "后面",
       "transcription": "hòumian",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "behind",
@@ -2984,7 +2984,7 @@
       "phrase": "后年",
       "transcription": "hòunián",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the year after next",
@@ -2995,7 +2995,7 @@
       "phrase": "后天",
       "transcription": "hòutiān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the day after tomorrow",
@@ -3006,7 +3006,7 @@
       "phrase": "壶",
       "transcription": "hú",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "pot",
@@ -3017,7 +3017,7 @@
       "phrase": "胡子",
       "transcription": "húzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "beard; moustache",
@@ -3028,7 +3028,7 @@
       "phrase": "护士",
       "transcription": "hùshi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "nurse",
@@ -3039,7 +3039,7 @@
       "phrase": "护照",
       "transcription": "hùzhào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "passport",
@@ -3050,7 +3050,7 @@
       "phrase": "户",
       "transcription": "hù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "door; family",
@@ -3061,7 +3061,7 @@
       "phrase": "花园",
       "transcription": "huāyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "garden",
@@ -3072,7 +3072,7 @@
       "phrase": "画报",
       "transcription": "huàbào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "pictorial",
@@ -3083,7 +3083,7 @@
       "phrase": "坏处",
       "transcription": "huàichu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "harm; disadvantage",
@@ -3094,7 +3094,7 @@
       "phrase": "环",
       "transcription": "huán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ring",
@@ -3105,7 +3105,7 @@
       "phrase": "环境",
       "transcription": "huánjìng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "environment; surroundings",
@@ -3116,7 +3116,7 @@
       "phrase": "黄瓜",
       "transcription": "huángguā",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "cucumber",
@@ -3127,7 +3127,7 @@
       "phrase": "黄油",
       "transcription": "huángyóu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "butter",
@@ -3138,7 +3138,7 @@
       "phrase": "皇帝",
       "transcription": "huángdì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "emperor",
@@ -3149,7 +3149,7 @@
       "phrase": "会场",
       "transcription": "huìchǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "meeting-place; conference",
@@ -3171,7 +3171,7 @@
       "phrase": "会议",
       "transcription": "huìyì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "meeting; conference",
@@ -3182,7 +3182,7 @@
       "phrase": "婚姻",
       "transcription": "hūnyīn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "marriage",
@@ -3193,7 +3193,7 @@
       "phrase": "伙食",
       "transcription": "huǒshí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "meals",
@@ -3204,7 +3204,7 @@
       "phrase": "火",
       "transcription": "huǒ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "fire",
@@ -3215,7 +3215,7 @@
       "phrase": "火柴",
       "transcription": "huǒchái",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "match",
@@ -3226,7 +3226,7 @@
       "phrase": "货",
       "transcription": "huò",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "goods",
@@ -3237,7 +3237,7 @@
       "phrase": "机床",
       "transcription": "jīchuáng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "machine tool",
@@ -3248,7 +3248,7 @@
       "phrase": "机关",
       "transcription": "jīguān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "mechanism; office",
@@ -3259,7 +3259,7 @@
       "phrase": "机械",
       "transcription": "jīxiè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "machinery; machine",
@@ -3270,7 +3270,7 @@
       "phrase": "积极性",
       "transcription": "jījíxìng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "zeal; activeness",
@@ -3281,7 +3281,7 @@
       "phrase": "集",
       "transcription": "jí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "market; volume",
@@ -3292,7 +3292,7 @@
       "phrase": "集体",
       "transcription": "jítǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "collective",
@@ -3303,7 +3303,7 @@
       "phrase": "级",
       "transcription": "jí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "grade",
@@ -3314,7 +3314,7 @@
       "phrase": "技术员",
       "transcription": "jìshùyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "technician",
@@ -3325,7 +3325,7 @@
       "phrase": "季节",
       "transcription": "jìjié",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "season",
@@ -3358,7 +3358,7 @@
       "phrase": "记者",
       "transcription": "jìzhě",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "reporter; correspondent; newsman",
@@ -3369,7 +3369,7 @@
       "phrase": "纪律",
       "transcription": "jìlǜ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "rule; discipline",
@@ -3391,7 +3391,7 @@
       "phrase": "家伙",
       "transcription": "jiāhuo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "fellow; guy",
@@ -3402,7 +3402,7 @@
       "phrase": "家具",
       "transcription": "jiājù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "furniture",
@@ -3413,7 +3413,7 @@
       "phrase": "家乡",
       "transcription": "jiāxiāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "hometown; native place",
@@ -3424,7 +3424,7 @@
       "phrase": "价格",
       "transcription": "jiàgé",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "price",
@@ -3435,7 +3435,7 @@
       "phrase": "价值",
       "transcription": "jiàzhí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "worth; value",
@@ -3446,7 +3446,7 @@
       "phrase": "假条",
       "transcription": "jiàtiáo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "application for leave",
@@ -3457,7 +3457,7 @@
       "phrase": "肩",
       "transcription": "jiān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "shoulder",
@@ -3468,7 +3468,7 @@
       "phrase": "箭",
       "transcription": "jiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "arrow",
@@ -3512,7 +3512,7 @@
       "phrase": "奖学金",
       "transcription": "jiǎngxuéjīn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "scholarship",
@@ -3523,7 +3523,7 @@
       "phrase": "讲座",
       "transcription": "jiǎngzuò",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "lecture",
@@ -3534,7 +3534,7 @@
       "phrase": "酱油",
       "transcription": "jiàngyóu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "soy sauce",
@@ -3567,7 +3567,7 @@
       "phrase": "交通",
       "transcription": "jiāotōng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "traffic; transportation",
@@ -3578,7 +3578,7 @@
       "phrase": "郊区",
       "transcription": "jiāoqū",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "suburbs",
@@ -3589,7 +3589,7 @@
       "phrase": "角",
       "transcription": "jiǎo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "angle; horn",
@@ -3600,7 +3600,7 @@
       "phrase": "教材",
       "transcription": "jiàocái",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "teaching materials",
@@ -3611,7 +3611,7 @@
       "phrase": "教师",
       "transcription": "jiàoshī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "teacher",
@@ -3622,7 +3622,7 @@
       "phrase": "教授",
       "transcription": "jiàoshòu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "professor",
@@ -3633,7 +3633,7 @@
       "phrase": "教学",
       "transcription": "jiàoxué",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "teaching; education",
@@ -3655,7 +3655,7 @@
       "phrase": "教员",
       "transcription": "jiāoyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "teacher; instructor",
@@ -3666,7 +3666,7 @@
       "phrase": "街道",
       "transcription": "jiēdào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "street",
@@ -3677,7 +3677,7 @@
       "phrase": "阶段",
       "transcription": "jiēduàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "stage; phase",
@@ -3688,7 +3688,7 @@
       "phrase": "阶级",
       "transcription": "jiējí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "class",
@@ -3699,7 +3699,7 @@
       "phrase": "结构",
       "transcription": "jiégòu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "structure; composition",
@@ -3710,7 +3710,7 @@
       "phrase": "结论",
       "transcription": "jiélùn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "conclusion",
@@ -3743,7 +3743,7 @@
       "phrase": "金",
       "transcription": "jīn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "gold",
@@ -3754,7 +3754,7 @@
       "phrase": "金属",
       "transcription": "jīnshǔ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "metal",
@@ -3765,7 +3765,7 @@
       "phrase": "今后",
       "transcription": "jīnhòu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "from now on",
@@ -3776,7 +3776,7 @@
       "phrase": "近来",
       "transcription": "jìnlái",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "recently; lately",
@@ -3787,7 +3787,7 @@
       "phrase": "劲",
       "transcription": "jìn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "power",
@@ -3798,7 +3798,7 @@
       "phrase": "京剧(京戏)",
       "transcription": "jīngjù(jīngxì)",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "Beijing Opera",
@@ -3809,7 +3809,7 @@
       "phrase": "精力",
       "transcription": "jīnglì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "energy; vigor",
@@ -3820,7 +3820,7 @@
       "phrase": "经理",
       "transcription": "jīnglǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "manager; director",
@@ -3842,7 +3842,7 @@
       "phrase": "井",
       "transcription": "jǐng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "wells",
@@ -3853,7 +3853,7 @@
       "phrase": "警察",
       "transcription": "jǐngchá",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "police; policeman",
@@ -3864,7 +3864,7 @@
       "phrase": "镜子",
       "transcription": "jìngzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "mirror",
@@ -3875,7 +3875,7 @@
       "phrase": "局长",
       "transcription": "júzhǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "director of a bureau",
@@ -3886,7 +3886,7 @@
       "phrase": "距离",
       "transcription": "jùlí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "distance",
@@ -3897,7 +3897,7 @@
       "phrase": "俱乐部",
       "transcription": "jùlèbù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "club",
@@ -3908,7 +3908,7 @@
       "phrase": "剧场",
       "transcription": "jùchǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "theatre",
@@ -3941,7 +3941,7 @@
       "phrase": "军",
       "transcription": "jūn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "army",
@@ -3952,7 +3952,7 @@
       "phrase": "军队",
       "transcription": "jūnduì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "army",
@@ -3963,7 +3963,7 @@
       "phrase": "军事",
       "transcription": "jūnshì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "military affairs",
@@ -3974,7 +3974,7 @@
       "phrase": "看法",
       "transcription": "kànfǎ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "view",
@@ -3985,7 +3985,7 @@
       "phrase": "科",
       "transcription": "kē",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "division",
@@ -3996,7 +3996,7 @@
       "phrase": "科学家",
       "transcription": "kēxuéjiā",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "scientist",
@@ -4007,7 +4007,7 @@
       "phrase": "科学院",
       "transcription": "kēxuéyuàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "academy of science",
@@ -4018,7 +4018,7 @@
       "phrase": "科研",
       "transcription": "kēyán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "scientific research",
@@ -4029,7 +4029,7 @@
       "phrase": "科长",
       "transcription": "kēzhǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "section chief",
@@ -4040,7 +4040,7 @@
       "phrase": "客人",
       "transcription": "kèren",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "visitor; guest",
@@ -4051,7 +4051,7 @@
       "phrase": "课程",
       "transcription": "kèchéng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "course",
@@ -4062,7 +4062,7 @@
       "phrase": "空间",
       "transcription": "kōngjiān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "space",
@@ -4073,7 +4073,7 @@
       "phrase": "空中",
       "transcription": "kōngzhōng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "in the air; in the sky",
@@ -4084,7 +4084,7 @@
       "phrase": "孔",
       "transcription": "kǒng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "hole; aperture",
@@ -4095,7 +4095,7 @@
       "phrase": "空儿",
       "transcription": "kòngr",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "free time",
@@ -4106,7 +4106,7 @@
       "phrase": "口袋",
       "transcription": "kǒudai",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "pocket",
@@ -4117,7 +4117,7 @@
       "phrase": "口号",
       "transcription": "kǒuhào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "slogan",
@@ -4128,7 +4128,7 @@
       "phrase": "裤子",
       "transcription": "kùzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "trousers; pants",
@@ -4139,7 +4139,7 @@
       "phrase": "筷子",
       "transcription": "kuàizi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "chopsticks",
@@ -4150,7 +4150,7 @@
       "phrase": "款",
       "transcription": "kuǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "money",
@@ -4161,7 +4161,7 @@
       "phrase": "矿",
       "transcription": "kuàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "mine",
@@ -4172,7 +4172,7 @@
       "phrase": "垃圾",
       "transcription": "lājī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "garbage; rubbish",
@@ -4183,7 +4183,7 @@
       "phrase": "来信",
       "transcription": "láixìn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "send a letter; incoming letter",
@@ -4194,7 +4194,7 @@
       "phrase": "狼",
       "transcription": "láng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "wolf",
@@ -4205,7 +4205,7 @@
       "phrase": "浪",
       "transcription": "làng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "wave",
@@ -4216,7 +4216,7 @@
       "phrase": "老百姓",
       "transcription": "lǎobǎixìng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "common people",
@@ -4227,7 +4227,7 @@
       "phrase": "老板",
       "transcription": "lǎobǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "boss; shopkeeper",
@@ -4238,7 +4238,7 @@
       "phrase": "老大妈(大妈)",
       "transcription": "lǎodàmā(dàmā)",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "granny; aunt",
@@ -4249,7 +4249,7 @@
       "phrase": "老大娘(大娘)",
       "transcription": "lǎodànniáng(dàniáng)",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "aunt; old lady",
@@ -4260,7 +4260,7 @@
       "phrase": "老大爷(大爷)",
       "transcription": "lǎodàye",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "uncle; grandpa",
@@ -4271,7 +4271,7 @@
       "phrase": "老虎",
       "transcription": "lǎohǔ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tiger",
@@ -4282,7 +4282,7 @@
       "phrase": "老人",
       "transcription": "lǎorén",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the aged",
@@ -4293,7 +4293,7 @@
       "phrase": "老太太",
       "transcription": "lǎotàitai",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "old woman",
@@ -4304,7 +4304,7 @@
       "phrase": "老头儿",
       "transcription": "lǎotóur",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "old man",
@@ -4315,7 +4315,7 @@
       "phrase": "雷",
       "transcription": "léi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "thunder",
@@ -4337,7 +4337,7 @@
       "phrase": "梨",
       "transcription": "lí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "pear",
@@ -4359,7 +4359,7 @@
       "phrase": "理论",
       "transcription": "lǐlùn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "theory",
@@ -4370,7 +4370,7 @@
       "phrase": "理想",
       "transcription": "lǐxiǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ideal",
@@ -4381,7 +4381,7 @@
       "phrase": "理由",
       "transcription": "lǐyóu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "reason",
@@ -4392,7 +4392,7 @@
       "phrase": "里面",
       "transcription": "lǐmiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "inside; interior",
@@ -4403,7 +4403,7 @@
       "phrase": "礼拜天(礼拜日)",
       "transcription": "lǐbàitiān(lǐbàirì)",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "Sunday",
@@ -4414,7 +4414,7 @@
       "phrase": "礼貌",
       "transcription": "lǐmào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "courtesy; politeness",
@@ -4425,7 +4425,7 @@
       "phrase": "礼堂",
       "transcription": "lǐtáng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "assembly hall; auditorium",
@@ -4436,7 +4436,7 @@
       "phrase": "利益",
       "transcription": "lìyì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "benefit",
@@ -4447,7 +4447,7 @@
       "phrase": "例",
       "transcription": "lì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "example",
@@ -4458,7 +4458,7 @@
       "phrase": "例子",
       "transcription": "lìzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "example; case; instance",
@@ -4469,7 +4469,7 @@
       "phrase": "立场",
       "transcription": "lìchǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "position; stand; standpoint",
@@ -4480,7 +4480,7 @@
       "phrase": "立方",
       "transcription": "lìfāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "cube",
@@ -4491,7 +4491,7 @@
       "phrase": "力",
       "transcription": "lì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "force; power",
@@ -4502,7 +4502,7 @@
       "phrase": "力量",
       "transcription": "lìliang",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "power; force",
@@ -4513,7 +4513,7 @@
       "phrase": "力气",
       "transcription": "lìqi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "strength",
@@ -4535,7 +4535,7 @@
       "phrase": "粮食",
       "transcription": "liángshi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "grain; food",
@@ -4546,7 +4546,7 @@
       "phrase": "邻居",
       "transcription": "línjū",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "neighborhood",
@@ -4557,7 +4557,7 @@
       "phrase": "零钱",
       "transcription": "língqián",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "small change",
@@ -4568,7 +4568,7 @@
       "phrase": "铃",
       "transcription": "líng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "bell",
@@ -4579,7 +4579,7 @@
       "phrase": "领袖",
       "transcription": "lǐngxiù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "leader",
@@ -4590,7 +4590,7 @@
       "phrase": "龙",
       "transcription": "lóng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "dragon",
@@ -4601,7 +4601,7 @@
       "phrase": "楼梯",
       "transcription": "lóutī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "stairs; staircase",
@@ -4612,7 +4612,7 @@
       "phrase": "路上",
       "transcription": "lùshang",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "on the road",
@@ -4623,7 +4623,7 @@
       "phrase": "路线",
       "transcription": "lùxiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "line; route",
@@ -4634,7 +4634,7 @@
       "phrase": "录音机",
       "transcription": "lùyīnjī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "sound-recorder",
@@ -4645,7 +4645,7 @@
       "phrase": "旅馆",
       "transcription": "lǚguǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "hotel; inn",
@@ -4656,7 +4656,7 @@
       "phrase": "旅客",
       "transcription": "lǚkè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "traveler; passenger; hotel guest",
@@ -4667,7 +4667,7 @@
       "phrase": "旅途",
       "transcription": "lǚtú",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "journey; trip",
@@ -4678,7 +4678,7 @@
       "phrase": "轮船",
       "transcription": "lúnchuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "steamship; ship",
@@ -4689,7 +4689,7 @@
       "phrase": "论文",
       "transcription": "lùnwén",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "treatise; paper; thesis",
@@ -4700,7 +4700,7 @@
       "phrase": "萝卜",
       "transcription": "luóbo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "radish; turnip",
@@ -4711,7 +4711,7 @@
       "phrase": "码头",
       "transcription": "mǎtou",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "dock; wharf",
@@ -4722,7 +4722,7 @@
       "phrase": "马克",
       "transcription": "mǎkè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "mark (German or Finnish monetary unit)",
@@ -4733,7 +4733,7 @@
       "phrase": "马路",
       "transcription": "mǎlù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "street",
@@ -4744,7 +4744,7 @@
       "phrase": "买卖",
       "transcription": "mǎimai",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "buying and selling; business",
@@ -4755,7 +4755,7 @@
       "phrase": "馒头",
       "transcription": "mántou",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "steamed bun",
@@ -4766,7 +4766,7 @@
       "phrase": "猫",
       "transcription": "māo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "cat",
@@ -4777,7 +4777,7 @@
       "phrase": "毛",
       "transcription": "máo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "hair",
@@ -4788,7 +4788,7 @@
       "phrase": "毛病",
       "transcription": "máobìng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "trouble; breakdown; shortcoming",
@@ -4799,7 +4799,7 @@
       "phrase": "毛巾",
       "transcription": "máojīn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "towel",
@@ -4810,7 +4810,7 @@
       "phrase": "毛衣",
       "transcription": "máoyī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "sweater",
@@ -4832,7 +4832,7 @@
       "phrase": "贸易",
       "transcription": "màoyì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "trade",
@@ -4843,7 +4843,7 @@
       "phrase": "煤",
       "transcription": "méi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "coal",
@@ -4854,7 +4854,7 @@
       "phrase": "煤气",
       "transcription": "méiqì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "coal gas",
@@ -4865,7 +4865,7 @@
       "phrase": "美术",
       "transcription": "měishù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the fine arts; art",
@@ -4876,7 +4876,7 @@
       "phrase": "美元",
       "transcription": "měiyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "U.S. dollar",
@@ -4887,7 +4887,7 @@
       "phrase": "梦",
       "transcription": "mèng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "dream",
@@ -4898,7 +4898,7 @@
       "phrase": "米",
       "transcription": "mǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "rice",
@@ -4920,7 +4920,7 @@
       "phrase": "蜜蜂",
       "transcription": "mìfēng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "bee; honeybee",
@@ -4931,7 +4931,7 @@
       "phrase": "棉花",
       "transcription": "miánhua",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "cotton",
@@ -4942,7 +4942,7 @@
       "phrase": "棉衣",
       "transcription": "miányī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "cotton-padded clothes",
@@ -4953,7 +4953,7 @@
       "phrase": "面",
       "transcription": "miàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "side; surface",
@@ -4964,7 +4964,7 @@
       "phrase": "面积",
       "transcription": "miànjī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "area",
@@ -4975,7 +4975,7 @@
       "phrase": "面貌",
       "transcription": "miànmào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "face; appearance; visage",
@@ -4986,7 +4986,7 @@
       "phrase": "面前",
       "transcription": "miànqián",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "in front of; in face of; before",
@@ -4997,7 +4997,7 @@
       "phrase": "庙",
       "transcription": "miào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "temple",
@@ -5030,7 +5030,7 @@
       "phrase": "名胜",
       "transcription": "míngshèng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "famous place; scenic spot",
@@ -5052,7 +5052,7 @@
       "phrase": "命运",
       "transcription": "mìngyùn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "fate; destiny",
@@ -5063,7 +5063,7 @@
       "phrase": "墨水",
       "transcription": "mòshuǐr",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ink",
@@ -5074,7 +5074,7 @@
       "phrase": "模样",
       "transcription": "múyàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "appearance; look",
@@ -5096,7 +5096,7 @@
       "phrase": "木",
       "transcription": "mù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "wood",
@@ -5107,7 +5107,7 @@
       "phrase": "木头",
       "transcription": "mùtou",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "wood; timber",
@@ -5118,7 +5118,7 @@
       "phrase": "目标",
       "transcription": "mùbiāo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "objective; target",
@@ -5129,7 +5129,7 @@
       "phrase": "目的",
       "transcription": "mùdì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "aim; purpose",
@@ -5140,7 +5140,7 @@
       "phrase": "奶奶",
       "transcription": "nǎinai",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "grandma",
@@ -5162,7 +5162,7 @@
       "phrase": "南部",
       "transcription": "nánbù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "south",
@@ -5173,7 +5173,7 @@
       "phrase": "南方",
       "transcription": "nánfāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "south",
@@ -5184,7 +5184,7 @@
       "phrase": "南面",
       "transcription": "nánmiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "south",
@@ -5195,7 +5195,7 @@
       "phrase": "男人",
       "transcription": "nánrén",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "man; male",
@@ -5206,7 +5206,7 @@
       "phrase": "脑袋",
       "transcription": "nǎodai",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "head",
@@ -5217,7 +5217,7 @@
       "phrase": "脑子",
       "transcription": "nǎozi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "brain",
@@ -5228,7 +5228,7 @@
       "phrase": "内部",
       "transcription": "nèibù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "internal; inside",
@@ -5239,7 +5239,7 @@
       "phrase": "能力",
       "transcription": "nénglì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "capability; ability; capacity",
@@ -5250,7 +5250,7 @@
       "phrase": "能源",
       "transcription": "néngyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "energy resources",
@@ -5261,7 +5261,7 @@
       "phrase": "泥",
       "transcription": "ní",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "mud",
@@ -5272,7 +5272,7 @@
       "phrase": "年代",
       "transcription": "niándài",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "time; years; age",
@@ -5283,7 +5283,7 @@
       "phrase": "年龄",
       "transcription": "niánlíng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "age",
@@ -5294,7 +5294,7 @@
       "phrase": "鸟",
       "transcription": "niǎo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "bird",
@@ -5305,7 +5305,7 @@
       "phrase": "女人",
       "transcription": "nǚrén",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "woman",
@@ -5316,7 +5316,7 @@
       "phrase": "女士",
       "transcription": "nǚshì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "lady; madam",
@@ -5327,7 +5327,7 @@
       "phrase": "暖气",
       "transcription": "nuǎnqì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "central heating",
@@ -5349,7 +5349,7 @@
       "phrase": "牌",
       "transcription": "pái",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tablet; board",
@@ -5371,7 +5371,7 @@
       "phrase": "盘子",
       "transcription": "pánzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tray; plate; dish",
@@ -5393,7 +5393,7 @@
       "phrase": "旁",
       "transcription": "páng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "near; beside",
@@ -5404,7 +5404,7 @@
       "phrase": "炮",
       "transcription": "pào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "big gun; cannon",
@@ -5415,7 +5415,7 @@
       "phrase": "盆",
       "transcription": "pén",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "basin; tub; pot",
@@ -5426,7 +5426,7 @@
       "phrase": "脾气",
       "transcription": "píqi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "temperament; temper",
@@ -5437,7 +5437,7 @@
       "phrase": "皮",
       "transcription": "pí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "skin; peel; tegument",
@@ -5448,7 +5448,7 @@
       "phrase": "皮肤",
       "transcription": "pífū",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "skin",
@@ -5459,7 +5459,7 @@
       "phrase": "品种",
       "transcription": "pǐnzhǒng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "breed; variety",
@@ -5470,7 +5470,7 @@
       "phrase": "乒乓球",
       "transcription": "pīngpāngqiú",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "table tennis",
@@ -5503,7 +5503,7 @@
       "phrase": "平方",
       "transcription": "píngfāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "square",
@@ -5514,7 +5514,7 @@
       "phrase": "平时",
       "transcription": "píngshí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "at ordinary times; in normal times",
@@ -5525,7 +5525,7 @@
       "phrase": "平原",
       "transcription": "píngyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "plain",
@@ -5536,7 +5536,7 @@
       "phrase": "瓶子",
       "transcription": "píngzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "bottle",
@@ -5547,7 +5547,7 @@
       "phrase": "坡",
       "transcription": "pō",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "slope",
@@ -5569,7 +5569,7 @@
       "phrase": "期间",
       "transcription": "qījiān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "time; period",
@@ -5580,7 +5580,7 @@
       "phrase": "妻子",
       "transcription": "qīzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "wife",
@@ -5591,7 +5591,7 @@
       "phrase": "其中",
       "transcription": "qízhōng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "among",
@@ -5602,7 +5602,7 @@
       "phrase": "旗子",
       "transcription": "qízi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "banner; flag",
@@ -5624,7 +5624,7 @@
       "phrase": "企业",
       "transcription": "qǐyè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "enterprise; business",
@@ -5646,7 +5646,7 @@
       "phrase": "气候",
       "transcription": "qìhòu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "climate",
@@ -5657,7 +5657,7 @@
       "phrase": "气温",
       "transcription": "qìwēn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "air temperature",
@@ -5668,7 +5668,7 @@
       "phrase": "气象",
       "transcription": "qìxiàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "meteorology",
@@ -5679,7 +5679,7 @@
       "phrase": "汽油",
       "transcription": "qìyóu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "gasoline; gas",
@@ -5690,7 +5690,7 @@
       "phrase": "前面",
       "transcription": "qiánmian",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ahead; in front",
@@ -5701,7 +5701,7 @@
       "phrase": "前年",
       "transcription": "qiánnián",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the year before yesteryear",
@@ -5712,7 +5712,7 @@
       "phrase": "前天",
       "transcription": "qiántiān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the day before yesterday",
@@ -5723,7 +5723,7 @@
       "phrase": "前途",
       "transcription": "qiántú",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "prospect; future",
@@ -5734,7 +5734,7 @@
       "phrase": "枪",
       "transcription": "qiāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "gun; spear",
@@ -5745,7 +5745,7 @@
       "phrase": "强盗",
       "transcription": "qiángdào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "robber; bandit",
@@ -5756,7 +5756,7 @@
       "phrase": "强度",
       "transcription": "qiángdù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "intensity",
@@ -5767,7 +5767,7 @@
       "phrase": "桥梁",
       "transcription": "qiáoliáng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "bridge",
@@ -5778,7 +5778,7 @@
       "phrase": "亲戚",
       "transcription": "qīnqi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "relative",
@@ -5789,7 +5789,7 @@
       "phrase": "情景",
       "transcription": "qíngjǐng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "scene; sight",
@@ -5800,7 +5800,7 @@
       "phrase": "情形",
       "transcription": "qíngxíng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "circumstance; condition; situation",
@@ -5811,7 +5811,7 @@
       "phrase": "情绪",
       "transcription": "qíngxù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "morale; feeling; mood",
@@ -5833,7 +5833,7 @@
       "phrase": "球场",
       "transcription": "qiúchǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "playground; play field",
@@ -5844,7 +5844,7 @@
       "phrase": "区",
       "transcription": "qū",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "region; district",
@@ -5866,7 +5866,7 @@
       "phrase": "渠",
       "transcription": "qú",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "watercourse; trench",
@@ -5877,7 +5877,7 @@
       "phrase": "圈",
       "transcription": "quān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "circle",
@@ -5888,7 +5888,7 @@
       "phrase": "缺点",
       "transcription": "quēdiǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "shortcoming; defect; weakness",
@@ -5899,7 +5899,7 @@
       "phrase": "裙子",
       "transcription": "qúnzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "skirt",
@@ -5910,7 +5910,7 @@
       "phrase": "群众",
       "transcription": "qúnzhòng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the masses",
@@ -5921,7 +5921,7 @@
       "phrase": "热水瓶(暖水瓶)",
       "transcription": "rèshuǐpíng(nuǎnshuǐpíng)",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "thermos",
@@ -5932,7 +5932,7 @@
       "phrase": "人才(人材)",
       "transcription": "réncái",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "talent",
@@ -5943,7 +5943,7 @@
       "phrase": "人家",
       "transcription": "rénjiā",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "others",
@@ -5954,7 +5954,7 @@
       "phrase": "人口",
       "transcription": "rénkǒu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "population",
@@ -5965,7 +5965,7 @@
       "phrase": "人类",
       "transcription": "rénlèi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "mankind; humanity",
@@ -5976,7 +5976,7 @@
       "phrase": "人民币",
       "transcription": "rénmínbì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the name of China's currency",
@@ -5987,7 +5987,7 @@
       "phrase": "人物",
       "transcription": "rénwù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "figure; personage",
@@ -5998,7 +5998,7 @@
       "phrase": "人员",
       "transcription": "rényuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "personnel; staff",
@@ -6009,7 +6009,7 @@
       "phrase": "任务",
       "transcription": "rènwu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "mission; task; job",
@@ -6020,7 +6020,7 @@
       "phrase": "日程",
       "transcription": "rìchéng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "schedule",
@@ -6031,7 +6031,7 @@
       "phrase": "日记",
       "transcription": "rìjì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "diary",
@@ -6042,7 +6042,7 @@
       "phrase": "日期",
       "transcription": "rìqī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "date",
@@ -6053,7 +6053,7 @@
       "phrase": "日用品",
       "transcription": "rìyòngpǐn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "daily necessaries",
@@ -6064,7 +6064,7 @@
       "phrase": "日元",
       "transcription": "rìyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "Japanese yen",
@@ -6075,7 +6075,7 @@
       "phrase": "如今",
       "transcription": "rújīn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "nowadays; now",
@@ -6086,7 +6086,7 @@
       "phrase": "伞",
       "transcription": "sǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "umbrella",
@@ -6097,7 +6097,7 @@
       "phrase": "嗓子",
       "transcription": "sǎngzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "throat; larynx; voice",
@@ -6108,7 +6108,7 @@
       "phrase": "嫂子",
       "transcription": "sǎozi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "sister-in-law",
@@ -6119,7 +6119,7 @@
       "phrase": "色",
       "transcription": "sè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "color",
@@ -6130,7 +6130,7 @@
       "phrase": "森林",
       "transcription": "sēnlín",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "forest",
@@ -6141,7 +6141,7 @@
       "phrase": "沙发",
       "transcription": "shāfā",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "sofa",
@@ -6152,7 +6152,7 @@
       "phrase": "沙漠",
       "transcription": "shāmò",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "desert",
@@ -6163,7 +6163,7 @@
       "phrase": "沙子",
       "transcription": "shāzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "sand; grit",
@@ -6174,7 +6174,7 @@
       "phrase": "山脉",
       "transcription": "shānmài",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "mountain range",
@@ -6185,7 +6185,7 @@
       "phrase": "山区",
       "transcription": "shānqū",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "a mountainous area",
@@ -6207,7 +6207,7 @@
       "phrase": "商场",
       "transcription": "shāngchǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "market; bazaar",
@@ -6218,7 +6218,7 @@
       "phrase": "商品",
       "transcription": "shāngpǐn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "commodity; goods",
@@ -6229,7 +6229,7 @@
       "phrase": "商业",
       "transcription": "shāngyè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "commerce; trade business",
@@ -6240,7 +6240,7 @@
       "phrase": "上级",
       "transcription": "shàngjí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "higher level; higher authority",
@@ -6251,7 +6251,7 @@
       "phrase": "上面",
       "transcription": "shàngmian",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "above; over; on the surface of",
@@ -6262,7 +6262,7 @@
       "phrase": "上衣",
       "transcription": "shàngyī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "coat; upper outer garment",
@@ -6273,7 +6273,7 @@
       "phrase": "勺子",
       "transcription": "sháozi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "scoop; spoon",
@@ -6284,7 +6284,7 @@
       "phrase": "少数",
       "transcription": "shǎoshù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "minority; few",
@@ -6295,7 +6295,7 @@
       "phrase": "少年",
       "transcription": "shàonián",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "early youth; juvenile",
@@ -6306,7 +6306,7 @@
       "phrase": "蛇",
       "transcription": "shé",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "snake",
@@ -6317,7 +6317,7 @@
       "phrase": "舌头",
       "transcription": "shétou",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tongue",
@@ -6328,7 +6328,7 @@
       "phrase": "设备",
       "transcription": "shèbèi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "equipment; facilities",
@@ -6361,7 +6361,7 @@
       "phrase": "身边",
       "transcription": "shēnbiān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "with one; at one's side",
@@ -6372,7 +6372,7 @@
       "phrase": "神",
       "transcription": "shén",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "god; deity",
@@ -6383,7 +6383,7 @@
       "phrase": "神经",
       "transcription": "shénjīng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "nerve",
@@ -6394,7 +6394,7 @@
       "phrase": "生命",
       "transcription": "shēngmìng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "life",
@@ -6405,7 +6405,7 @@
       "phrase": "生物",
       "transcription": "shēngwù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "living thing; organism",
@@ -6416,7 +6416,7 @@
       "phrase": "生意",
       "transcription": "shēngyi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "business; trade",
@@ -6427,7 +6427,7 @@
       "phrase": "绳子",
       "transcription": "shéngzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "string; rope",
@@ -6449,7 +6449,7 @@
       "phrase": "狮子",
       "transcription": "shīzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "lion",
@@ -6460,7 +6460,7 @@
       "phrase": "诗",
       "transcription": "shī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "poem",
@@ -6471,7 +6471,7 @@
       "phrase": "石头",
       "transcription": "shítou",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "stone",
@@ -6482,7 +6482,7 @@
       "phrase": "石油",
       "transcription": "shíyóu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "petroleum",
@@ -6493,7 +6493,7 @@
       "phrase": "时代",
       "transcription": "shídài",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "times; age; era; epoch",
@@ -6504,7 +6504,7 @@
       "phrase": "时刻",
       "transcription": "shíkè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "moment",
@@ -6515,7 +6515,7 @@
       "phrase": "时期",
       "transcription": "shíqī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "period",
@@ -6526,7 +6526,7 @@
       "phrase": "食品",
       "transcription": "shípǐn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "foodstuff; food",
@@ -6537,7 +6537,7 @@
       "phrase": "食物",
       "transcription": "shíwù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "food",
@@ -6570,7 +6570,7 @@
       "phrase": "世纪",
       "transcription": "shìjì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "century",
@@ -6581,7 +6581,7 @@
       "phrase": "事件",
       "transcription": "shìjiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "incident; event",
@@ -6592,7 +6592,7 @@
       "phrase": "事实",
       "transcription": "shìshí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "fact",
@@ -6603,7 +6603,7 @@
       "phrase": "事物",
       "transcription": "shìwù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "thing; object",
@@ -6614,7 +6614,7 @@
       "phrase": "事先",
       "transcription": "shìxiān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "in advance; beforehand",
@@ -6625,7 +6625,7 @@
       "phrase": "事业",
       "transcription": "shìyè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "cause; undertaking",
@@ -6636,7 +6636,7 @@
       "phrase": "市场",
       "transcription": "shìchǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "market",
@@ -6647,7 +6647,7 @@
       "phrase": "室",
       "transcription": "shì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "room",
@@ -6658,7 +6658,7 @@
       "phrase": "试卷",
       "transcription": "shìjuàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "examination paper",
@@ -6702,7 +6702,7 @@
       "phrase": "收音机",
       "transcription": "shōuyīnjī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "radio (receiver)",
@@ -6713,7 +6713,7 @@
       "phrase": "手段",
       "transcription": "shǒuduàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "means; measure; method",
@@ -6724,7 +6724,7 @@
       "phrase": "手工",
       "transcription": "shǒugōng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "handwork; handicraft",
@@ -6735,7 +6735,7 @@
       "phrase": "手绢",
       "transcription": "shǒujuàn(shǒupà)",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "handkerchief",
@@ -6746,7 +6746,7 @@
       "phrase": "手术",
       "transcription": "shǒushù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "operation; surgical operation",
@@ -6757,7 +6757,7 @@
       "phrase": "手套",
       "transcription": "shǒutào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "glove",
@@ -6768,7 +6768,7 @@
       "phrase": "手续",
       "transcription": "shǒuxù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "procedure",
@@ -6779,7 +6779,7 @@
       "phrase": "手指",
       "transcription": "shǒuzhǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "finger",
@@ -6801,7 +6801,7 @@
       "phrase": "蔬菜",
       "transcription": "shūcài",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "vegetable; greens",
@@ -6812,7 +6812,7 @@
       "phrase": "叔叔",
       "transcription": "shūshu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "father's younger brother; uncle",
@@ -6823,7 +6823,7 @@
       "phrase": "书包",
       "transcription": "shūbāo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "schoolbag",
@@ -6834,7 +6834,7 @@
       "phrase": "书店",
       "transcription": "shūdiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "bookshop; bookstore",
@@ -6845,7 +6845,7 @@
       "phrase": "书记",
       "transcription": "shūjì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "secretary",
@@ -6856,7 +6856,7 @@
       "phrase": "书架",
       "transcription": "shūjià",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "bookshelf",
@@ -6867,7 +6867,7 @@
       "phrase": "暑假",
       "transcription": "shǔjià",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "summer vacation",
@@ -6878,7 +6878,7 @@
       "phrase": "树林",
       "transcription": "shùlín",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "woods; grove",
@@ -6889,7 +6889,7 @@
       "phrase": "数",
       "transcription": "shù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "number",
@@ -6900,7 +6900,7 @@
       "phrase": "数量",
       "transcription": "shùliàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "quantity; amount",
@@ -6911,7 +6911,7 @@
       "phrase": "数字",
       "transcription": "shùzì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "figure; digit",
@@ -6922,7 +6922,7 @@
       "phrase": "双方",
       "transcription": "shuāngfāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "both sides; the two parties",
@@ -6933,7 +6933,7 @@
       "phrase": "水稻",
       "transcription": "shuǐdào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "rice; paddy",
@@ -6944,7 +6944,7 @@
       "phrase": "水泥",
       "transcription": "shuǐní",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "cement",
@@ -6955,7 +6955,7 @@
       "phrase": "思想",
       "transcription": "sīxiǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "thought; thinking; idea; ideology",
@@ -6966,7 +6966,7 @@
       "phrase": "私",
       "transcription": "sī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "private",
@@ -6988,7 +6988,7 @@
       "phrase": "司机",
       "transcription": "sījī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "driver",
@@ -6999,7 +6999,7 @@
       "phrase": "丝",
       "transcription": "sī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "silk",
@@ -7010,7 +7010,7 @@
       "phrase": "速度",
       "transcription": "sùdù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "speed",
@@ -7021,7 +7021,7 @@
       "phrase": "塑料",
       "transcription": "sùliào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "plastics",
@@ -7054,7 +7054,7 @@
       "phrase": "塔",
       "transcription": "tǎ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tower",
@@ -7076,7 +7076,7 @@
       "phrase": "太太",
       "transcription": "tàitai",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "wife; Madame; Lady; Mrs.",
@@ -7087,7 +7087,7 @@
       "phrase": "毯子",
       "transcription": "tǎnzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "blanket",
@@ -7098,7 +7098,7 @@
       "phrase": "特点",
       "transcription": "tèdiǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "characteristic",
@@ -7109,7 +7109,7 @@
       "phrase": "题",
       "transcription": "tí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "topic; problem; title",
@@ -7120,7 +7120,7 @@
       "phrase": "题目",
       "transcription": "tímù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "title; subject",
@@ -7142,7 +7142,7 @@
       "phrase": "体积",
       "transcription": "tǐjī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "volume",
@@ -7153,7 +7153,7 @@
       "phrase": "体系",
       "transcription": "tǐxì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "system; setup",
@@ -7164,7 +7164,7 @@
       "phrase": "体育场",
       "transcription": "tǐyùchǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "stadium",
@@ -7175,7 +7175,7 @@
       "phrase": "体育馆",
       "transcription": "tǐyùguǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "gymnasium",
@@ -7186,7 +7186,7 @@
       "phrase": "田",
       "transcription": "tián",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "farmland",
@@ -7197,7 +7197,7 @@
       "phrase": "田野",
       "transcription": "tiányě",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "field; open country",
@@ -7208,7 +7208,7 @@
       "phrase": "条约",
       "transcription": "tiáoyuē",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "treaty; pact",
@@ -7219,7 +7219,7 @@
       "phrase": "铁",
       "transcription": "tiě",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "iron",
@@ -7230,7 +7230,7 @@
       "phrase": "铁路",
       "transcription": "tiělù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "railway; railroad",
@@ -7241,7 +7241,7 @@
       "phrase": "通讯",
       "transcription": "tōngxùn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "communication",
@@ -7263,7 +7263,7 @@
       "phrase": "铜",
       "transcription": "tóng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "copper",
@@ -7274,7 +7274,7 @@
       "phrase": "桶",
       "transcription": "tǒng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tub; bucket",
@@ -7296,7 +7296,7 @@
       "phrase": "头发",
       "transcription": "tóufa",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "hair",
@@ -7307,7 +7307,7 @@
       "phrase": "图",
       "transcription": "tú",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "graph; map",
@@ -7318,7 +7318,7 @@
       "phrase": "土",
       "transcription": "tǔ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "earth; soil",
@@ -7329,7 +7329,7 @@
       "phrase": "土地",
       "transcription": "tǔdì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "land; soil; territory",
@@ -7340,7 +7340,7 @@
       "phrase": "土豆",
       "transcription": "tǔdòu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "potato",
@@ -7351,7 +7351,7 @@
       "phrase": "兔子",
       "transcription": "tùzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "hare; rabbit",
@@ -7373,7 +7373,7 @@
       "phrase": "外地",
       "transcription": "wàidì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "places other than the local place",
@@ -7384,7 +7384,7 @@
       "phrase": "外交",
       "transcription": "wàijiāo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "diplomacy; foreign affairs",
@@ -7395,7 +7395,7 @@
       "phrase": "外面",
       "transcription": "wàimian",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "outside",
@@ -7406,7 +7406,7 @@
       "phrase": "网球",
       "transcription": "wǎngqiú",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tennis ball; tennis",
@@ -7428,7 +7428,7 @@
       "phrase": "危机",
       "transcription": "wēijī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "crisis",
@@ -7439,7 +7439,7 @@
       "phrase": "委员",
       "transcription": "wěiyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "committee member",
@@ -7450,7 +7450,7 @@
       "phrase": "尾巴",
       "transcription": "wěiba",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tail; tail-like part",
@@ -7461,7 +7461,7 @@
       "phrase": "未来",
       "transcription": "wèilái",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "future",
@@ -7472,7 +7472,7 @@
       "phrase": "味道",
       "transcription": "wèidao",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "taste; flavor",
@@ -7483,7 +7483,7 @@
       "phrase": "胃",
       "transcription": "wèi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "stomach",
@@ -7494,7 +7494,7 @@
       "phrase": "位置",
       "transcription": "wèizhi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "place; position",
@@ -7516,7 +7516,7 @@
       "phrase": "卫星",
       "transcription": "wèixīng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "satellite",
@@ -7527,7 +7527,7 @@
       "phrase": "温度",
       "transcription": "wēndù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "temperature",
@@ -7538,7 +7538,7 @@
       "phrase": "文件",
       "transcription": "wénjiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "document",
@@ -7560,7 +7560,7 @@
       "phrase": "文物",
       "transcription": "wénwù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "culture relic",
@@ -7571,7 +7571,7 @@
       "phrase": "文字",
       "transcription": "wénzì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "character",
@@ -7582,7 +7582,7 @@
       "phrase": "屋",
       "transcription": "wū",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "room",
@@ -7593,7 +7593,7 @@
       "phrase": "武器",
       "transcription": "wǔqì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "weapon; arms",
@@ -7604,7 +7604,7 @@
       "phrase": "武术",
       "transcription": "wǔshù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "martial arts",
@@ -7615,7 +7615,7 @@
       "phrase": "雾",
       "transcription": "wù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "fog",
@@ -7626,7 +7626,7 @@
       "phrase": "物价",
       "transcription": "wùjià",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "price",
@@ -7637,7 +7637,7 @@
       "phrase": "物质",
       "transcription": "wùzhì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "matter; substance; material",
@@ -7659,7 +7659,7 @@
       "phrase": "西北",
       "transcription": "xīběi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "northwest",
@@ -7670,7 +7670,7 @@
       "phrase": "西部",
       "transcription": "xībù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "west",
@@ -7681,7 +7681,7 @@
       "phrase": "西餐",
       "transcription": "xīcān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "Western-style food",
@@ -7692,7 +7692,7 @@
       "phrase": "西方",
       "transcription": "xīfāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the West",
@@ -7703,7 +7703,7 @@
       "phrase": "西瓜",
       "transcription": "xīguā",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "watermelon",
@@ -7714,7 +7714,7 @@
       "phrase": "西红柿",
       "transcription": "xīhóngshì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tomato",
@@ -7725,7 +7725,7 @@
       "phrase": "西南",
       "transcription": "xīnán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "southwest",
@@ -7736,7 +7736,7 @@
       "phrase": "西面",
       "transcription": "xīmiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "west",
@@ -7747,7 +7747,7 @@
       "phrase": "洗衣机",
       "transcription": "xǐyījī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "washing machine",
@@ -7758,7 +7758,7 @@
       "phrase": "系统",
       "transcription": "xìtǒng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "system",
@@ -7769,7 +7769,7 @@
       "phrase": "戏",
       "transcription": "xì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "play; opera",
@@ -7780,7 +7780,7 @@
       "phrase": "细菌",
       "transcription": "xìjūn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "germ; bacterium",
@@ -7791,7 +7791,7 @@
       "phrase": "下面",
       "transcription": "xiàmian",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "lower part",
@@ -7813,7 +7813,7 @@
       "phrase": "鲜花",
       "transcription": "xiānhuā",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "fresh flower",
@@ -7824,7 +7824,7 @@
       "phrase": "纤维",
       "transcription": "xiānwéi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "fiber",
@@ -7846,7 +7846,7 @@
       "phrase": "现实",
       "transcription": "xiànshí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "reality; actuality",
@@ -7857,7 +7857,7 @@
       "phrase": "现象",
       "transcription": "xiànxiàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "appearance; phenomenon",
@@ -7868,7 +7868,7 @@
       "phrase": "县",
       "transcription": "xiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "county",
@@ -7890,7 +7890,7 @@
       "phrase": "线",
       "transcription": "xiàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "thread; string; wire",
@@ -7901,7 +7901,7 @@
       "phrase": "香肠",
       "transcription": "xiāngcháng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "sausage",
@@ -7912,7 +7912,7 @@
       "phrase": "香皂",
       "transcription": "xiāngzào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "perfumed soap; toilet soap",
@@ -7923,7 +7923,7 @@
       "phrase": "箱子",
       "transcription": "xiāngzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "box; case; chest",
@@ -7934,7 +7934,7 @@
       "phrase": "乡",
       "transcription": "xiāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "village",
@@ -7945,7 +7945,7 @@
       "phrase": "乡下",
       "transcription": "xiāngxia",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "village; country side",
@@ -7956,7 +7956,7 @@
       "phrase": "想法",
       "transcription": "xiǎngfa",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "idea; opinion",
@@ -7978,7 +7978,7 @@
       "phrase": "项目",
       "transcription": "xiàngmù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "item; project",
@@ -7989,7 +7989,7 @@
       "phrase": "象",
       "transcription": "xiàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "elephant",
@@ -8000,7 +8000,7 @@
       "phrase": "小伙子",
       "transcription": "xiǎohuǒzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "young fellow; lad",
@@ -8011,7 +8011,7 @@
       "phrase": "小麦",
       "transcription": "xiǎomài",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "wheat",
@@ -8022,7 +8022,7 @@
       "phrase": "小朋友",
       "transcription": "xiǎopéngyǒu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "child",
@@ -8033,7 +8033,7 @@
       "phrase": "小说",
       "transcription": "xiǎoshuō",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "novel; fiction",
@@ -8044,7 +8044,7 @@
       "phrase": "小学",
       "transcription": "xiǎoxué",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "primary school",
@@ -8055,7 +8055,7 @@
       "phrase": "校长",
       "transcription": "xiàozhǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "headmaster; schoolmaster",
@@ -8077,7 +8077,7 @@
       "phrase": "效果",
       "transcription": "xiàoguǒ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "effect; result",
@@ -8088,7 +8088,7 @@
       "phrase": "效率",
       "transcription": "xiàolǜ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "efficiency",
@@ -8099,7 +8099,7 @@
       "phrase": "血",
       "transcription": "xiě/xuè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "blood",
@@ -8110,7 +8110,7 @@
       "phrase": "心得",
       "transcription": "xīndé",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "something personal acquired from study",
@@ -8121,7 +8121,7 @@
       "phrase": "心情",
       "transcription": "xīnqíng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "mood; state of mind",
@@ -8132,7 +8132,7 @@
       "phrase": "心脏",
       "transcription": "xīnzàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "heart",
@@ -8143,7 +8143,7 @@
       "phrase": "信心",
       "transcription": "xìnxīn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "confidence",
@@ -8154,7 +8154,7 @@
       "phrase": "星星",
       "transcription": "xīngxing",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "star",
@@ -8165,7 +8165,7 @@
       "phrase": "形式",
       "transcription": "xíngshì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "form; format; shape",
@@ -8176,7 +8176,7 @@
       "phrase": "形势",
       "transcription": "xíngshì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "situation; circumstances",
@@ -8198,7 +8198,7 @@
       "phrase": "形状",
       "transcription": "xíngzhuàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "shape; figure; form",
@@ -8209,7 +8209,7 @@
       "phrase": "行",
       "transcription": "xíng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "walk; travel",
@@ -8231,7 +8231,7 @@
       "phrase": "行李",
       "transcription": "xíngli",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "luggage; baggage",
@@ -8242,7 +8242,7 @@
       "phrase": "兴趣",
       "transcription": "xìngqù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "interest",
@@ -8264,7 +8264,7 @@
       "phrase": "性格",
       "transcription": "xìnggé",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "nature; disposition; temperament",
@@ -8275,7 +8275,7 @@
       "phrase": "性质",
       "transcription": "xìngzhì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "quality; nature; character",
@@ -8286,7 +8286,7 @@
       "phrase": "姓名",
       "transcription": "xìngmíng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "surname and given name; full name",
@@ -8297,7 +8297,7 @@
       "phrase": "兄弟",
       "transcription": "xiōngdì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "brothers",
@@ -8308,7 +8308,7 @@
       "phrase": "胸",
       "transcription": "xiōng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "chest",
@@ -8319,7 +8319,7 @@
       "phrase": "熊猫",
       "transcription": "xióngmāo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "panda",
@@ -8385,7 +8385,7 @@
       "phrase": "学费",
       "transcription": "xuéfèi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tuition; tuition fee",
@@ -8396,7 +8396,7 @@
       "phrase": "学期",
       "transcription": "xuéqī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "school term; semester",
@@ -8407,7 +8407,7 @@
       "phrase": "学术",
       "transcription": "xuéshù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "systematic learning; science",
@@ -8418,7 +8418,7 @@
       "phrase": "学问",
       "transcription": "xuéwen",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "learning; knowledge; scholarship",
@@ -8429,7 +8429,7 @@
       "phrase": "血液",
       "transcription": "xuèyè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "blood",
@@ -8440,7 +8440,7 @@
       "phrase": "牙",
       "transcription": "yá",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tooth",
@@ -8451,7 +8451,7 @@
       "phrase": "牙刷",
       "transcription": "yáshuā",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "toothbrush",
@@ -8462,7 +8462,7 @@
       "phrase": "盐",
       "transcription": "yán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "salt",
@@ -8473,7 +8473,7 @@
       "phrase": "研究所",
       "transcription": "yánjiūsuǒ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "research institute",
@@ -8484,7 +8484,7 @@
       "phrase": "眼",
       "transcription": "yǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "eye",
@@ -8495,7 +8495,7 @@
       "phrase": "眼镜",
       "transcription": "yǎnjìng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "eyeglasses; spectacles",
@@ -8506,7 +8506,7 @@
       "phrase": "眼泪",
       "transcription": "yǎnlèi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tear",
@@ -8517,7 +8517,7 @@
       "phrase": "眼前",
       "transcription": "yǎnqián",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "before one's eyes; at present",
@@ -8528,7 +8528,7 @@
       "phrase": "演员",
       "transcription": "yǎnyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "actor; performer",
@@ -8539,7 +8539,7 @@
       "phrase": "阳光",
       "transcription": "yángguāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "sunlight; sunshine",
@@ -8561,7 +8561,7 @@
       "phrase": "腰",
       "transcription": "yāo",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "waist",
@@ -8572,7 +8572,7 @@
       "phrase": "爷爷",
       "transcription": "yéye",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "grandfather",
@@ -8583,7 +8583,7 @@
       "phrase": "业务",
       "transcription": "yèwù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "business; professional work",
@@ -8594,7 +8594,7 @@
       "phrase": "叶子",
       "transcription": "yèzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "leaf",
@@ -8605,7 +8605,7 @@
       "phrase": "夜里",
       "transcription": "yèli",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "at night",
@@ -8616,7 +8616,7 @@
       "phrase": "夜晚",
       "transcription": "yèwǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "night",
@@ -8627,7 +8627,7 @@
       "phrase": "一半",
       "transcription": "yíbàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "one half",
@@ -8638,7 +8638,7 @@
       "phrase": "一边",
       "transcription": "yìbiān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "one side",
@@ -8649,7 +8649,7 @@
       "phrase": "一生",
       "transcription": "yìshēng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "lifetime; all one's life",
@@ -8660,7 +8660,7 @@
       "phrase": "一时",
       "transcription": "yīshí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "a short period of time; moment",
@@ -8671,7 +8671,7 @@
       "phrase": "医务室",
       "transcription": "yīwùshì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "clinic",
@@ -8682,7 +8682,7 @@
       "phrase": "医学",
       "transcription": "yīxué",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "medicine; medical science",
@@ -8704,7 +8704,7 @@
       "phrase": "仪器",
       "transcription": "yíqì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "instrument; apparatus",
@@ -8715,7 +8715,7 @@
       "phrase": "疑问",
       "transcription": "yíwèn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "doubt; query; question",
@@ -8726,7 +8726,7 @@
       "phrase": "以内",
       "transcription": "yǐnèi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "within; less than",
@@ -8737,7 +8737,7 @@
       "phrase": "以上",
       "transcription": "yǐshàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "more than; above; the foregoing",
@@ -8748,7 +8748,7 @@
       "phrase": "以外",
       "transcription": "yǐwài",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "beyond; outside",
@@ -8759,7 +8759,7 @@
       "phrase": "以下",
       "transcription": "yǐxià",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "below; under; the following",
@@ -8781,7 +8781,7 @@
       "phrase": "意志",
       "transcription": "yìzhì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "will; volition",
@@ -8792,7 +8792,7 @@
       "phrase": "因素",
       "transcription": "yīnsù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "factor; element",
@@ -8803,7 +8803,7 @@
       "phrase": "银",
       "transcription": "yín",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "silver",
@@ -8814,7 +8814,7 @@
       "phrase": "印象",
       "transcription": "yìnxiàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "impression",
@@ -8825,7 +8825,7 @@
       "phrase": "英雄",
       "transcription": "yīngxióng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "hero",
@@ -8836,7 +8836,7 @@
       "phrase": "营养",
       "transcription": "yíngyǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "nutrition; nourishment",
@@ -8847,7 +8847,7 @@
       "phrase": "影子",
       "transcription": "yǐngzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "shadow",
@@ -8858,7 +8858,7 @@
       "phrase": "勇气",
       "transcription": "yǒngqì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "courage",
@@ -8869,7 +8869,7 @@
       "phrase": "用处",
       "transcription": "yòngchu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "use",
@@ -8880,7 +8880,7 @@
       "phrase": "优点",
       "transcription": "yōudiǎn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "merit; advantage; strong point",
@@ -8891,7 +8891,7 @@
       "phrase": "油",
       "transcription": "yóu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "oil",
@@ -8902,7 +8902,7 @@
       "phrase": "游泳池",
       "transcription": "yóuyǒngchí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "swimming pool",
@@ -8913,7 +8913,7 @@
       "phrase": "右边",
       "transcription": "yòubian",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the right side; the right",
@@ -8924,7 +8924,7 @@
       "phrase": "雨衣",
       "transcription": "yǔyī",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "raincoat",
@@ -8935,7 +8935,7 @@
       "phrase": "语调",
       "transcription": "yǔdiào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "intonation",
@@ -8946,7 +8946,7 @@
       "phrase": "语气",
       "transcription": "yǔqì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "tone; manner of speaking; mood",
@@ -8957,7 +8957,7 @@
       "phrase": "语音",
       "transcription": "yǔyīn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "pronunciation",
@@ -8968,7 +8968,7 @@
       "phrase": "羽毛球",
       "transcription": "yǔmáoqiú",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "badminton",
@@ -8979,7 +8979,7 @@
       "phrase": "玉米",
       "transcription": "yùmǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "maize; corn",
@@ -9001,7 +9001,7 @@
       "phrase": "原料",
       "transcription": "yuánliào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "raw material",
@@ -9012,7 +9012,7 @@
       "phrase": "原因",
       "transcription": "yuányīn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "cause; reason",
@@ -9023,7 +9023,7 @@
       "phrase": "原则",
       "transcription": "yuánzé",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "principle",
@@ -9034,7 +9034,7 @@
       "phrase": "圆珠笔",
       "transcription": "yuánzhūbǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "ball pen",
@@ -9045,7 +9045,7 @@
       "phrase": "愿望",
       "transcription": "yuànwàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "desire; wish; aspiration",
@@ -9056,7 +9056,7 @@
       "phrase": "院",
       "transcription": "yuàn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "courtyard; yard",
@@ -9067,7 +9067,7 @@
       "phrase": "院长",
       "transcription": "yuànzhǎng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the head of a college, institute, hospital, etc.",
@@ -9078,7 +9078,7 @@
       "phrase": "院子",
       "transcription": "yuànzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "courtyard; yard",
@@ -9089,7 +9089,7 @@
       "phrase": "约会",
       "transcription": "yuēhuì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "appointment; date; engagement",
@@ -9100,7 +9100,7 @@
       "phrase": "阅览室",
       "transcription": "yuèlǎnshì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "reading-room",
@@ -9111,7 +9111,7 @@
       "phrase": "运动会",
       "transcription": "yùndònghuì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "sport meet; games",
@@ -9122,7 +9122,7 @@
       "phrase": "运动员",
       "transcription": "yùndòngyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "athlete; player",
@@ -9144,7 +9144,7 @@
       "phrase": "杂技",
       "transcription": "zájì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "acrobatics",
@@ -9155,7 +9155,7 @@
       "phrase": "灾",
       "transcription": "zāi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "disaster; calamity",
@@ -9166,7 +9166,7 @@
       "phrase": "灾害",
       "transcription": "zāihài",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "calamity; disaster",
@@ -9177,7 +9177,7 @@
       "phrase": "责任",
       "transcription": "zérèn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "duty; responsibility",
@@ -9188,7 +9188,7 @@
       "phrase": "展览会",
       "transcription": "zhǎnlǎnhuì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "exhibition",
@@ -9210,7 +9210,7 @@
       "phrase": "战士",
       "transcription": "zhànshì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "soldier; fighter",
@@ -9221,7 +9221,7 @@
       "phrase": "战争",
       "transcription": "zhànzhēng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "warfare; war",
@@ -9232,7 +9232,7 @@
       "phrase": "丈夫",
       "transcription": "zhàngfu",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "man; husband",
@@ -9243,7 +9243,7 @@
       "phrase": "招待会",
       "transcription": "zhāodàihuì",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "reception",
@@ -9254,7 +9254,7 @@
       "phrase": "照片(相片)",
       "transcription": "zhàopiàn(xiàngpiàn)",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "photo; photograph",
@@ -9265,7 +9265,7 @@
       "phrase": "哲学",
       "transcription": "zhéxué",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "philosophy",
@@ -9276,7 +9276,7 @@
       "phrase": "真理",
       "transcription": "zhēnlǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "truth",
@@ -9287,7 +9287,7 @@
       "phrase": "针",
       "transcription": "zhēn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "needle; stitch; injection",
@@ -9309,7 +9309,7 @@
       "phrase": "政策",
       "transcription": "zhèngcè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "policy",
@@ -9342,7 +9342,7 @@
       "phrase": "职工",
       "transcription": "zhígōng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "staff; worker; employee",
@@ -9353,7 +9353,7 @@
       "phrase": "职业",
       "transcription": "zhíyè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "occupation; profession",
@@ -9364,7 +9364,7 @@
       "phrase": "植物",
       "transcription": "zhíwù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "plant",
@@ -9397,7 +9397,7 @@
       "phrase": "制度",
       "transcription": "zhìdù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "system; institution",
@@ -9408,7 +9408,7 @@
       "phrase": "秩序",
       "transcription": "zhìxù",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "order; orderly state",
@@ -9419,7 +9419,7 @@
       "phrase": "质量",
       "transcription": "zhìliàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "quality",
@@ -9430,7 +9430,7 @@
       "phrase": "中餐",
       "transcription": "zhōngcān",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "Chinese food; Chinese meal",
@@ -9441,7 +9441,7 @@
       "phrase": "中心",
       "transcription": "zhōngxīn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "center; heart",
@@ -9452,7 +9452,7 @@
       "phrase": "中央",
       "transcription": "zhōngyāng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "center; central authorities",
@@ -9463,7 +9463,7 @@
       "phrase": "中药",
       "transcription": "zhōngyào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "Chinese medicine",
@@ -9474,7 +9474,7 @@
       "phrase": "种子",
       "transcription": "zhǒngzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "seed",
@@ -9496,7 +9496,7 @@
       "phrase": "重量",
       "transcription": "zhòngliàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "weight",
@@ -9507,7 +9507,7 @@
       "phrase": "竹子",
       "transcription": "zhúzi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "bamboo",
@@ -9529,7 +9529,7 @@
       "phrase": "主人",
       "transcription": "zhǔrén",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "master; host; owner",
@@ -9540,7 +9540,7 @@
       "phrase": "主任",
       "transcription": "zhǔrèn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "director; head; chief",
@@ -9551,7 +9551,7 @@
       "phrase": "主席",
       "transcription": "zhǔxí",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "chairman",
@@ -9573,7 +9573,7 @@
       "phrase": "著作",
       "transcription": "zhù​zuò​",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "work; book; writing",
@@ -9595,7 +9595,7 @@
       "phrase": "专家",
       "transcription": "zhuānjiā",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "expert; specialist",
@@ -9606,7 +9606,7 @@
       "phrase": "专业",
       "transcription": "zhuānyè",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "specialty; specialized field",
@@ -9617,7 +9617,7 @@
       "phrase": "庄稼",
       "transcription": "zhuāngjia",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "crops",
@@ -9628,7 +9628,7 @@
       "phrase": "状况",
       "transcription": "zhuàngkuàng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "state of affairs; condition",
@@ -9639,7 +9639,7 @@
       "phrase": "状态",
       "transcription": "zhuàngtài",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "state; condition",
@@ -9650,7 +9650,7 @@
       "phrase": "资料",
       "transcription": "zīliào",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "data; material; means",
@@ -9661,7 +9661,7 @@
       "phrase": "资源",
       "transcription": "zīyuán",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "resources; natural resources",
@@ -9705,7 +9705,7 @@
       "phrase": "总理",
       "transcription": "zǒnglǐ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "premier; prime minister",
@@ -9716,7 +9716,7 @@
       "phrase": "总统",
       "transcription": "zǒngtǒng",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "president (of a republic)",
@@ -9738,7 +9738,7 @@
       "phrase": "左边",
       "transcription": "zuǒbian",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "the left side; the left",
@@ -9749,7 +9749,7 @@
       "phrase": "做法",
       "transcription": "zuòfǎ",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "method of work; practice",
@@ -9760,7 +9760,7 @@
       "phrase": "作家",
       "transcription": "zuòjiā",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "writer",
@@ -9771,7 +9771,7 @@
       "phrase": "作品",
       "transcription": "zuòpǐn",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "works (of literature and art)",
@@ -9793,7 +9793,7 @@
       "phrase": "作者",
       "transcription": "zuòzhě",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "author; writer",
@@ -9804,7 +9804,7 @@
       "phrase": "座位",
       "transcription": "zuòwèi",
       "category": {
-        "lexical": "n"
+        "lexical": "N"
       },
       "translation": {
         "eng": "seat; place",
