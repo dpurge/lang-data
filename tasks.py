@@ -33,15 +33,22 @@ def clean(c, output = False):
 
 
 @task
-def build(c, language = '*', format = '*', tag = '*'):
+def build(c, language = '*', format = '*', tag = '*', translation = 'pol', output = 'csv'):
     #create_directories(tmp_dir, out_dir)
     create_directories(out_dir)
     
     for lang in get_language(directory=src_dir, language = language):
         print("[{lang.code}] {lang.name}: {lang.directory}".format(lang = lang))
-        data = get_data(language = lang, format = format, tag = tag)
+        data = get_data(
+            language = lang,
+            format = format,
+            tag = tag,
+            translation = translation)
         for filename in export_data(
-            data = data, language = lang.code, directory = out_dir):
+            data = data,
+            language = lang.code,
+            directory = out_dir,
+            output = output):
             print("      - {filename}".format(filename = filename))
 
 

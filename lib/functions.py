@@ -88,7 +88,8 @@ def get_language(directory, language):
         name = lang['data']['name']
         code = lang['data']['code']
         dir  = os.path.dirname(filename)
-        files = (datafile for datafile in glob.glob(os.path.join(dir, '**', '*.jdp-lang.json'), recursive=True))
+        files = (datafile for datafile in glob.glob(
+            os.path.join(dir, '**', '*.jdp-lang.json'), recursive=True))
         
         yield Language(
             name = name,
@@ -96,13 +97,14 @@ def get_language(directory, language):
             directory = dir,
             files = files)
 
-def get_records(language, format, tag):
+def get_records(language, format, tag, translation):
     Format = collections.namedtuple('Format', ['name', 'version'])
     Record = collections.namedtuple('Record', [
         'phrase',
         'transcription',
         'grammar',
         'translation',
+        'image',
         'audio',
         'video',
         'note',
@@ -121,30 +123,52 @@ def get_records(language, format, tag):
             continue
         
         for record in langdata['data']:
-            if not record['phrase'] or not record['translation']:
-                continue
+        
+            phrase = record.get('phrase', '').strip()
+            if not phrase: continue
+            
+            translations = [i.strip() for i in record\
+                .get('translation', {})\
+                .get(translation, '')\
+                .split(';')]
+            if not translations: continue
+            
+            notes = [i.strip() for i in record\
+                .get('note', {})\
+                .get(translation, '')\
+                .split(';')]
+            
+            grammar = record.get('category', {}).get('lexical', '')
+                
             yield Record(
-                phrase = record['phrase'],
-                transcription = record['transcription'],
-                grammar = record['grammar'],
-                translation = record['translation'],
-                audio = record['audio'],
-                video = record['video'],
-                note = record['note'],
+                phrase = phrase,
+                transcription = record.get('transcription', ''),
+                grammar = grammar,
+                translation = translations,
+                image = record.get('image', ''),
+                audio = record.get('audio', ''),
+                video = record.get('video', ''),
+                note = notes,
                 format = Format(
                     name = langdata['meta']['format'],
                     version = langdata['meta']['version']),
                 tags = langdata['meta']['tags'])
 
 
-def get_data(language, format, tag):
+def get_data(language, format, tag, translation):
     data = {}
     
     for record in get_records(
-        language = language, format = format, tag = tag):
+        language = language,
+        format = format,
+        tag = tag,
+        translation = translation):
+        
         if not record.format.name in data:
             data[record.format.name] = {}
+            
         key = "{record.phrase}/{record.grammar}".format(record = record)
+        
         if not key in data[record.format.name]:
             data[record.format.name][key] = {
                 'phrase': record.phrase,
@@ -157,22 +181,18 @@ def get_data(language, format, tag):
                 'note': [],
                 'tags': []}
                 
-        for translation in record.translation.split(';'):
-            translation = translation.strip()
-            if not translation in data[record.format.name][key]['translation']:
-                data[record.format.name][key]['translation'].append(translation)
-        for note in record.note.split(';'):
-            note = note.strip()
-            if not note in data[record.format.name][key]['note']:
-                data[record.format.name][key]['note'].append(note)
-        for tagname in record.tags:
-            if not tagname in data[record.format.name][key]['tags']:
-                data[record.format.name][key]['tags'].append(tagname)
+        for I,J in \
+            (record.translation, data[record.format.name][key]['translation']),\
+            (record.note, data[record.format.name][key]['note']),\
+            (record.tags, data[record.format.name][key]['tags']):
+            for i in I:
+                if i and not i in J:
+                    J.append(i)
     
     return data
 
 
-def export_data(data, language, directory):
+def export_data(data, language, directory, output):
     for formatname in data:
         filename = os.path.join(
             directory, "{}-{}.txt".format(language, formatname))

@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": []
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "category": {
+        "lexical": "",
+        "grammatical": {
+          "gender": "masculine",
+          "number": "singular"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": ""
+      },
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    }
+  ]
+}

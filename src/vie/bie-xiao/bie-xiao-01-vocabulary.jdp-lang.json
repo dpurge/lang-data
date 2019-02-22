@@ -12,483 +12,515 @@
   "data": [
     {
       "phrase": "xin",
-      "transcription": "",
-      "grammar": "",
-      "translation": "prosić",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "prosić"
+      }
     },
     {
       "phrase": "chào",
-      "transcription": "",
-      "grammar": "",
-      "translation": "pozdrawiać; witać; żegnać",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pozdrawiać; witać; żegnać"
+      }
     },
     {
       "phrase": "còn",
-      "transcription": "",
-      "grammar": "",
-      "translation": "a",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "a"
+      }
     },
     {
       "phrase": "họ",
-      "transcription": "",
-      "grammar": "",
-      "translation": "nazwisko",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nazwisko"
+      }
     },
     {
       "phrase": "của",
-      "transcription": "",
-      "grammar": "",
-      "translation": "-",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "partykuła dopełniacza"
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "-"
+      },
+      "note": {
+        "eng": "",
+        "pol": "partykuła dopełniacza"
+      }
     },
     {
       "phrase": "tên",
-      "transcription": "",
-      "grammar": "",
-      "translation": "imię",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "imię"
+      }
     },
     {
       "phrase": "là",
-      "transcription": "",
-      "grammar": "",
-      "translation": "być",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "być"
+      }
     },
     {
       "phrase": "rất",
-      "transcription": "",
-      "grammar": "",
-      "translation": "bardzo",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bardzo"
+      }
     },
     {
       "phrase": "vui",
-      "transcription": "",
-      "grammar": "",
-      "translation": "wesoły; szczęśliwy",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wesoły; szczęśliwy"
+      }
     },
     {
       "phrase": "được",
-      "transcription": "",
-      "grammar": "",
-      "translation": "móc",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "móc"
+      }
     },
     {
       "phrase": "gặp",
-      "transcription": "",
-      "grammar": "",
-      "translation": "spotkać; poznać",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "spotkać; poznać"
+      }
     },
     {
       "phrase": "tôi",
-      "transcription": "",
-      "grammar": "",
-      "translation": "ja",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ja"
+      }
     },
     {
       "phrase": "cũng",
-      "transcription": "",
-      "grammar": "",
-      "translation": "też; także",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "też; także"
+      }
     },
     {
       "phrase": "người",
-      "transcription": "",
-      "grammar": "",
-      "translation": "człowiek",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "człowiek"
+      }
     },
     {
       "phrase": "nước",
-      "transcription": "",
-      "grammar": "",
-      "translation": "kraj; woda",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kraj; woda"
+      }
     },
     {
       "phrase": "nào",
-      "transcription": "",
-      "grammar": "",
-      "translation": "który?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "który?"
+      }
     },
     {
       "phrase": "phải",
-      "transcription": "",
-      "grammar": "",
-      "translation": "prawy; poprawny",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "prawy; poprawny"
+      }
     },
     {
       "phrase": "không",
-      "transcription": "",
-      "grammar": "",
-      "translation": "nie",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nie"
+      }
     },
     {
       "phrase": "Việt Nam",
-      "transcription": "",
-      "grammar": "",
-      "translation": "Wietnam",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Wietnam"
+      }
     },
     {
       "phrase": "... là ..., phải không?",
-      "transcription": "",
-      "grammar": "",
-      "translation": "czy jest?",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czy jest?"
+      }
     },
     {
       "phrase": "... không phải là ...",
-      "transcription": "",
-      "grammar": "",
-      "translation": "nie jest",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nie jest"
+      }
     },
     {
       "phrase": "ông",
-      "transcription": "",
-      "grammar": "",
-      "translation": "dziadek",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziadek"
+      }
     },
     {
       "phrase": "bà",
-      "transcription": "",
-      "grammar": "",
-      "translation": "babcia",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "babcia"
+      }
     },
     {
       "phrase": "bác",
-      "transcription": "",
-      "grammar": "",
-      "translation": "wujek; ciotka",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "starszy brat lub starsza siostra ojca lub matki"
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wujek; ciotka"
+      },
+      "note": {
+        "eng": "",
+        "pol": "starszy brat lub starsza siostra ojca lub matki"
+      }
     },
     {
       "phrase": "cô",
-      "transcription": "",
-      "grammar": "",
-      "translation": "ciotka; pani",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "do dorosłej kobiety"
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ciotka; pani"
+      },
+      "note": {
+        "eng": "",
+        "pol": "do dorosłej kobiety"
+      }
     },
     {
       "phrase": "chú",
-      "transcription": "",
-      "grammar": "",
-      "translation": "wujek",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "młodszy brat ojca"
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wujek"
+      },
+      "note": {
+        "eng": "",
+        "pol": "młodszy brat ojca"
+      }
     },
     {
       "phrase": "cậu",
-      "transcription": "",
-      "grammar": "",
-      "translation": "wujek",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "młodszy brat matki"
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wujek"
+      },
+      "note": {
+        "eng": "",
+        "pol": "młodszy brat matki"
+      }
     },
     {
       "phrase": "dì",
-      "transcription": "",
-      "grammar": "",
-      "translation": "ciotka",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "młodsza siostra matki"
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ciotka"
+      },
+      "note": {
+        "eng": "",
+        "pol": "młodsza siostra matki"
+      }
     },
     {
       "phrase": "bố",
-      "transcription": "",
-      "grammar": "",
-      "translation": "ojciec",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ojciec"
+      }
     },
     {
       "phrase": "mẹ",
-      "transcription": "",
-      "grammar": "",
-      "translation": "matka",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "matka"
+      }
     },
     {
       "phrase": "anh",
-      "transcription": "",
-      "grammar": "",
-      "translation": "starszy brat; ty; pan",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "starszy brat; ty; pan"
+      }
     },
     {
       "phrase": "chị",
-      "transcription": "",
-      "grammar": "",
-      "translation": "starsza siostra; ty; pani",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "starsza siostra; ty; pani"
+      }
     },
     {
       "phrase": "em",
-      "transcription": "",
-      "grammar": "",
-      "translation": "młodszy brat; młodsza siostra",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "młodszy brat; młodsza siostra"
+      }
     },
     {
       "phrase": "con",
-      "transcription": "",
-      "grammar": "",
-      "translation": "dziecko",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziecko"
+      }
     },
     {
       "phrase": "cháu",
-      "transcription": "",
-      "grammar": "",
-      "translation": "siostrzeniec; siostrzenica; bratanek; bratanica",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "dziecko brata lub siostry"
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "siostrzeniec; siostrzenica; bratanek; bratanica"
+      },
+      "note": {
+        "eng": "",
+        "pol": "dziecko brata lub siostry"
+      }
     },
     {
       "phrase": "thầy",
-      "transcription": "",
-      "grammar": "",
-      "translation": "nauczyciel; mistrz",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nauczyciel; mistrz"
+      }
     },
     {
       "phrase": "bạn",
-      "transcription": "",
-      "grammar": "",
-      "translation": "kolega",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "w szkole"
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kolega"
+      },
+      "note": {
+        "eng": "",
+        "pol": "w szkole"
+      }
     },
     {
       "phrase": "người Anh",
-      "transcription": "",
-      "grammar": "",
-      "translation": "anglik",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "anglik"
+      }
     },
     {
       "phrase": "người Việt Nam",
-      "transcription": "",
-      "grammar": "",
-      "translation": "wietnamczyk",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wietnamczyk"
+      }
     },
     {
       "phrase": "người Pháp",
-      "transcription": "",
-      "grammar": "",
-      "translation": "francuz",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "francuz"
+      }
     },
     {
       "phrase": "người Mỹ",
-      "transcription": "",
-      "grammar": "",
-      "translation": "amerykanin",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "amerykanin"
+      }
     },
     {
       "phrase": "người Đức",
-      "transcription": "",
-      "grammar": "",
-      "translation": "niemiec",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niemiec"
+      }
     },
     {
       "phrase": "người Trung Quốc",
-      "transcription": "",
-      "grammar": "",
-      "translation": "chińczyk",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "chińczyk"
+      }
     },
     {
       "phrase": "người Nhật Bản",
-      "transcription": "",
-      "grammar": "",
-      "translation": "japończyk",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "japończyk"
+      }
     },
     {
       "phrase": "người Thái Lan",
-      "transcription": "",
-      "grammar": "",
-      "translation": "taj",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "taj"
+      }
     },
     {
       "phrase": "người Ca-na-đa",
-      "transcription": "",
-      "grammar": "",
-      "translation": "kanadyjczyk",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kanadyjczyk"
+      }
     },
     {
       "phrase": "người Úc",
-      "transcription": "",
-      "grammar": "",
-      "translation": "australijczyk",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "australijczyk"
+      }
     },
     {
       "phrase": "người Nga",
-      "transcription": "",
-      "grammar": "",
-      "translation": "rosjanin",
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rosjanin"
+      }
     }
   ]
 }

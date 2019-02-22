@@ -1,11 +1,11 @@
 {
   "meta": {
+    "status": "ready",
     "format": "language",
-    "version": 1,
-    "status": "ready"
+    "version": 1
   },
   "data": {
     "name": "Vietnamese",
-	"code": "vie"
+    "code": "vie"
   }
 }

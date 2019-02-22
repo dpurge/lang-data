@@ -5,120 +5,146 @@
   
   "required": [
     "meta",
-	"data"
+    "data"
   ],
   
   "properties": {
     "meta" : {
-	  "title": "",
-	  "description": "",
-	  "type": "object",
+      "title": "",
+      "description": "",
+      "type": "object",
   
       "required": [
         "format",
         "version",
-		"language",
-		"source",
-		"status",
-		"tags"
+        "language",
+        "source",
+        "status",
+        "tags"
       ],
-	  
-	  "properties": {
+      
+      "properties": {
         "format": {
           "description": "name of the file format",
           "type": "string",
-		  "enum": ["vocabulary"]
-		},
+          "enum": ["vocabulary"]
+        },
         "version": {
           "title": "version of the file format",
           "description": "",
           "type": "integer"
-		},
-		"language": {
+        },
+        "language": {
           "description": "ISO code of the language",
           "type": "string"
-		},
-		"source": {
+        },
+        "source": {
           "description": "source of the vocabulary contained in the file",
           "type": "string"
-		},
-		"status": {
+        },
+        "status": {
           "description": "status of the work on the file",
           "type": "string",
-		  "enum": [
-		    "pending",
-		    "ready",
-		    "hidden"
-		  ]
-		},
-		"tags": {
+          "enum": [
+            "pending",
+            "ready",
+            "hidden"
+          ]
+        },
+        "tags": {
           "title": "",
           "description": "",
           "type": "array"
-		}
-	  }
-	},
-	
+        }
+      }
+    },
+    
     "data" : {
-	  "title": "",
-	  "description": "",
-	  "type": "array",
-	  "items": {
+      "title": "",
+      "description": "",
+      "type": "array",
+      "items": {
         "title": "",
         "description": "",
-		"type": "object",
+        "type": "object",
   
       "required": [
         "phrase",
-        "transcription",
-		"grammar",
-		"translation",
-		"image",
-		"audio",
-		"video",
-		"note"
+        "category",
+        "translation"
       ],
-	  
-	  "properties": {
+      
+      "properties": {
         "phrase": {
-	      "description": "",
-	      "type": "string"
-		},
+          "description": "",
+          "type": "string"
+        },
         "transcription": {
-	      "description": "",
-	      "type": "string"
-		},
-		"grammar": {
-	      "description": "",
-	      "type": "string",
-		  "pattern": "^(N|V|Adv|Adj|interj|pref|prep|part|num|m|aux|pron|conj|ono|suf)?(\\s[a-z0-9]+)*$"
-		},
-		"translation": {
-	      "description": "",
-	      "type": "string"
-		},
-		"image": {
-	      "description": "",
-	      "type": "string",
+          "description": "",
+          "type": "string"
+        },
+        "category": {
+          "description": "",
+          "type": "object",
+          "required": ["lexical"],
+          "properties": {
+            "lexical": {
+              "type": "string",
+              "enum": [
+                "",
+                "N",
+                "V",
+                "Adv",
+                "Adj"
+              ]
+            },
+            "grammatical": {
+              "type": "object"
+            }
+          }
+        },
+        "translation": {
+          "description": "",
+          "type": "object",
+          "properties": {
+            "eng": {
+              "type": "string"
+            },
+            "pol": {
+              "type": "string"
+            }
+          }
+        },
+        "image": {
+          "description": "",
+          "type": "string",
           "pattern": "^([a-z0-9\\-]+(\\\\[a-z0-9\\-]+)*\\.svg)?$"
-		},
-		"audio": {
-	      "description": "",
-	      "type": "string",
+        },
+        "audio": {
+          "description": "",
+          "type": "string",
           "pattern": "^([a-z0-9\\-]+(\\\\[a-z0-9\\-]+)*\\.mp3)?$"
-		},
-		"video": {
-	      "description": "",
-	      "type": "string",
+        },
+        "video": {
+          "description": "",
+          "type": "string",
           "pattern": "^([a-z0-9\\-]+(\\\\[a-z0-9\\-]+)*\\.mp4)?$"
-		},
-		"note": {
-	      "description": "",
-	      "type": "string"
-		}
-	  }
-	  }
-	}
+        },
+        "note": {
+          "description": "",
+          "type": "object",
+          "properties": {
+            "eng": {
+              "type": "string"
+            },
+            "pol": {
+              "type": "string"
+            }
+          }
+        }
+      }
+      }
+    }
   }
 
 }

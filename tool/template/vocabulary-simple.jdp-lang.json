@@ -1,13 +1,11 @@
 {
   "meta": {
+    "status": "pending",
     "format": "vocabulary",
     "version": 1,
-    "language": "vie",
-    "source": "郑宝罗, 邓应烈, \"别笑! 我是越南语学习书\"",
-    "status": "pending",
-    "tags": [
-      "bx02"
-    ]
+    "language": "",
+    "source": "",
+    "tags": []
   },
   "data": [
     {
