@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk2"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "阿",
+      "transcription": "ā(āgē)",
+      "category": {
+        "lexical": "pref"
+      },
+      "translation": {
+        "eng": "prefix used before kinship terms; (brother)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "初",
+      "transcription": "chū(chūyī)",
+      "category": {
+        "lexical": "adj, pref"
+      },
+      "translation": {
+        "eng": "the first day of the lunar month",
+        "pol": ""
+      }
+    }
+  ]
+}

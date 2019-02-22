@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "必须",
+      "transcription": "bìxū",
+      "category": {
+        "lexical": "aux"
+      },
+      "translation": {
+        "eng": "must; have to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "得",
+      "transcription": "děi",
+      "category": {
+        "lexical": "aux"
+      },
+      "translation": {
+        "eng": "have to; be sure to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "该",
+      "transcription": "gāi",
+      "category": {
+        "lexical": "aux, v"
+      },
+      "translation": {
+        "eng": "should; ought to; owe; sb.'s turn",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "敢",
+      "transcription": "gǎn",
+      "category": {
+        "lexical": "aux"
+      },
+      "translation": {
+        "eng": "dare",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "会",
+      "transcription": "huì",
+      "category": {
+        "lexical": "aux, v"
+      },
+      "translation": {
+        "eng": "can; be good at; be likely to; meet",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "可能",
+      "transcription": "kěnéng",
+      "category": {
+        "lexical": "aux, n"
+      },
+      "translation": {
+        "eng": "possible; maybe; possibility; may",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "可以",
+      "transcription": "kěyǐ",
+      "category": {
+        "lexical": "aux"
+      },
+      "translation": {
+        "eng": "can; may",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "能",
+      "transcription": "néng",
+      "category": {
+        "lexical": "aux"
+      },
+      "translation": {
+        "eng": "can; be able to; be capable of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "能够",
+      "transcription": "nénggòu",
+      "category": {
+        "lexical": "aux"
+      },
+      "translation": {
+        "eng": "can; be able to; be capable of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "想",
+      "transcription": "xiǎng",
+      "category": {
+        "lexical": "v, aux"
+      },
+      "translation": {
+        "eng": "think; suppose; recall; want to; miss",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "要",
+      "transcription": "yào",
+      "category": {
+        "lexical": "aux, v"
+      },
+      "translation": {
+        "eng": "want to; wish to; must; shall; ask for",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "应该",
+      "transcription": "yīnggāi",
+      "category": {
+        "lexical": "aux"
+      },
+      "translation": {
+        "eng": "ought to; should; must",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "愿意",
+      "transcription": "yuànyì",
+      "category": {
+        "lexical": "aux, v"
+      },
+      "translation": {
+        "eng": "be willing; be ready; wish; like; want",
+        "pol": ""
+      }
+    }
+  ]
+}

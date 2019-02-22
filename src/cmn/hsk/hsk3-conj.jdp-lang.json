@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "不只",
+      "transcription": "bùzhǐ",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "not only; not merely",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "除非",
+      "transcription": "chúfēi",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "unless; barring; only if",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "等到",
+      "transcription": "děngdào",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "by the time; when",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "固然",
+      "transcription": "gùrán",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "it is true; admittedly; no doubt; indeed; certainly",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "好",
+      "transcription": "hǎo",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "so that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "何况",
+      "transcription": "hékuàng",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "let alone (used in rhetorical questions)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "即使",
+      "transcription": "jíshǐ",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "even; even if; even though; though; although",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "假如",
+      "transcription": "jiǎrú",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "if; supposing; in case; in the event that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "假若",
+      "transcription": "jiǎruò",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "if; supposing; in case; in the event that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "假使",
+      "transcription": "jiǎshǐ",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "if; supposing; in case; in the event that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "可见",
+      "transcription": "kějiàn",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "it is thus obvious that; we can see that; it shows that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "况且",
+      "transcription": "kuàngqiě",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "in addition; moreover; besides",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "免得",
+      "transcription": "miǎnde",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "so as not to; so as to avoid",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "难怪",
+      "transcription": "nánguài",
+      "category": {
+        "lexical": "v, conj"
+      },
+      "translation": {
+        "eng": "it's difficult to blame; it's hardly a surprise; no wonder",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "宁可",
+      "transcription": "nìngkě",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "would rather",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "任",
+      "transcription": "rèn",
+      "category": {
+        "lexical": "prep, conj"
+      },
+      "translation": {
+        "eng": "at will; at discretion; no matter (how, what, etc.)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "若",
+      "transcription": "ruò",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "if",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "甚至",
+      "transcription": "shènzhì",
+      "category": {
+        "lexical": "adv, conj"
+      },
+      "translation": {
+        "eng": "even; and even",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "甚至于",
+      "transcription": "shènzhìyú",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "and even; it goes so far that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "省得",
+      "transcription": "shěngde",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "so as to avoid; so as to save",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "虽",
+      "transcription": "suī",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "although; though; even if; even though",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "虽说",
+      "transcription": "suīshuō",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "although-say; although it can be said that; although",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "倘若",
+      "transcription": "tǎngròu",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "supposing; if; in case",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "要",
+      "transcription": "yào",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "if; suppose; in case; or",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "要不",
+      "transcription": "yàobù",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "if-not; otherwise; or else; or",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "要不然",
+      "transcription": "yàoburán",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "if-not-so; otherwise; or else; or",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "要不是",
+      "transcription": "yàobúshì",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "if-not-be; if the fact weren't that; hadn't; shouldn't",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "以便",
+      "transcription": "yǐbiàn",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "so as to make it convenient to; so that; in order to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "以至",
+      "transcription": "yǐzhì",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "so-to; up to; down to; so … that …",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "以致",
+      "transcription": "yǐzhì",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "so-incur; so that; as a result; consequently",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "与其",
+      "transcription": "yǔqí",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "with-such; rather than; better than",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "再说",
+      "transcription": "zàishuō",
+      "category": {
+        "lexical": "v, conj"
+      },
+      "translation": {
+        "eng": "more-say; what's more; besides; talk about sth. later",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "至于",
+      "transcription": "zhìyú",
+      "category": {
+        "lexical": "conj, adv"
+      },
+      "translation": {
+        "eng": "go-to; (go) so far as to; to such an extent; as for; as to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "总之",
+      "transcription": "zǒngzhī",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "generalize-it; in short; in brief; in a nutshell; to sum up",
+        "pol": ""
+      }
+    }
+  ]
+}

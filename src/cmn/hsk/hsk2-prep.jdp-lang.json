@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk2"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "按",
+      "transcription": "àn",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "press; push down; according to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "按照",
+      "transcription": "ànzhào",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "according to; in accordance with",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "趁",
+      "transcription": "chèn",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "avail oneself of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "对于",
+      "transcription": "duìyú",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "for; about",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "根据",
+      "transcription": "gēnjù",
+      "category": {
+        "lexical": "prep, n"
+      },
+      "translation": {
+        "eng": "base on; according to; basis; grounds",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "关于",
+      "transcription": "guānyú",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "about; on; concerning",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "将",
+      "transcription": "jiāng",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "with; by",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "较",
+      "transcription": "jiào",
+      "category": {
+        "lexical": "prep, adv"
+      },
+      "translation": {
+        "eng": "than; rather; quite",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "就",
+      "transcription": "jiù",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "with regard to; concerning; on",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "距离",
+      "transcription": "jùlí",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "away from",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "靠",
+      "transcription": "kào",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "lean; by",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "顺",
+      "transcription": "shùn",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "along",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "随",
+      "transcription": "suí",
+      "category": {
+        "lexical": "prep, v"
+      },
+      "translation": {
+        "eng": "with; follow",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "替",
+      "transcription": "tì",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "take the place of; replace; for; on behalf of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "同",
+      "transcription": "tóng",
+      "category": {
+        "lexical": "prep, conj"
+      },
+      "translation": {
+        "eng": "with; and",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "沿",
+      "transcription": "yán",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "by; along",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "以",
+      "transcription": "yǐ",
+      "category": {
+        "lexical": "prep, conj"
+      },
+      "translation": {
+        "eng": "with; because of; so as to; in order to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "由",
+      "transcription": "yóu",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "by; from",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "由于",
+      "transcription": "yóuyú",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "owing to; due to; because of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "于",
+      "transcription": "yú",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "at; on",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "与",
+      "transcription": "yǔ",
+      "category": {
+        "lexical": "prep, conj"
+      },
+      "translation": {
+        "eng": "with; and; together with",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "照",
+      "transcription": "zhào",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "shine; illuminate; according to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "至",
+      "transcription": "zhì",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "till; to; until",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "自",
+      "transcription": "zì",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "from; since",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "自从",
+      "transcription": "zìcóng",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "since",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "作为",
+      "transcription": "zuòwéi",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "regard as; take for; as",
+        "pol": ""
+      }
+    }
+  ]
+}

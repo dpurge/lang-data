@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "啊",
+      "transcription": "a",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "ah",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "吧",
+      "transcription": "ba",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "(modal particle ending a sentence)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "的",
+      "transcription": "de",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "particle to form an attribute; of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "地",
+      "transcription": "de",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "particle to form an adverbial",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "得",
+      "transcription": "de",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "particle to introduce a complement",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "等",
+      "transcription": "děng",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "and so on; etc.",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "过",
+      "transcription": "guo",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "(indicate an action in the past)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "啦",
+      "transcription": "la",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "(modal particle ending a sentence)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "了",
+      "transcription": "le",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "(modal particle ending a sentence)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "嘛",
+      "transcription": "ma",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "(modal particle expressing urging)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "吗",
+      "transcription": "ma",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "(modal particle making a question)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哪",
+      "transcription": "na",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "(modal particle ending a sentence)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "呐",
+      "transcription": "na",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "(modal particle ending a sentence)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "呢",
+      "transcription": "ne",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "(modal particle ending a question)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "呀",
+      "transcription": "ya",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "ah",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "着",
+      "transcription": "zhe",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "(indicating an action in progress)",
+        "pol": ""
+      }
+    }
+  ]
+}

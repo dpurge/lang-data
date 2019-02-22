@@ -1,0 +1,630 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "变成",
+      "transcription": "biànchéng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "change into; turn into",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "出来",
+      "transcription": "chū lái",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "come out; emerge",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "出去",
+      "transcription": "chū qù",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "go out; get out",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "出租汽车",
+      "transcription": "chūzū qìchē",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "taxi",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "除了…以外",
+      "transcription": "chúle … yǐwài",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "except; besides",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "从…到…",
+      "transcription": "cóng … dào …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "from … to …",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "从…起",
+      "transcription": "cóng … qǐ …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "from … on …",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "大声",
+      "transcription": "dà shēng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "loudly",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "得到",
+      "transcription": "dé dào",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "get; obtain; gain; receive",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…得很",
+      "transcription": "… dehěn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "very much; quite",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "对不起",
+      "transcription": "duìbuqǐ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sorry; excuse me; let down",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "发烧",
+      "transcription": "fā shāo",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "have a fever; have a temperature",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "放假",
+      "transcription": "fàng jià",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "have a holiday or vacation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…分之…",
+      "transcription": "… fēnzhī …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "for expression of a fraction number",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "贵姓",
+      "transcription": "guì xìng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "your honorable family name",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "过来",
+      "transcription": "guò lai",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "come over; come up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "过去",
+      "transcription": "guò qu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "go over; pass by",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "回来",
+      "transcription": "huí lái",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "return; come back; be back",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "回去",
+      "transcription": "huí qù",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "return; go back; be back",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…极了",
+      "transcription": "… jí le",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "extremely",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "见面",
+      "transcription": "jiàn miàn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "meet; see",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "开玩笑",
+      "transcription": "kāi wánxiào",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "joke; crack a joke; make fun of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "开学",
+      "transcription": "kāi xué",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "school begins; term starts",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "看病",
+      "transcription": "kàn bìng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "see a doctor; see a patient",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "劳驾",
+      "transcription": "láo jià",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "excuse me; may I trouble you",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "连…都(也)…",
+      "transcription": "lián … dōu (yě) …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "even",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "没关系",
+      "transcription": "méi guānxi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "never mind; it doesn't matter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "没意思",
+      "transcription": "méi yìsi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "uninteresting; dull",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "跑步",
+      "transcription": "pǎo bù",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "run",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "起床",
+      "transcription": "qǐ chuáng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "get up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "起来",
+      "transcription": "qǐ lái",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "stand up; sit up; rise to one's feet",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "请假",
+      "transcription": "qǐng jià",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ask for leave",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "请问",
+      "transcription": "qǐng wèn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Excuse me; May I ask",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "散步",
+      "transcription": "sàn bù",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "take a walk",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "上课",
+      "transcription": "shàng kè",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "attend class; give a lesson",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "上来",
+      "transcription": "shàng lái",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "come up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "上去",
+      "transcription": "shàng qu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "go up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "上学",
+      "transcription": "shàng xué",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "go to school; attend school",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "睡觉",
+      "transcription": "shuì jiào",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sleep; go to bed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "跳舞",
+      "transcription": "tiào wǔ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "dance",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "听说",
+      "transcription": "tīng shuō",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be told; hear of; hear about",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "为什么",
+      "transcription": "wèi shénme",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "why; why (or how) is it that …",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "问好",
+      "transcription": "wèn hǎo",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "send one's regards to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "握手",
+      "transcription": "wò shǒu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "shake hands; clasp hands",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "洗澡",
+      "transcription": "xǐ zǎo",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "have a bath; bathe",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "下课",
+      "transcription": "xià kè",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "finish class; get out of class",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "下来",
+      "transcription": "xià lái",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "come down",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "下去",
+      "transcription": "xià qu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "go down; descend",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一边…一边…",
+      "transcription": "yībiān … yībiān",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "at the same time; simultaneously",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一…就…",
+      "transcription": "yī … jiù …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as soon as; once",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一…也…",
+      "transcription": "yī…yě…",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "an emphatic sentence structure to describe the smallest unit of the subject",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "游泳",
+      "transcription": "yóu yǒng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "swim",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "有时候",
+      "transcription": "yǒu shíhou",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sometimes",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "有意思",
+      "transcription": "yǒu yìsi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "interesting; enjoyable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "照相",
+      "transcription": "zhào xiàng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "take a picture (or photograph)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…之间",
+      "transcription": "… zhījiān",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "between",
+        "pol": ""
+      }
+    }
+  ]
+}

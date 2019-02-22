@@ -1,0 +1,1477 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "罢工",
+      "transcription": "bà gōng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "strike; walk out",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "保密",
+      "transcription": "bǎo mì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "keep secret; maintain secrecy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "报仇",
+      "transcription": "bàochóu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "revenge; avenge",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "被迫",
+      "transcription": "bèi pò",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be compelled; be forced",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不对",
+      "transcription": "bú duì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "not right; wrong; incorrect",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不见得",
+      "transcription": "bù jiàndé",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "not necessarily; not likely",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不可",
+      "transcription": "bùkě",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cannot; should not; must not",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不是  而是",
+      "transcription": "bùshì … érshì …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "not … but …",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不是  就是",
+      "transcription": "bùshì … jiùshì …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "either … or …",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不象话",
+      "transcription": "búxiànghuà",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "unreasonable; outrageous; shocking",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不在乎",
+      "transcription": "bù zàihu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "not mind; not care",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不怎么样",
+      "transcription": "bù zěnmeyàng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "not so good; not particularly good; pretty bad",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "操心",
+      "transcription": "cāo xīn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bother; worry about; take pains",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "插秧",
+      "transcription": "chā yāng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "transplant rice seedlings",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "吵架",
+      "transcription": "chǎo jià",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "quarrel; wrangle; bicker; squabble",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "成千上万",
+      "transcription": "chéng qiān shàng wàn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "thousands of; large quantity of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "吃苦",
+      "transcription": "chī kǔ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bear hardships; suffer",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "吃亏",
+      "transcription": "chī kuī",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "suffer losses; be in an unfavorable situation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "出门",
+      "transcription": "chū mén",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "go out; leave home for a long journey",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "出难题",
+      "transcription": "chū nántí",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "raise a tough question; present a difficult problem",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "出事",
+      "transcription": "chū shì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "have an accident; meet with a mishap",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "出洋相",
+      "transcription": "chū yángxiàng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "make a laughing stock of oneself",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "粗心大意",
+      "transcription": "cūxīn dàyì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "careless; inadvertent; negligent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "达成",
+      "transcription": "dá chéng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "reach (agreement); conclude (negotiation)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "打败",
+      "transcription": "dǎ bài",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "defeat; beat; be defeated",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "打架",
+      "transcription": "dǎ jià",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fight; scuffle; fistfight; tussle",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "打交道",
+      "transcription": "dǎ jiāodao",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "come into contact with; have dealings with",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "打破",
+      "transcription": "dǎ pò",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "break; smash",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "打仗",
+      "transcription": "dǎ zhàng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "go to war; make war; fight",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "打招呼",
+      "transcription": "dǎzhāohu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "notify; warn; greet sb.; say hello",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "带头",
+      "transcription": "dài tóu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be the first; take the lead",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "当家",
+      "transcription": "dāng jiā",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "manage household matters; keep house",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "当面",
+      "transcription": "dāng miàn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "face to face; in sb.'s presence",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "倒霉",
+      "transcription": "dǎo méi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be unlucky; have bad luck",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "到…为止",
+      "transcription": "dào … wéizhǐ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "up to …; up till …; until …",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "得病",
+      "transcription": "dé bìng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "get sick; fall ill; contract a disease",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "得了",
+      "transcription": "dé le",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "a remark made for an all-right situation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "得意",
+      "transcription": "dé yì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "complacent; conceited; pleased with oneself",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "订婚(定婚)",
+      "transcription": "dìng hūn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "engage (to get married); be betrothed to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "懂事",
+      "transcription": "dǒng shì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be intelligent; be sensible; be understanding",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "对…来说",
+      "transcription": "duì … láishuō",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as far as … be concerned; to … (someone)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "对得起",
+      "transcription": "duìdeqǐ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "not let down; treat sb. fairly; be worthy of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "对了",
+      "transcription": "duìle",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "by the way; oh yes",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "多劳多得",
+      "transcription": "duō láo duō dé",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "more pay for more work",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "发电",
+      "transcription": "fā diàn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "generate electricity",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "翻身",
+      "transcription": "fān shēn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "roll over; turn over (in bed); emancipate oneself",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "犯罪",
+      "transcription": "fàn zuì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "commit a crime",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "放手",
+      "transcription": "fàng shǒu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "let go; relinquish; give a free hand, go all out",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "放学",
+      "transcription": "fàng xué",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "classes are over; students leave school after classes",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "费力",
+      "transcription": "fèi lì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be strenuous; use or need to use a lot of effort",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "分工",
+      "transcription": "fēn gōng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "division of labor; divide up the work",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "赶上",
+      "transcription": "gǎn shàng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "catch up with; be in time for",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "各式各样",
+      "transcription": "gè shì gè yàng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "of all styles and types; all kinds of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "拐弯",
+      "transcription": "guǎi wānr",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "turn a corner; make a turn; change direction",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "怪不得",
+      "transcription": "guài bu de",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no wonder; so that's why; put no blame on",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "贵宾",
+      "transcription": "guì bīn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "honored guest; distinguished guest",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "恨不得",
+      "transcription": "hèn bu de",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hate that one cannot; really want to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "滑雪",
+      "transcription": "huá xuě",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ski",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "画蛇添足",
+      "transcription": "huà shé tiān zú",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ruin by adding superfluous",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "灰心",
+      "transcription": "huī xīn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "lose heart; be disheartened; be discouraged",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "汇款",
+      "transcription": "huì kuǎn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "transfer funds through a post office or bank; remittance",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "或多或少",
+      "transcription": "huò duō huò shǎo",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "more or less",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "加油",
+      "transcription": "jiā yóu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "oil; lubricate; refuel; add more gas; try harder; cheer",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "讲课",
+      "transcription": "jiǎng kè",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "teach; lecture; prelect",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "尽力",
+      "transcription": "jìn lì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "try one's best; do all one can",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "敬酒",
+      "transcription": "jìng jiǔ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "propose a toast",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "就是…也",
+      "transcription": "jiùshì … yě …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "even if … still …; even though … yet …",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "就是说",
+      "transcription": "jiù shì shuō",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "that is to say; in other words, that means",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "聚精会神",
+      "transcription": "jù jīng huì shén",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "with complete concentration; with rapt attention",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "决口",
+      "transcription": "jué kǒu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(of a dike; dam, etc.) be breached",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "开饭",
+      "transcription": "kāi fàn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "it's meal time; start to serve meals; start to eat (meal)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "开口",
+      "transcription": "kāi kǒu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "open one's mouth; start to talk; make a cutting edge",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "开幕",
+      "transcription": "kāi mù",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "raise the curtain; open; start; inaugurate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "开夜车",
+      "transcription": "kāi yèchē",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "work overtime or study at night; burn the midnight oil",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "可不是",
+      "transcription": "kě bu shì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "exactly; right; cannot agree more; tell me about it",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "留学",
+      "transcription": "liú xué",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "study abroad",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "露面",
+      "transcription": "lòu miàn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "show one's face; make an appearance; show up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "没说的",
+      "transcription": "méi shuō de",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "flawless; really good; it goes without saying; no doubt",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "拿…来说",
+      "transcription": "ná … láishuō",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "take … for example",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "闹笑话",
+      "transcription": "nào xiàohuà",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "make a fool of oneself; make a silly mistake",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "闹着玩儿",
+      "transcription": "nàozhe wánr",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "frolic; be just kidding; tease; act in a frivolous manner",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "能歌善舞",
+      "transcription": "néng gē shàn wǔ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be good at both singing and dancing",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "念书",
+      "transcription": "niànshū",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "read; study (lessons); attend a school or university",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "农贸市场",
+      "transcription": "nóngmào shìchǎng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "market of farm produce",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "碰钉子",
+      "transcription": "pèng dīngzi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be rebuffed; hit a snag; encounter hostility",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "破产",
+      "transcription": "pò chǎn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "go bankrupt; go broke; come to nothing; fall through",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "千方百计",
+      "transcription": "qiān fāng bǎi jì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "by every possible means; by hook or crook",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "忍不住",
+      "transcription": "rěn bu zhù",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cannot help; unable to bear",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "如下",
+      "transcription": "rú xià",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as follows",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "伤脑筋",
+      "transcription": "shāng nǎojīn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "troublesome; knotty; bothersome",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "舍不得",
+      "transcription": "shě bu de",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hate to part with, spend, or use; grudge; begrudge",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "摄影",
+      "transcription": "shè yǐng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "take a photo; shoot a film",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "生病",
+      "transcription": "shēng bìng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "get sick; fall ill; contract a disease",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "使劲",
+      "transcription": "shǐ jìn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "use strength; exert all one's strength; make efforts",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "售货",
+      "transcription": "shòu huò",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sell goods",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "说服",
+      "transcription": "shuō fú",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "talk to convince; talk over; persuade; convince;",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "四面八方",
+      "transcription": "sì miàn bā fāng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "four sides and eight directions; in every direction",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "送礼",
+      "transcription": "sòng lǐ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "give-gift; give a gift; present a gift to sb.",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "算术",
+      "transcription": "suàn shù",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "count-number; count; hold; be valid",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "叹气",
+      "transcription": "tàn qì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sigh (a breath); sigh; have a sigh",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "通信",
+      "transcription": "tōng xìn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "communicate-letter; correspond; communicate by letter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "万古长青",
+      "transcription": "wàn gǔ cháng qīng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "thousands-age-ever-green; remain fresh forever",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "无产阶级",
+      "transcription": "wúchǎn jiējí",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no-property-rank-level; proletariat; working class",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "无法",
+      "transcription": "wú fǎ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no-way; have no way; be incapable; be unable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "无可奈何",
+      "transcription": "wú kě nàihé",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "nothing-could-make-what; be helpless",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "无论如何",
+      "transcription": "wúlùn rúhé",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no-matter-like-what; in any case; in any event; at any rate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "消毒",
+      "transcription": "xiāo dú",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "remove-poison; disinfect; sterilize; sanitize",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "兴高采烈",
+      "transcription": "xìng gāo cǎi liè",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "spirits-high-mood-ardent; be in high spirits; be raptured",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一面…一面",
+      "transcription": "yīmiàn … yīmiàn …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one-side … one-side …; at the same time",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一系列",
+      "transcription": "yīxìliè",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one-system-line; a series of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一下儿",
+      "transcription": "yīxià",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one-time; in a short while; all of a sudden; all at once",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "用心",
+      "transcription": "yòng xīn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "use-heart; attentively; intently; diligently",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "有两下子",
+      "transcription": "yǒu liǎng xiàzi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "have-two-feats; know a few tricks of the trade",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "愈…愈…",
+      "transcription": "yù … yù …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the more … the more …",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "增产",
+      "transcription": "zēng chǎn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "increase-production; increase production",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "招手",
+      "transcription": "zhāo shǒu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wave-hand; beckon; wave one's hand as a signal",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "着凉",
+      "transcription": "zháo liáng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "suffer-cold; catch a cold; catch a chill",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "这样一来",
+      "transcription": "zhèyàng yī lái",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "this-way-ever-since; in this way; in such a case; thus",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "真是",
+      "transcription": "zhēn shi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "really-be; really; indeed; what a shame; too bad",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "整风",
+      "transcription": "zhěng fēng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "rectify-style; rectify incorrect styles of work or thinking",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "正当",
+      "transcription": "zhèng dāng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "just-when; just when; just as; just the time for",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "知识分子",
+      "transcription": "zhīshi fènzǐ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "knowledge-realization-member-person; intellectual",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…之类",
+      "transcription": "zhīlèi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(someone or sth.)'s-sort; and so on; and the like",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…之内",
+      "transcription": "zhīnèi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(sth.)'s-interior; inside of; interior of; within",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…之外",
+      "transcription": "zhīwài",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(sth.)'s-exterior; outside of; exterior of; beyond",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "转弯",
+      "transcription": "zhuǎn wān",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "turn-corner; turn a corner; change one's point of view",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "自始至终",
+      "transcription": "zī shǐ zhì zhōng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "from-beginning-to-end; from start to finish",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "自相矛盾",
+      "transcription": "zì xiāng máodùn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "self-mutually-spear-shield; self-contradiction",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "自言自语",
+      "transcription": "zì yán zì yǔ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "self-talk-self-say; talk to oneself",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "总而言之",
+      "transcription": "zǒng ér yán zhī",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "generalize-and-say-it; in short; in brief; in a nutshell",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "走后门儿",
+      "transcription": "zǒu hòuménr",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "walk-back-door; gain advantages through connection",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "走弯路",
+      "transcription": "zǒu wānlù",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "walk-roundabout-way; go in a roundabout way; detour",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "作战",
+      "transcription": "zuò zhàn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "do-battle; engage in a battle; fight; battle; campaign",
+        "pol": ""
+      }
+    }
+  ]
+}

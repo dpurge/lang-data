@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "家(文学家)",
+      "transcription": "jiā (wénxuéjiā)",
+      "category": {
+        "lexical": "n, m, suf"
+      },
+      "translation": {
+        "eng": "(suffix) -ist; family; home; household",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "们(朋友们)",
+      "transcription": "men (péngyoumen)",
+      "category": {
+        "lexical": "suf"
+      },
+      "translation": {
+        "eng": "(particle forming a plural pronoun)",
+        "pol": ""
+      }
+    }
+  ]
+}

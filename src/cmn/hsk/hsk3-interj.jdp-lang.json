@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "哎哟",
+      "transcription": "āiyō",
+      "category": {
+        "lexical": "interj"
+      },
+      "translation": {
+        "eng": "oh; ah",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哎",
+      "transcription": "āi",
+      "category": {
+        "lexical": "interj"
+      },
+      "translation": {
+        "eng": "alas",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "咳",
+      "transcription": "hāi",
+      "category": {
+        "lexical": "interj"
+      },
+      "translation": {
+        "eng": "an interjection to express sadness, regret, or surprise",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "呵",
+      "transcription": "hē",
+      "category": {
+        "lexical": "interj"
+      },
+      "translation": {
+        "eng": "oh; ah (to express surprise)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "噢",
+      "transcription": "ō",
+      "category": {
+        "lexical": "interj"
+      },
+      "translation": {
+        "eng": "oh (I have just noticed; I have just realized)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哦",
+      "transcription": "ò",
+      "category": {
+        "lexical": "interj"
+      },
+      "translation": {
+        "eng": "oh (that's why; now I understand)",
+        "pol": ""
+      }
+    }
+  ]
+}

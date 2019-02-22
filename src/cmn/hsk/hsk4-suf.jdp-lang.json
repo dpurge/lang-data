@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk4"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "感(安全感)",
+      "transcription": "gǎn(ānquángǎn)",
+      "category": {
+        "lexical": "suf"
+      },
+      "translation": {
+        "eng": "feeling; sense",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "界文艺界",
+      "transcription": "jiè(wényìjiè)",
+      "category": {
+        "lexical": "n, suf"
+      },
+      "translation": {
+        "eng": "group; field",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "品/纪念品",
+      "transcription": "pǐn(jìniànpǐn)",
+      "category": {
+        "lexical": "v, suf"
+      },
+      "translation": {
+        "eng": "souvenir; momento",
+        "pol": ""
+      }
+    }
+  ]
+}

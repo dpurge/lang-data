@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk4"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "本着",
+      "transcription": "běnzhe",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "in line with",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "鉴于",
+      "transcription": "jiànyú",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "in view of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "随着",
+      "transcription": "suízhe",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "with",
+        "pol": ""
+      }
+    }
+  ]
+}

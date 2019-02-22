@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk2"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "本",
+      "transcription": "běn",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "this",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "此",
+      "transcription": "cǐ",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "this",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "大伙儿",
+      "transcription": "dàhuǒr",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "everybody",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "该",
+      "transcription": "gāi",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "this; that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "某",
+      "transcription": "mǒu",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "certain; some",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哪个",
+      "transcription": "nǎge",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "which",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哪些",
+      "transcription": "nǎxiē",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "which",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "那边",
+      "transcription": "nàbiān",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "there",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "其他",
+      "transcription": "qítā",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "other (people)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "其它",
+      "transcription": "qítā",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "other (things)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "其余",
+      "transcription": "qíyú",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "the others; the rest; the remainder",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "如何",
+      "transcription": "rúhé",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "how; what",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "什么的",
+      "transcription": "shénmede",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "and so on",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "这边",
+      "transcription": "zhèbiān",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "here; this side",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "自我",
+      "transcription": "zìwǒ",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "self; oneself",
+        "pol": ""
+      }
+    }
+  ]
+}

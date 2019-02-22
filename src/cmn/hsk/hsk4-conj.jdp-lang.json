@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk4"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "此后",
+      "transcription": "cǐhòu",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "from then; henceforth",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "反之",
+      "transcription": "fǎnzhī",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "on the contrary; whereas",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "故",
+      "transcription": "gù",
+      "category": {
+        "lexical": "n, adj, conj"
+      },
+      "translation": {
+        "eng": "reason; former; so",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "或是",
+      "transcription": "huòshi",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "or",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "即便",
+      "transcription": "jíbiàn",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "even if",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "假定",
+      "transcription": "jiǎdìng",
+      "category": {
+        "lexical": "v, conj"
+      },
+      "translation": {
+        "eng": "assume; presume",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "假设",
+      "transcription": "jiǎshè",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "in case of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "进而",
+      "transcription": "jìn'ér",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "then",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "就算",
+      "transcription": "jiùsuàn",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "even if",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "亏",
+      "transcription": "kuī",
+      "category": {
+        "lexical": "v, conj"
+      },
+      "translation": {
+        "eng": "have deficit; thanks to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "连同",
+      "transcription": "liántóng",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "and",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "宁肯",
+      "transcription": "nìngkěn",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "would rather than",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "宁愿",
+      "transcription": "nìngyuàn",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "would rather",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "要么",
+      "transcription": "yàome",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "or",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "以免",
+      "transcription": "yǐmiǎn",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "for fear; lest",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "以致于",
+      "transcription": "yǐzhìyú",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "so that",
+        "pol": ""
+      }
+    }
+  ]
+}

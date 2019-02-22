@@ -1,0 +1,1279 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk2"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "安心",
+      "transcription": "ān xīn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be relieved; feel at ease",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "半拉",
+      "transcription": "bàn lā",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "half",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "办公",
+      "transcription": "bàn gōng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "work",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "办事",
+      "transcription": "bàn shì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "do an errand",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "帮忙",
+      "transcription": "bāng máng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "help; do a favor",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "报到",
+      "transcription": "bào dào",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "report for duty; check in; register",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "报名",
+      "transcription": "bào míng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sign up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "毕业",
+      "transcription": "bì yè",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "graduate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "边…边…",
+      "transcription": "biān … biān …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "补课",
+      "transcription": "bǔ kè",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "make up a missed lesson",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不得不",
+      "transcription": "bù dé bù",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "have to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不敢当",
+      "transcription": "bù gǎndāng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "you flatter me",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不好意思",
+      "transcription": "bù hǎoyìsi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "shy; feel embarrassed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不是吗",
+      "transcription": "bù shì ma",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "isn't it",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不要紧",
+      "transcription": "bù yàojǐn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "doesn't matter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不一定",
+      "transcription": "bù yídìng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "not sure",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "吃惊",
+      "transcription": "chī jīng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be startled; be shocked",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "出口",
+      "transcription": "chū kǒu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "export",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "出席",
+      "transcription": "chū xí",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "attend; be present",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "出院",
+      "transcription": "chū yuàn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be discharged; from hospital",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "从不(没)",
+      "transcription": "cóng bù (cóng méi)",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "never",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "从…出发",
+      "transcription": "cóng … chūfā",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "set off from",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "达到",
+      "transcription": "dá dào",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "achieve; attain; reach",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "打倒",
+      "transcription": "dǎ dǎo",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "beat down",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "打针",
+      "transcription": "dǎ zhēn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "inject",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "担心",
+      "transcription": "dān xīn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "worry; feel anxious",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "当…的时候",
+      "transcription": "dāng … deshíhòu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "when",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "到底",
+      "transcription": "dào dǐ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to the end; to the finish",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "道歉",
+      "transcription": "dào qiàn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "apologize",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…的话",
+      "transcription": "… dehuà",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "if",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "动身",
+      "transcription": "dòng shēn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "leave; go on a journey",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "动手",
+      "transcription": "dòng shǒu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "begin on",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "读书",
+      "transcription": "dú shū",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "read; study",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "发言",
+      "transcription": "fā yán",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "speak; make a speech",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "放心",
+      "transcription": "fàng xīn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "set one's mind at rest; rest assured",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "非…不可",
+      "transcription": "fēi … bùkě",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "must",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "干杯",
+      "transcription": "gān bēi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "drink a toast; cheer; bottom up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "感兴趣",
+      "transcription": "gǎn xìngqù",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be interested in",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "干活儿",
+      "transcription": "gàn huór",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "do sth.",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "干吗",
+      "transcription": "gàn má",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "what? yes?",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "公用电话",
+      "transcription": "gōngyòng diànhuà",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "public phone",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "鼓舞",
+      "transcription": "gǔwǔ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "applaud",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "挂号",
+      "transcription": "guà hào",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "register",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "过年",
+      "transcription": "guò nián",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "celebrate the new year",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "毫不",
+      "transcription": "háo bù",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "not a bit",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "毫无",
+      "transcription": "háo wú",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "have no (sth.)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "滑冰",
+      "transcription": "huá bīng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "skating",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "回信",
+      "transcription": "huí xìn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "write back",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "会客",
+      "transcription": "huì kè",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "receive a visitor",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "及格",
+      "transcription": "jí gé",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "pass the exam",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "既…也…",
+      "transcription": "jì … yě …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "both … and …; as well as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "既…又…",
+      "transcription": "jì … yòu …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as well as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "加工",
+      "transcription": "jiā gōng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "process; machining; working",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "讲话",
+      "transcription": "jiǎng huà",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "speak; talk",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "接到",
+      "transcription": "jiē dào",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "receive",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "结婚",
+      "transcription": "jié hūn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "marry",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "进口",
+      "transcription": "jìn kǒu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "import; entrance",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "进一步",
+      "transcription": "jìn yí bù",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "further",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "敬礼",
+      "transcription": "jìng lǐ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "salute",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "开会",
+      "transcription": "kāi huì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hold a meeting",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "开课",
+      "transcription": "kāi kè",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "start of school",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "看不起",
+      "transcription": "kàn bu qǐ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "look down upon",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "看样子",
+      "transcription": "kàn yàngzi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "look like; seem like",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "来不及",
+      "transcription": "lái bu jí",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "there's not enough time",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "来得及",
+      "transcription": "lái de jí",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "there's still time",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "离婚",
+      "transcription": "lí hūn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "divorce",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "理发",
+      "transcription": "lǐ fà",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "haircut; hairdressing",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "力所能及",
+      "transcription": "lì suǒ néng jí",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in one's power",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "聊天儿",
+      "transcription": "liáo tiānr",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "chat",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "了不起",
+      "transcription": "liǎobuqǐ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "great; extraordinary",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "录像",
+      "transcription": "lù xiàng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "video recording",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "没错",
+      "transcription": "méi cuò",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "quite sure",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "没什么",
+      "transcription": "méi shénme",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "it doesn't matter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "没事儿",
+      "transcription": "méi shìr",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "it doesn't matter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "没用",
+      "transcription": "méi yòng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no use",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "碰见",
+      "transcription": "pèng jiàn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "meet unexpectedly; run into",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "拼命",
+      "transcription": "pīn mìng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "risk one's life; defy death",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "请客",
+      "transcription": "qǐng kè",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "invite to dinner; give a dinner party",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "伤心",
+      "transcription": "shāng xīn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sad; grievous; brokenhearted",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "上班",
+      "transcription": "shàng bān",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "go to work; be on duty",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "上当",
+      "transcription": "shàng dàng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be fooled; be taken in",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "生气",
+      "transcription": "shēng qì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "get angry; take offence",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "失业",
+      "transcription": "shī yè",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "lose one's job; unemployment",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "施工",
+      "transcription": "shī gōng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "construct; build; construction",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "实事求是",
+      "transcription": "shí shì qiú shì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be practical and realistic",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "算了",
+      "transcription": "suàn le",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "forget it",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "谈话",
+      "transcription": "tán huà",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "conversation; talk",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "听讲",
+      "transcription": "tīng jiǎng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "listen to (teacher); attend a lecture",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "吸烟(抽烟)",
+      "transcription": "xī yān (chōu yān)",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "smoke",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "下班",
+      "transcription": "xià bān",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "get off work",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一方面…一方面…",
+      "transcription": "yī fāngmiàn … yī fāngmiàn …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "on one hand … on the other hand …",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一…也",
+      "transcription": "yī … yě …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as soon as … then …",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "用不着",
+      "transcription": "yòng bu zháo",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "have no use for",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "用功",
+      "transcription": "yòng gōng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hardworking; diligent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "用力",
+      "transcription": "yòng lì",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "exert one's strength",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "有用",
+      "transcription": "yǒu yòng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "useful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "遇见",
+      "transcription": "yù jiàn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "meet; come across",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "越…越…",
+      "transcription": "yuè … yuè …",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "more … more …",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "越来越…",
+      "transcription": "yuèláiyuè",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "more and more",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "造句",
+      "transcription": "zào jù",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "make a sentence",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "展开",
+      "transcription": "zhǎn kāi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "spread out; unfold; open up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…之后",
+      "transcription": "zhī hòu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "after",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…之前",
+      "transcription": "zhī qián",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "before",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…之上",
+      "transcription": "zhī shàng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "on; above",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…之下",
+      "transcription": "zhī xià",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "under; below",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…之一",
+      "transcription": "zhī yī",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…之中",
+      "transcription": "zhī zhōng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "among; in; in the process of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "至今",
+      "transcription": "zhì jīn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "up to now; to this day; so far",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "住院",
+      "transcription": "zhù yuàn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be in hospital",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "抓紧",
+      "transcription": "zhuā jǐn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "firmly grasp; pay close attention to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "走道",
+      "transcription": "zǒu dào",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "walk",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "做客",
+      "transcription": "zuò kè",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be a guest",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "做梦",
+      "transcription": "zuò mèng",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "dream; have a dream",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "作文",
+      "transcription": "zuò wén",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "write a composition; composition",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "坐班",
+      "transcription": "zuò bān",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "work in the office in office hours",
+        "pol": ""
+      }
+    }
+  ]
+}

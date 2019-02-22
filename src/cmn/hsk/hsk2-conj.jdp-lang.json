@@ -1,0 +1,465 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk2"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "便",
+      "transcription": "biàn",
+      "category": {
+        "lexical": "adv, conj"
+      },
+      "translation": {
+        "eng": "then; in that case; even if",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "并",
+      "transcription": "bìng",
+      "category": {
+        "lexical": "adv, conj"
+      },
+      "translation": {
+        "eng": "simultaneously; equally; and; moreover",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "并且",
+      "transcription": "bìngqiě",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "and; besides; moreover",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不管",
+      "transcription": "bùguǎn",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "no matter; regardless of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不过",
+      "transcription": "búguò",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "only; though",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不仅",
+      "transcription": "bùjǐn",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "not only",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不论",
+      "transcription": "búlùn",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "whether; regardless of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不然",
+      "transcription": "bùrán",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "otherwise",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "此外",
+      "transcription": "cǐwài",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "besides; moreover",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "从此",
+      "transcription": "cóngcǐ",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "from now on",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "从而",
+      "transcription": "cóng'ér",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "thus; thereby",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "但",
+      "transcription": "dàn",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "but",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "而",
+      "transcription": "ér",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "but; yet; while",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "否则",
+      "transcription": "fǒuzé",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "otherwise",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "或是",
+      "transcription": "huò",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "or",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "及",
+      "transcription": "jí",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "and",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "既",
+      "transcription": "jì",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "though; not only",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "既然",
+      "transcription": "jìrán",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "since; as; now that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "加以",
+      "transcription": "jiāyǐ",
+      "category": {
+        "lexical": "v, conj"
+      },
+      "translation": {
+        "eng": "(used to invert the sentence); moreover; plus",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "尽管",
+      "transcription": "jǐnguǎn",
+      "category": {
+        "lexical": "adv, conj"
+      },
+      "translation": {
+        "eng": "feel free to; though; even though; despite",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "就是",
+      "transcription": "jiùshì",
+      "category": {
+        "lexical": "adv, conj"
+      },
+      "translation": {
+        "eng": "exactly; even if",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "看来",
+      "transcription": "kànlái",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "it seems",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "可",
+      "transcription": "kě",
+      "category": {
+        "lexical": "adv, conj"
+      },
+      "translation": {
+        "eng": "(used for emphasis in a sentence); but; yet",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哪怕",
+      "transcription": "nǎpà",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "even if",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "且",
+      "transcription": "qiě",
+      "category": {
+        "lexical": "adv, conj"
+      },
+      "translation": {
+        "eng": "just; for the time being; but also",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "然而",
+      "transcription": "ránr",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "but; however",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "如",
+      "transcription": "rú",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "if",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "如果",
+      "transcription": "rúguǒ",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "if; in case; in the event of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "同",
+      "transcription": "tóng",
+      "category": {
+        "lexical": "prep, conj"
+      },
+      "translation": {
+        "eng": "with; and",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "同样",
+      "transcription": "tóngyàng",
+      "category": {
+        "lexical": "adj, conj"
+      },
+      "translation": {
+        "eng": "similar; same; equal; similarly",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "无论",
+      "transcription": "wúlùn",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "no matter what",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "以",
+      "transcription": "yǐ",
+      "category": {
+        "lexical": "prep, conj"
+      },
+      "translation": {
+        "eng": "with; because of; so as to; in order to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "以及",
+      "transcription": "yǐjí",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "as well as; along with; and",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "因此",
+      "transcription": "yīncǐ",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "therefore; thus; consequently",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "因而",
+      "transcription": "yīn'ér",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "thus; as a result",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "于是",
+      "transcription": "yúshì",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "as a result; thereupon",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "与",
+      "transcription": "yǔ",
+      "category": {
+        "lexical": "prep, conj"
+      },
+      "translation": {
+        "eng": "with; and; together with",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "则",
+      "transcription": "zé",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "then; in that case",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "只是",
+      "transcription": "zhǐshì",
+      "category": {
+        "lexical": "adv, conj"
+      },
+      "translation": {
+        "eng": "only; merely; simply; but",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "只要",
+      "transcription": "zhǐyào",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "so long as; provided",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "只有",
+      "transcription": "zhǐyǒu",
+      "category": {
+        "lexical": "adv, conj"
+      },
+      "translation": {
+        "eng": "alone; only",
+        "pol": ""
+      }
+    }
+  ]
+}

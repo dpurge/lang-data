@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk4"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "而已",
+      "transcription": "éryǐ",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "nothing more",
+        "pol": ""
+      }
+    }
+  ]
+}

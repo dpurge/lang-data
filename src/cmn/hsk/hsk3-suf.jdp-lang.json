@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "长",
+      "transcription": "zhǎng",
+      "category": {
+        "lexical": "suf"
+      },
+      "translation": {
+        "eng": "chief; head; chief (secretary-general)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "者(爱好者)",
+      "transcription": "zhě",
+      "category": {
+        "lexical": "n, suf"
+      },
+      "translation": {
+        "eng": "one who; -er; -ist; (fan; fancier; lover; enthusiast)",
+        "pol": ""
+      }
+    }
+  ]
+}

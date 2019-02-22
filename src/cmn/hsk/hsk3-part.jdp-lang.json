@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "般",
+      "transcription": "bān",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "kind; sort; way; -like",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "喽",
+      "transcription": "lou",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "modal particle to suggest the completion of an action",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "…似的",
+      "transcription": "… shìde",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "as if; -like; as … as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "是非",
+      "transcription": "shìfēi",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "yes; right; that's it",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哟",
+      "transcription": "yo",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "(used in a sentence to express an imperative tone)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "之",
+      "transcription": "zhī",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "(used to connect the modifier and the noun modified)",
+        "pol": ""
+      }
+    }
+  ]
+}

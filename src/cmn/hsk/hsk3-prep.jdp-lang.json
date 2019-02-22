@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "冲",
+      "transcription": "chòng",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "face; be towards; towards; to; because of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "除",
+      "transcription": "chú",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "besides; in addition to; except",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "打",
+      "transcription": "dǎ",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "from; since",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "据",
+      "transcription": "jù",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "occupy; hold; rely on; depend on; according to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "距",
+      "transcription": "jù",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "from",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "凭",
+      "transcription": "píng",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "rely on; depend on; lean on; with",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "任",
+      "transcription": "rèn",
+      "category": {
+        "lexical": "prep, conj"
+      },
+      "translation": {
+        "eng": "at will; at discretion; no matter (how, what, etc.)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "依照",
+      "transcription": "yīzhào",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "comply-follow; according to; in the light of",
+        "pol": ""
+      }
+    }
+  ]
+}

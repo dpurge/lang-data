@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk4"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "重",
+      "transcription": "chóng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "layer",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "担",
+      "transcription": "dàn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "dàn",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "栋",
+      "transcription": "dòng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for building",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "公尺",
+      "transcription": "gōngchǐ",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "meter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "公分",
+      "transcription": "gōngfēn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "centimeter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "具",
+      "transcription": "jù",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "卡",
+      "transcription": "kǎ",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "block; calorie",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "立方米",
+      "transcription": "lìfāngmǐ",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "cubic meter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "枚",
+      "transcription": "méi",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for medal",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "千瓦",
+      "transcription": "qiānwǎ",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "kilowatt",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "尾",
+      "transcription": "wěi",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "tail",
+        "pol": ""
+      }
+    }
+  ]
+}

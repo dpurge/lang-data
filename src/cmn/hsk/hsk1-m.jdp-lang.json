@@ -1,0 +1,663 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "把",
+      "transcription": "bǎ",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "bunch",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "班",
+      "transcription": "bān",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "class; team",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "杯",
+      "transcription": "bēi",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "cup; glass",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "倍",
+      "transcription": "bèi",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "times; -fold",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "本",
+      "transcription": "běn",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "book; root; capital",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "笔",
+      "transcription": "bǐ",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "pen; pencil",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "遍",
+      "transcription": "biàn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "time",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "层",
+      "transcription": "céng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "layer; story",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "场",
+      "transcription": "chǎng",
+      "category": {
+        "lexical": "m, n"
+      },
+      "translation": {
+        "eng": "field; scene",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "次",
+      "transcription": "cì",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "time",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "道",
+      "transcription": "dào",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "road; doctrine; speak; say",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "点",
+      "transcription": "diǎn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "a little; point",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "段",
+      "transcription": "duàn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "segment; period; paragraph",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "顿",
+      "transcription": "dùn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "used for meals or scolding",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "分",
+      "transcription": "fēn",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "minute; point; mark; a money unit",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "封",
+      "transcription": "fēng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "for letters",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "个",
+      "transcription": "gè",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(a general measure word)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "根",
+      "transcription": "gēn",
+      "category": {
+        "lexical": "m, n"
+      },
+      "translation": {
+        "eng": "root; foot; base; origin",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "公斤",
+      "transcription": "gōngjīn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "kilogram",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "公里",
+      "transcription": "gōnglǐ",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "kilometer",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "号",
+      "transcription": "hào",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "number; date",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "回",
+      "transcription": "huí",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(for times of an event or action)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "家(文学家)",
+      "transcription": "jiā (wénxuéjiā)",
+      "category": {
+        "lexical": "n, m, suf"
+      },
+      "translation": {
+        "eng": "(suffix) -ist; family; home; household",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "间",
+      "transcription": "jiān",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(measure word for rooms)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "件",
+      "transcription": "jiàn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(measure word for clothes, affairs)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "角",
+      "transcription": "jiǎo",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "one tenth of one RMB Yuan",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "节",
+      "transcription": "jié",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "festival; section; length",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "斤",
+      "transcription": "jīn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "half a kilogram",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "句",
+      "transcription": "jù",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(measure word for sentences)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "棵",
+      "transcription": "kē",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(measure word for plants)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "克",
+      "transcription": "kè",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "gram",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "刻",
+      "transcription": "kè",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "a quarter of an hour; carve; cut",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "口",
+      "transcription": "kǒu",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "mouth; (measure word for people)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "块",
+      "transcription": "kuài",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "piece; Yuan (the basic RMB unit)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "里",
+      "transcription": "lǐ",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "half a kilometer",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "辆",
+      "transcription": "liàng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(measure word for vehicles)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "毛",
+      "transcription": "máo",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "one tenth of one RMB Yuan",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "门",
+      "transcription": "mén",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "entrance; door; gate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "米(公尺)",
+      "transcription": "mǐ(gōngchǐ)",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "meter (measure word for lengths)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "篇",
+      "transcription": "piān",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(measure word for articles)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "片",
+      "transcription": "piàn",
+      "category": {
+        "lexical": "m, n"
+      },
+      "translation": {
+        "eng": "(measure word for pieces of things)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "瓶",
+      "transcription": "píng",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "(measure word for bottles)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "声",
+      "transcription": "shēng",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "(measure word for sound); sound",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "双",
+      "transcription": "shuāng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "pair; twin; dual; double; di-; bi-",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "岁",
+      "transcription": "suì",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "years old (for a person's age)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "条",
+      "transcription": "tiáo",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "strip (measure word for long things)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "头",
+      "transcription": "tóu",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "first; leading",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "位",
+      "transcription": "wèi",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(measure word for people of status)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "下",
+      "transcription": "xià",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(measure word for times of an action)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "些",
+      "transcription": "xiē",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(measure word for unspecified amount)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "页",
+      "transcription": "yè",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "page",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一下儿",
+      "transcription": "yīxià",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "one time; once; a little while",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一些",
+      "transcription": "yīxiē",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "a number of; certain; a few; a little",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "元",
+      "transcription": "yuán",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "Yuan (used for money)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "张",
+      "transcription": "zhāng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "piece",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "只",
+      "transcription": "zhī",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(measure word for one of a pair)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "支",
+      "transcription": "zhī",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(measure word for stick-like things)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "种",
+      "transcription": "zhǒng",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "kind; type; sort; breed; race; strain",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "座",
+      "transcription": "zuò",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "(measure word for cities and so on)",
+        "pol": ""
+      }
+    }
+  ]
+}

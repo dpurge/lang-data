@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk4"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "捌",
+      "transcription": "bā",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "eight",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "贰",
+      "transcription": "èr",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "two",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "玖",
+      "transcription": "jiǔ",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "nine",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "陆",
+      "transcription": "liù",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "six",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "柒",
+      "transcription": "qī",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "seven",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "叁",
+      "transcription": "sān",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "three",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "拾",
+      "transcription": "shí",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "ten",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "肆",
+      "transcription": "sì",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "four",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "伍",
+      "transcription": "wǔ",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "five",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "壹",
+      "transcription": "yī",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "one",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "亿万",
+      "transcription": "yìwàn",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "hundreds of millions",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "兆",
+      "transcription": "zhào",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "mega",
+        "pol": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,3391 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "安",
+      "transcription": "ān",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "settle; stabilize; settled; stable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "安定",
+      "transcription": "āndìng",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "stable; stabilize",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "棒",
+      "transcription": "bàng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "good; strong",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "保守",
+      "transcription": "bǎoshǒu",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "guard; keep; conservative",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "保险",
+      "transcription": "bǎoxiǎn",
+      "category": {
+        "lexical": "adj, n"
+      },
+      "translation": {
+        "eng": "safe; be sure; insurance",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "悲哀",
+      "transcription": "bēi'āi",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "sad; sorrowful; grieved",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "悲观",
+      "transcription": "bēiguān",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "pessimistic",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "被动",
+      "transcription": "bèidòng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "passive",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "便利",
+      "transcription": "biànlì",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "convenient; easy; facilitate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "薄弱",
+      "transcription": "bóruò",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "weak; frail",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不安",
+      "transcription": "bù'ān",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "uneasy; disturbed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不够",
+      "transcription": "búgòu",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "not enough; insufficient; inadequate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不利",
+      "transcription": "búlì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "disadvantageous; unfavorable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不满",
+      "transcription": "bùmǎn",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "be dissatisfied; be unsatisfied; unsatisfied",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不足",
+      "transcription": "bùzú",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "not enough; insufficient; inadequate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "残酷",
+      "transcription": "cánkù",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "cruel; brutal",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "惭愧",
+      "transcription": "cánkuì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "ashamed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "惨",
+      "transcription": "cǎn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "miserable; tragic; cruel; inhumane",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "灿烂",
+      "transcription": "cànlàn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "bright; splendid; brilliant; magnificent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "苍白",
+      "transcription": "cāngbái",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "pale; wan; pallid",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "长久",
+      "transcription": "chángjiǔ",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "long-lasting; long time; prolonged",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "长远",
+      "transcription": "chángyuǎn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "long-distant; long-term; long-range",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "潮湿",
+      "transcription": "cháoshī",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "wet; humid; damp; moist",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "沉",
+      "transcription": "chén",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "sink; heavy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "沉重",
+      "transcription": "chénzhòng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "heavy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "吃力",
+      "transcription": "chīlì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "strenuous; painstaking; tiring; wearing",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "持久",
+      "transcription": "chíjiǔ",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "enduring; lasting; persistent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "迟",
+      "transcription": "chí",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "late; slow; tardy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "充实",
+      "transcription": "chōngshí",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "substantial; rich; substantiate; enrich; fill",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "丑",
+      "transcription": "chǒu",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "ugly; unsightly; bad-looking; detestable; shameful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "纯",
+      "transcription": "chún",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "pure; unmixed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "纯洁",
+      "transcription": "chúnjié",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "pure; unadulterated; purify; cleanse",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "次",
+      "transcription": "cì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "not good; inferior; second; next",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "次要",
+      "transcription": "cìyào",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "secondary; less important; subordinate; minor",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "匆忙",
+      "transcription": "cōngmáng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "hurried; hasty",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "从容",
+      "transcription": "cóngróng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "leisurely; calm; plentiful; sufficient; enough",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "粗心",
+      "transcription": "cūxīn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "careless; thoughtless",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "大方",
+      "transcription": "dàfāng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "of good taste; generous; natural and poised",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "大致",
+      "transcription": "dàzhì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "general; rough; overall",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "单纯",
+      "transcription": "dānchún",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "simple; pure; uncomplicated",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "单独",
+      "transcription": "dāndú",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "alone; lone; solitary",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "地道",
+      "transcription": "dìdao",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "genuine; real; authentic; pure; up to standard",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "典型",
+      "transcription": "diǎnxíng",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "typical case; model; typical; representative",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "陡",
+      "transcription": "dǒu",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "steep; precipitous",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "毒",
+      "transcription": "dú",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "poisonous; toxic; malicious; cruel; poison",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "独特",
+      "transcription": "dútè",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "unique; distinctive; original",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "端正",
+      "transcription": "duānzhèng",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "upright; regular; balanced; correct; rectify",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "多余",
+      "transcription": "duōyú",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "unnecessary; needless; uncalled for; surplus",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "恶",
+      "transcription": "è",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "bad; evil; criminal; wicked; vicious; ruthless",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "恶劣",
+      "transcription": "èliè",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "very bad; vile; abominable; odious; disgusting",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "烦",
+      "transcription": "fán",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "vexed; annoyed; trouble; be tired of; be fed up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "反",
+      "transcription": "fǎn",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "opposite; rebellious; oppose; return; reverse; rebel",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "非",
+      "transcription": "fēi",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "wrong; mistaken; erroneous; non-",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "飞快",
+      "transcription": "fēikuài",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "swiftly; very fast; rapid; extremely sharp",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "废",
+      "transcription": "fèi",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "useless; disused; waste; abandon; abolish; ruin",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "分明",
+      "transcription": "fēnmíng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "clear; distinct; obvious; plain",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "分散",
+      "transcription": "fēnsàn",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "distract; divert; decentralize; disperse; distribute",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "疯",
+      "transcription": "fēng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "crazy; mad; insane; deranged",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "疯狂",
+      "transcription": "fēngkuáng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "crazy; maniac; mad; wild; frenzied; unbridled",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "腐朽",
+      "transcription": "fǔxiǔ",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "rotten; decayed; moldering; degenerate; decadent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "富有",
+      "transcription": "fùyǒu",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "wealthy; rich; affluent; be rich in; be full of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "富裕",
+      "transcription": "fùyù",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "prosperous; well-to-do; well-off; rich",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "干旱",
+      "transcription": "gānhàn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "arid; droughty; dry",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "甘",
+      "transcription": "gān",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "sweet; pleasant",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "高等",
+      "transcription": "gāoděng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "higher; advanced",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "高级",
+      "transcription": "gāojí",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "higher-grade; high-quality; advanced; high-ranking",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "高尚",
+      "transcription": "gāoshàng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "noble; lofty; sublime",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "高速",
+      "transcription": "gāosù",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "high-speed; express; rapid",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "公",
+      "transcription": "gōng",
+      "category": {
+        "lexical": "adj, n"
+      },
+      "translation": {
+        "eng": "public; common; fair; public affairs; official business",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "孤立",
+      "transcription": "gūlì",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "isolated; isolate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "古典",
+      "transcription": "gǔdiǎn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "classical",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "固定",
+      "transcription": "gùdìng",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "fixed; regular; predetermined; fix; fasten; regularize",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "乖",
+      "transcription": "guāi",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "obedient; well-behaved; good; clever; shrewd; lovely",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "惯",
+      "transcription": "guàn",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "used to; conditioned to; habitual; indulge; spoil",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "光彩",
+      "transcription": "guāngcǎi",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "luster; splendor; brilliance; gloss; honorable; glorious",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "光滑",
+      "transcription": "guānghuá",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "smooth; sleek; glossy; slippery",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "广",
+      "transcription": "guǎng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "wide; broad; vast; extensive; numerous",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "规矩",
+      "transcription": "guīju",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "rule; manner; custom; decent; conforming to norms",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "规则",
+      "transcription": "guīzé",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "rule; law; regulation; regular; orderly",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "国营",
+      "transcription": "guóyíng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "state-run; state-owned; state-operated",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "过分",
+      "transcription": "guòfèn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "excessive; undue; extravagant",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "含糊",
+      "transcription": "hánhu",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "ambiguous; vague; unsure; careless; perfunctory",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "旱",
+      "transcription": "hàn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "dry; droughty; not related to water",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "好奇",
+      "transcription": "hàoqí",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "curious; inquisitive",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "合法",
+      "transcription": "héfǎ",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "legal; lawful; legitimate; rightful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "合格",
+      "transcription": "hégé",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "qualified; up to standard; up to grade",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "合算",
+      "transcription": "hésuàn",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "worthwhile; be worth the cost; pay",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "狠",
+      "transcription": "hěn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "ruthless; cruel; savage",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "横",
+      "transcription": "héng",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "traverse; place sth. horizontally; crosswise; horizontal",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "宏伟",
+      "transcription": "hóngwěi",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "grand; grandiose; magnificent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "欢乐",
+      "transcription": "huānlè",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "happy; joyous; gay; delighted; cheerful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "欢喜",
+      "transcription": "huānxǐ",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "happy; joyous; gay; delighted; cheerful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "缓和",
+      "transcription": "huǎnhé",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "assuage; ease up; mitigated; relaxed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "缓慢",
+      "transcription": "huǎnmàn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "slow; sluggish; tardy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "荒",
+      "transcription": "huāng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "waste; desolate; barren; unreasonable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "慌忙",
+      "transcription": "huāngmáng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "hurried; hasty; rash; flustered and busy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "辉煌",
+      "transcription": "huīhuáng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "splendid; brilliant; glorious",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "昏",
+      "transcription": "hūn",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "lose consciousness; muddle; muddled; dark; dim",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "混乱",
+      "transcription": "hùnluàn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "disorderly; chaotic; unorganized; promiscuous",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "活",
+      "transcription": "huó",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "lifelike; living; alive; vivid; lively; movable; flexible",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "机动",
+      "transcription": "jīdòng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "engine-driven; power-driven; motorized",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "饥饿",
+      "transcription": "jī'è",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "hungry; starving",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "极端",
+      "transcription": "jíduān",
+      "category": {
+        "lexical": "adj, n"
+      },
+      "translation": {
+        "eng": "utter; extreme; extremity",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "急躁",
+      "transcription": "jízào",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "impatient; impetuous; irritable; irascible",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "寂寞",
+      "transcription": "jìmò",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "lonely; lonesome; quiet; still; silent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "佳",
+      "transcription": "jiā",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "excellent; good; fine; beautiful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "坚固",
+      "transcription": "jiāngù",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "solid; firm; sturdy; strong; impregnable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "坚硬",
+      "transcription": "jiányìng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "hard; stony; solid",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "艰难",
+      "transcription": "jiānnán",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "hard; difficult; arduous",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "简便",
+      "transcription": "jiǎnbiàn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "simple and convenient; easy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "贱",
+      "transcription": "jiàn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "cheap; inexpensive; lowly; humble; despicable; base",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "健全",
+      "transcription": "jiànquán",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "healthy and complete; sound; perfect",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "僵",
+      "transcription": "jiāng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "stiff; rigid; inflexible; numb; deadlocked",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "讲究",
+      "transcription": "jiǎngjiu",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "be particular about; exquisite; tasteful; elegant",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "焦急",
+      "transcription": "jiāojí",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "anxious; worried; agitated; impatient",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "狡猾",
+      "transcription": "jiǎohuá",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "sly; cunning; tricky; foxy; crafty",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "洁白",
+      "transcription": "jiébái",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "pure white; spotlessly white",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "紧急",
+      "transcription": "jǐnjí",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "urgent; pressing; exigent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "紧密",
+      "transcription": "jǐnmì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "close and dense; close; inseparable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "紧俏",
+      "transcription": "jìnqiào",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "sought-after; in shortage due to great demand",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "谨慎",
+      "transcription": "jǐnshèn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "cautious; prudent; circumspect; careful; mindful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "惊奇",
+      "transcription": "jīngqí",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "amazed; astonished; surprised; shocking strange",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "惊人",
+      "transcription": "jīngrén",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "astonishing; amazing; alarming; shocking",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "惊讶",
+      "transcription": "jīngyà",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "surprised; astonished; astounded; amazed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "惊异",
+      "transcription": "jīngyì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "surprised; astonished; astounded; amazed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "精",
+      "transcription": "jīng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "perfect; excellent; refined; selected; smart; intensive",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "精神",
+      "transcription": "jīngshén",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "vigorous; spirited; lively; spunky; smart",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "精细",
+      "transcription": "jīngxì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "fine; meticulous; careful; precise and detailed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "精致",
+      "transcription": "jīngzhì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "fine; exquisite; delicate; refined",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "净",
+      "transcription": "jìng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "clean; net",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "剧烈",
+      "transcription": "jùliè",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "acute; violent; severe",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "绝",
+      "transcription": "jué",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "unique; superb; desperate; hopeless; exhausted",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "均",
+      "transcription": "jūn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "equal; even",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "均匀",
+      "transcription": "jūnyún",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "even; uniform; well-distributed; regularly-paced",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "可惜",
+      "transcription": "kěxī",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "regrettable; it's a pity that; it's too bad that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "可笑",
+      "transcription": "kěxiào",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "laughable; ridiculous; absurd; funny",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "客观",
+      "transcription": "kèguān",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "objectivity; objective",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "恐怖",
+      "transcription": "kǒngbù",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "fearful; horrifying; horrible; terrifying; terrible",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "空",
+      "transcription": "kòng",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "vacate; leave empty or blank; vacant; unoccupied",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "口头",
+      "transcription": "kǒutóu",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "oral; spoken; verbal",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "枯",
+      "transcription": "kū",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "withered; shriveled; faded; wilted; dried-up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "快活",
+      "transcription": "kuàihuo",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "cheerful; happy; merry",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "宽阔",
+      "transcription": "kuānkuò",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "wide; broad",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "狂",
+      "transcription": "kuáng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "overbearing; mad; wild; violent; unconstrained",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "阔",
+      "transcription": "kuò",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "wide; broad; vast; rich; wealthy; extravagant",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "辣",
+      "transcription": "là",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "spicy; hot; peppery; pungent; vicious; ruthless",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "牢",
+      "transcription": "láo",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "firm; fast; durable; secure",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "牢固",
+      "transcription": "láogù",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "solid; strong; firm; secure",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "类似",
+      "transcription": "lèisì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "similar; analogous",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "冷静",
+      "transcription": "lěngjìng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "quiet; calm; sober; cool",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "楞",
+      "transcription": "lèng",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "be startled out of one's wit; rash; brash; imprudent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "流行",
+      "transcription": "liúxíng",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "prevail; be in vogue; popular; fashionable; prevalent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "漫长",
+      "transcription": "màncháng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "very long; endless",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "盲目",
+      "transcription": "mángmù",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "blind; lack of knowledge, understanding, and so on",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "美观",
+      "transcription": "měiguān",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "pleasing to the eye; artistic; (of things) beautiful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "闷",
+      "transcription": "mèn",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "stuffy; cover tightly; keep silent; shut oneself in",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "闷",
+      "transcription": "mèn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "bored; depressed; in low spirits; muffled",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "猛",
+      "transcription": "měng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "brave; violent; fierce; energetic; vigorous",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "猛烈",
+      "transcription": "měngliè",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "fierce; violent; vigorous",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "迷糊",
+      "transcription": "míhu",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "confused; dazed; muddle-headed; unconscious",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "勉强",
+      "transcription": "miǎnqiǎng",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "barely enough; reluctant; force sb. to do sth.; manage",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "民用",
+      "transcription": "mínyòng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "civil; for civil use",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "敏捷",
+      "transcription": "mǐnjié",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "quick; nimble; agile",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "明白",
+      "transcription": "míngbai",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "clear; plain; explicit; sensible; understand; see; know",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "模范",
+      "transcription": "mófàn",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "exemplary thing or person; fine example; exemplary",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "模糊",
+      "transcription": "móhu",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "blurred; indistinct; dim; vague; unclear",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "陌生",
+      "transcription": "mòshēng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "strange; unfamiliar",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "耐烦",
+      "transcription": "nàifán",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "patient; composed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "难得",
+      "transcription": "nándé",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "difficult to get; hard to come by; rare; seldom",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "嫩",
+      "transcription": "nèn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "tender; delicate; rare; underdone; light; pale; callow",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "能",
+      "transcription": "néng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "capable; able",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "怒",
+      "transcription": "nù",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "angry; raging; forceful; vigorous; dynamic; vehement",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "偶然",
+      "transcription": "ǒurán",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "accidental; fortuitous; unexpected",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "蓬勃",
+      "transcription": "péngbó",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "vigorous; flourishing; burgeoning",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "疲倦",
+      "transcription": "píjuàn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "tired and sleepy; weary; fatigued",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "偏",
+      "transcription": "piān",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "inclined to one side; off-center; off-target; off-standard",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "贫苦",
+      "transcription": "pínkǔ",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "poor and bitter; destitute; lacking living materials",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "贫穷",
+      "transcription": "pínqióng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "poor; impoverished; lacking a means of production",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "平凡",
+      "transcription": "píngfán",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "common; commonplace; ordinary; trivial",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "平衡",
+      "transcription": "pínghéng",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "balanced; balance; equilibrium",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "平行",
+      "transcription": "píngxíng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "parallel; simultaneous; concurrent; at the same level",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "破烂",
+      "transcription": "pòlàn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "broken and rotten; ragged; worn-out; tattered",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "普及",
+      "transcription": "pǔjí",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "popularize; make sth. a commonplace; prevalent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "气愤",
+      "transcription": "qìfèn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "angry and resentful; indignant; furious",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "恰当",
+      "transcription": "qiàdàng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "suitable; proper; appropriate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "谦虚",
+      "transcription": "qiānxū",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "modest; self-effacing; make modest remarks",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "切实",
+      "transcription": "qièshí",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "realistic; practical; based on reality; in real earnest",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "亲",
+      "transcription": "qīn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "close; intimate; dear; related by blood",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "亲热",
+      "transcription": "qīnrè",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "intimate; warm; affectionate; loving",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "勤劳",
+      "transcription": "qínláo",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "hardworking; diligent; industrious; assiduous",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "清洁",
+      "transcription": "qīngjié",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "clean; unpolluted",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "清晰",
+      "transcription": "qīngxī",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "clear; distinct",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "清醒",
+      "transcription": "qīngxǐng",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "clear-headed; sober; regain consciousness; come to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "曲折",
+      "transcription": "qūzhé",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "zigzag; winding; tortuous; meandering; complicated",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "任性",
+      "transcription": "rènxìng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "self-willed; self-indulgent; headstrong; wayward",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "日用",
+      "transcription": "rìyòng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "of daily use; of everyday use",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "荣幸",
+      "transcription": "róngxìng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "honored and fortunate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "柔软",
+      "transcription": "róuruǎn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "soft; supple; lithe; limber",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "软弱",
+      "transcription": "ruǎnruò",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "soft and weak; weak; feeble; wishy-washy; infirm",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "散",
+      "transcription": "sǎn",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "come loose; fall apart; scattered; disintegrated",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "神秘",
+      "transcription": "shénmì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "mysterious; mystical",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "神气",
+      "transcription": "shénqì",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "expression; manner; spirited; vigorous; proud; cocky",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "神圣",
+      "transcription": "shénshèng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "sacred; holy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "慎重",
+      "transcription": "shènzhòng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "careful; cautious; prudent; discreet",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "湿润",
+      "transcription": "shīrùn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "moist; damp; humid",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "事宜",
+      "transcription": "shìyí",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "suitable; fit; appropriate; just right",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "舒畅",
+      "transcription": "shūchàng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "comfortable and happy; pleased and satisfied",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "衰弱",
+      "transcription": "shuāiruò",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "weak; feeble; weakened",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "双",
+      "transcription": "shuāng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "two; both; twin; dual; double; twofold; even",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "顺",
+      "transcription": "shùn",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "smooth; put in order; be agreeable to; yield to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "顺手",
+      "transcription": "shùnshǒu",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "smooth and handy; convenient; without difficulty",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "私有",
+      "transcription": "sīyǒu",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "privately owned; private",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "丝毫",
+      "transcription": "sīháo",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "very little; of the slightest amount or degree",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "死",
+      "transcription": "sǐ",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "dead; fixed; rigid; deadly; implacable; impassable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "踏实",
+      "transcription": "tāshi",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "step-solid; down-to-earth; anxiety-free",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "特",
+      "transcription": "tè",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "special; particular; extraordinary",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "体面",
+      "transcription": "tǐmiàn",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "decent-face; dignity; honorable; creditable; handsome",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "天然",
+      "transcription": "tiānrán",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "naturally-formed; naturally-developed; natural",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "调皮",
+      "transcription": "tiáopí",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "playful-naughty; mischievous; disobedient; tricky",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "通常",
+      "transcription": "tōngcháng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "common-frequent; usual; general; normal",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "通顺",
+      "transcription": "tōngshùn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "logical-smooth; clear and coherent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "投机",
+      "transcription": "tóujī",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "invest-chance; congenial; opportunistic; speculate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "透明",
+      "transcription": "tòumíng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "penetrating-brightness;transparent; lucid",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "土",
+      "transcription": "tǔ",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "local; indigenous; native; crude; rustic; unfashionable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "妥当",
+      "transcription": "tuǒdang",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "sound-appropriate; proper; suitable; appropriate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "弯曲",
+      "transcription": "wānqū",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "curving-meandering; winding; zigzag; anfractuous",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "顽固",
+      "transcription": "wángù",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "unyielding-firm; stubborn; obstinate; obdurate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "顽强",
+      "transcription": "wánqiáng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "unyielding-firm; tenacious; indomitable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "完备",
+      "transcription": "wánbèi",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "whole-complete; complete; entire; perfect",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "完善",
+      "transcription": "wánshàn",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "whole-good; perfect; consummate; improve",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "微小",
+      "transcription": "wēixiǎo",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "micro-small; tiny; little; small; minute",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "委屈",
+      "transcription": "wěiqu",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "bent-distorted; grieved due to being mistreated",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "温",
+      "transcription": "wēn",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "warm; lukewarm; mild; gentle; warm up; review",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "温和",
+      "transcription": "wēnhé",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "warm-kind; temperate; moderate; mild; genial",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "污",
+      "transcription": "wū",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "dirty; filthy; foul; corrupt; smeared",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "无比",
+      "transcription": "wúbǐ",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "nothing-compare; incomparable; unsurpassed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "无情",
+      "transcription": "wúqíng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "no-feeling; unfeeling; heartless; merciless; ruthless",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "无疑",
+      "transcription": "wúyí",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "no-doubt; undoubted; beyond doubt; unquestionable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "误",
+      "transcription": "wù",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "by mistake; by accident; miss; delay; harm; damage",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "稀",
+      "transcription": "xī",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "rare; uncommon; sparse; scattered; watery; thin",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "喜悦",
+      "transcription": "xǐyuè",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "happy-pleased; joyful; joyous; delighted; cheerful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "细致",
+      "transcription": "xìzhì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "meticulous-careful; attentive to detail; rich in detail",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "下列",
+      "transcription": "xiàliè",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "below-listed; following; listed below",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "鲜明",
+      "transcription": "xiānmíng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "with bright colors and clear; vivid; distinct; distinctive",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "鲜艳",
+      "transcription": "xiānyàn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "bright-colorful; bright-colored; gaily-colored",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "咸",
+      "transcription": "xián",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "salty; salted",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "险",
+      "transcription": "xiǎn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "dangerous; perilous; sinister; vicious; venomous",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "现成",
+      "transcription": "xiànchéng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "now-made; ready-made",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "相对",
+      "transcription": "xiāngduì",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "mutually-face; face each other; be opposite; relative",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "响亮",
+      "transcription": "xiǎngliàng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "loud-bright; loud and clear; sonorous; resonant",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "消极",
+      "transcription": "ziāojí",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "eliminate-urgency; negative; passive; inactive",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "辛勤",
+      "transcription": "xīnqín",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "hardworking-diligent; industrious; hardworking",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "新生",
+      "transcription": "xīnshēng",
+      "category": {
+        "lexical": "adj, n"
+      },
+      "translation": {
+        "eng": "new-life; newborn; new; rebirth; regeneration",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "新式",
+      "transcription": "xīnshì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "new-style; new type; latest type; of a new form or rite",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "新型",
+      "transcription": "xīnxíng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "new-type; new model",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "心爱",
+      "transcription": "xīn'ài",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "heartfelt-love; loved; treasured; precious; dear",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "凶",
+      "transcription": "xiōng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "inauspicious; vicious; fierce; ferocious; brutal; terrible",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "凶恶",
+      "transcription": "xiōng'è",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "ferocious-vicious; fierce; ferocious; fiendish; vicious",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "严",
+      "transcription": "yán",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "strict; stern; tight; close; severe; heavy; extreme",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "严厉",
+      "transcription": "yánlì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "strict-severe; stern; severe; harsh; austere; stringent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "严密",
+      "transcription": "yánmì",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "close-tight; close; tight; well-conceived",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "洋",
+      "transcription": "yáng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "vast; multitudinous; foreign; Western; modern",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "遥远",
+      "transcription": "yáoyuǎn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "distant-far; faraway; remote; distant; very far",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "要好",
+      "transcription": "yàohǎo",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "want-good; on good terms; friendly to each other",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一再",
+      "transcription": "yīzài",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "always-again; time and again; again and again",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一连",
+      "transcription": "yīlián",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "in a row; in succession",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "依旧",
+      "transcription": "yījiù",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "still-before; still like before; unchanged as before",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "遗憾",
+      "transcription": "yíhàn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "remaining-regret; pity; regret",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "易",
+      "transcription": "yì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "easy; amiable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "隐约",
+      "transcription": "yǐnyuē",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "latent-sketchy; indistinct; faint (to the eye or ear)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "英明",
+      "transcription": "yīngmíng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "outstandingly-bright; brilliant; wise",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "踊跃",
+      "transcription": "yǒngyuè",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "jump-leap; vying with one another; enthusiastic; eager",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "优胜",
+      "transcription": "yōushèng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "superior-victorious; winning; victorious; superior",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "优越",
+      "transcription": "yōuyuè",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "superior-surpassing; superior; advantageous",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "犹豫",
+      "transcription": "yóuyù",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "hesitant; irresolute; undecided; unsure",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "有机",
+      "transcription": "yǒujī",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "have-organism; organic",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "有限",
+      "transcription": "yǒuxiàn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "have-limit; limited; finite; not many in number",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "有益",
+      "transcription": "yǒuyì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "have-benefit; beneficial; profitable; useful; good",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "友爱",
+      "transcription": "yǒu'ài",
+      "category": {
+        "lexical": "adj, n"
+      },
+      "translation": {
+        "eng": "friendship-love; friendly and close; friendly affection",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "幼稚",
+      "transcription": "yòuzhì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "young-childish; childish; puerile; immature; naive",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "愚蠢",
+      "transcription": "yúchǔn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "foolish-stupid; foolish; stupid; silly; unintelligent; dumb",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "冤枉",
+      "transcription": "yuānwang",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "wrong-mistreat; treat unjustly; wrong; not worthwhile",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "原始",
+      "transcription": "yuánshǐ",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "original-initial; original; firsthand; primeval; primitive",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "原先",
+      "transcription": "yuánxiān",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "original-earlier; former; original",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "圆满",
+      "transcription": "yuánmǎn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "round-full; perfect; satisfactory",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "糟",
+      "transcription": "zāo",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "rotten; decayed; in a wretched state; in a mess",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "扎实",
+      "transcription": "zhāshí",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "press-solid; sturdy; strong; robust; sound; firm",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "崭新",
+      "transcription": "zhǎnxīn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "very-new; nascent; brand new; completely new",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "珍贵",
+      "transcription": "zhēnguì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "valuable-precious; valuable; precious",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "镇静",
+      "transcription": "zhèngjìng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "calm-tranquil; calm; cool; composed; poised; unruffled",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "整",
+      "transcription": "zhěng",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "whole; entire; neat; tidy; put in order; do; repair; punish",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "正经",
+      "transcription": "zhèngjing",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "upright-normal; decent; respectable; formal; serious",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "正面",
+      "transcription": "zhèngmiàn",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "face-side; facade; the front; the right side; positive",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "正义",
+      "transcription": "zhèngyì",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "righteous-justice; righteousness; justice; just; righteous",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "忠诚",
+      "transcription": "zhōngchéng",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "loyal-honest; loyal; true; staunch; faithful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "忠实",
+      "transcription": "zhōngshí",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "loyal-dependable; faithful and trustworthy; truthful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "衷心",
+      "transcription": "zhōngxīn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "inside-heart; wholehearted; heartfelt; hearty; cordial",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "专",
+      "transcription": "zhuān",
+      "category": {
+        "lexical": "adj, n"
+      },
+      "translation": {
+        "eng": "particular; special; narrow; specialty; specialization",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "壮",
+      "transcription": "zhuàng",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "strong; robust; magnificent; grand; strengthen; augment",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "壮大",
+      "transcription": "zhuàngdà",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "strengthen; grow in strength; expand; thick and strong",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "壮丽",
+      "transcription": "zhuànglì",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "magnificent-beautiful; majestic; splendid; magnificent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "自豪",
+      "transcription": "zìháo",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "self-outstanding; proud",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "自满",
+      "transcription": "zìmǎn",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "self-satisfied; complacent; self-contented; conceited",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "自私",
+      "transcription": "zìsī",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "self-favor; selfish; self-centered; self-concerned",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "自信",
+      "transcription": "zìxìn",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "self-trust; be self-confident; be self-assured; confident",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "总",
+      "transcription": "zǒng",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "put together; assemble; total; overall; general; chief",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "足",
+      "transcription": "zú",
+      "category": {
+        "lexical": "adj"
+      },
+      "translation": {
+        "eng": "enough; sufficient; ample",
+        "pol": ""
+      }
+    }
+  ]
+}

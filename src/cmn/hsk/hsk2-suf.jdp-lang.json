@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk2"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "化(标准化)",
+      "transcription": "huà(biāozhǔnhuà)",
+      "category": {
+        "lexical": "v, suf"
+      },
+      "translation": {
+        "eng": "-ize; -ify",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "性(积极性)",
+      "transcription": "xìng(jījíxìng)",
+      "category": {
+        "lexical": "n, suf"
+      },
+      "translation": {
+        "eng": "quality (the quality of being active)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "学(社会学)",
+      "transcription": "xué(shèhuìxué)",
+      "category": {
+        "lexical": "n, suf"
+      },
+      "translation": {
+        "eng": "-ology (sociology)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "员(服务员)",
+      "transcription": "yuán(fúwùyuán)",
+      "category": {
+        "lexical": "n, suf"
+      },
+      "translation": {
+        "eng": "-er; -or; etc. (waiter, waitress)",
+        "pol": ""
+      }
+    }
+  ]
+}

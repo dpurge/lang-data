@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "呼呼",
+      "transcription": "hūhū",
+      "category": {
+        "lexical": "ono"
+      },
+      "translation": {
+        "eng": "onomatopoetic word for strong wind or heavy panting",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哗哗",
+      "transcription": "huāhuā",
+      "category": {
+        "lexical": "ono"
+      },
+      "translation": {
+        "eng": "onomatopoetic word for noisy running water",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "翁",
+      "transcription": "wēng",
+      "category": {
+        "lexical": "ono"
+      },
+      "translation": {
+        "eng": "buzz; hum; drone",
+        "pol": ""
+      }
+    }
+  ]
+}

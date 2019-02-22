@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk4"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "彼",
+      "transcription": "bǐ",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "各界",
+      "transcription": "gèjiè",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "all circles",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "何",
+      "transcription": "hé",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "which",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "那时",
+      "transcription": "nàshí",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "at that time",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "他人",
+      "transcription": "tārén",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "others",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "怎",
+      "transcription": "zěn",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "how; what",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "怎么着",
+      "transcription": "zěnmezhe",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "why",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "这么着",
+      "transcription": "zhèmezhe",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "like this; such",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "诸位",
+      "transcription": "zhūwèi",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "every one",
+        "pol": ""
+      }
+    }
+  ]
+}

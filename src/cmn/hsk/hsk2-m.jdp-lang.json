@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk2"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "包",
+      "transcription": "bāo",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "bag",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "部",
+      "transcription": "bù",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "department; measure word for movies",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "册",
+      "transcription": "cè",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "tome; book",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "尺",
+      "transcription": "chǐ",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "ruler; 1 chǐ = 0.333 meter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "寸",
+      "transcription": "cùn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "inch",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "袋",
+      "transcription": "dài",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "sack; bag; pocket",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "滴",
+      "transcription": "dī",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "drop",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "度",
+      "transcription": "dù",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "degree; measure word for temperature",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "对",
+      "transcription": "duì",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "couple; pair",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "吨",
+      "transcription": "dūn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "ton",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "朵",
+      "transcription": "duǒ",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for flower or cloud",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "份",
+      "transcription": "fèn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "part",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "幅",
+      "transcription": "fú",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for pictures, paintings, etc.",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "副",
+      "transcription": "fù",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "pair; set",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "行",
+      "transcription": "háng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "row",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "盒",
+      "transcription": "hé",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "box",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "架",
+      "transcription": "jià",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for planes, etc.",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "届",
+      "transcription": "jiè",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "session",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "颗",
+      "transcription": "kē",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "grain",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "类",
+      "transcription": "lèi",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "kind; sort",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "厘米",
+      "transcription": "límǐ",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "centimeter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "粒",
+      "transcription": "lì",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "grain",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "两",
+      "transcription": "liǎng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "1 liǎng = 50 grams",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "列",
+      "transcription": "liè",
+      "category": {
+        "lexical": "v, m"
+      },
+      "translation": {
+        "eng": "list; line",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "面",
+      "transcription": "miàn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for flags",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "秒",
+      "transcription": "miǎo",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "second",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "名",
+      "transcription": "míng",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "name; (measure word for people)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "亩",
+      "transcription": "mǔ",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "1 mǔ = 0.0667 hectare",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "排",
+      "transcription": "pái",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "platoon; row; line",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "盘",
+      "transcription": "pán",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "plate; dish",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "批",
+      "transcription": "pī",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "batch",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "匹",
+      "transcription": "pǐ",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "bolt (of cloth)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "期",
+      "transcription": "qī",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "period; phase",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "群",
+      "transcription": "qún",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "group",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "身",
+      "transcription": "shēn",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "body; measure word for clothes",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "首",
+      "transcription": "shǒu",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "head; first; leader; measure word for songs",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "所",
+      "transcription": "suǒ",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "place; measure word for buildings",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "台",
+      "transcription": "tái",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "(臺) platform; measure word for theatrical plays; (檯) table; desk",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "趟",
+      "transcription": "tàng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for times",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "套",
+      "transcription": "tào",
+      "category": {
+        "lexical": "v, m"
+      },
+      "translation": {
+        "eng": "cover with; measure word for sets of things",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "团",
+      "transcription": "tuán",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "group; ball; measure word for ball-like things",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "项",
+      "transcription": "xiàng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "item",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "样",
+      "transcription": "yàng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "kind; type",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "章",
+      "transcription": "zhāng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "chapter; section",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "丈",
+      "transcription": "zhàng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "1 zhàng = 3.33 meters",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "阵",
+      "transcription": "zhèn",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "period; measure word for wind",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "株",
+      "transcription": "zhū",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for individual plants",
+        "pol": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "若干",
+      "transcription": "ruògān",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "a certain number of; some; several; a few",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "余",
+      "transcription": "yú",
+      "category": {
+        "lexical": "v, n, num"
+      },
+      "translation": {
+        "eng": "leave; remain; surplus; spare time; beyond; more than",
+        "pol": ""
+      }
+    }
+  ]
+}

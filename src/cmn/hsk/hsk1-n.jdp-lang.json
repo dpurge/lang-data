@@ -1,0 +1,4854 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "爱人",
+      "transcription": "àirén",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "husband; wife; sweetheart",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "安排",
+      "transcription": "ānpái",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "plan; arrange",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "爸爸",
+      "transcription": "bàba",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "pa; dad; father",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "班",
+      "transcription": "bān",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "class; team",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "半天",
+      "transcription": "bàntiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "half a day; a long time",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "办法",
+      "transcription": "bànfǎ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "way; means; measure",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "办公室",
+      "transcription": "bàngōngshì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "office",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "报",
+      "transcription": "bào",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "newspaper; gazette",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "杯",
+      "transcription": "bēi",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "cup; glass",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "杯子",
+      "transcription": "bēizi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "cup; glass",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "北",
+      "transcription": "běi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "north",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "北边",
+      "transcription": "běibiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "north; north side",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "本",
+      "transcription": "běn",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "book; root; capital",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "本子",
+      "transcription": "běnzi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "book; notebook",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "比赛",
+      "transcription": "bǐsài",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "match; competition; game",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "笔",
+      "transcription": "bǐ",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "pen; pencil",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "边",
+      "transcription": "biān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "side",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "表",
+      "transcription": "biǎo",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "(錶) watch; (表) table; meter; chart",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "表示",
+      "transcription": "biǎoshì",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "show; express; indicate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "表现",
+      "transcription": "biǎoxiàn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "show off; express; display",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "表演",
+      "transcription": "biǎoyǎn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "perform; act; play; demonstrate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "病",
+      "transcription": "bìng",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "disease; illness; sickness",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不久",
+      "transcription": "bùjiǔ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "soon; not long after",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "布",
+      "transcription": "bù",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "cloth",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "部分",
+      "transcription": "bùfen",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "part; section; component",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "菜",
+      "transcription": "cài",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "dish; course; vegetable; greens",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "操场",
+      "transcription": "cāochǎng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "playground; sports ground",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "草",
+      "transcription": "cǎo",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "grass; straw",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "茶",
+      "transcription": "chá",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "tea",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "场",
+      "transcription": "chǎng",
+      "category": {
+        "lexical": "m, n"
+      },
+      "translation": {
+        "eng": "field; scene",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "车",
+      "transcription": "chē",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "vehicle",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "车站",
+      "transcription": "chēzhàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "station; stop",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "城",
+      "transcription": "chéng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "town; city",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "城市",
+      "transcription": "chéngshì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "town; city",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "成绩",
+      "transcription": "chéngjì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "success; achievement; score",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "船",
+      "transcription": "chuán",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "boat; ship",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "窗",
+      "transcription": "chuāng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "window",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "窗户",
+      "transcription": "chuānghu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "window; casement",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "床",
+      "transcription": "chuáng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "bed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "春",
+      "transcription": "chūn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "spring",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "春天",
+      "transcription": "chūntiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "spring; springtime",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "磁带",
+      "transcription": "cídài",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "magnetic tape",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "词",
+      "transcription": "cí",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "word; expression; poetry",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "词典",
+      "transcription": "cídiǎn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "dictionary",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "从前",
+      "transcription": "cóngqián",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "before; formerly; in the past",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "错",
+      "transcription": "cuò",
+      "category": {
+        "lexical": "adj, n"
+      },
+      "translation": {
+        "eng": "wrong; faulty; mistake; error",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "错误",
+      "transcription": "cuòwù",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "mistake; error; fault",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "打算",
+      "transcription": "dǎsuàn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "plan; intend",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "大学",
+      "transcription": "dàxué",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "university; college",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "大夫",
+      "transcription": "dàifu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "doctor; physician",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "代表",
+      "transcription": "dàibiǎo",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "represent; representative; deputy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "刀",
+      "transcription": "dāo",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "knife; sword; blade",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "道理",
+      "transcription": "dàolǐ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "principle; truth; reason; argument",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "灯",
+      "transcription": "dēng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "lamp; light; lantern",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "地",
+      "transcription": "dì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "the earth; land; field; ground",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "地方",
+      "transcription": "dìfang",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "place; space; part; respect",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "弟弟",
+      "transcription": "dìdi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "younger brother",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "点",
+      "transcription": "diǎn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "dot, point; dot stroke",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "点心",
+      "transcription": "diǎnxin",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "pastry; light refreshments",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "点钟",
+      "transcription": "diǎnzhōng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "o'clock",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "电",
+      "transcription": "diàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "electricity",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "电车",
+      "transcription": "diànchē",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "tram; trolleybus",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "电灯",
+      "transcription": "diàndēng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "electric light; electric lamp",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "电话",
+      "transcription": "diànhuà",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "telephone; phone; phone call",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "电视",
+      "transcription": "diànshì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "television; TV",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "电影",
+      "transcription": "diànyǐng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "film; movie",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "东",
+      "transcription": "dōng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "east",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "东边",
+      "transcription": "dōngbiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "east",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "东西",
+      "transcription": "dōngxi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "thing; creature",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "冬",
+      "transcription": "dōng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "winter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "冬天",
+      "transcription": "dōngtiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "winter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "动物",
+      "transcription": "dòngwù",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "animal",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "儿子",
+      "transcription": "érzi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "son",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "发现",
+      "transcription": "fāxiàn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "discover; find; discovery",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "发展",
+      "transcription": "fāzhǎn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "develop; recruit; development",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "法语(法文)",
+      "transcription": "fǎyǔ(fǎwén)",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "French; French language",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "翻译",
+      "transcription": "fānyì",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "translate; translation; translator",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "饭",
+      "transcription": "fàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "meal; cooked rice or other cereals",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "饭店",
+      "transcription": "fàndiàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "restaurant; hotel",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "方法",
+      "transcription": "fāngfǎ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "method; way; means",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "方面",
+      "transcription": "fāngmiàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "respect; aspect; field; side",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "方向",
+      "transcription": "fāngxiàng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "direction; orientation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "房间",
+      "transcription": "fángjiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "room",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "飞机",
+      "transcription": "fēijī",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "aircraft; airplane; plane",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "分",
+      "transcription": "fēn",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "minute; point; mark; a money unit",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "分钟",
+      "transcription": "fēnzhōng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "minute",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "风",
+      "transcription": "fēng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "wind",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "夫人",
+      "transcription": "fūrén",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "Lady; Madame; Mrs",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "服务员",
+      "transcription": "fúwùyuán",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "waiter; waitress; attendant",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "辅导",
+      "transcription": "fǔdǎo",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "coach; teach; tutor",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "父亲",
+      "transcription": "fùqin",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "father",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "附近",
+      "transcription": "fùjìn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "nearby; neighboring area; vicinity",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "改变",
+      "transcription": "gǎibiàn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "change; alter; transform",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "感冒",
+      "transcription": "gǎnmào",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "common cold",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "干部",
+      "transcription": "gànbù",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "cadre",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "刚才",
+      "transcription": "gāngcái",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "a moment ago; just now",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "钢笔",
+      "transcription": "gāngbǐ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "pen",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哥哥",
+      "transcription": "gēge",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "elder brother",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "歌",
+      "transcription": "gē",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "song",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "根",
+      "transcription": "gēn",
+      "category": {
+        "lexical": "m, n"
+      },
+      "translation": {
+        "eng": "root; foot; base; origin",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "工厂",
+      "transcription": "gōngchǎng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "factory; mill; plant; works",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "工人",
+      "transcription": "gōngrén",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "worker; workman",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "工业",
+      "transcription": "gōngyè",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "industry",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "工作",
+      "transcription": "gōngzuò",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "work; job",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "公共汽车",
+      "transcription": "gōnggòng qìchē",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "bus (for public transit)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "公园",
+      "transcription": "gōngyuán",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "park",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "姑娘",
+      "transcription": "gūniang",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "girl; daughter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "故事",
+      "transcription": "gùshi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "story; tale",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "关系",
+      "transcription": "guānxì",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "relation; relationship",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "馆",
+      "transcription": "guǎn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "an indoor place for activities",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "广播",
+      "transcription": "guǎngbō",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "broadcast; be on the air",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "国",
+      "transcription": "guó",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "country; state; nation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "国家",
+      "transcription": "guójiā",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "country; state; nation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "过去",
+      "transcription": "guòqù",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "the past; former times",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "孩子",
+      "transcription": "háizi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "child; children; son or daughter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "海",
+      "transcription": "hǎi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "sea",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "寒假",
+      "transcription": "hánjià",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "winter vacation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "汉语",
+      "transcription": "hànyǔ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "Chinese; the Chinese language",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "汉字",
+      "transcription": "hànzì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "Chinese character",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "好处",
+      "transcription": "hǎochu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "good; advantage; benefit; gain",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "号",
+      "transcription": "hào",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "number; date",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "河",
+      "transcription": "hé",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "river",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "黑板",
+      "transcription": "hēibǎn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "blackboard",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "后",
+      "transcription": "hòu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "back; rear; behind",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "后边",
+      "transcription": "hòubian",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "back; rear; behind; latter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "湖",
+      "transcription": "hú",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "lake",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "花",
+      "transcription": "huā",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "flower; blossom; blurred; dim",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "画儿",
+      "transcription": "huàr",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "drawing; picture; painting",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "化学",
+      "transcription": "huàxué",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "chemistry",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "话",
+      "transcription": "huà",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "word; talk; speech; remark",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "回答",
+      "transcription": "huídá",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "answer; reply; response",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "会",
+      "transcription": "huì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "meeting; gathering; conference",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "会话",
+      "transcription": "huìhuà",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "conversation; converse with",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "活儿",
+      "transcription": "huó",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "work",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "活动",
+      "transcription": "huódòng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "move about; relax; activity; shaky",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "火车",
+      "transcription": "huǒchē",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "train",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "基础",
+      "transcription": "jīchǔ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "foundation; base; basis",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "机场",
+      "transcription": "jīchǎng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "airport; airfield; aerodrome",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "机会",
+      "transcription": "jīhuì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "chance; opportunity",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "机器",
+      "transcription": "jīqì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "machine; machinery; apparatus",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "鸡",
+      "transcription": "jī",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "chicken",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "鸡蛋",
+      "transcription": "jīdàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "chicken egg",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "技术",
+      "transcription": "jìshù",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "technology; skill; technique",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "计划",
+      "transcription": "jìhuà",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "plan; project; program; map out",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "家(文学家)",
+      "transcription": "jiā (wénxuéjiā)",
+      "category": {
+        "lexical": "n, m, suf"
+      },
+      "translation": {
+        "eng": "(suffix) -ist; family; home; household",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "家庭",
+      "transcription": "jiātíng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "family; household",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "检查",
+      "transcription": "jiǎnchá",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "check up; inspect; self-criticism",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "健康",
+      "transcription": "jiànkāng",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "health; healthy; sound; wholesome",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "建设",
+      "transcription": "jiànshè",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "build; construct; construction",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "将来",
+      "transcription": "jiānglái",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "future",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "江",
+      "transcription": "jiāng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "river",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "脚",
+      "transcription": "jiǎo",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "foot",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "饺子",
+      "transcription": "jiǎozi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "dumpling",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "教室",
+      "transcription": "jiàoshì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "classroom; schoolroom",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "教育",
+      "transcription": "jiàoyù",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "education; educate; teach",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "街",
+      "transcription": "jiē",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "street",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "节",
+      "transcription": "jié",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "festival; section; length",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "节目",
+      "transcription": "jiémù",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "program; item (on a program)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "节日",
+      "transcription": "jiérì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "festival; holiday",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "姐姐",
+      "transcription": "jiějie",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "elder sister",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "今年",
+      "transcription": "jīnnián",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "this year",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "今天",
+      "transcription": "jīntiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "today; present; now",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "精神",
+      "transcription": "jīngshén",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "spirit; mind; gist; essence",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "经过",
+      "transcription": "jīngguò",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "pass; go through; as a result of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "经济",
+      "transcription": "jīngjì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "economy; income; economical",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "经验",
+      "transcription": "jīngyàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "experience",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "酒",
+      "transcription": "jiǔ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "alcoholic drink; wine; liquor",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "橘子(桔子)",
+      "transcription": "júzi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "orange; tangerine; mandarin",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "句子",
+      "transcription": "jùzi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "sentence",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "决定",
+      "transcription": "juédìng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "decide; resolve; decision; resolution",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "咖啡",
+      "transcription": "kāfēi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "coffee",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "卡车",
+      "transcription": "kǎchē",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "lorry; truck",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "开始",
+      "transcription": "kāishǐ",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "begin; start",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "考试",
+      "transcription": "kǎoshì",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "examine; test; examination",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "科学",
+      "transcription": "kēxué",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "science; scientific",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "可能",
+      "transcription": "kěnéng",
+      "category": {
+        "lexical": "aux, n"
+      },
+      "translation": {
+        "eng": "possible; maybe; possibility; may",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "课",
+      "transcription": "kè",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "lesson; class; subject; course",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "课本",
+      "transcription": "kèběn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "textbook",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "课文",
+      "transcription": "kèwén",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "text",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "空气",
+      "transcription": "kōngqì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "air",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "口",
+      "transcription": "kǒu",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "mouth; (measure word for people)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "口语",
+      "transcription": "kǒuyǔ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "spoken language",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "块",
+      "transcription": "kuài",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "piece; Yuan (the basic RMB unit)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "困难",
+      "transcription": "kùnnán",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "difficult; difficulty; trouble",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "篮球",
+      "transcription": "lánqiú",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "basketball",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "老师",
+      "transcription": "lǎoshī",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "teacher",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "里",
+      "transcription": "lǐ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "in; inside",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "里边",
+      "transcription": "lǐbian",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "inside; in; within; interior",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "礼物",
+      "transcription": "lǐwù",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "gift; present",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "历史",
+      "transcription": "lìshǐ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "history; past records",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "联系",
+      "transcription": "liánxì",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "integrate; link; contact; connection",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "脸",
+      "transcription": "liǎn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "face",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "练习",
+      "transcription": "liànxí",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "practice; exercise; drill",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "领导",
+      "transcription": "lǐngdǎo",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "lead; leader; leadership",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "留学生",
+      "transcription": "liúxuéshēng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "foreign student; overseas student",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "流",
+      "transcription": "liú",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "flow; stream; drip; shed; trickle",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "楼",
+      "transcription": "lóu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "storied building",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "路",
+      "transcription": "lù",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "road; path; way; journey; route",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "录音",
+      "transcription": "lùyīn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "record sound; sound recording",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "妈妈",
+      "transcription": "māma",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "mummy; mom; ma; mother",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "马",
+      "transcription": "mǎ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "horse",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "帽子",
+      "transcription": "màozi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "hat; cap",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "妹妹",
+      "transcription": "mèimei",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "younger sister",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "门",
+      "transcription": "mén",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "entrance; door; gate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "门口",
+      "transcription": "ménkǒu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "entrance; doorway",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "米饭",
+      "transcription": "mǐfàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "(cooked) rice",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "面包",
+      "transcription": "miànbāo",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "bread",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "面条儿",
+      "transcription": "miàntiáor",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "noodles",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "民族",
+      "transcription": "mínzú",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "nation; nationality",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "明年",
+      "transcription": "míngnián",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "next year",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "明天",
+      "transcription": "míngtiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "tomorrow",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "名字",
+      "transcription": "míngzi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "name",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "母亲",
+      "transcription": "mǔqīn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "mother (used in written Chinese)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "目前",
+      "transcription": "mùqián",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "current time; at present",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "南",
+      "transcription": "nán",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "south",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "南边",
+      "transcription": "nánbian",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "south",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "内",
+      "transcription": "nèi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "inside; inner; within",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "内容",
+      "transcription": "nèiróng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "content; substance",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "年",
+      "transcription": "nián",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "year; New Year",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "年级",
+      "transcription": "niánjí",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "grade; year",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "年纪",
+      "transcription": "niánjì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "age",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "牛",
+      "transcription": "niú",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "ox; cow; bull",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "牛奶",
+      "transcription": "niúnǎi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "cow milk",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "农村",
+      "transcription": "nóngcūn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "rural area; countryside",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "农民",
+      "transcription": "nóngmín",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "peasant",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "农业",
+      "transcription": "nóngyè",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "agriculture; farming",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "女儿",
+      "transcription": "nǚ'ér",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "daughter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "排球",
+      "transcription": "páiqiú",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "volleyball",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "派",
+      "transcription": "pài",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "send; appoint",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "旁边",
+      "transcription": "pángbiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "side",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "朋友",
+      "transcription": "péngyou",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "friend",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "批评",
+      "transcription": "pīpíng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "criticize; criticism",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "啤酒",
+      "transcription": "píjiǔ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "beer",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "便宜",
+      "transcription": "piányi",
+      "category": {
+        "lexical": "adj, n"
+      },
+      "translation": {
+        "eng": "cheap; inexpensive; small gains",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "片",
+      "transcription": "piàn",
+      "category": {
+        "lexical": "m, n"
+      },
+      "translation": {
+        "eng": "(measure word for pieces of things)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "票",
+      "transcription": "piào",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "ticket; ballot",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "苹果",
+      "transcription": "píngguǒ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "apple",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "瓶",
+      "transcription": "píng",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "(measure word for bottles)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "汽车",
+      "transcription": "qìchē",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "automobile; motor vehicle; car",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "汽水",
+      "transcription": "qìshuǐ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "aerated water; soda; soft drink",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "铅笔",
+      "transcription": "qiānbǐ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "pencil",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "钱",
+      "transcription": "qián",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "money; fund; sum",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "前",
+      "transcription": "qián",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "front; forward; before; preceding",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "前边",
+      "transcription": "qiánbian",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "in front; ahead",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "墙",
+      "transcription": "qiáng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "wall",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "桥",
+      "transcription": "qiáo",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "bridge",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "青年",
+      "transcription": "qīngnián",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "young person; youth",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "情况",
+      "transcription": "qíngkuàng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "circumstance; situation, condition",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "秋",
+      "transcription": "qiū",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "autumn; fall",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "秋天",
+      "transcription": "qiūtiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "autumn; fall",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "球",
+      "transcription": "qiú",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "ball; anything shaped like a ball",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "去年",
+      "transcription": "qùnián",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "last year",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "全部",
+      "transcription": "quánbù",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "all; without exception; complete",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "全体",
+      "transcription": "quántǐ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "all; whole; entire",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "人",
+      "transcription": "rén",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "person; man; people",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "人们",
+      "transcription": "rénmen",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "persons; people; the public",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "人民",
+      "transcription": "rénmín",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "the people",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "认识",
+      "transcription": "rènshi",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "recognize; understand; cognition",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "日",
+      "transcription": "rì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "sun; day time; a day of the month",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "日语(日文)",
+      "transcription": "rìyǔ(rìwén)",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "Japanese (language)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "日子",
+      "transcription": "rìzi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "days; date; time; life; livelihood",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "肉",
+      "transcription": "ròu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "flesh; meat",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "山",
+      "transcription": "shān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "mountain; hill",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "商店",
+      "transcription": "shāngdiàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "shop; store",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "上",
+      "transcription": "shàng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "upper; up; upward; preceding",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "上边",
+      "transcription": "shàngbian",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "above; over; the higher authorities",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "上午",
+      "transcription": "shàngwǔ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "forenoon; morning",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "社会",
+      "transcription": "shèhuì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "society",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "身体",
+      "transcription": "shēntǐ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "body; health",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "声",
+      "transcription": "shēng",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "(measure word for sound); sound",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "声调",
+      "transcription": "shēngdiào",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "tone; the tone of Chinese character",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "声音",
+      "transcription": "shēngyīn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "sound; voice",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "生词",
+      "transcription": "shēngcí",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "new word",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "生活",
+      "transcription": "shēnghuó",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "life; livelihood; live; exist",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "生日",
+      "transcription": "shēngrì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "birthday",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "省",
+      "transcription": "shěng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "province",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "胜利",
+      "transcription": "shènglì",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "victory; triumph",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "师傅",
+      "transcription": "shīfu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "master worker; master; teacher",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "时候",
+      "transcription": "shíhou",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "time; when",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "时间",
+      "transcription": "shíjiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "when",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "食堂",
+      "transcription": "shítáng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "dining room; canteen; cafeteria",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "实践",
+      "transcription": "shíjiàn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "live up to; carry out; practice",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "世界",
+      "transcription": "shìjiè",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "world",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "事",
+      "transcription": "shì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "matter; affair; thing; business",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "事情",
+      "transcription": "shìqing",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "matter; affair; thing; business",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "市",
+      "transcription": "shì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "city; municipality; market",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "手",
+      "transcription": "shǒu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "hand",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "手表",
+      "transcription": "shǒubiǎo",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "wrist watch",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "首都",
+      "transcription": "shǒudū",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "capital",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "书",
+      "transcription": "shū",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "book",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "树",
+      "transcription": "shù",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "tree",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "数学",
+      "transcription": "shùxué",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "mathematics",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "水",
+      "transcription": "shuǐ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "water",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "水果",
+      "transcription": "shuǐguǒ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "fruit",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "水平",
+      "transcription": "shuǐpíng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "standard; level; horizontal",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "说明",
+      "transcription": "shuōmíng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "explain; illustrate; show",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "思想",
+      "transcription": "sīxiǎng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "thought; thinking; idea; ideology",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "宿舍",
+      "transcription": "sùshè",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "hostel; living quarters; dormitory",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "太阳",
+      "transcription": "tàiyáng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "the sun",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "态度",
+      "transcription": "tàidu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "manner; bearing; attitude",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "汤",
+      "transcription": "tāng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "soup; broth",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "糖",
+      "transcription": "táng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "sugar; candy; sweets",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "体育",
+      "transcription": "tǐyù",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "physical training; physical culture",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "天",
+      "transcription": "tiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "sky; heaven; weather",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "天气",
+      "transcription": "tiānqì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "weather",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "条件",
+      "transcription": "tiáojiàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "condition; qualification; requirement",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "听写",
+      "transcription": "tīngxiě",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "dictate; dictation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "通知",
+      "transcription": "tōngzhī",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "notify; give notice; notice; circular",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "同时",
+      "transcription": "tóngshí",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "at the same time; simultaneously",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "同学",
+      "transcription": "tóngxué",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "fellow student; schoolmate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "同志",
+      "transcription": "tóngzhì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "comrade",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "头",
+      "transcription": "tóu",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "first; leading",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "图书馆",
+      "transcription": "túshūguǎn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "library",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "腿",
+      "transcription": "tuǐ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "leg",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "袜子",
+      "transcription": "wàzi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "socks; stockings; hose",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "外",
+      "transcription": "wài",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "outer; outside; external; foreign",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "外边",
+      "transcription": "wàibian",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "out; outside; exterior",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "外国",
+      "transcription": "wàiguó",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "foreign country",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "外语(外文)",
+      "transcription": "wàiyǔ(wàiwén)",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "foreign language",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "碗",
+      "transcription": "wǎn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "bowl",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "晚饭",
+      "transcription": "wǎnfàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "dinner; supper",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "晚会",
+      "transcription": "wǎnhuì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "evening party; social evening",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "晚上",
+      "transcription": "wǎnshang",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "evening; night",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "危险",
+      "transcription": "wēixiǎn",
+      "category": {
+        "lexical": "adj, n"
+      },
+      "translation": {
+        "eng": "dangerous; perilous; danger",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "文化",
+      "transcription": "wénhuà",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "civilization; culture; education",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "文学",
+      "transcription": "wénxué",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "literature",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "文学家",
+      "transcription": "wénxuéjiā",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "literatus; writer",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "文艺",
+      "transcription": "wényì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "literature and art",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "文章",
+      "transcription": "wénzhāng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "essay; article; hidden meaning",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "问题",
+      "transcription": "wèntí",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "question; problem; issue; trouble",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "屋子",
+      "transcription": "wūzi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "room",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "午饭",
+      "transcription": "wǔfàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "midday meal; lunch",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "物理",
+      "transcription": "wùlǐ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "physics",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "西",
+      "transcription": "xī",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "west",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "西边",
+      "transcription": "xībian",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "west (often used in oral Chinese)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "希望",
+      "transcription": "xīwàng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "hope; wish; expect",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "习惯",
+      "transcription": "xíguàn",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "be used to; usual practice; habit",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "系",
+      "transcription": "xì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "department (in a university)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "下",
+      "transcription": "xià",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "below; down; under; next; second",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "下边",
+      "transcription": "xiàbian",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "below; under; lower level; next",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "下午",
+      "transcription": "xiàwǔ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "afternoon",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "夏",
+      "transcription": "xià",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "summer",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "夏天",
+      "transcription": "xiàtiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "summer",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "先",
+      "transcription": "xiān",
+      "category": {
+        "lexical": "adv, n"
+      },
+      "translation": {
+        "eng": "earlier; before; first; temporarily",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "先生",
+      "transcription": "xiānsheng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "teacher; mister; Mr.; sir; gentleman",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "现代",
+      "transcription": "xiàndài",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "modern times; the contemporary age",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "现在",
+      "transcription": "xiànzài",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "now; at present; today",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "香蕉",
+      "transcription": "xiāngjiāo",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "banana",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "像",
+      "transcription": "xiàng",
+      "category": {
+        "lexical": "v, prep, n"
+      },
+      "translation": {
+        "eng": "be like; resemble; picture; such as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "消息",
+      "transcription": "xiāoxi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "news; information; message",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "小孩儿",
+      "transcription": "xiǎoháir",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "child",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "小姐",
+      "transcription": "xiǎojie",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "young lady; Miss; miss",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "小时",
+      "transcription": "xiǎoshí",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "hour",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "鞋",
+      "transcription": "xié",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "shoe",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "新年",
+      "transcription": "xīnnián",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "New Year",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "新闻",
+      "transcription": "xīnwén",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "information; news",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "心",
+      "transcription": "xīn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "the heart; heart; mind; feeling",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "信",
+      "transcription": "xìn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "believe; trust; profess faith in; letter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "信封",
+      "transcription": "xìnfēng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "envelope",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "星期",
+      "transcription": "xīngqī",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "week",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "星期日(星期天)",
+      "transcription": "xīngqīrì(xīngqītiān)",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "Sunday",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "姓",
+      "transcription": "xìng",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "be surnamed; family name",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "需要",
+      "transcription": "xūyào",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "need; want; require; demand",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "学生",
+      "transcription": "xuésheng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "student; schoolboy; schoolgirl",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "学习",
+      "transcription": "xuéxí",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "study; learn; emulate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "学校",
+      "transcription": "xuéxiào",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "school; educational institute",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "学院",
+      "transcription": "xuéyuàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "college; institute; academy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "雪",
+      "transcription": "xuě",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "snow",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "颜色",
+      "transcription": "yánsè",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "color",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "眼睛",
+      "transcription": "yǎnjing",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "eye",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "演出",
+      "transcription": "yǎnchū",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "perform; put on a show; performance",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "宴会",
+      "transcription": "yànhuì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "banquet; feast; dinner party",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "羊",
+      "transcription": "yáng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "sheep; goat",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "样子",
+      "transcription": "yàngzi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "shape; appearance; manner; model",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "要求",
+      "transcription": "yāoqiú",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "demand; require; claim; ask",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "药",
+      "transcription": "yào",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "medicine; drug; remedy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "夜",
+      "transcription": "yè",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "night; evening",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一点儿",
+      "transcription": "yīdiǎnr",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "a bit; a few; a little",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一会儿",
+      "transcription": "yīhuìr",
+      "category": {
+        "lexical": "adv, n"
+      },
+      "translation": {
+        "eng": "a little while; a moment",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "医生",
+      "transcription": "yīshēng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "doctor",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "医院",
+      "transcription": "yīyuàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "hospital",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "衣服",
+      "transcription": "yīfu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "clothes; clothing; garment; coat",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "椅子",
+      "transcription": "yǐzi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "chair",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "以后",
+      "transcription": "yǐhòu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "after; afterwards; later",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "以前",
+      "transcription": "yǐqián",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "before; formerly",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "艺术",
+      "transcription": "yìshù",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "art; skill; craft",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "意见",
+      "transcription": "yìjiàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "opinion; view; objection",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "意思",
+      "transcription": "yìsi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "meaning; idea; wish; appreciation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "意义",
+      "transcription": "yìyì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "meaning; sense; significance",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "音乐",
+      "transcription": "yīnyuè",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "music",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "银行",
+      "transcription": "yínháng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "bank",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "英语(英文)",
+      "transcription": "yīngyǔ(yīngwén)",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "English (language)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "影响",
+      "transcription": "yǐngxiǎng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "influence; affect; effect",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "邮局",
+      "transcription": "yóujú",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "post office",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "邮票",
+      "transcription": "yóupiào",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "stamp",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "友谊",
+      "transcription": "yǒuyì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "friendship",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "右",
+      "transcription": "yòu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "the right",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "鱼",
+      "transcription": "yú",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "fish",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "雨",
+      "transcription": "yǔ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "rain",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "语法",
+      "transcription": "yǔfǎ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "grammar",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "语言",
+      "transcription": "yǔyán",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "language",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "圆",
+      "transcription": "yuán",
+      "category": {
+        "lexical": "adj, n"
+      },
+      "translation": {
+        "eng": "round; circular; circle",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "月",
+      "transcription": "yuè",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "month",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "月亮",
+      "transcription": "yuèliang",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "the moon",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "月球",
+      "transcription": "yuèqiú",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "the moon",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "云",
+      "transcription": "yún",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "cloud",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "运动",
+      "transcription": "yùndòng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "be in motion; move about; sport",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "早晨(早上)",
+      "transcription": "zǎochen(zǎoshang)",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "(early) morning",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "早饭",
+      "transcription": "zǎofàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "breakfast",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "展览",
+      "transcription": "zhǎnlǎn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "put on display; exhibit; show",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "站",
+      "transcription": "zhàn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "station; stop; service center",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "政府",
+      "transcription": "zhèngfǔ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "government",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "政治",
+      "transcription": "zhèngzhì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "politics; political affairs; political",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "知识",
+      "transcription": "zhīshi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "knowledge",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "纸",
+      "transcription": "zhǐ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "paper",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "中",
+      "transcription": "zhōng",
+      "category": {
+        "lexical": "n, adj"
+      },
+      "translation": {
+        "eng": "center; middle; in; among; China",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "中间",
+      "transcription": "zhōngjiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "center; middle; among; between",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "中文",
+      "transcription": "zhōngwén",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "Chinese (language)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "中午",
+      "transcription": "zhōngwǔ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "noon; midday",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "中学",
+      "transcription": "zhōngxué",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "middle school; high school",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "钟",
+      "transcription": "zhōng",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "bell; clock",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "钟头",
+      "transcription": "zhōngtóu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "hour (mainly used in oral Chinese)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "种",
+      "transcription": "zhǒng",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "kind; type; sort; breed; race; strain",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "周",
+      "transcription": "zhōu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "week; round",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "周围",
+      "transcription": "zhōuwéi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "around; round; about",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "猪",
+      "transcription": "zhū",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "pig; hog; swine",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "准备",
+      "transcription": "zhǔnbèi",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "prepare; get ready (for); intend",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "桌子",
+      "transcription": "zhuōzi",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "table; desk",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "自行车",
+      "transcription": "zìxíngchē",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "bike; bicycle",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "字",
+      "transcription": "zì",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "word; character",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "足球",
+      "transcription": "zúqiú",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "football game; soccer ball",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "祖国",
+      "transcription": "zǔguó",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "motherland; fatherland; homeland",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "组织",
+      "transcription": "zǔzhī",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "organize; form; organization",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "嘴",
+      "transcription": "zuǐ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "mouth",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "最初",
+      "transcription": "zuìchū",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "first; initial",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "最后",
+      "transcription": "zuìhòu",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "last; final; ultimate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "最近",
+      "transcription": "zuìjìn",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "recently; lately; in the near future",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "昨天",
+      "transcription": "zuótiān",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "yesterday",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "左",
+      "transcription": "zuǒ",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "the left; the left side",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "作业",
+      "transcription": "zuòyè",
+      "category": {
+        "lexical": "n"
+      },
+      "translation": {
+        "eng": "homework; operation; task; work",
+        "pol": ""
+      }
+    }
+  ]
+}

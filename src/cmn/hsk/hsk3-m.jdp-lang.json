@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "镑",
+      "transcription": "bàng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "pound",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "辈",
+      "transcription": "bèi",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "generation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "成",
+      "transcription": "chéng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "one tenth; one out of ten",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "串",
+      "transcription": "chuàn",
+      "category": {
+        "lexical": "v, m"
+      },
+      "translation": {
+        "eng": "string together; mix up; bunch; cluster",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "顶",
+      "transcription": "dǐng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for caps, hats, tents, etc.",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "堆",
+      "transcription": "duī",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "pile; stack; heap; crowd",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "番",
+      "transcription": "fān",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "time; kind; sort; measure word for abstract things",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "公顷",
+      "transcription": "gōngqǐng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "hectare",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "股",
+      "transcription": "gǔ",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "strand; stream; burst; section; share; group;",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "毫米",
+      "transcription": "háomǐ",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "millimeter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "伙",
+      "transcription": "huǒ",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "group; gang; crowd; band",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "卷",
+      "transcription": "juǎn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "roll; reel; spool",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "千克",
+      "transcription": "qiānkè",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "kilogram",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "束",
+      "transcription": "shù",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "bunch; bundle; sheaf",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "艘",
+      "transcription": "sōu",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for ships or boats",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "摊",
+      "transcription": "tān",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "booth; stall; stand; measure word for pools of liquid",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "丸",
+      "transcription": "wán",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for pills and boluses",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "箱",
+      "transcription": "xiāng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for boxes, cases, chests, trunks, etc.",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "盏",
+      "transcription": "zhǎn",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for lights",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "枝",
+      "transcription": "zhī",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "branch; twig; measure word for guns, pens, flowers, etc.",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "桩",
+      "transcription": "zhuāng",
+      "category": {
+        "lexical": "n, m"
+      },
+      "translation": {
+        "eng": "stake; peg; picket; measure word for matters; piece",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "幢",
+      "transcription": "zhuàng",
+      "category": {
+        "lexical": "m"
+      },
+      "translation": {
+        "eng": "measure word for buildings",
+        "pol": ""
+      }
+    }
+  ]
+}

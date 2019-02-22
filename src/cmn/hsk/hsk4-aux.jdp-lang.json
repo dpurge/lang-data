@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk4"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "乐意",
+      "transcription": "lèyì",
+      "category": {
+        "lexical": "aux"
+      },
+      "translation": {
+        "eng": "would like",
+        "pol": ""
+      }
+    }
+  ]
+}

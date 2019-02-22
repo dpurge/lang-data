@@ -1,0 +1,3193 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "爱",
+      "transcription": "ài",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "love",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "安排",
+      "transcription": "ānpái",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "plan; arrange",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "摆",
+      "transcription": "bǎi",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "put; put on; sway",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "搬",
+      "transcription": "bān",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "move; carry",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "办",
+      "transcription": "bàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "do; deal with",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "帮助",
+      "transcription": "bāngzhù",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "help; assist; aid",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "抱",
+      "transcription": "bào",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "hug; embrace",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "比",
+      "transcription": "bǐ",
+      "category": {
+        "lexical": "prep, v"
+      },
+      "translation": {
+        "eng": "emulate; compare; than",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "比较",
+      "transcription": "bǐjiào",
+      "category": {
+        "lexical": "adv, v"
+      },
+      "translation": {
+        "eng": "compare; contrast; relatively",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "比赛",
+      "transcription": "bǐsài",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "match; competition; game",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "变",
+      "transcription": "biàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "change; become",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "变化",
+      "transcription": "biànhuà",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "change; vary",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "表示",
+      "transcription": "biǎoshì",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "show; express; indicate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "表现",
+      "transcription": "biǎoxiàn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "show off; express; display",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "表演",
+      "transcription": "biǎoyǎn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "perform; act; play; demonstrate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "表扬",
+      "transcription": "biǎoyáng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "praise; commend",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "病",
+      "transcription": "bìng",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "disease; illness; sickness",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不如",
+      "transcription": "bùrú",
+      "category": {
+        "lexical": "v, conj"
+      },
+      "translation": {
+        "eng": "not as good as; better to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "擦",
+      "transcription": "cā",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "wipe; rub; spread on; scrape",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "参观",
+      "transcription": "cānguān",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "visit; look around",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "参加",
+      "transcription": "cānjiā",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "join; take part in; attend",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "查",
+      "transcription": "chá",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "examine; investigate; look up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "差",
+      "transcription": "chà",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "short of; differ from; poor",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "唱",
+      "transcription": "chàng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "sing",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "朝",
+      "transcription": "cháo",
+      "category": {
+        "lexical": "prep, v"
+      },
+      "translation": {
+        "eng": "toward; face",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "成",
+      "transcription": "chéng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "accomplish; become",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "吃",
+      "transcription": "chī",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "eat; live on; annihilate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "迟到",
+      "transcription": "chídào",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "be late",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "抽",
+      "transcription": "chōu",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "take out; take from; grow; inhale",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "出",
+      "transcription": "chū",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "go out; exceed; issue; vent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "出发",
+      "transcription": "chūfā",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "set out; start from",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "出现",
+      "transcription": "chūxiàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "appear; arise",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "穿",
+      "transcription": "chuān",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "penetrate; go through; put on",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "吹",
+      "transcription": "chuī",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "blow; brag; fail; break up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "打",
+      "transcription": "dǎ",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "beat; hit; smash; play; stir",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "打算",
+      "transcription": "dǎsuàn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "plan; intend",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "戴",
+      "transcription": "dài",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "put on; wear; support; respect",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "带",
+      "transcription": "dài",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "take; do; lead; have",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "代表",
+      "transcription": "dàibiǎo",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "represent; representative; deputy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "当",
+      "transcription": "dāng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "act as; accept; administer; stop",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "倒",
+      "transcription": "dǎo",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "fall; collapse; resell; exchange; rearrange",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "到",
+      "transcription": "dào",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "arrive; reach; go to; leave for",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "得",
+      "transcription": "dé",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "get; obtain; result in",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "等",
+      "transcription": "děng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "wait; when; till",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "低",
+      "transcription": "dī",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "low; droop; hang down",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "点",
+      "transcription": "diǎn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "put a dot; count; select; light",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "掉",
+      "transcription": "diào",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "fall; drop; lose; reduce; turn",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "丢",
+      "transcription": "diū",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "lose; throw; put aside",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "懂",
+      "transcription": "dǒng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "understand; know",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "动",
+      "transcription": "dòng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "move; stir; use",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "读",
+      "transcription": "dú",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "read; read aloud",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "锻炼",
+      "transcription": "duànliàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "take exercise; physical training",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "对",
+      "transcription": "duì",
+      "category": {
+        "lexical": "prep, v"
+      },
+      "translation": {
+        "eng": "towards; treat; compare; aim at",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "饿",
+      "transcription": "è",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "hungry; starve",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "发",
+      "transcription": "fā",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "send out; discharge; issue; rise",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "发生",
+      "transcription": "fāshēng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "happen; occur; take place",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "发现",
+      "transcription": "fāxiàn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "discover; find; discovery",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "发展",
+      "transcription": "fāzhǎn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "develop; recruit; development",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "翻",
+      "transcription": "fān",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "turn over; rummage; capsize",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "翻译",
+      "transcription": "fānyì",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "translate; translation; translator",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "反对",
+      "transcription": "fǎnduì",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "oppose; fight; be against",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "方便",
+      "transcription": "fāngbiàn",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "convenient; make convenient",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "访问",
+      "transcription": "fǎngwèn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "visit; call on",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "放",
+      "transcription": "fàng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "let go; put; lay; have a vacation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "飞",
+      "transcription": "fēi",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "fly; flit; hover; flutter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "分",
+      "transcription": "fēn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "divide; distribute; distinguish",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "丰富",
+      "transcription": "fēngfù",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "rich; abundant; plentiful; enrich",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "服务",
+      "transcription": "fúwù",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "serve; service",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "辅导",
+      "transcription": "fǔdǎo",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "coach; teach; tutor",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "复习",
+      "transcription": "fùxí",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "revise; review",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "负责",
+      "transcription": "fùzé",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "be responsible for; conscientious",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "该",
+      "transcription": "gāi",
+      "category": {
+        "lexical": "aux, v"
+      },
+      "translation": {
+        "eng": "should; ought to; owe; sb.'s turn",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "改",
+      "transcription": "gǎi",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "change; transform; rectify; correct",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "改变",
+      "transcription": "gǎibiàn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "change; alter; transform",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "感到",
+      "transcription": "gǎndào",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "feel; sense; think",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "感冒",
+      "transcription": "gǎnmào",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "common cold",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "感谢",
+      "transcription": "gǎnxiè",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "thank; be grateful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "干",
+      "transcription": "gàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "do; work",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "高兴",
+      "transcription": "gāoxìng",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "glad; cheerful; be happy to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "搞",
+      "transcription": "gǎo",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "do; cause; make; get hold of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "告诉",
+      "transcription": "gàosù",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "tell; let know",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "给",
+      "transcription": "gěi",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "give; grant",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "跟",
+      "transcription": "gēn",
+      "category": {
+        "lexical": "prep, conj, v"
+      },
+      "translation": {
+        "eng": "with; and; follow",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "工作",
+      "transcription": "gōngzuò",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "work; job",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "够",
+      "transcription": "gòu",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "be enough; be up to; reach; quite",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "刮",
+      "transcription": "guā",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "(刮) scrape; shave; smear with; (颳) blow",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "挂",
+      "transcription": "guà",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "hang; call up; ring off",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "关",
+      "transcription": "guān",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "shut; lock up; turn off; close down",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "关系",
+      "transcription": "guānxì",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "relation; relationship",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "关心",
+      "transcription": "guānxīn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "be concerned with; care for",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "广播",
+      "transcription": "guǎngbō",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "broadcast; be on the air",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "过",
+      "transcription": "guò",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "pass; spend time; go through",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "喊",
+      "transcription": "hǎn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "shout; cry out; yell; call sb.",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "好像",
+      "transcription": "hǎoxiàng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "seem; look like; be like; as if",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "喝",
+      "transcription": "hē",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "drink",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "花",
+      "transcription": "huā",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "spend; expend; cost",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "画",
+      "transcription": "huà",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "draw; paint",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "欢迎",
+      "transcription": "huānyíng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "welcome; greet; favorably receive",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "还",
+      "transcription": "huán",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "give back; return; give sth. in return",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "换",
+      "transcription": "huàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "exchange; barter; trade; change",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "回",
+      "transcription": "huí",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "return; turn around; answer; reply",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "回答",
+      "transcription": "huídá",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "answer; reply; response",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "会",
+      "transcription": "huì",
+      "category": {
+        "lexical": "aux, v"
+      },
+      "translation": {
+        "eng": "can; be good at; be likely to; meet",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "会话",
+      "transcription": "huìhuà",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "conversation; converse with",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "活",
+      "transcription": "huó",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "live",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "活动",
+      "transcription": "huódòng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "move about; relax; activity; shaky",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "集合",
+      "transcription": "jíhé",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "gather; assemble; muster",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "挤",
+      "transcription": "jǐ",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "crowded; cram; jostle; squeeze",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "寄",
+      "transcription": "jì",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "send; post; mail",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "计划",
+      "transcription": "jìhuà",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "plan; project; program; map out",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "记",
+      "transcription": "jì",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "mark; remember; jot down; record",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "继续",
+      "transcription": "jìxù",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "continue; go on; continuation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "加",
+      "transcription": "jiā",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "add; plus; increase; put in",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "坚持",
+      "transcription": "jiānchí",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "persist in; persevere in; stick to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "检查",
+      "transcription": "jiǎnchá",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "check up; inspect; self-criticism",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "见",
+      "transcription": "jiàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "meet; see; be exposed to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "建设",
+      "transcription": "jiànshè",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "build; construct; construction",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "讲",
+      "transcription": "jiǎng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "tell; speak; explain; discuss; stress",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "交",
+      "transcription": "jiāo",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "hand over; deliver; associate with",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "教",
+      "transcription": "jiāo",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "teach; instruct",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "教育",
+      "transcription": "jiàoyù",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "education; educate; teach",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "叫",
+      "transcription": "jiào",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "call; greet; order; name; shout; cry",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "叫",
+      "transcription": "jiào",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "(used to make a passive sentence)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "接",
+      "transcription": "jiē",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "meet; connect; catch; take over",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "结束",
+      "transcription": "jiéshù",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "end; finish; conclude; wind up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "解决",
+      "transcription": "jiějué",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "resolve; settle; solve",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "借",
+      "transcription": "jiè",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "borrow; lend; make use of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "介绍",
+      "transcription": "jièshào",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "introduce; recommend; let know",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "进",
+      "transcription": "jìn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "enter; come or go into; recruit",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "进来",
+      "transcription": "jìnlái",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "come in; get in",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "进去",
+      "transcription": "jìnqu",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "go in; get in; enter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "进行",
+      "transcription": "jìnxíng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "be in progress; go on; carry on",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "经过",
+      "transcription": "jīngguò",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "pass; go through; as a result of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "举",
+      "transcription": "jǔ",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "lift; heave; raise; hold up; cite",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "觉得",
+      "transcription": "juéde",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "feel; think",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "决定",
+      "transcription": "juédìng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "decide; resolve; decision; resolution",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "开",
+      "transcription": "kāi",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "open; operate; turn on; hold; boil",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "开始",
+      "transcription": "kāishǐ",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "begin; start",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "看",
+      "transcription": "kàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "see; look at; watch; read; think",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "看见",
+      "transcription": "kànjiàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "see; catch sight of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "考试",
+      "transcription": "kǎoshì",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "examine; test; examination",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "咳嗽",
+      "transcription": "késou",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "cough",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "客气",
+      "transcription": "kèqi",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "polite; act or remark politely",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哭",
+      "transcription": "kū",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "cry",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "拉",
+      "transcription": "lā",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "pull; drag; haul; play; draw in; shit",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "来",
+      "transcription": "lái",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "come; arrive; crop up; take place",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "劳动",
+      "transcription": "láodòng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "work; labor",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "离",
+      "transcription": "lí",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "leave; without; off; away; from",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "离开",
+      "transcription": "líkāi",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "leave; depart from",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "利用",
+      "transcription": "lìyòng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "use; utilize; exploit; make use of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "例如",
+      "transcription": "lìrú",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "for example; for instance",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "联系",
+      "transcription": "liánxì",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "integrate; link; contact; connection",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "练习",
+      "transcription": "liànxí",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "practice; exercise; drill",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "亮",
+      "transcription": "liàng",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "bright; shiny; light; shine; show",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "了",
+      "transcription": "liǎo",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "finish; end; settle; be able",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "了解",
+      "transcription": "liǎojiě",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "understand; know; find out",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "领导",
+      "transcription": "lǐngdǎo",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "lead; leader; leadership",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "留",
+      "transcription": "liú",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "remain; stay; keep; grow; leave",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "留念",
+      "transcription": "liúniàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "accept or keep as souvenir",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "流",
+      "transcription": "liú",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "flow; stream; drip; shed; trickle",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "录音",
+      "transcription": "lùyīn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "record sound; sound recording",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "旅行",
+      "transcription": "lǚxíng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "travel; journey; tour; trip",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "麻烦",
+      "transcription": "máfan",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "troublesome; put sb. to trouble",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "买",
+      "transcription": "mǎi",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "buy; purchase",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "卖",
+      "transcription": "mài",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "sell",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "没",
+      "transcription": "méi",
+      "category": {
+        "lexical": "adv, v"
+      },
+      "translation": {
+        "eng": "not have; there is not; not",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "拿",
+      "transcription": "ná",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "take; hold; seize; capture; with; at",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "念",
+      "transcription": "niàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "read aloud, study, attend school",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "爬",
+      "transcription": "pá",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "crawl; creep; climb",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "怕",
+      "transcription": "pà",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "fear; be afraid of; perhaps",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "拍",
+      "transcription": "pāi",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "clap; pat; beat; shoot; send",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "派",
+      "transcription": "pài",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "send; appoint",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "跑",
+      "transcription": "pǎo",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "run; run away; run about doing sth.",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "碰",
+      "transcription": "pèng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "touch; bump; meet; run into",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "批评",
+      "transcription": "pīpíng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "criticize; criticism",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "破",
+      "transcription": "pò",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "broken; damaged; break; destroy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "骑",
+      "transcription": "qí",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "ride (an animal or bicycle)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "起",
+      "transcription": "qǐ",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "remove; pull; appear; rise; raise",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "请",
+      "transcription": "qǐng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "please; request; ask; invite; engage",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "取得",
+      "transcription": "qǔdé",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "gain; acquire; obtain",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "去",
+      "transcription": "qù",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "go; leave; send; remove; get rid of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "让",
+      "transcription": "ràng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "give way; give ground; invite; let",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "热",
+      "transcription": "rè",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "hot; popular; heat up; warm",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "认识",
+      "transcription": "rènshi",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "recognize; understand; cognition",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "认为",
+      "transcription": "rènwéi",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "think; consider",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "上",
+      "transcription": "shàng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "get on; go up; go to; submit; fill",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "少",
+      "transcription": "shǎo",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "few; little; less; lack; lose; reduce",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "生产",
+      "transcription": "shēngchǎn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "produce; manufacture; production",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "生活",
+      "transcription": "shēnghuó",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "life; livelihood; live; exist",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "剩",
+      "transcription": "shèng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "surplus; remnant; leave (over)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "胜利",
+      "transcription": "shènglì",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "victory; triumph",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "实践",
+      "transcription": "shíjiàn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "live up to; carry out; practice",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "实现",
+      "transcription": "shíxiàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "realize; achieve; bring about",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "使用",
+      "transcription": "shǐyòng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "make use of; use; employ; apply",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "是",
+      "transcription": "shì",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "be",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "试",
+      "transcription": "shì",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "try; test; attempt",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "收",
+      "transcription": "shōu",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "put away; collect; harvest; receive",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "收拾",
+      "transcription": "shōushi",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "put in order; tidy; punish; repair",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "输",
+      "transcription": "shū",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "transport; convey; lose; be beaten",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "数",
+      "transcription": "shǔ",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "count; be reckoned as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "睡",
+      "transcription": "shuì",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "sleep; go to bed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "说",
+      "transcription": "shuō",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "speak; talk; say; scold",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "说明",
+      "transcription": "shuōmíng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "explain; illustrate; show",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "死",
+      "transcription": "sǐ",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "die; pass away; dead; inflexible",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "送",
+      "transcription": "sòng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "send; give; deliver; carry; escort",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "算",
+      "transcription": "suàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "calculate; compute; include; count",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "抬",
+      "transcription": "tái",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "lift up; raise; carry",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "谈",
+      "transcription": "tán",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "talk; chat; discuss",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "躺",
+      "transcription": "tǎng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "lie; recline",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "讨论",
+      "transcription": "tǎolùn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "discuss; discussion",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "疼",
+      "transcription": "téng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "ache; pain",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "踢",
+      "transcription": "tī",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "kick",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "提",
+      "transcription": "tí",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "carry; put forward; draw out; raise",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "提高",
+      "transcription": "tígāo",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "raise; heighten; enhance; increase",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "跳",
+      "transcription": "tiào",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "jump; leap; spring; beat",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "听",
+      "transcription": "tīng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "listen; hear; heed; obey",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "听见",
+      "transcription": "tīngjiàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "hear",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "听写",
+      "transcription": "tīngxiě",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "dictate; dictation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "停",
+      "transcription": "tíng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "stop; cease; be parked",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "通",
+      "transcription": "tōng",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "open up; lead to; understand",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "通过",
+      "transcription": "tōngguò",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "by way of; through; pass through",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "通知",
+      "transcription": "tōngzhī",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "notify; give notice; notice; circular",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "同意",
+      "transcription": "tóngyì",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "agree; consent; approve",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "团结",
+      "transcription": "tuánjié",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "unite; rally",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "推",
+      "transcription": "tuī",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "push; shove; turn a mill; grind",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "退",
+      "transcription": "tuì",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "return; give back; withdraw; fade",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "脱",
+      "transcription": "tuō",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "take off; cast off; strip",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "完",
+      "transcription": "wán",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "use up; be over; finish; complete",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "完成",
+      "transcription": "wánchéng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "accomplish; complete; fulfill",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "玩儿",
+      "transcription": "wánr",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "play; have fun; employ; resort to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "往",
+      "transcription": "wǎng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "go",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "忘",
+      "transcription": "wàng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "forget; neglect",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "为",
+      "transcription": "wéi",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "do; act; be; become",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "问",
+      "transcription": "wèn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "ask; inquire",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "希望",
+      "transcription": "xīwàng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "hope; wish; expect",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "习惯",
+      "transcription": "xíguàn",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "be used to; usual practice; habit",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "喜欢",
+      "transcription": "xǐhuan",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "love; like; be keen to; be fond of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "洗",
+      "transcription": "xǐ",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "wash; bathe; develop (film)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "下",
+      "transcription": "xià",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "descend; fall; issue; go to; put in",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "相信",
+      "transcription": "xiāngxìn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "believe in; have faith in",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "想",
+      "transcription": "xiǎng",
+      "category": {
+        "lexical": "v, aux"
+      },
+      "translation": {
+        "eng": "think; suppose; recall; want to; miss",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "像",
+      "transcription": "xiàng",
+      "category": {
+        "lexical": "v, prep, n"
+      },
+      "translation": {
+        "eng": "be like; resemble; picture; such as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "向",
+      "transcription": "xiàng",
+      "category": {
+        "lexical": "prep, v"
+      },
+      "translation": {
+        "eng": "towards; to; face; be partial to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "笑",
+      "transcription": "xiào",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "smile (at); laugh (at); ridicule",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "写",
+      "transcription": "xiě",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "write; compose; describe",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "谢谢",
+      "transcription": "xièxie",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "thank",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "辛苦",
+      "transcription": "xīnkǔ",
+      "category": {
+        "lexical": "adj, v"
+      },
+      "translation": {
+        "eng": "hard; toilsome; laborious; tire",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "行",
+      "transcription": "xíng",
+      "category": {
+        "lexical": "v, adj"
+      },
+      "translation": {
+        "eng": "all right; O.K.; capable; competent",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "姓",
+      "transcription": "xìng",
+      "category": {
+        "lexical": "n, v"
+      },
+      "translation": {
+        "eng": "be surnamed; family name",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "休息",
+      "transcription": "xiūxi",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "have a rest; rest",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "需要",
+      "transcription": "xūyào",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "need; want; require; demand",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "学",
+      "transcription": "xué",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "study; learn; imitate; mimic",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "学习",
+      "transcription": "xuéxí",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "study; learn; emulate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "研究",
+      "transcription": "yánjiū",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "study; research; consider; discuss",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "演出",
+      "transcription": "yǎnchū",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "perform; put on a show; performance",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "要求",
+      "transcription": "yāoqiú",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "demand; require; claim; ask",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "要",
+      "transcription": "yào",
+      "category": {
+        "lexical": "aux, v"
+      },
+      "translation": {
+        "eng": "want to; wish to; must; shall; ask for",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "以为",
+      "transcription": "yǐwéi",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "think; consider; believe",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "赢",
+      "transcription": "yíng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "win; beat; gain",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "影响",
+      "transcription": "yǐngxiǎng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "influence; affect; effect",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "用",
+      "transcription": "yòng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "use; employ; apply; by means of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "有",
+      "transcription": "yǒu",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "have; possess; exist; there be",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "遇到",
+      "transcription": "yùdào",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "meet with; run into; encounter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "预习",
+      "transcription": "yùxí",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "preview; prepare lessons",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "原谅",
+      "transcription": "yuánliàng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "excuse; forgive; pardon",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "愿意",
+      "transcription": "yuànyì",
+      "category": {
+        "lexical": "aux, v"
+      },
+      "translation": {
+        "eng": "be willing; be ready; wish; like; want",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "运动",
+      "transcription": "yùndòng",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "be in motion; move about; sport",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "再见",
+      "transcription": "zàijiàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "good-bye; see you again",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "在",
+      "transcription": "zài",
+      "category": {
+        "lexical": "prep, v"
+      },
+      "translation": {
+        "eng": "exist; be living; at; on; in",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "增加",
+      "transcription": "zēngjiā",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "increase; raise; add",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "展览",
+      "transcription": "zhǎnlǎn",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "put on display; exhibit; show",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "占",
+      "transcription": "zhàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "occupy; seize; take; constitute",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "站",
+      "transcription": "zhàn",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "stand; be on one's feet; stop; halt",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "长",
+      "transcription": "zhǎng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "grow; develop; acquire; increase",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "掌握",
+      "transcription": "zhǎngwò",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "grasp; master; control; have in hand",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "找",
+      "transcription": "zhǎo",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "look for; return the balance of money",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "照顾",
+      "transcription": "zhàogù",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "look after; give consideration to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "知道",
+      "transcription": "zhīdào",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "know; be aware of; realize",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "指",
+      "transcription": "zhǐ",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "point at; point to; point out; refer to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "住",
+      "transcription": "zhù",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "live; reside; stay; stop; cease",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "注意",
+      "transcription": "zhùyì",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "pay attention to; take notice of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "祝",
+      "transcription": "zhù",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "express good wishes; wish",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "装",
+      "transcription": "zhuāng",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "act; pretend; load; assemble; fit",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "准备",
+      "transcription": "zhǔnbèi",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "prepare; get ready (for); intend",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "走",
+      "transcription": "zǒu",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "walk; visit; pass; leave; go away",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "组织",
+      "transcription": "zǔzhī",
+      "category": {
+        "lexical": "v, n"
+      },
+      "translation": {
+        "eng": "organize; form; organization",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "做",
+      "transcription": "zuò",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "make; do; cook; be; be used as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "作",
+      "transcription": "zuò",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "do; make; compose; write; act as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "坐",
+      "transcription": "zuò",
+      "category": {
+        "lexical": "v"
+      },
+      "translation": {
+        "eng": "sit; take a seat; ride; put on a fire",
+        "pol": ""
+      }
+    }
+  ]
+}

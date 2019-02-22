@@ -1,0 +1,509 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "别的",
+      "transcription": "biéde",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "other; another",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "别人",
+      "transcription": "biéren",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "other people; others",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "大家",
+      "transcription": "dàjiā",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "everybody; all",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "多少",
+      "transcription": "duōshao",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "how many; how much",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "各",
+      "transcription": "gè",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "each; every; various; different",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "各种",
+      "transcription": "gèzhǒng",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "all kinds of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "几",
+      "transcription": "jǐ",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "how many; a few; some",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "每",
+      "transcription": "měi",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "every; each; per; every time",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哪",
+      "transcription": "nǎ/něi",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "which; (used for rhetorical questions)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哪里(哪儿)",
+      "transcription": "nǎli(nǎr)",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "where; wherever",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "那",
+      "transcription": "nà",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "那个",
+      "transcription": "nàge",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "那里(那儿)",
+      "transcription": "nàli(nàr)",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "there",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "那么",
+      "transcription": "nàme",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "like that; in that way",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "那些",
+      "transcription": "nàxiē",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "those",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "那样",
+      "transcription": "nàyàng",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "of that kind; like that; so; such",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "你",
+      "transcription": "nǐ",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "you (the singular form)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "你们",
+      "transcription": "nǐmen",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "you (the plural form)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "您",
+      "transcription": "nín",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "you (in respectful form)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "任何",
+      "transcription": "rènhé",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "any; whichever; whatever",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "什么",
+      "transcription": "shénme",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "what; whatever; why; something",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "谁",
+      "transcription": "sheí/shuí",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "who",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "他",
+      "transcription": "tā",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "he",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "他们",
+      "transcription": "tāmen",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "they; them (for males and females)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "它",
+      "transcription": "tā",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "it",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "它们",
+      "transcription": "tāmen",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "they; them (for things, animals, etc.)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "她",
+      "transcription": "tā",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "she",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "她们",
+      "transcription": "tāmen",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "they; them (for females)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "我",
+      "transcription": "wǒ",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "I; me; our; ourselves",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "我们",
+      "transcription": "wǒmen",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "we; us; our",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一切",
+      "transcription": "yīqiè",
+      "category": {
+        "lexical": "adj, pron"
+      },
+      "translation": {
+        "eng": "all; every; everything",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "有的",
+      "transcription": "yǒude",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "some; some of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "有些",
+      "transcription": "yǒuxiē",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "some; some of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "咱",
+      "transcription": "zán",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "we; us; our; I; me; my",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "咱们",
+      "transcription": "zánmen",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "we; us; our",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "怎么",
+      "transcription": "zěnme",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "how; why; however",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "怎么样",
+      "transcription": "zěnmeyàng",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "how; (a polite formula)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "怎样",
+      "transcription": "zěnyàng",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "how",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "这",
+      "transcription": "zhè",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "this; this moment; now",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "这个",
+      "transcription": "zhège",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "this one; this",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "这里(这儿)",
+      "transcription": "zhèlǐ(zhèr)",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "here",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "这么",
+      "transcription": "zhème",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "so; such; this way; like this",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "这些",
+      "transcription": "zhèxiē",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "these",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "这样",
+      "transcription": "zhèyàng",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "so; such; like this; this way",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "自己",
+      "transcription": "zìjǐ",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "oneself; closely related; own",
+        "pol": ""
+      }
+    }
+  ]
+}

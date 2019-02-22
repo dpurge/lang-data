@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "八",
+      "transcription": "bā",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "eight",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "百",
+      "transcription": "bǎi",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "hundred",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "半",
+      "transcription": "bàn",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "half; halfway",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "多",
+      "transcription": "duō",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "a little or few more than",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "二",
+      "transcription": "èr",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "two",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "九",
+      "transcription": "jiǔ",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "nine",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "俩",
+      "transcription": "liǎ",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "two people (used in oral Chinese)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "两",
+      "transcription": "liǎng",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "two; a few; some",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "零",
+      "transcription": "líng",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "zero, 0",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "六",
+      "transcription": "liù",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "six",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "七",
+      "transcription": "qī",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "seven",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "千",
+      "transcription": "qiān",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "thousand",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "三",
+      "transcription": "sān",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "three",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "十",
+      "transcription": "shí",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "ten",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "四",
+      "transcription": "sì",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "four",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "万",
+      "transcription": "wàn",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "ten thousand; a very great number",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "五",
+      "transcription": "wǔ",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "five",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一",
+      "transcription": "yī",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "one; once; as soon as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "亿",
+      "transcription": "yì",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "a hundred million",
+        "pol": ""
+      }
+    }
+  ]
+}

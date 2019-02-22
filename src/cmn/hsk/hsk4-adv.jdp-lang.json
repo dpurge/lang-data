@@ -1,0 +1,1059 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk4"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "必将",
+      "transcription": "bìjiāng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "surely",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不定",
+      "transcription": "bùdìng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "inconstantly",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不愧",
+      "transcription": "bùkuì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "creditably",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不妨",
+      "transcription": "bùfáng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "might as well",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不时",
+      "transcription": "bùshí",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "now and then",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不宜",
+      "transcription": "bùyí",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "not suitable; inadvisable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不至于",
+      "transcription": "bùzhìyú",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "not to such an extent as to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "成心",
+      "transcription": "chéngxīn",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "on purpose",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "乘机",
+      "transcription": "chéngjī",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "seize the opportunity",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "从头",
+      "transcription": "cóngtóu",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "from the beginning",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "从未",
+      "transcription": "cóngwèi",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "never",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "从小",
+      "transcription": "cóngxiǎo",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "from childhood",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "从中",
+      "transcription": "cóngzhōng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "from among",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "凑巧",
+      "transcription": "còuqiǎo",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "luckily; fortunately",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "大多",
+      "transcription": "dàduō",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "mostly",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "大肆",
+      "transcription": "dàsì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "without restraint; wantonly",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "大体",
+      "transcription": "dàtǐ",
+      "category": {
+        "lexical": "adv, n"
+      },
+      "translation": {
+        "eng": "in general",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "当场",
+      "transcription": "dāngchǎng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "on the spot",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "定向",
+      "transcription": "dìngxiàng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "directional",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "而后",
+      "transcription": "érhòu",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "moreover",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "反倒",
+      "transcription": "fǎndào",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "on the contrary; instead",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "分外",
+      "transcription": "fènwài",
+      "category": {
+        "lexical": "adv, n"
+      },
+      "translation": {
+        "eng": "especially; very",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "奋勇",
+      "transcription": "fènyǒng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "bravely",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "复",
+      "transcription": "fù",
+      "category": {
+        "lexical": "v, adv"
+      },
+      "translation": {
+        "eng": "again; resume",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "高低",
+      "transcription": "gāodī",
+      "category": {
+        "lexical": "n, adv"
+      },
+      "translation": {
+        "eng": "height",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "公然",
+      "transcription": "gōngrán",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "to the teeth; under one's nose",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "姑且",
+      "transcription": "gūqiě",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "for the moment",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "过于",
+      "transcription": "guòyú",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "too; excessively",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "好在",
+      "transcription": "hǎozài",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "fortunately",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "何等",
+      "transcription": "héděng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "how; what kind",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "胡",
+      "transcription": "hú",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "carelessly",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "或许",
+      "transcription": "huòxǔ",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "maybe; probably",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "极度",
+      "transcription": "jídù",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "extremely",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "极力",
+      "transcription": "jílì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "do one's utmost",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "及早",
+      "transcription": "jízǎo",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "as soon as possible",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "急剧",
+      "transcription": "jíjù",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "quick; sharp",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "皆",
+      "transcription": "jiē",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "all",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "尽快",
+      "transcription": "jǐnkuài",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "as soon as possible",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "就地",
+      "transcription": "jiùdì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "on the spot",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "就近",
+      "transcription": "jiùjìn",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "handily",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "连连",
+      "transcription": "liánlián",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "again and again",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "连夜",
+      "transcription": "liányè",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "that very night",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "屡次",
+      "transcription": "lǚcì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "over and over; frequently",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "略微",
+      "transcription": "lüèwēi",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "appreciably; a little",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "莫",
+      "transcription": "mò",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "no",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "默默",
+      "transcription": "mòmò",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "silently",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "乃",
+      "transcription": "nǎi",
+      "category": {
+        "lexical": "v, adv"
+      },
+      "translation": {
+        "eng": "be; so; therefore",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "颇",
+      "transcription": "pō",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "quite; pretty",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "恰巧",
+      "transcription": "qiàqiǎo",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "happen to; by chance",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "亲笔",
+      "transcription": "qīnbǐ",
+      "category": {
+        "lexical": "n, adv"
+      },
+      "translation": {
+        "eng": "autography",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "亲手",
+      "transcription": "qīnshǒu",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "personally",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "全都",
+      "transcription": "quándōu",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "all",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "擅自",
+      "transcription": "shànzì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "do sth, without authorization",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "尚",
+      "transcription": "shàng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "yet; still",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "生怕",
+      "transcription": "shēngpà",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "for fear that; so as not to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "时而",
+      "transcription": "shí'ér",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "from time to time; now … now …",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "势必",
+      "transcription": "shìbì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "certainly will",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "私自",
+      "transcription": "sīzì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "without permission; privately",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "随意",
+      "transcription": "suíyì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "random; casual",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "索性",
+      "transcription": "suǒxìng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "might as well",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "特地",
+      "transcription": "tèdì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "specially",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "特意",
+      "transcription": "tèyì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "specially",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "唯独",
+      "transcription": "wéidú",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "alone; only",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "未免",
+      "transcription": "wèimiǎn",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "rather; a bit too",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "无从",
+      "transcription": "wúcóng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "have no way",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "无非",
+      "transcription": "wúfēi",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "nothing but; no more than",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "勿",
+      "transcription": "wù",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "not",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "务必",
+      "transcription": "wùbì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "must; be sure to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "相继",
+      "transcription": "xiāngjì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "one after the other",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "幸好",
+      "transcription": "xìnghǎo",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "fortunately",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "徐徐",
+      "transcription": "xúxú",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "gently; slowly",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一旦",
+      "transcription": "yīdàn",
+      "category": {
+        "lexical": "n, adv"
+      },
+      "translation": {
+        "eng": "once; in case",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一度",
+      "transcription": "yīdù",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "once",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一概",
+      "transcription": "yīgài",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "entirely",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一个劲儿",
+      "transcription": "yīgejìn'er",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "persistently",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一举",
+      "transcription": "yījǔ",
+      "category": {
+        "lexical": "n, adv"
+      },
+      "translation": {
+        "eng": "at one swoop",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "一头",
+      "transcription": "yītóu",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "wholeheartedly",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "依次",
+      "transcription": "yīcì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "in turn",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "亦",
+      "transcription": "yì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "too; also",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "毅然",
+      "transcription": "yìrán",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "resolutely",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "愈",
+      "transcription": "yù",
+      "category": {
+        "lexical": "v, adv"
+      },
+      "translation": {
+        "eng": "more; recover",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "暂",
+      "transcription": "zàn",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "temporarily",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "暂且",
+      "transcription": "zànqiě",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "for the moment",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "早日",
+      "transcription": "zǎorì",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "early; soon",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "正巧",
+      "transcription": "zhèngqiǎo",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "just in time",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "只顾",
+      "transcription": "zhǐgù",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "merely; simply; be absorbed in",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "只管",
+      "transcription": "zhǐguǎn",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "by all means",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "只能",
+      "transcription": "zhǐnéng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "can but",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "至多",
+      "transcription": "zhìduō",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "by most",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "终",
+      "transcription": "zhōng",
+      "category": {
+        "lexical": "n, adv"
+      },
+      "translation": {
+        "eng": "end; finally",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "终究",
+      "transcription": "zhōngjiū",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "after all",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "逐年",
+      "transcription": "zhúnián",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "year after year",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "专程",
+      "transcription": "zhuānchéng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "special trip",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "自行",
+      "transcription": "zìxíng",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "by oneself",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "足以",
+      "transcription": "zúyǐ",
+      "category": {
+        "lexical": "adv"
+      },
+      "translation": {
+        "eng": "enough",
+        "pol": ""
+      }
+    }
+  ]
+}

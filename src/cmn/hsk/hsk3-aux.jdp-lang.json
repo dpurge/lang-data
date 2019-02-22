@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "当",
+      "transcription": "dāng",
+      "category": {
+        "lexical": "aux"
+      },
+      "translation": {
+        "eng": "should; ought to; must",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "须",
+      "transcription": "xū",
+      "category": {
+        "lexical": "aux"
+      },
+      "translation": {
+        "eng": "must; have to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "愿",
+      "transcription": "yuàn",
+      "category": {
+        "lexical": "v, aux"
+      },
+      "translation": {
+        "eng": "hope; wish; desire; be willing",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "总得",
+      "transcription": "zǒngděi",
+      "category": {
+        "lexical": "aux"
+      },
+      "translation": {
+        "eng": "eventually-must; must; have to; be obliged to",
+        "pol": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk2"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "哎",
+      "transcription": "āi",
+      "category": {
+        "lexical": "interj"
+      },
+      "translation": {
+        "eng": "hey",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哎呀",
+      "transcription": "āiyā",
+      "category": {
+        "lexical": "interj"
+      },
+      "translation": {
+        "eng": "oh",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "嘿",
+      "transcription": "hēi",
+      "category": {
+        "lexical": "interj"
+      },
+      "translation": {
+        "eng": "ha",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哼",
+      "transcription": "hēng",
+      "category": {
+        "lexical": "v, interj"
+      },
+      "translation": {
+        "eng": "hum; croon; huh",
+        "pol": ""
+      }
+    }
+  ]
+}

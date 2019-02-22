@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk2"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "肯",
+      "transcription": "kěn",
+      "category": {
+        "lexical": "part, v"
+      },
+      "translation": {
+        "eng": "be willing to; will; agree",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "来",
+      "transcription": "lái",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "ever since",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "所",
+      "transcription": "suǒ",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "used in a passive voice sentence",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "哇",
+      "transcription": "wa",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "used to denote sigh or certainty",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "以来",
+      "transcription": "yǐlái",
+      "category": {
+        "lexical": "part"
+      },
+      "translation": {
+        "eng": "since",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "应",
+      "transcription": "yīng",
+      "category": {
+        "lexical": "part, v"
+      },
+      "translation": {
+        "eng": "should; ought to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "应当",
+      "transcription": "yīngdāng",
+      "category": {
+        "lexical": "part, v"
+      },
+      "translation": {
+        "eng": "should; ought to; must",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "左右",
+      "transcription": "zuǒyòu",
+      "category": {
+        "lexical": "part, v"
+      },
+      "translation": {
+        "eng": "about; approximate; influence; control",
+        "pol": ""
+      }
+    }
+  ]
+}

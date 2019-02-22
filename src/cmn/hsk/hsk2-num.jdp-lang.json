@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk2"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "来",
+      "transcription": "lái",
+      "category": {
+        "lexical": "num"
+      },
+      "translation": {
+        "eng": "about; more or less",
+        "pol": ""
+      }
+    }
+  ]
+}

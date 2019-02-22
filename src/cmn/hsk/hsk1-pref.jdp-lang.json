@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "第(第一)",
+      "transcription": "dì (dìyī)",
+      "category": {
+        "lexical": "pref"
+      },
+      "translation": {
+        "eng": "used to form ordinal numbers",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "老(老二)",
+      "transcription": "lǎo(lǎo'èr)",
+      "category": {
+        "lexical": "adj, pref"
+      },
+      "translation": {
+        "eng": "old; aged; tough; of long standing",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "小(小李)",
+      "transcription": "xiǎo",
+      "category": {
+        "lexical": "adj, pref"
+      },
+      "translation": {
+        "eng": "small; little; petty; minor; young",
+        "pol": ""
+      }
+    }
+  ]
+}

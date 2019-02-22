@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "不但",
+      "transcription": "bùdàn",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "not only",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "不如",
+      "transcription": "bùrú",
+      "category": {
+        "lexical": "v, conj"
+      },
+      "translation": {
+        "eng": "not as good as; better to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "但是",
+      "transcription": "dànshì",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "but; however; yet, nevertheless",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "而且",
+      "transcription": "érqiě",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "moreover; in addition; but also",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "跟",
+      "transcription": "gēn",
+      "category": {
+        "lexical": "prep, conj, v"
+      },
+      "translation": {
+        "eng": "with; and; follow",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "还是",
+      "transcription": "háishì",
+      "category": {
+        "lexical": "adv, conj"
+      },
+      "translation": {
+        "eng": "still; nevertheless; had better; or",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "和",
+      "transcription": "hé",
+      "category": {
+        "lexical": "prep, conj"
+      },
+      "translation": {
+        "eng": "and; with; to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "或者",
+      "transcription": "huòzhě",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "or; perhaps; maybe",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "接着",
+      "transcription": "jiēzhe",
+      "category": {
+        "lexical": "adv, conj"
+      },
+      "translation": {
+        "eng": "then; afterward; follow",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "结果",
+      "transcription": "jiéguǒ",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "finally; at last; result; outcome",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "就",
+      "transcription": "jiù",
+      "category": {
+        "lexical": "adv, conj"
+      },
+      "translation": {
+        "eng": "with regard to; even if; at once",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "可是",
+      "transcription": "kěshì",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "but; nevertheless; yet; indeed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "那",
+      "transcription": "nà",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "then; in that case",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "那么",
+      "transcription": "nàme",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "then; in that case",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "虽然",
+      "transcription": "suīrán",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "though; although",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "所以",
+      "transcription": "suǒyǐ",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "so; therefore; as a result",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "要是",
+      "transcription": "yàoshi",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "in case; if; suppose",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "因为",
+      "transcription": "yīnwèi",
+      "category": {
+        "lexical": "conj"
+      },
+      "translation": {
+        "eng": "because; on account of; because of",
+        "pol": ""
+      }
+    }
+  ]
+}

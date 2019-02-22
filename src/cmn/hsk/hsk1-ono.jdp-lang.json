@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "哈哈",
+      "transcription": "hāhā",
+      "category": {
+        "lexical": "ono"
+      },
+      "translation": {
+        "eng": "ha-ha (the sound of laughing)",
+        "pol": ""
+      }
+    }
+  ]
+}

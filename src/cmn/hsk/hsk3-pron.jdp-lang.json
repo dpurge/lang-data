@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk3"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "本人",
+      "transcription": "běnrén",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "I; me; myself; oneself",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "本身",
+      "transcription": "běnshēn",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "itself; in itself",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "彼此",
+      "transcription": "bǐcǐ",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "each other; one another",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "各自",
+      "transcription": "gèzì",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "each; respective",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "某些",
+      "transcription": "mǒuxiē",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "some; certain",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "其",
+      "transcription": "qí",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "it; they; she; he; its; their; her; his; that; such",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "人家",
+      "transcription": "rénjia",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "everyone else; he; him; she; her; they; them; I; me",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "如此",
+      "transcription": "rúcǐ",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "that be like this; that be so",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "之",
+      "transcription": "zhī",
+      "category": {
+        "lexical": "pron"
+      },
+      "translation": {
+        "eng": "it; they; them; I; me; he; him; she; her; we; us; you",
+        "pol": ""
+      }
+    }
+  ]
+}

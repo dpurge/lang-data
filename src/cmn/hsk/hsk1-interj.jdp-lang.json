@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "啊",
+      "transcription": "ā",
+      "category": {
+        "lexical": "interj"
+      },
+      "translation": {
+        "eng": "ah",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "嗯",
+      "transcription": "ng",
+      "category": {
+        "lexical": "interj"
+      },
+      "translation": {
+        "eng": "(interjection expressing what or huh)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "喂",
+      "transcription": "wèi",
+      "category": {
+        "lexical": "interj"
+      },
+      "translation": {
+        "eng": "hello",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "呀",
+      "transcription": "yā",
+      "category": {
+        "lexical": "interj"
+      },
+      "translation": {
+        "eng": "ah; oh; creak",
+        "pol": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "hsk1"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "把",
+      "transcription": "bǎ",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "(function word)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "被",
+      "transcription": "bèi",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "by",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "比",
+      "transcription": "bǐ",
+      "category": {
+        "lexical": "prep, v"
+      },
+      "translation": {
+        "eng": "emulate; compare; than",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "朝",
+      "transcription": "cháo",
+      "category": {
+        "lexical": "prep, v"
+      },
+      "translation": {
+        "eng": "toward; face",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "从",
+      "transcription": "cóng",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "from; since; through; ever",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "当",
+      "transcription": "dāng",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "at (a time or place); facing",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "对",
+      "transcription": "duì",
+      "category": {
+        "lexical": "prep, v"
+      },
+      "translation": {
+        "eng": "towards; treat; compare; aim at",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "给",
+      "transcription": "gěi",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "give; grant",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "跟",
+      "transcription": "gēn",
+      "category": {
+        "lexical": "prep, conj, v"
+      },
+      "translation": {
+        "eng": "with; and; follow",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "和",
+      "transcription": "hé",
+      "category": {
+        "lexical": "prep, conj"
+      },
+      "translation": {
+        "eng": "and; with; to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "叫",
+      "transcription": "jiào",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "(used to make a passive sentence)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "离",
+      "transcription": "lí",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "leave; without; off; away; from",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "通过",
+      "transcription": "tōngguò",
+      "category": {
+        "lexical": "v, prep"
+      },
+      "translation": {
+        "eng": "by way of; through; pass through",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "往",
+      "transcription": "wǎng",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "to; toward; in the direction of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "为",
+      "transcription": "wèi",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "(indicating the cause or purpose)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "为了",
+      "transcription": "wèile",
+      "category": {
+        "lexical": "prep"
+      },
+      "translation": {
+        "eng": "for; for the sake of; in order to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "像",
+      "transcription": "xiàng",
+      "category": {
+        "lexical": "v, prep, n"
+      },
+      "translation": {
+        "eng": "be like; resemble; picture; such as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "向",
+      "transcription": "xiàng",
+      "category": {
+        "lexical": "prep, v"
+      },
+      "translation": {
+        "eng": "towards; to; face; be partial to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "在",
+      "transcription": "zài",
+      "category": {
+        "lexical": "prep, v"
+      },
+      "translation": {
+        "eng": "exist; be living; at; on; in",
+        "pol": ""
+      }
+    }
+  ]
+}
