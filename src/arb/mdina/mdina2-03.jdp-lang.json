@@ -4,7 +4,7 @@
     "version": 1,
     "language": "arb",
     "source": "Abdur-Raheem \"Lessons in Arabic language\"",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "mdina2-03"
     ]
@@ -14,7 +14,7 @@
       "phrase": "مَهْجَعٌ",
       "transcription": "",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "hostel, schronisko"}
+      "translation": {"eng": "", "pol": "hostel; schronisko"}
     },
     {
       "phrase": "كَوْكَبٌ",
@@ -49,7 +49,7 @@
     {
       "phrase": "نَوافِذُ",
       "transcription": "",
-      "category": {"lexical": "N pl"},
+      "category": {"lexical": "N", "grammatical": {"number": "plural"}},
       "translation": {"eng": "", "pol": "okna"}
     },
     {
@@ -74,7 +74,7 @@
       "phrase": "وَاسِعٌ",
       "transcription": "",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "obszerny, rozległy, wielki"}
+      "translation": {"eng": "", "pol": "obszerny; rozległy; wielki"}
     },
     {
       "phrase": "شَهِيرٌ",
@@ -91,13 +91,13 @@
     {
       "phrase": "كَسْلَى",
       "transcription": "",
-      "category": {"lexical": "Adj f"},
+      "category": {"lexical": "Adj", "grammatical": {"gender": "feminine"}},
       "translation": {"eng": "", "pol": "leniwa"}
     },
     {
       "phrase": "كَسْلانُ",
       "transcription": "",
-      "category": {"lexical": "Adj m"},
+      "category": {"lexical": "Adj", "grammatical": {"gender": "masculine"}},
       "translation": {"eng": "", "pol": "leniwy"}
     }
   ]

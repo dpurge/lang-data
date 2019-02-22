@@ -4,7 +4,7 @@
     "version": 1,
     "language": "arb",
     "source": "Abdur-Raheem \"Lessons in Arabic language\"",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "mdina-1-1"
     ]
@@ -110,7 +110,7 @@
       "phrase": "قَلَمٌ",
       "transcription": "qalam",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pióro, ołówek"}
+      "translation": {"eng": "", "pol": "pióro; ołówek"}
     },
     {
       "phrase": "مِفْتَاحٌ",

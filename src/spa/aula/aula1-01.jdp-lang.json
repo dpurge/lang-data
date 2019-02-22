@@ -4,7 +4,7 @@
     "version": 1,
     "language": "",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "aula1-01"
     ]
@@ -37,7 +37,7 @@
     {
       "phrase": "vosotros",
       "transcription": "",
-      "category": {"lexical": "m"},
+      "category": {"lexical": "", "grammatical": {"gender": "masculine"}},
       "translation": {"eng": "", "pol": "wy"}
     },
     {
@@ -205,7 +205,7 @@
     {
       "phrase": "el aula",
       "transcription": "",
-      "category": {"lexical": "N f"},
+      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
       "translation": {"eng": "", "pol": "sala wykładowa, aula"}
     },
     {
@@ -261,10 +261,7 @@
       "transcription": "",
       "category": {"lexical": ""},
       "translation": {"eng": "", "pol": "architekt"},
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "kobieta"
+      "note": {"eng": "", "pol": "kobieta"}
     },
     {
       "phrase": "español",
@@ -565,10 +562,7 @@
       "transcription": "",
       "category": {"lexical": ""},
       "translation": {"eng": "", "pol": "żeby"},
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "+ bezokolicznik"
+      "note": {"eng": "", "pol": "+ bezokolicznik"}
     },
     {
       "phrase": "preguntar",
@@ -995,10 +989,7 @@
       "transcription": "",
       "category": {"lexical": ""},
       "translation": {"eng": "", "pol": "amerykański"},
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "z USA"
+      "note": {"eng": "", "pol": "z USA"}
     },
     {
       "phrase": "el cocinero",
@@ -1071,10 +1062,7 @@
       "transcription": "",
       "category": {"lexical": ""},
       "translation": {"eng": "", "pol": "prezydent"},
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "kobieta"
+      "note": {"eng": "", "pol": "kobieta"}
     },
     {
       "phrase": "estudiar",
@@ -1111,10 +1099,7 @@
       "transcription": "",
       "category": {"lexical": ""},
       "translation": {"eng": "", "pol": "grafik komputerowy"},
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "kobieta"
+      "note": {"eng": "", "pol": "kobieta"}
     },
     {
       "phrase": "el amigo",
@@ -1185,13 +1170,13 @@
     {
       "phrase": "México",
       "transcription": "",
-      "category": {"lexical": "m"},
+      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
       "translation": {"eng": "", "pol": "Meksyk"}
     },
     {
       "phrase": "Cuba",
       "transcription": "",
-      "category": {"lexical": "N f"},
+      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
       "translation": {"eng": "", "pol": "Kuba"}
     },
     {
@@ -1203,25 +1188,25 @@
     {
       "phrase": "Puerto Rico",
       "transcription": "",
-      "category": {"lexical": "m"},
+      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
       "translation": {"eng": "", "pol": "Portoryko"}
     },
     {
       "phrase": "Guatemala",
       "transcription": "",
-      "category": {"lexical": "N f"},
+      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
       "translation": {"eng": "", "pol": "Gwatemala"}
     },
     {
       "phrase": "Honduras",
       "transcription": "",
-      "category": {"lexical": "N f"},
+      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
       "translation": {"eng": "", "pol": "Honduras"}
     },
     {
       "phrase": "Nicaragua",
       "transcription": "",
-      "category": {"lexical": "N f"},
+      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
       "translation": {"eng": "", "pol": "Nikaragua"}
     },
     {
@@ -1233,67 +1218,67 @@
     {
       "phrase": "Costa Rica",
       "transcription": "",
-      "category": {"lexical": "m"},
+      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
       "translation": {"eng": "", "pol": "Kostaryka"}
     },
     {
       "phrase": "Panamá",
       "transcription": "",
-      "category": {"lexical": "m"},
+      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
       "translation": {"eng": "", "pol": "Panama"}
     },
     {
       "phrase": "Venezuela",
       "transcription": "",
-      "category": {"lexical": "N f"},
+      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
       "translation": {"eng": "", "pol": "Wenezuela"}
     },
     {
       "phrase": "Colombia",
       "transcription": "",
-      "category": {"lexical": "N f"},
+      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
       "translation": {"eng": "", "pol": "Kolumbia"}
     },
     {
       "phrase": "Ecuador",
       "transcription": "",
-      "category": {"lexical": "m"},
+      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
       "translation": {"eng": "", "pol": "Ekwador"}
     },
     {
       "phrase": "Perú",
       "transcription": "",
-      "category": {"lexical": "m"},
+      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
       "translation": {"eng": "", "pol": "Peru"}
     },
     {
       "phrase": "Bolivia",
       "transcription": "",
-      "category": {"lexical": "N f"},
+      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
       "translation": {"eng": "", "pol": "Boliwia"}
     },
     {
       "phrase": "Paraguay",
       "transcription": "",
-      "category": {"lexical": "N m"},
+      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
       "translation": {"eng": "", "pol": "Paragwaj"}
     },
     {
       "phrase": "Chile",
       "transcription": "",
-      "category": {"lexical": "m"},
+      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
       "translation": {"eng": "", "pol": "Czile"}
     },
     {
       "phrase": "Uruguay",
       "transcription": "",
-      "category": {"lexical": "N m"},
+      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
       "translation": {"eng": "", "pol": "Urugwaj"}
     },
     {
       "phrase": "Argentina",
       "transcription": "",
-      "category": {"lexical": "N f"},
+      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
       "translation": {"eng": "", "pol": "Argentyna"}
     },
     {
@@ -1301,10 +1286,7 @@
       "transcription": "",
       "category": {"lexical": ""},
       "translation": {"eng": "", "pol": "mariachi"},
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "meksykański muzykant"
+      "note": {"eng": "", "pol": "meksykański muzykant"}
     },
     {
       "phrase": "típico",
@@ -1329,10 +1311,7 @@
       "transcription": "",
       "category": {"lexical": ""},
       "translation": {"eng": "", "pol": "muzyk"},
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "kobieta"
+      "note": {"eng": "", "pol": "kobieta"}
     },
     {
       "phrase": "que",
@@ -1345,10 +1324,7 @@
       "transcription": "",
       "category": {"lexical": ""},
       "translation": {"eng": "", "pol": "grać"},
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "na instrumencie"
+      "note": {"eng": "", "pol": "na instrumencie"}
     },
     {
       "phrase": "tocar un instrumento",
@@ -1445,10 +1421,7 @@
       "transcription": "",
       "category": {"lexical": ""},
       "translation": {"eng": "", "pol": "i; a"},
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "przed i- i hi-"
+      "note": {"eng": "", "pol": "przed i- i hi-"}
     },
     {
       "phrase": "indígena",
@@ -1617,10 +1590,7 @@
       "transcription": "",
       "category": {"lexical": ""},
       "translation": {"eng": "", "pol": "cześć"},
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "pożegnanie"
+      "note": {"eng": "", "pol": "na pożegnanie"}
     },
     {
       "phrase": "hasta la próxima",
@@ -1645,10 +1615,7 @@
       "transcription": "",
       "category": {"lexical": ""},
       "translation": {"eng": "", "pol": "Jak leci?"},
-      "image": "",
-      "audio": "",
-      "video": "",
-      "note": "potocznie w Meksyku"
+      "note": {"eng": "", "pol": "potocznie w Meksyku"}
     },
     {
       "phrase": "¿Cómo estás?",

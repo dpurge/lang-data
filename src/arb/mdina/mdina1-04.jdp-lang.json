@@ -4,7 +4,7 @@
     "version": 1,
     "language": "arb",
     "source": "Abdur-Raheem \"Lessons in Arabic language\"",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "mdina-1-4"
     ]
@@ -44,7 +44,7 @@
       "phrase": "غُرْفَةٌ",
       "transcription": "ġurfa",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pokój, izba"}
+      "translation": {"eng": "", "pol": "pokój; izba"}
     },
     {
       "phrase": "الحَمَّامُ",
@@ -122,7 +122,7 @@
       "phrase": "المُدِيرُ",
       "transcription": "al-mudīr",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dyrektor, kierownik"}
+      "translation": {"eng": "", "pol": "dyrektor; kierownik"}
     }
   ]
 }

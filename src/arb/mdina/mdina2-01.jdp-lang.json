@@ -4,7 +4,7 @@
     "version": 1,
     "language": "arb",
     "source": "Abdur-Raheem \"Lessons in Arabic language\"",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "mdina-2-1"
     ]
@@ -32,7 +32,7 @@
       "phrase": "ذَكِيٌّ",
       "transcription": "ḏakī",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "inteligentny, bystry"}
+      "translation": {"eng": "", "pol": "inteligentny; bystry"}
     },
     {
       "phrase": "غَبِيٌّ",
@@ -50,19 +50,19 @@
       "phrase": "صَفْحَةٌ",
       "transcription": "ṣafḥa",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "strona, kartka"}
+      "translation": {"eng": "", "pol": "strona; kartka"}
     },
     {
       "phrase": "نَاجِحٌ",
       "transcription": "nāǧiḥ",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ten kto zdał egzamin"}
+      "translation": {"eng": "", "pol": "ten, kto zdał egzamin"}
     },
     {
       "phrase": "غَالٍ",
       "transcription": "ġālin",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "drogi, kosztowny"}
+      "translation": {"eng": "", "pol": "drogi; kosztowny"}
     },
     {
       "phrase": "كُمٌّ",
@@ -80,7 +80,7 @@
       "phrase": "عَزَبٌ",
       "transcription": "ʿazab",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kawaler, stanu wolnego"}
+      "translation": {"eng": "", "pol": "kawaler; stanu wolnego"}
     },
     {
       "phrase": "يَهُودِيٌّ",
