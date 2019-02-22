@@ -14,7 +14,7 @@
       "phrase": "开心",
       "transcription": "kāixīn",
       "category": {"lexical": "Adj"},
-      "translation": {"eng": "", "pol": "zadowolony, szczęśliwy"}
+      "translation": {"eng": "", "pol": "zadowolony; szczęśliwy"}
     },
     {
       "phrase": "互相",
@@ -271,14 +271,26 @@
     {
       "phrase": "变化",
       "transcription": "biànhuà",
-      "category": {"lexical": "v, n"},
-      "translation": {"eng": "", "pol": "zmienić się; zmiana"}
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "zmienić się"}
+    },
+    {
+      "phrase": "变化",
+      "transcription": "biànhuà",
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "zmiana"}
     },
     {
       "phrase": "国家",
       "transcription": "guójiā",
-      "category": {"lexical": "n, j"},
-      "translation": {"eng": "", "pol": "państwo, kraj, naród; narodowy, państwowy"}
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "państwo; kraj; naród"}
+    },
+    {
+      "phrase": "国家",
+      "transcription": "guójiā",
+      "category": {"lexical": "Adj"},
+      "translation": {"eng": "", "pol": "narodowy; państwowy"}
     },
     {
       "phrase": "组",
@@ -289,14 +301,14 @@
     {
       "phrase": "情况",
       "transcription": "qíngkuàng",
-      "category": {"lexical": "n"},
-      "translation": {"eng": "", "pol": "sytuacja, status, okoliczności"}
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "sytuacja; status; okoliczności"}
     },
     {
       "phrase": "重新",
       "transcription": "chóngxīn",
-      "category": {"lexical": "a"},
-      "translation": {"eng": "", "pol": "znów, ponownie, jeszcze raz, od nowa"}
+      "category": {"lexical": "Adv"},
+      "translation": {"eng": "", "pol": "znów; ponownie; jeszcze raz; od nowa"}
     },
     {
       "phrase": "分",
@@ -307,25 +319,25 @@
     {
       "phrase": "组员",
       "transcription": "zǔyuán",
-      "category": {"lexical": "n"},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "członek grupy"}
     },
     {
       "phrase": "缺点",
       "transcription": "quēdiǎn",
-      "category": {"lexical": "n"},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "wada, defekt, niedogodność"}
     },
     {
       "phrase": "广东话",
       "transcription": "Guǎngdōnghuà",
-      "category": {"lexical": "n"},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "język kantoński"}
     },
     {
       "phrase": "普通话",
       "transcription": "pǔtōnghuà",
-      "category": {"lexical": "n"},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "standardowy język chiński"}
     }
   ]
