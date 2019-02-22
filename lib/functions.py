@@ -6,6 +6,8 @@ import json
 import jsonschema
 import fnmatch
 
+import jinja2
+
 from .patterns import *
 
 def create_directories(*directories):
@@ -99,10 +101,11 @@ def get_language(directory, language):
 
 def get_records(language, format, tag, translation):
     Format = collections.namedtuple('Format', ['name', 'version'])
+    Category = collections.namedtuple('Category', ['lexical', 'grammatical'])
     Record = collections.namedtuple('Record', [
         'phrase',
         'transcription',
-        'grammar',
+        'category',
         'translation',
         'image',
         'audio',
@@ -138,12 +141,14 @@ def get_records(language, format, tag, translation):
                 .get(translation, '')\
                 .split(';')]
             
-            grammar = record.get('category', {}).get('lexical', '')
+            category = Category(
+                lexical = record.get('category', {}).get('lexical', ''),
+                grammatical = None)
                 
             yield Record(
                 phrase = phrase,
                 transcription = record.get('transcription', ''),
-                grammar = grammar,
+                category = category,
                 translation = translations,
                 image = record.get('image', ''),
                 audio = record.get('audio', ''),
@@ -166,56 +171,87 @@ def get_data(language, format, tag, translation):
         
         if not record.format.name in data:
             data[record.format.name] = {}
-            
-        key = "{record.phrase}/{record.grammar}".format(record = record)
-        
-        if not key in data[record.format.name]:
-            data[record.format.name][key] = {
-                'phrase': record.phrase,
+        if not record.phrase in data[record.format.name]:
+            data[record.format.name][record.phrase] = {}
+        if not record.category.lexical in data[record.format.name][record.phrase]:
+            data[record.format.name][record.phrase][record.category.lexical] = {
                 'transcription': record.transcription,
-                'grammar': record.grammar,
                 'translation': [],
                 'image': [],
                 'audio': [],
                 'video': [],
                 'note': [],
                 'tags': []}
+            
+        item = data[record.format.name][record.phrase][record.category.lexical]
                 
         for I,J in \
-            (record.translation, data[record.format.name][key]['translation']),\
-            (record.note, data[record.format.name][key]['note']),\
-            (record.tags, data[record.format.name][key]['tags']):
+            (record.translation, item['translation']),\
+            (record.note, item['note']),\
+            (record.tags, item['tags']):
             for i in I:
                 if i and not i in J:
                     J.append(i)
     
     return data
 
+def flatten_data(data):
+    for phrase in data:
+        lexcat = []
+        transcription = []
+        translation = []
+        image = []
+        audio = []
+        video = []
+        note = []
+        tags = []
+        
+        for pos in data[phrase]:
+            if pos: lexcat.append(pos)
+            item = data[phrase][pos]
+            if not item['transcription'] in transcription: transcription.append(item['transcription'])
+            for i in item['translation']:
+                if not i in translation: translation.append(i)
+            for i in item['image']:
+                if not i in image: image.append(i)
+            for i in item['audio']:
+                if not i in audio: audio.append(i)
+            for i in item['video']:
+                if not i in video: video.append(i)
+            for i in item['note']:
+                if not i in note: note.append(i)
+            for i in item['tags']:
+                if not i in tags: tags.append(i)
+            
+        yield {
+            'phrase': phrase,
+            'lexcat': ', '.join(lexcat),
+            'transcription': '; '.join(transcription),
+            'translation': '; '.join(translation),
+            'image': '; '.join(image),
+            'audio': '; '.join(audio),
+            'video': '; '.join(video),
+            'note': '; '.join(note),
+            'tags': ' '.join(tags)
+        }
 
 def export_data(data, language, directory, output):
+    templateLoader = jinja2.FileSystemLoader(searchpath=os.path.join(os.path.dirname(__file__), 'template'))
+    templateEnv = jinja2.Environment(loader=templateLoader)
+    
     for formatname in data:
-        filename = os.path.join(
-            directory, "{}-{}.txt".format(language, formatname))
-        with open(filename, 'w', encoding='utf-8') as f:
-            for key in data[formatname]:
-                f.write(pattern['anki']['vocabulary'].format(
-                    phrase =
-                        data[formatname][key]['phrase'],
-                    transcription =
-                        data[formatname][key]['transcription'],
-                    grammar =
-                        data[formatname][key]['grammar'],
-                    translation =
-                        '; '.join(data[formatname][key]['translation']),
-                    image =
-                        '; '.join(data[formatname][key]['image']),
-                    audio =
-                        '; '.join(data[formatname][key]['audio']),
-                    video =
-                        '; '.join(data[formatname][key]['video']),
-                    note =
-                        '; '.join(data[formatname][key]['note']),
-                    tags =
-                        ' '.join(data[formatname][key]['tags'])
-                    ))
-        yield filename
+        for output_name in 'txt', 'html':
+            if not fnmatch.fnmatch(output_name, output):
+                continue
+            
+            template = templateEnv.get_template("{}-{}.{}".format(language, formatname, output_name))
+            filename = os.path.join(
+                directory, "{}-{}.{}".format(language, formatname, output_name))
+            
+            with open(filename, 'w', encoding='utf-8') as f:
+                if output_name == 'txt':
+                    f.write(template.render(data = flatten_data(data[formatname])))
+                else:
+                    f.write(template.render(data = data[formatname]))
+            
+            yield filename

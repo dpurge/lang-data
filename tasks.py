@@ -33,7 +33,7 @@ def clean(c, output = False):
 
 
 @task
-def build(c, language = '*', format = '*', tag = '*', translation = 'pol', output = 'csv'):
+def build(c, language = '*', format = '*', tag = '*', output = '*', translation = 'pol'):
     #create_directories(tmp_dir, out_dir)
     create_directories(out_dir)
     
