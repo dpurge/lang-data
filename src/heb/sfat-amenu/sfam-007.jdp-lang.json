@@ -4,7 +4,7 @@
     "version": 1,
     "language": "heb",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "sfam007"
     ]
@@ -13,115 +13,115 @@
     {
       "phrase": "בֵּית־הַסֵפֶר",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "szkoła"}
     },
     {
       "phrase": "סַפסָל",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "ławka"}
     },
     {
       "phrase": "מְסַפֵר",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "V"},
       "translation": {"eng": "", "pol": "opowiada"}
     },
     {
       "phrase": "מוֹרָה",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "nauczycielka"}
     },
     {
       "phrase": "אִשָּׁה",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "niewiasta, kobieta"}
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "niewiasta; kobieta"}
     },
     {
       "phrase": "אָחוֹת",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "siostra"}
     },
     {
       "phrase": "תַּלְמִידָה",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "uczennica"}
     },
     {
       "phrase": "נָתְנָה",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ona dała"}
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "(ona) dała"}
     },
     {
       "phrase": "חַיַּט",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "krawiec"}
     },
     {
       "phrase": "תּוֹפֵר",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "szyje, szyjący"}
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "szyje; szyjący"}
     },
     {
       "phrase": "בֶּגֶד",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ubranie, odzież"}
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "ubranie; odzież"}
     },
     {
       "phrase": "חֲלִיפָה",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "ubranie"}
     },
     {
       "phrase": "מַחַט",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "igła"}
     },
     {
       "phrase": "סַנְדְּלָר",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "szewc"}
     },
     {
       "phrase": "עוֹשֶׂה",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "V"},
       "translation": {"eng": "", "pol": "robi"}
     },
     {
       "phrase": "נַעַל",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "bucik"}
     },
     {
       "phrase": "עוֹר",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "skóra"}
     },
     {
       "phrase": "נַגָּר",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "stolarz"}
     },
     {
       "phrase": "עֵץ",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "drzewo"}
     },
     {

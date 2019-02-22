@@ -4,7 +4,7 @@
     "version": 1,
     "language": "heb",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "sfam006"
     ]
@@ -13,55 +13,56 @@
     {
       "phrase": "כּוֹתֵב",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pisze, piszący"}
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "pisze; piszący"}
     },
     {
       "phrase": "שִׁעוּר",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "zadanie, lekcja"}
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "zadanie; lekcja"}
     },
     {
       "phrase": "מַחְבֶּרֶת",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "zeszyt"}
     },
     {
       "phrase": "נְיָר",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "papier"}
     },
     {
       "phrase": "עֵט",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pióro"}
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "pióro"},
+      "note": {"eng": "", "pol": "do pisania"}
     },
     {
       "phrase": "רָהִיט",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "mebel, sprzęt"}
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "mebel; sprzęt domowy"}
     },
     {
       "phrase": "יוֹשֵׁב",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "siedzi, siedzący"}
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "siedzi; siedzący"}
     },
     {
       "phrase": "כִּסֵּא",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "krzesło"}
     },
     {
       "phrase": "תַּרְגּוּם",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "tłumaczenie"}
     },
     {
@@ -73,56 +74,56 @@
     {
       "phrase": "עִפָּרוֹן",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "ołówek"}
     },
     {
       "phrase": "לוּחַ",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "tablica"}
     },
     {
       "phrase": "קִרְטוֹן",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "kreda"}
     },
     {
       "phrase": "",
       "transcription": "gir",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "kreda"}
     },
     {
       "phrase": "חֶרֶט",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "rysik, rylec"}
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "rysik; rylec"}
     },
     {
       "phrase": "שֻׁלְחָן",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "stół"}
     },
     {
       "phrase": "אֲרוֹן",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "szafa"}
     },
     {
       "phrase": "אֵצֶל",
       "transcription": "",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "przy, obok, u"}
+      "translation": {"eng": "", "pol": "przy; obok; u"}
     },
     {
       "phrase": "אֶל",
       "transcription": "",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "do; przy, obok"}
+      "translation": {"eng": "", "pol": "do; przy; obok"}
     }
   ]
 }

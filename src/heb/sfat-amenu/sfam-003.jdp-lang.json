@@ -4,7 +4,7 @@
     "version": 1,
     "language": "heb",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "sfam003"
     ]
@@ -13,13 +13,13 @@
     {
       "phrase": "אָב",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "ojciec"}
     },
     {
       "phrase": "אֵם",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "matka"}
     },
     {
@@ -37,13 +37,13 @@
     {
       "phrase": "אִישׁ",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "mężczyzna, człowiek"}
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "mężczyzna; człowiek"}
     },
     {
       "phrase": "טוֹב",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "Adj"},
       "translation": {"eng": "", "pol": "dobry"}
     },
     {
@@ -55,7 +55,7 @@
     {
       "phrase": "אָח",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "brat"}
     },
     {
@@ -67,20 +67,20 @@
     {
       "phrase": "חָכָם",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "Adj"},
       "translation": {"eng": "", "pol": "mądry"}
     },
     {
       "phrase": "קָטָן",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "Adj"},
       "translation": {"eng": "", "pol": "mały"}
     },
     {
       "phrase": "גָּדוֹל",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "duży, wielki"}
+      "category": {"lexical": "Adj"},
+      "translation": {"eng": "", "pol": "duży; wielki"}
     },
     {
       "phrase": "גַּם",
@@ -98,7 +98,7 @@
       "phrase": "כֵּן",
       "transcription": "",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "tak, tak jest"}
+      "translation": {"eng": "", "pol": "tak; tak jest"}
     },
     {
       "phrase": "לֹא",
@@ -115,7 +115,7 @@
     {
       "phrase": "שָׁנָה",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "rok"}
     }
   ]

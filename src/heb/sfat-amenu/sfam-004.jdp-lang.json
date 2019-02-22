@@ -4,7 +4,7 @@
     "version": 1,
     "language": "heb",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "sfam004"
     ]
@@ -19,26 +19,26 @@
     {
       "phrase": "אוֹהֵב",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kocha, lubi"}
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "kocha; lubi"}
     },
     {
       "phrase": "נָתַן",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "V"},
       "translation": {"eng": "", "pol": "dał"}
     },
     {
       "phrase": "סֵפֶר",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "książka"}
     },
     {
       "phrase": "כָּל־",
       "transcription": "",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "każdy, wszystek, cały"}
+      "translation": {"eng": "", "pol": "każdy; wszystek; cały"}
     },
     {
       "phrase": "אֶחַד",
@@ -49,49 +49,49 @@
     {
       "phrase": "גָּבֹהַּ",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "Adj"},
       "translation": {"eng": "", "pol": "wysoki"}
     },
     {
       "phrase": "אֲרֻבָּה",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "komin"}
     },
     {
       "phrase": "מִן",
       "transcription": "",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "od, z"}
+      "translation": {"eng": "", "pol": "od; z"}
     },
     {
       "phrase": "יוֹצֵא",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "V"},
       "translation": {"eng": "", "pol": "wychodzi"}
     },
     {
       "phrase": "עָשָׁן",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "dym"}
     },
     {
       "phrase": "כִּי",
       "transcription": "",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "bo, ponieważ"}
+      "translation": {"eng": "", "pol": "bo; ponieważ"}
     },
     {
       "phrase": "נַעַר",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "chłopiec"}
     },
     {
       "phrase": "רַע",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "Adj"},
       "translation": {"eng": "", "pol": "zły"}
     },
     {

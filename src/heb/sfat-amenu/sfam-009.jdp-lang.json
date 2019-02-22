@@ -4,7 +4,7 @@
     "version": 1,
     "language": "heb",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "sfam009"
     ]
@@ -19,7 +19,7 @@
     {
       "phrase": "גַּן",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "ogród"}
     },
     {
@@ -31,67 +31,67 @@
     {
       "phrase": "עָנָף",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "gałąź"}
     },
     {
       "phrase": "עָלֶה",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "liść"}
     },
     {
       "phrase": "פְּרִי",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "owoc"}
     },
     {
       "phrase": "צוֹמֵחַ",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "V"},
       "translation": {"eng": "", "pol": "rośnie"}
     },
     {
       "phrase": "נוֹתֵן",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "V"},
       "translation": {"eng": "", "pol": "daje"}
     },
     {
       "phrase": "רֵיחַ",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "zapach, woń"}
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "zapach; woń"}
     },
     {
       "phrase": "יַעַר",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "las"}
     },
     {
       "phrase": "נָעִים",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "Adj"},
       "translation": {"eng": "", "pol": "przyjemny"}
     },
     {
       "phrase": "פֶּרַח",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "kwiat"}
     },
     {
       "phrase": "סוֹף",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "koniec"}
     },
     {
       "phrase": "פָּסוּק",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "zdanie; wiersz"}
     }
   ]

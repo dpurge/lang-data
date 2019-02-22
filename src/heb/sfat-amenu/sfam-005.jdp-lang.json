@@ -4,7 +4,7 @@
     "version": 1,
     "language": "heb",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "sfam005"
     ]
@@ -13,50 +13,50 @@
     {
       "phrase": "מוֹרֶה",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "nauczyciel"}
     },
     {
       "phrase": "תַּלמִיד",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "uczeń"}
     },
     {
       "phrase": "מְלַמֵּד",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "uczy, uczący"}
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "uczy; uczący"}
     },
     {
       "phrase": "יוֹם",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "N"},
       "translation": {"eng": "", "pol": "dzień"}
     },
     {
       "phrase": "חָרוּץ",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "Adj"},
       "translation": {"eng": "", "pol": "pilny"}
     },
     {
       "phrase": "לוֹמֵד",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "uczy się, uczący się"}
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "uczy się; uczący się"}
     },
     {
       "phrase": "הֵיטֵב",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "Adv"},
       "translation": {"eng": "", "pol": "dobrze"}
     },
     {
       "phrase": "רַבִּים",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wiele, liczni"}
+      "category": {"lexical": "Adj"},
+      "translation": {"eng": "", "pol": "wielu; liczni"}
     },
     {
       "phrase": "הַיּוֹם",
@@ -67,26 +67,26 @@
     {
       "phrase": "יָפֶה",
       "transcription": "",
-      "category": {"lexical": ""},
+      "category": {"lexical": "Adj"},
       "translation": {"eng": "", "pol": "ładny"}
     },
     {
       "phrase": "מַתָּנָה",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dar, podarunek"}
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "dar; podarunek; prezent"}
     },
     {
       "phrase": "קוֹרֵא",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "czyta, czytający"}
+      "category": {"lexical": "V"},
+      "translation": {"eng": "", "pol": "czyta; czytający"}
     },
     {
       "phrase": "סִפּוּר",
       "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "opowiadanie, opowieść"}
+      "category": {"lexical": "N"},
+      "translation": {"eng": "", "pol": "opowiadanie; opowieść"}
     },
     {
       "phrase": "אֲשֶׁר",
