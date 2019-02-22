@@ -4,18 +4,12 @@
     "version": 1,
     "language": "",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "boya-a1-01"
     ]
   },
   "data": [
-    {
-      "phrase": "",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": ""}
-    },
 	{
 		"phrase": "西边",
 		"transcription": "xībian",
@@ -26,7 +20,7 @@
 		"phrase": "专业",
 		"transcription": "zhuānyè",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "specjlność"}
+		"translation": {"eng": "", "pol": "specjalność"}
 	},
 	{
 		"phrase": "国际",
@@ -38,7 +32,7 @@
 		"phrase": "关系",
 		"transcription": "guānxi",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "znajomości, układy"}
+		"translation": {"eng": "", "pol": "znajomości; układy"}
 	},
 	{
 		"phrase": "中文",
@@ -50,19 +44,19 @@
 		"phrase": "系",
 		"transcription": "xì",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "wydział, departament"}
+		"translation": {"eng": "", "pol": "wydział; departament"}
 	},
 	{
 		"phrase": "研究生",
 		"transcription": "yánjiūshēng",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "magistrant, słuchacz studiów magisterskich"}
+		"translation": {"eng": "", "pol": "magistrant; słuchacz studiów magisterskich"}
 	},
 	{
 		"phrase": "现代",
 		"transcription": "xiàndài",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "współczesny, nowoczesny"}
+		"translation": {"eng": "", "pol": "współczesny; nowoczesny"}
 	},
 	{
 		"phrase": "文学",
@@ -86,7 +80,7 @@
 		"phrase": "时候",
 		"transcription": "shíhou",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "czas, chwila"}
+		"translation": {"eng": "", "pol": "czas; chwila"}
 	},
 	{
 		"phrase": "欢迎",
@@ -98,7 +92,7 @@
 		"phrase": "去",
 		"transcription": "qù",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "iść, jechać"}
+		"translation": {"eng": "", "pol": "iść; jechać"}
 	},
 	{
 		"phrase": "玩儿",
@@ -110,13 +104,13 @@
 		"phrase": "卫生间",
 		"transcription": "wèishēngjiān",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "toaleta, WC"}
+		"translation": {"eng": "", "pol": "toaleta; WC"}
 	},
 	{
 		"phrase": "",
 		"transcription": "jiàoshì",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "klasa, sala wykładowa"}
+		"translation": {"eng": "", "pol": "klasa; sala wykładowa"}
 	},
 	{
 		"phrase": "旁边",

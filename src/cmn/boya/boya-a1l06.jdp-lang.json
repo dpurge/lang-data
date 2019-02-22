@@ -4,18 +4,12 @@
     "version": 1,
     "language": "",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "boya-a1-01"
     ]
   },
   "data": [
-    {
-      "phrase": "",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": ""}
-    },
 	{
 		"phrase": "现在",
 		"transcription": "xiànzài",
@@ -44,13 +38,13 @@
 		"phrase": "早上",
 		"transcription": "zǎoshang",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "rano, poranek"}
+		"translation": {"eng": "", "pol": "rano; poranek"}
 	},
 	{
 		"phrase": "上课",
 		"transcription": "shàng kè",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "iść na lekcje, mieć lekcje"}
+		"translation": {"eng": "", "pol": "iść na lekcje; mieć lekcje"}
 	},
 	{
 		"phrase": "部分",
@@ -119,10 +113,10 @@
 		"translation": {"eng": "", "pol": "połowa"}
 	},
 	{
-		"phrase": "太。。。了",
+		"phrase": "太...了",
 		"transcription": "tài ... le",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "zbyt, za"}
+		"translation": {"eng": "", "pol": "zbyt; za"}
 	},
 	{
 		"phrase": "早",
@@ -140,7 +134,7 @@
 		"phrase": "开始",
 		"transcription": "kāishǐ",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "zaczynać (się)"}
+		"translation": {"eng": "", "pol": "zaczynać; zaczynać się"}
 	},
 	{
 		"phrase": "六",
@@ -152,7 +146,7 @@
 		"phrase": "差",
 		"transcription": "chà",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "brakować, nie wystarczać"}
+		"translation": {"eng": "", "pol": "brakować; nie wystarczać"}
 	},
 	{
 		"phrase": "一",
@@ -176,7 +170,7 @@
 		"phrase": "见",
 		"transcription": "jiàn",
 		"category": {"lexical": ""},
-		"translation": {"eng": "", "pol": "zobaczyć, spotkać"}
+		"translation": {"eng": "", "pol": "zobaczyć; spotkać"}
 	}
 ]
 

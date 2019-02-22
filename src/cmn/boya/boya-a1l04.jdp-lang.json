@@ -4,18 +4,12 @@
     "version": 1,
     "language": "",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "boya-a1-01"
     ]
   },
   "data": [
-    {
-      "phrase": "",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": ""}
-    },
 	{
 		"phrase": "图书馆",
 		"transcription": "túshūguǎn",
