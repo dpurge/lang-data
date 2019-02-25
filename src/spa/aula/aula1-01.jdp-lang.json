@@ -12,1616 +12,2774 @@
   "data": [
     {
       "phrase": "hola",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "cześć"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cześć"
+      }
     },
     {
       "phrase": "yo",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ja"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ja"
+      }
     },
     {
       "phrase": "me llamo",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "nazywam się"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nazywam się"
+      }
     },
     {
       "phrase": "y",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "i; a"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "i; a"
+      }
     },
     {
       "phrase": "vosotros",
-      "transcription": "",
-      "category": {"lexical": "", "grammatical": {"gender": "masculine"}},
-      "translation": {"eng": "", "pol": "wy"}
+      "category": {
+        "lexical": "",
+        "grammatical": {
+          "gender": "masculine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wy"
+      }
     },
     {
       "phrase": "vosotras",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wy"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wy"
+      }
     },
     {
       "phrase": "ser",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "być"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "być"
+      }
     },
     {
       "phrase": "el hotel",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "hotel"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hotel"
+      }
     },
     {
       "phrase": "el metro",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "metro"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "metro"
+      }
     },
     {
       "phrase": "el teléfono",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "telefon"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "telefon"
+      }
     },
     {
       "phrase": "el taxi ",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "taksówka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "taksówka"
+      }
     },
     {
       "phrase": "la calle",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ulica"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ulica"
+      }
     },
     {
       "phrase": "la perfumería",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "perfumeria"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "perfumeria"
+      }
     },
     {
       "phrase": "el bar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "knajpa, bar"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "knajpa, bar"
+      }
     },
     {
       "phrase": "la tapa",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "przekąska"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przekąska"
+      }
     },
     {
       "phrase": "el bar de tapas",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "bar tapas"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bar tapas"
+      }
     },
     {
       "phrase": "la escuela ",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "szkoła"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szkoła"
+      }
     },
     {
       "phrase": "la televisión",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "telewizja"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "telewizja"
+      }
     },
     {
       "phrase": "la estación",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dworzec, stacja"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dworzec, stacja"
+      }
     },
     {
       "phrase": "el aeropuerto",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "lotnisko"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lotnisko"
+      }
     },
     {
       "phrase": "el museo",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "muzeum"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "muzeum"
+      }
     },
     {
       "phrase": "el Museo del Prado",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Muzeum Prado"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Muzeum Prado"
+      }
     },
     {
       "phrase": "la música",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "muzyka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "muzyka"
+      }
     },
     {
       "phrase": "el restaurante",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "restauracja"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "restauracja"
+      }
     },
     {
       "phrase": "gallego",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "galicyjski"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "galicyjski"
+      }
     },
     {
       "phrase": "el teatro",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "teatr"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "teatr"
+      }
     },
     {
       "phrase": "la plaza",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "plac"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "plac"
+      }
     },
     {
       "phrase": "España",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Hiszpania"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Hiszpania"
+      }
     },
     {
       "phrase": "el libro",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "książka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "książka"
+      }
     },
     {
       "phrase": "el diccionario",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "słownik"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "słownik"
+      }
     },
     {
       "phrase": "el español",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "język hiszpański"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "język hiszpański"
+      }
     },
     {
       "phrase": "actual",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "aktualny"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "aktualny"
+      }
     },
     {
       "phrase": "el aula",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
-      "translation": {"eng": "", "pol": "sala wykładowa, aula"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "feminine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sala wykładowa, aula"
+      }
     },
     {
       "phrase": "comprender",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "rozumieć"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozumieć"
+      }
     },
     {
       "phrase": "la palabra",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "słowo"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "słowo"
+      }
     },
     {
       "phrase": "no",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "nie"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nie"
+      }
     },
     {
       "phrase": "¿qué?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "co?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "co?"
+      }
     },
     {
       "phrase": "significar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "oznaczać"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "oznaczać"
+      }
     },
     {
       "phrase": "el euro",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "euro"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "euro"
+      }
     },
     {
       "phrase": "gracias",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dziękuję"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziękuję"
+      }
     },
     {
       "phrase": "el arquitecto",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "architekt"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "architekt"
+      }
     },
     {
       "phrase": "la arquitecta",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "architekt"},
-      "note": {"eng": "", "pol": "kobieta"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "architekt"
+      },
+      "note": {
+        "eng": "",
+        "pol": "kobieta"
+      }
     },
     {
       "phrase": "español",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "hiszpański"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hiszpański"
+      }
     },
     {
       "phrase": "el diseñador",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "projektant; rysownik"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "projektant; rysownik"
+      }
     },
     {
       "phrase": "la diseñadora",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "projektant; rysowniczka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "projektant; rysowniczka"
+      }
     },
     {
       "phrase": "venezolano",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wenezuelski"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wenezuelski"
+      }
     },
     {
       "phrase": "el artista",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "artysta"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "artysta"
+      }
     },
     {
       "phrase": "la artista",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "artystka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "artystka"
+      }
     },
     {
       "phrase": "colombiano",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kolumbijski"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kolumbijski"
+      }
     },
     {
       "phrase": "el bailarín",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "tancerz"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tancerz"
+      }
     },
     {
       "phrase": "la bailarina",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "tancerka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tancerka"
+      }
     },
     {
       "phrase": "cubano",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kubański"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kubański"
+      }
     },
     {
       "phrase": "el escritor",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pisarz"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pisarz"
+      }
     },
     {
       "phrase": "la escritora",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pisarka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pisarka"
+      }
     },
     {
       "phrase": "uruguayo",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "urugwajski"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "urugwajski"
+      }
     },
     {
       "phrase": "el cantante",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "piosenkarz, śpiewak"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piosenkarz; śpiewak"
+      }
     },
     {
       "phrase": "la cantante",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "piosenkarka, śpiewaczka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piosenkarka; śpiewaczka"
+      }
     },
     {
       "phrase": "argentino",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "argentyński"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "argentyński"
+      }
     },
     {
       "phrase": "el nombre",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "imię"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "imię"
+      }
     },
     {
       "phrase": "el apellido",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "nazwisko"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nazwisko"
+      }
     },
     {
       "phrase": "la nacionalidad",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "narodowość"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "narodowość"
+      }
     },
     {
       "phrase": "la edad",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wiek"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wiek"
+      }
     },
     {
       "phrase": "la profesión",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "zawód"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zawód"
+      }
     },
     {
       "phrase": "el estudiante",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "uczeń"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uczeń"
+      }
     },
     {
       "phrase": "la estudiante",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "uczennica"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uczennica"
+      }
     },
     {
       "phrase": "el correo electrónico",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "poczta elektroniczna, e-mail"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "poczta elektroniczna; e-mail"
+      }
     },
     {
       "phrase": "francés",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "francuski; francuska"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "francuski; francuska"
+      }
     },
     {
       "phrase": "el camarero",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kelner"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kelner"
+      }
     },
     {
       "phrase": "la camarera",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kelnerka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kelnerka"
+      }
     },
     {
       "phrase": "alemán",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "niemiecki"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niemiecki"
+      }
     },
     {
       "phrase": "el enfermero",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pielęgniarz"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pielęgniarz"
+      }
     },
     {
       "phrase": " la enfermera",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pielęgniarka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pielęgniarka"
+      }
     },
     {
       "phrase": "brasileño",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "brazylijski"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "brazylijski"
+      }
     },
     {
       "phrase": "la pregunta",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pytanie"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pytanie"
+      }
     },
     {
       "phrase": "¿cómo?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "jak?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jak?"
+      }
     },
     {
       "phrase": "¿Cómo te llamas?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Jak się nazywasz?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Jak się nazywasz?"
+      }
     },
     {
       "phrase": "¿cuántos?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ile?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ile?"
+      }
     },
     {
       "phrase": "¿Cuántos años tienes?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Ile masz lat?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Ile masz lat?"
+      }
     },
     {
       "phrase": "Tengo 24 años.",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Mam 24 lata."}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Mam 24 lata."
+      }
     },
     {
       "phrase": "¿A qué te dedicas?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Czym się zajmujesz zawodowo?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Czym się zajmujesz zawodowo?"
+      }
     },
     {
       "phrase": "¿cuál?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "jaki?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jaki?"
+      }
     },
     {
       "phrase": "tu",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "twój"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "twój"
+      }
     },
     {
       "phrase": "tus",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "twoi"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "twoi"
+      }
     },
     {
       "phrase": "trabajar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pracować"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pracować"
+      }
     },
     {
       "phrase": "¿En qué trabajas?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Co robisz zawodowo?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Co robisz zawodowo?"
+      }
     },
     {
       "phrase": "de",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "od"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "od"
+      }
     },
     {
       "phrase": "¿de dónde?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "skąd?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "skąd?"
+      }
     },
     {
       "phrase": "¿De dónde eres?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Skąd jesteś?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Skąd jesteś?"
+      }
     },
     {
       "phrase": "tener",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "mieć"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mieć"
+      }
     },
     {
       "phrase": "el móvil",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "telefon komórkowy"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "telefon komórkowy"
+      }
     },
     {
       "phrase": "el número de teléfono",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "numer telefonu"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "numer telefonu"
+      }
     },
     {
       "phrase": "para",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "żeby"},
-      "note": {"eng": "", "pol": "+ bezokolicznik"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "żeby"
+      },
+      "note": {
+        "eng": "",
+        "pol": "+ bezokolicznik"
+      }
     },
     {
       "phrase": "preguntar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pytać"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pytać"
+      }
     },
     {
       "phrase": "saber",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wiedzieć"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wiedzieć"
+      }
     },
     {
       "phrase": "el lugar de origen",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "miejsce pochodzenia"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miejsce pochodzenia"
+      }
     },
     {
       "phrase": "vivir",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "mieszkać"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mieszkać"
+      }
     },
     {
       "phrase": "en",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "w"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "w"
+      }
     },
     {
       "phrase": "mi",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "mój"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mój"
+      }
     },
     {
       "phrase": "mis",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "moi"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "moi"
+      }
     },
     {
       "phrase": "la dirección",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "adres"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "adres"
+      }
     },
     {
       "phrase": "cocinar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "gotować"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gotować"
+      }
     },
     {
       "phrase": "ver",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "widzieć, oglądać"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "widzieć, oglądać"
+      }
     },
     {
       "phrase": "la tele",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "telewizja"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "telewizja"
+      }
     },
     {
       "phrase": "ver la tele",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "oglądać telewizję"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "oglądać telewizję"
+      }
     },
     {
       "phrase": "el esquí",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "narciarstwo"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "narciarstwo"
+      }
     },
     {
       "phrase": "ir a",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "iść do"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "iść do"
+      }
     },
     {
       "phrase": "el gimnasio",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "klub fitness"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "klub fitness"
+      }
     },
     {
       "phrase": "ir al gimnasio",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "iść do klubu fitness"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "iść do klubu fitness"
+      }
     },
     {
       "phrase": "cantar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "śpiewać"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "śpiewać"
+      }
     },
     {
       "phrase": "el tenis",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "tenis"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tenis"
+      }
     },
     {
       "phrase": "salir de noche",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wychodzić wieczorem z domu"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wychodzić wieczorem z domu"
+      }
     },
     {
       "phrase": "la noche",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wieczór; noc"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wieczór; noc"
+      }
     },
     {
       "phrase": "leer",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "czytać"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czytać"
+      }
     },
     {
       "phrase": "la novela",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "powieść"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "powieść"
+      }
     },
     {
       "phrase": "jugar al fútbol",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "grać w piłkę nożną"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "grać w piłkę nożną"
+      }
     },
     {
       "phrase": "escribir",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pisać"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pisać"
+      }
     },
     {
       "phrase": "coleccionar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "zbierać, kolekcjonować"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zbierać, kolekcjonować"
+      }
     },
     {
       "phrase": "el sello",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "znaczek pocztowy"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "znaczek pocztowy"
+      }
     },
     {
       "phrase": "la casa",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dom"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dom"
+      }
     },
     {
       "phrase": "el zapato",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "but"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "but"
+      }
     },
     {
       "phrase": "el jamón",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "szynka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szynka"
+      }
     },
     {
       "phrase": "el gato",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kot, kocur"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kot, kocur"
+      }
     },
     {
       "phrase": "la gata",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kotka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kotka"
+      }
     },
     {
       "phrase": "cero",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "zero"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zero"
+      }
     },
     {
       "phrase": "la comida",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "jedzenie"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jedzenie"
+      }
     },
     {
       "phrase": "el queso",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ser"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ser"
+      }
     },
     {
       "phrase": "la guerra",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wojna"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wojna"
+      }
     },
     {
       "phrase": "la colección",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "zbiór, kolekcja"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zbiór, kolekcja"
+      }
     },
     {
       "phrase": "el jefe",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "szef"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szef"
+      }
     },
     {
       "phrase": "la jefa",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "szefowa"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szefowa"
+      }
     },
     {
       "phrase": "cincuenta",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pięćdziesiąt"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pięćdziesiąt"
+      }
     },
     {
       "phrase": "el gol",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "bramka, gol"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bramka, gol"
+      }
     },
     {
       "phrase": "el cine",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kino"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kino"
+      }
     },
     {
       "phrase": "el quilo",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kilo"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kilo"
+      }
     },
     {
       "phrase": "la guitarra",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "gitara"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gitara"
+      }
     },
     {
       "phrase": "contar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "liczyć"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "liczyć"
+      }
     },
     {
       "phrase": "el zoo",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "zoo"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zoo"
+      }
     },
     {
       "phrase": "general",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ogólny"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ogólny"
+      }
     },
     {
       "phrase": "joven",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "młody"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "młody"
+      }
     },
     {
       "phrase": "llamarse",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "nazywać się"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nazywać się"
+      }
     },
     {
       "phrase": "su",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "jego"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jego"
+      }
     },
     {
       "phrase": "sus",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "jego"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jego"
+      }
     },
     {
       "phrase": "italiano",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "włoski"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "włoski"
+      }
     },
     {
       "phrase": "sí",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "tak"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tak"
+      }
     },
     {
       "phrase": "el profesor",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "nauczyciel"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nauczyciel"
+      }
     },
     {
       "phrase": "la profesora",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "nauczycielka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nauczycielka"
+      }
     },
     {
       "phrase": "el banco",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "bank"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bank"
+      }
     },
     {
       "phrase": "la arroba",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "małpa"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "małpa"
+      }
     },
     {
       "phrase": "trabajar de",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pracować jako"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pracować jako"
+      }
     },
     {
       "phrase": "buenos días",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dzień dobry"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dzień dobry"
+      }
     },
     {
       "phrase": "buenas tardes",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dobry wieczór"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dobry wieczór"
+      }
     },
     {
       "phrase": "buenas noches",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dobranoc; dobry wieczór"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dobranoc; dobry wieczór"
+      }
     },
     {
       "phrase": "¿Qué tal?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Co słychać? Jak leci?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Co słychać? Jak leci?"
+      }
     },
     {
       "phrase": "adiós",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "do widzenia"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "do widzenia"
+      }
     },
     {
       "phrase": "hasta luego",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "do zobaczenia"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "do zobaczenia"
+      }
     },
     {
       "phrase": "¿Cómo estás?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Jak się masz?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Jak się masz?"
+      }
     },
     {
       "phrase": "bien",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dobrze"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dobrze"
+      }
     },
     {
       "phrase": "tú",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ty"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ty"
+      }
     },
     {
       "phrase": "muy bien",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "bardzo dobrze"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bardzo dobrze"
+      }
     },
     {
       "phrase": "turco",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "turecki"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "turecki"
+      }
     },
     {
       "phrase": "belga",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "belgijski; belgijska"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "belgijski; belgijska"
+      }
     },
     {
       "phrase": "marroquí",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "marokański"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "marokański"
+      }
     },
     {
       "phrase": "estadounidense",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "amerykański"},
-      "note": {"eng": "", "pol": "z USA"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "amerykański"
+      },
+      "note": {
+        "eng": "",
+        "pol": "z USA"
+      }
     },
     {
       "phrase": "el cocinero",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kucharz"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kucharz"
+      }
     },
     {
       "phrase": "la cocinera",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kucharka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kucharka"
+      }
     },
     {
       "phrase": "el secretario",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "sekretarz"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sekretarz"
+      }
     },
     {
       "phrase": "la secretaria",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "sekretarka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sekretarka"
+      }
     },
     {
       "phrase": "el periodista",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dziennikarz"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziennikarz"
+      }
     },
     {
       "phrase": "la periodista",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dziennikarka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziennikarka"
+      }
     },
     {
       "phrase": "el juez",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "sędzia"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sędzia"
+      }
     },
     {
       "phrase": "la jueza",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "sędzina"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sędzina"
+      }
     },
     {
       "phrase": "el médico",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "lekarz"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lekarz"
+      }
     },
     {
       "phrase": "la médica",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "lekarka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lekarka"
+      }
     },
     {
       "phrase": "el presidente",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "prezydent"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "prezydent"
+      }
     },
     {
       "phrase": "la presidenta",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "prezydent"},
-      "note": {"eng": "", "pol": "kobieta"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "prezydent"
+      },
+      "note": {
+        "eng": "",
+        "pol": "kobieta"
+      }
     },
     {
       "phrase": "estudiar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "uczyć się; studiować"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uczyć się; studiować"
+      }
     },
     {
       "phrase": "el bolígrafo",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "długopis"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "długopis"
+      }
     },
     {
       "phrase": "se escribe",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pisze się"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pisze się"
+      }
     },
     {
       "phrase": "se dice",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "mówi się"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mówi się"
+      }
     },
     {
       "phrase": "el diseñador gráfico",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "grafik komputerowy"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "grafik komputerowy"
+      }
     },
     {
       "phrase": "la diseñadora gráfica",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "grafik komputerowy"},
-      "note": {"eng": "", "pol": "kobieta"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "grafik komputerowy"
+      },
+      "note": {
+        "eng": "",
+        "pol": "kobieta"
+      }
     },
     {
       "phrase": "el amigo",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "przyjaciel"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przyjaciel"
+      }
     },
     {
       "phrase": "la amiga",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "przyjaciółka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przyjaciółka"
+      }
     },
     {
       "phrase": "por favor",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "proszę"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "proszę"
+      }
     },
     {
       "phrase": "la ropa",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ubranie"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ubranie"
+      }
     },
     {
       "phrase": "las vacaciones",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ferie; wakacje; urlop"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ferie; wakacje; urlop"
+      }
     },
     {
       "phrase": "la afición",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "hobby"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hobby"
+      }
     },
     {
       "phrase": "pasear",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "spacerować"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "spacerować"
+      }
     },
     {
       "phrase": "con",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "z"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "z"
+      }
     },
     {
       "phrase": "el perro",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pies"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pies"
+      }
     },
     {
       "phrase": "la perra",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "suka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "suka"
+      }
     },
     {
       "phrase": "viajar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "podróżować"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podróżować"
+      }
     },
     {
       "phrase": "México",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
-      "translation": {"eng": "", "pol": "Meksyk"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "masculine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Meksyk"
+      }
     },
     {
       "phrase": "Cuba",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
-      "translation": {"eng": "", "pol": "Kuba"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "feminine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Kuba"
+      }
     },
     {
       "phrase": "la República Dominicana",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Republika Dominikańska"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Republika Dominikańska"
+      }
     },
     {
       "phrase": "Puerto Rico",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
-      "translation": {"eng": "", "pol": "Portoryko"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "masculine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Portoryko"
+      }
     },
     {
       "phrase": "Guatemala",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
-      "translation": {"eng": "", "pol": "Gwatemala"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "feminine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Gwatemala"
+      }
     },
     {
       "phrase": "Honduras",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
-      "translation": {"eng": "", "pol": "Honduras"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "feminine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Honduras"
+      }
     },
     {
       "phrase": "Nicaragua",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
-      "translation": {"eng": "", "pol": "Nikaragua"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "feminine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Nikaragua"
+      }
     },
     {
       "phrase": "El Salvador",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Salwador"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Salwador"
+      }
     },
     {
       "phrase": "Costa Rica",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
-      "translation": {"eng": "", "pol": "Kostaryka"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "masculine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Kostaryka"
+      }
     },
     {
       "phrase": "Panamá",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
-      "translation": {"eng": "", "pol": "Panama"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "masculine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Panama"
+      }
     },
     {
       "phrase": "Venezuela",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
-      "translation": {"eng": "", "pol": "Wenezuela"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "feminine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Wenezuela"
+      }
     },
     {
       "phrase": "Colombia",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
-      "translation": {"eng": "", "pol": "Kolumbia"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "feminine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Kolumbia"
+      }
     },
     {
       "phrase": "Ecuador",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
-      "translation": {"eng": "", "pol": "Ekwador"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "masculine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Ekwador"
+      }
     },
     {
       "phrase": "Perú",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
-      "translation": {"eng": "", "pol": "Peru"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "masculine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Peru"
+      }
     },
     {
       "phrase": "Bolivia",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
-      "translation": {"eng": "", "pol": "Boliwia"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "feminine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Boliwia"
+      }
     },
     {
       "phrase": "Paraguay",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
-      "translation": {"eng": "", "pol": "Paragwaj"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "masculine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Paragwaj"
+      }
     },
     {
       "phrase": "Chile",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
-      "translation": {"eng": "", "pol": "Czile"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "masculine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Czile"
+      }
     },
     {
       "phrase": "Uruguay",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "masculine"}},
-      "translation": {"eng": "", "pol": "Urugwaj"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "masculine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Urugwaj"
+      }
     },
     {
       "phrase": "Argentina",
-      "transcription": "",
-      "category": {"lexical": "N", "grammatical": {"gender": "feminine"}},
-      "translation": {"eng": "", "pol": "Argentyna"}
+      "category": {
+        "lexical": "N",
+        "grammatical": {
+          "gender": "feminine"
+        }
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Argentyna"
+      }
     },
     {
       "phrase": "el mariachi",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "mariachi"},
-      "note": {"eng": "", "pol": "meksykański muzykant"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mariachi"
+      },
+      "note": {
+        "eng": "",
+        "pol": "meksykański muzykant"
+      }
     },
     {
       "phrase": "típico",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "typowy"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "typowy"
+      }
     },
     {
       "phrase": "el conjunto",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "zespół muzyczny"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zespół muzyczny"
+      }
     },
     {
       "phrase": "el músico",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "muzyk"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "muzyk"
+      }
     },
     {
       "phrase": "la música",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "muzyk"},
-      "note": {"eng": "", "pol": "kobieta"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "muzyk"
+      },
+      "note": {
+        "eng": "",
+        "pol": "kobieta"
+      }
     },
     {
       "phrase": "que",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ten który"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ten który"
+      }
     },
     {
       "phrase": "tocar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "grać"},
-      "note": {"eng": "", "pol": "na instrumencie"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "grać"
+      },
+      "note": {
+        "eng": "",
+        "pol": "na instrumencie"
+      }
     },
     {
       "phrase": "tocar un instrumento",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "grać na instrumencie"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "grać na instrumencie"
+      }
     },
     {
       "phrase": "diverso",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "różny, inny"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "różny, inny"
+      }
     },
     {
       "phrase": "como",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "jak"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jak"
+      }
     },
     {
       "phrase": "el violín",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "skrzypce"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "skrzypce"
+      }
     },
     {
       "phrase": "la trompeta",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "trąbka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "trąbka"
+      }
     },
     {
       "phrase": "este",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ten"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ten"
+      }
     },
     {
       "phrase": "esta",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": ""}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": ""
+      }
     },
     {
       "phrase": "muy",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ta"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ta"
+      }
     },
     {
       "phrase": "popular",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ludowy; popularny"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ludowy; popularny"
+      }
     },
     {
       "phrase": "la boda",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wesele"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wesele"
+      }
     },
     {
       "phrase": "el cumpleaños",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "urodziny"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "urodziny"
+      }
     },
     {
       "phrase": "la fiesta",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "święto; przyjęcie"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "święto; przyjęcie"
+      }
     },
     {
       "phrase": "el origen",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pochodzenie"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pochodzenie"
+      }
     },
     {
       "phrase": "la melodía",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "melodia"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "melodia"
+      }
     },
     {
       "phrase": "africano",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "afrykański"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "afrykański"
+      }
     },
     {
       "phrase": "e",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "i; a"},
-      "note": {"eng": "", "pol": "przed i- i hi-"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "i; a"
+      },
+      "note": {
+        "eng": "",
+        "pol": "przed i- i hi-"
+      }
     },
     {
       "phrase": "indígena",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "tubylczy"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tubylczy"
+      }
     },
     {
       "phrase": "la base",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "podstawa"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podstawa"
+      }
     },
     {
       "phrase": "la salsa",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "salsa"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "salsa"
+      }
     },
     {
       "phrase": "el estilo",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "styl"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "styl"
+      }
     },
     {
       "phrase": "ampliar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "powiększać; rozszerzać"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "powiększać; rozszerzać"
+      }
     },
     {
       "phrase": "modernizar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "unowocześnić; modernizować"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "unowocześnić; modernizować"
+      }
     },
     {
       "phrase": "el sonido",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dźwięk"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dźwięk"
+      }
     },
     {
       "phrase": "la influencia",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wpływ"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wpływ"
+      }
     },
     {
       "phrase": "otro",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "inny"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "inny"
+      }
     },
     {
       "phrase": "latinoamericano",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "latynoamerykański"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "latynoamerykański"
+      }
     },
     {
       "phrase": "el flamenco",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "flamenco"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "flamenco"
+      }
     },
     {
       "phrase": "el sur",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "południe"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "południe"
+      }
     },
     {
       "phrase": "principal",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "główny"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "główny"
+      }
     },
     {
       "phrase": "normalmente",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "zwykle"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zwykle"
+      }
     },
     {
       "phrase": "acompañar con las palmas",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "akompaniować klaskaniem"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "akompaniować klaskaniem"
+      }
     },
     {
       "phrase": "el tango",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "tango"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tango"
+      }
     },
     {
       "phrase": "nacer en",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "zrodzić się w"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zrodzić się w"
+      }
     },
     {
       "phrase": "el barrio",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dzielnica"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dzielnica"
+      }
     },
     {
       "phrase": "marginal",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "znajdujący się na obrzeżach; drugorzędny"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "znajdujący się na obrzeżach; drugorzędny"
+      }
     },
     {
       "phrase": "expresar",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wyrażać"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wyrażać"
+      }
     },
     {
       "phrase": "todo el",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "cały"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cały"
+      }
     },
     {
       "phrase": "toda la",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "cała"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cała"
+      }
     },
     {
       "phrase": "la melancolía",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "melancholia"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "melancholia"
+      }
     },
     {
       "phrase": "el emigrante",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "emigrant"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "emigrant"
+      }
     },
     {
       "phrase": "la emigrante",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "emigrantka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "emigrantka"
+      }
     },
     {
       "phrase": "el mundo",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "świat"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "świat"
+      }
     },
     {
       "phrase": "¿Todo bien?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Wszystko w porządku?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Wszystko w porządku?"
+      }
     },
     {
       "phrase": "chao",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "cześć"},
-      "note": {"eng": "", "pol": "na pożegnanie"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cześć"
+      },
+      "note": {
+        "eng": "",
+        "pol": "na pożegnanie"
+      }
     },
     {
       "phrase": "hasta la próxima",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "do następnego razu"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "do następnego razu"
+      }
     },
     {
       "phrase": "nos vemos",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "zobaczymy się jeszcze"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zobaczymy się jeszcze"
+      }
     },
     {
       "phrase": "¿Cómo están?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Jak się macie?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Jak się macie?"
+      }
     },
     {
       "phrase": "¿Qué onda?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Jak leci?"},
-      "note": {"eng": "", "pol": "potocznie w Meksyku"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Jak leci?"
+      },
+      "note": {
+        "eng": "",
+        "pol": "potocznie w Meksyku"
+      }
     },
     {
       "phrase": "¿Cómo estás?",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Jak się masz?"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Jak się masz?"
+      }
     }
   ]
 }

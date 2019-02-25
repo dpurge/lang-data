@@ -1,1 +1,8 @@
-{% extends "vocabulary-cjk.html" %}
+{% extends "common/vocabulary-cjk.html" %}
+
+{% block parameters %}
+{% set show.phrase = true %}
+{% set show.lexcat = true %}
+{% set show.transcription = true %}
+{% set show.tags = true %}
+{% endblock %}

@@ -1,0 +1,42 @@
+{% extends "common/vocabulary.html" %}
+
+{% block style %}
+<style>
+dl.vocabulary {
+  column-count: 4;
+}
+
+dt.vocabulary {
+}
+
+span.phrase {
+  direction: rtl;
+  font-family: serif;
+  font-size: 250%;
+  color: red;
+}
+
+span.lexcat {
+  color: green;
+  font-weight: bold;
+}
+
+span.transcription {
+  color: blue;
+  font-style:italic;
+}
+
+dd.translation {
+}
+
+dd.note {
+  font-size: 80%;
+  color: grey;
+}
+
+dd.tags {
+  font-size: 50%;
+  color: grey;
+}
+</style>
+{%- endblock %}

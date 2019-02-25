@@ -1,1 +1,1 @@
-{% extends "vocabulary.txt" %}
+{% extends "common/vocabulary.txt" %}
