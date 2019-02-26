@@ -16,7 +16,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "meet",
         "pol": "spotkać"
       }
     },
@@ -26,7 +26,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "on",
         "pol": "na"
       }
     },
@@ -36,7 +36,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "flight",
         "pol": "lot"
       }
     },
@@ -46,7 +46,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "from",
         "pol": "z; od"
       }
     },
@@ -56,7 +56,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "America",
         "pol": "Ameryka"
       }
     },
@@ -66,7 +66,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "to",
         "pol": "do; ku"
       }
     },
@@ -76,7 +76,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "Vietnam",
         "pol": "Wietnam"
       }
     },
@@ -86,7 +86,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "hello",
         "pol": "cześć; dzień dobry"
       }
     },
@@ -96,11 +96,11 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "you",
         "pol": "ty"
       },
       "note": {
-        "eng": "",
+        "eng": "female peer",
         "pol": "starsza siostra"
       }
     },
@@ -110,11 +110,11 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "you",
         "pol": "ty"
       },
       "note": {
-        "eng": "",
+        "eng": "male peer",
         "pol": "starszy brat"
       }
     },
@@ -124,7 +124,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "name",
         "pol": "imię"
       }
     },
@@ -134,7 +134,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "be",
         "pol": "być"
       }
     },
@@ -144,7 +144,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "what",
         "pol": "co"
       }
     },
@@ -154,7 +154,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "I",
         "pol": "ja"
       }
     },
@@ -164,7 +164,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "very",
         "pol": "bardzo"
       }
     },
@@ -174,7 +174,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "happy; pleased",
         "pol": "wesoły; szczęśliwy"
       }
     },
@@ -184,7 +184,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "have the opportunity",
         "pol": "mieć okazję"
       }
     },
@@ -194,7 +194,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "ask; would like",
         "pol": "prosić"
       }
     },
@@ -204,7 +204,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "introduce",
         "pol": "przedstawić"
       }
     },
@@ -214,7 +214,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "to; with",
         "pol": "z"
       }
     },
@@ -224,7 +224,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "this; here",
         "pol": "tutaj"
       }
     },
@@ -234,7 +234,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "yes; have",
         "pol": "mieć"
       }
     },
@@ -244,7 +244,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "no",
         "pol": "nie"
       }
     },
@@ -255,8 +255,11 @@
       },
       "translation": {
         "eng": "",
-        "pol": "czy?"
-      }
+        "pol": "Czy ...?"
+      },
+      "note": {
+        "eng": "yes-no question"
+	  }
     },
     {
       "phrase": "khỏe",
@@ -264,7 +267,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "fine; well; healthy",
         "pol": "mieć się dobrze; zdrowy"
       }
     },
@@ -274,7 +277,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "thank",
         "pol": "dziękować"
       }
     },
@@ -284,7 +287,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "as for; and",
         "pol": "a"
       }
     },
@@ -294,7 +297,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "also; too",
         "pol": "również; też"
       }
     },
@@ -304,7 +307,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "make an appointment",
         "pol": "umówić się na spotkanie"
       }
     },
@@ -314,7 +317,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "again",
         "pol": "ponownie; jeszcze raz"
       }
     },
@@ -324,8 +327,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
-        "pol": "pan; dziadek"
+        "eng": "grandfather; Mr.",
+        "pol": "dziadek; proszę pana"
+      },
+      "note": {
+        "eng": "term of address for an older man or man of high social status",
+        "pol": "tytuł osób w podeszłym wieku lub obdarzanych szacunkiem"
       }
     },
     {
@@ -334,8 +341,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
-        "pol": "pan; wujek"
+        "eng": "senior uncle; senior aunt",
+        "pol": "wujek; ciotka; proszę pana"
+      },
+      "note": {
+        "eng": "term of address for an older man",
+        "pol": ""
       }
     },
     {
@@ -344,8 +355,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
-        "pol": "ty; siostrzeniec; siostrzenica"
+        "eng": "nephew; niece",
+        "pol": "siostrzeniec; siostrzenica; ty"
+      },
+      "note": {
+        "eng": "term of address for a younger person",
+        "pol": ""
       }
     },
     {
@@ -354,7 +369,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "excuse me",
         "pol": "przepraszam"
       }
     },
@@ -364,7 +379,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "honored",
         "pol": "zaszczycony"
       }
     },
@@ -374,7 +389,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "know",
         "pol": "znać; wiedzieć"
       }
     },
@@ -384,8 +399,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "younger sibling",
         "pol": "młodsze rodzeństwo"
+      },
+      "note": {
+        "eng": "term of address for a person younger than you",
+        "pol": ""
       }
     },
     {
@@ -394,8 +413,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
-        "pol": "tak jest proszę pana/pani"
+        "eng": "-",
+        "pol": "tak jest proszę pana"
+      },
+      "note": {
+        "eng": "polite particle preceding an utterance",
+        "pol": ""
       }
     },
     {
@@ -404,7 +427,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "rather",
         "pol": "raczej; bardziej; więcej"
       }
     },
@@ -414,7 +437,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "tired",
         "pol": "zmęczony"
       }
     },
@@ -424,7 +447,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "they",
         "pol": "oni"
       }
     },
@@ -434,7 +457,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "continue",
         "pol": "kontynuować"
       }
     },
@@ -444,7 +467,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "talk; chat",
         "pol": "rozmawiać"
       }
     },
@@ -454,7 +477,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "go",
         "pol": "iść; jechać"
       }
     },
@@ -464,7 +487,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "with",
         "pol": "z"
       }
     },
@@ -474,8 +497,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
-        "pol": "kto?"
+        "eng": "who",
+        "pol": "kto"
       }
     },
     {
@@ -484,7 +507,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "by oneself",
         "pol": "sam"
       }
     },
@@ -494,11 +517,11 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "father",
         "pol": "ojciec"
       },
       "note": {
-        "eng": "",
+        "eng": "north",
         "pol": "na północy"
       }
     },
@@ -508,11 +531,11 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "father",
         "pol": "ojciec"
       },
       "note": {
-        "eng": "",
+        "eng": "south",
         "pol": "na południu"
       }
     },
@@ -522,11 +545,11 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "mather",
         "pol": "matka"
       },
       "note": {
-        "eng": "",
+        "eng": "north",
         "pol": "na północy"
       }
     },
@@ -536,11 +559,11 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "mother",
         "pol": "matka"
       },
       "note": {
-        "eng": "",
+        "eng": "south",
         "pol": "na południu"
       }
     },
@@ -550,7 +573,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "of; belonging to",
         "pol": "należący do"
       }
     },
@@ -560,7 +583,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "sad",
         "pol": "smutny"
       }
     },
@@ -570,7 +593,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "sleepy",
         "pol": "senny"
       }
     },
@@ -580,7 +603,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "so",
         "pol": "więcej; w ten sposób"
       }
     },
@@ -590,7 +613,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "go back",
         "pol": "wracać"
       }
     },
@@ -600,7 +623,7 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "seat; place",
         "pol": "miejsce do siedzenia"
       }
     },
@@ -610,12 +633,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "",
+        "eng": "now",
         "pol": "teraz"
       },
       "note": {
-        "eng": "",
-        "pol": "partykuła"
+        "eng": "ending particle",
+        "pol": "partykuła finalna"
       }
     }
   ]
