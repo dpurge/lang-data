@@ -99,7 +99,9 @@
 									"N",
 									"V",
 									"Adv",
-									"Adj"
+									"Adj",
+                                    "Pron",
+                                    "Prep"
 								]
 							},
 							"grammatical": {

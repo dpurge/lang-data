@@ -14,7 +14,7 @@
       "phrase": "本",
       "transcription": "běn",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "this",
@@ -25,7 +25,7 @@
       "phrase": "此",
       "transcription": "cǐ",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "this",
@@ -36,7 +36,7 @@
       "phrase": "大伙儿",
       "transcription": "dàhuǒr",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "everybody",
@@ -47,7 +47,7 @@
       "phrase": "该",
       "transcription": "gāi",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "this; that",
@@ -58,7 +58,7 @@
       "phrase": "某",
       "transcription": "mǒu",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "certain; some",
@@ -69,7 +69,7 @@
       "phrase": "哪个",
       "transcription": "nǎge",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "which",
@@ -80,7 +80,7 @@
       "phrase": "哪些",
       "transcription": "nǎxiē",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "which",
@@ -91,7 +91,7 @@
       "phrase": "那边",
       "transcription": "nàbiān",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "there",
@@ -102,7 +102,7 @@
       "phrase": "其他",
       "transcription": "qítā",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "other (people)",
@@ -113,7 +113,7 @@
       "phrase": "其它",
       "transcription": "qítā",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "other (things)",
@@ -124,7 +124,7 @@
       "phrase": "其余",
       "transcription": "qíyú",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "the others; the rest; the remainder",
@@ -135,7 +135,7 @@
       "phrase": "如何",
       "transcription": "rúhé",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "how; what",
@@ -146,7 +146,7 @@
       "phrase": "什么的",
       "transcription": "shénmede",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "and so on",
@@ -157,7 +157,7 @@
       "phrase": "这边",
       "transcription": "zhèbiān",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "here; this side",
@@ -168,7 +168,7 @@
       "phrase": "自我",
       "transcription": "zìwǒ",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "self; oneself",

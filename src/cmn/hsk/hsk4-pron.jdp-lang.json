@@ -14,7 +14,7 @@
       "phrase": "彼",
       "transcription": "bǐ",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "that",
@@ -25,7 +25,7 @@
       "phrase": "各界",
       "transcription": "gèjiè",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "all circles",
@@ -36,7 +36,7 @@
       "phrase": "何",
       "transcription": "hé",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "which",
@@ -47,7 +47,7 @@
       "phrase": "那时",
       "transcription": "nàshí",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "at that time",
@@ -58,7 +58,7 @@
       "phrase": "他人",
       "transcription": "tārén",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "others",
@@ -69,7 +69,7 @@
       "phrase": "怎",
       "transcription": "zěn",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "how; what",
@@ -80,7 +80,7 @@
       "phrase": "怎么着",
       "transcription": "zěnmezhe",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "why",
@@ -91,7 +91,7 @@
       "phrase": "这么着",
       "transcription": "zhèmezhe",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "like this; such",
@@ -102,7 +102,7 @@
       "phrase": "诸位",
       "transcription": "zhūwèi",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "every one",

@@ -25,7 +25,7 @@
       "phrase": "按照",
       "transcription": "ànzhào",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "according to; in accordance with",
@@ -36,7 +36,7 @@
       "phrase": "趁",
       "transcription": "chèn",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "avail oneself of",
@@ -47,7 +47,7 @@
       "phrase": "对于",
       "transcription": "duìyú",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "for; about",
@@ -69,7 +69,7 @@
       "phrase": "关于",
       "transcription": "guānyú",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "about; on; concerning",
@@ -80,7 +80,7 @@
       "phrase": "将",
       "transcription": "jiāng",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "with; by",
@@ -102,7 +102,7 @@
       "phrase": "就",
       "transcription": "jiù",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "with regard to; concerning; on",
@@ -113,7 +113,7 @@
       "phrase": "距离",
       "transcription": "jùlí",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "away from",
@@ -135,7 +135,7 @@
       "phrase": "顺",
       "transcription": "shùn",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "along",
@@ -179,7 +179,7 @@
       "phrase": "沿",
       "transcription": "yán",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "by; along",
@@ -201,7 +201,7 @@
       "phrase": "由",
       "transcription": "yóu",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "by; from",
@@ -212,7 +212,7 @@
       "phrase": "由于",
       "transcription": "yóuyú",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "owing to; due to; because of",
@@ -223,7 +223,7 @@
       "phrase": "于",
       "transcription": "yú",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "at; on",
@@ -256,7 +256,7 @@
       "phrase": "至",
       "transcription": "zhì",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "till; to; until",
@@ -267,7 +267,7 @@
       "phrase": "自",
       "transcription": "zì",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "from; since",
@@ -278,7 +278,7 @@
       "phrase": "自从",
       "transcription": "zìcóng",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "since",

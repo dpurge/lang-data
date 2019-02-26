@@ -2,11 +2,11 @@ N	noun
 V	verb
 Adj	adjective
 Adv	adverb
-?	interjection
+Interj	interjection
 
 
-?	pronoun
-?	preposition
+Pron	pronoun
+Prep	preposition
 Conj	conjunction
 Det	determiner
 ?	auxiliary verb

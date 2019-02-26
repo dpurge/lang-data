@@ -962,15 +962,23 @@
     },
     {
       "phrase": "el ave",
-      "grammar": "f",
-      "translation": "",
-      "notes": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": ""
+      }
     },
     {
       "phrase": "el arte",
-      "grammar": "m",
-      "translation": "",
-      "notes": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": ""
+      }
     },
     {
       "phrase": "la cultura",
@@ -1044,9 +1052,13 @@
     },
     {
       "phrase": "Patagonia",
-      "grammar": "f",
-      "translation": "",
-      "notes": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": ""
+      }
     },
     {
       "phrase": "la familia",
@@ -1350,9 +1362,13 @@
     },
     {
       "phrase": "internet",
-      "grammar": "m",
-      "translation": "",
-      "notes": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": ""
+      }
     },
     {
       "phrase": "te quiero",
@@ -1476,9 +1492,13 @@
     },
     {
       "phrase": "San Valentín",
-      "grammar": "m",
-      "translation": "",
-      "notes": ""
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": ""
+      }
     },
     {
       "phrase": "el japonés",
@@ -1487,7 +1507,7 @@
       },
       "translation": {
         "eng": "",
-        "pol": ""
+        "pol": "japończyk"
       }
     },
     {
@@ -1497,7 +1517,7 @@
       },
       "translation": {
         "eng": "",
-        "pol": ""
+        "pol": "holender"
       }
     },
     {
@@ -1507,7 +1527,7 @@
       },
       "translation": {
         "eng": "",
-        "pol": ""
+        "pol": "rosjanin"
       }
     },
     {
@@ -1517,7 +1537,7 @@
       },
       "translation": {
         "eng": "",
-        "pol": ""
+        "pol": "grek"
       }
     },
     {
@@ -1527,7 +1547,7 @@
       },
       "translation": {
         "eng": "",
-        "pol": ""
+        "pol": "hawajczyk"
       }
     }
   ]

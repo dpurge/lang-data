@@ -25,7 +25,7 @@
       "phrase": "除",
       "transcription": "chú",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "besides; in addition to; except",
@@ -36,7 +36,7 @@
       "phrase": "打",
       "transcription": "dǎ",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "from; since",
@@ -58,7 +58,7 @@
       "phrase": "距",
       "transcription": "jù",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "from",
@@ -91,7 +91,7 @@
       "phrase": "依照",
       "transcription": "yīzhào",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "comply-follow; according to; in the light of",

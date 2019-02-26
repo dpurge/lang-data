@@ -14,7 +14,7 @@
       "phrase": "本人",
       "transcription": "běnrén",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "I; me; myself; oneself",
@@ -25,7 +25,7 @@
       "phrase": "本身",
       "transcription": "běnshēn",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "itself; in itself",
@@ -36,7 +36,7 @@
       "phrase": "彼此",
       "transcription": "bǐcǐ",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "each other; one another",
@@ -47,7 +47,7 @@
       "phrase": "各自",
       "transcription": "gèzì",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "each; respective",
@@ -58,7 +58,7 @@
       "phrase": "某些",
       "transcription": "mǒuxiē",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "some; certain",
@@ -69,7 +69,7 @@
       "phrase": "其",
       "transcription": "qí",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "it; they; she; he; its; their; her; his; that; such",
@@ -80,7 +80,7 @@
       "phrase": "人家",
       "transcription": "rénjia",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "everyone else; he; him; she; her; they; them; I; me",
@@ -91,7 +91,7 @@
       "phrase": "如此",
       "transcription": "rúcǐ",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "that be like this; that be so",
@@ -102,7 +102,7 @@
       "phrase": "之",
       "transcription": "zhī",
       "category": {
-        "lexical": "pron"
+        "lexical": "Pron"
       },
       "translation": {
         "eng": "it; they; them; I; me; he; him; she; her; we; us; you",

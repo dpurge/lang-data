@@ -14,7 +14,7 @@
       "phrase": "把",
       "transcription": "bǎ",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "(function word)",
@@ -25,7 +25,7 @@
       "phrase": "被",
       "transcription": "bèi",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "by",
@@ -58,7 +58,7 @@
       "phrase": "从",
       "transcription": "cóng",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "from; since; through; ever",
@@ -69,7 +69,7 @@
       "phrase": "当",
       "transcription": "dāng",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "at (a time or place); facing",
@@ -157,7 +157,7 @@
       "phrase": "往",
       "transcription": "wǎng",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "to; toward; in the direction of",
@@ -168,7 +168,7 @@
       "phrase": "为",
       "transcription": "wèi",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "(indicating the cause or purpose)",
@@ -179,7 +179,7 @@
       "phrase": "为了",
       "transcription": "wèile",
       "category": {
-        "lexical": "prep"
+        "lexical": "Prep"
       },
       "translation": {
         "eng": "for; for the sake of; in order to",
