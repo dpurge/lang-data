@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "vie",
+    "source": "Colloquial Vietnamese",
+    "tags": [
+      "coll02"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "nhân viên",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "employee",
+        "pol": "pracownik; urzędnik"
+      }
+    },
+    {
+      "phrase": "hải quan",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "customs",
+        "pol": "kontrola celna"
+      }
+    },
+    {
+      "phrase": "ở",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "at",
+        "pol": "w"
+      }
+    },
+    {
+      "phrase": "sân bay",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "airport",
+        "pol": "lotnisko"
+      }
+    },
+    {
+      "phrase": "phi trường",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "airport",
+        "pol": "lotnisko"
+      }
+    },
+    {
+      "phrase": "cho",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "let",
+        "pol": "dać"
+      }
+    },
+    {
+      "phrase": "xem",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "see",
+        "pol": "widzieć; patrzeć"
+      }
+    },
+    {
+      "phrase": "hộ chiếu",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "passport",
+        "pol": "paszport"
+      }
+    },
+    {
+      "phrase": "họ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "family name",
+        "pol": "nazwisko"
+      }
+    },
+    {
+      "phrase": "người",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "person",
+        "pol": "osoba; człowiek"
+      }
+    },
+    {
+      "phrase": "nước",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "country",
+        "pol": "kraj"
+      }
+    },
+    {
+      "phrase": "nào",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "which",
+        "pol": "który"
+      }
+    },
+    {
+      "phrase": "Mỹ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "American",
+        "pol": "amerykański"
+      }
+    },
+    {
+      "phrase": "đến",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "come",
+        "pol": "przybyć"
+      }
+    },
+    {
+      "phrase": "để",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in order to",
+        "pol": "żeby"
+      }
+    },
+    {
+      "phrase": "làm",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to do",
+        "pol": "robić"
+      }
+    }
+  ]
+}
