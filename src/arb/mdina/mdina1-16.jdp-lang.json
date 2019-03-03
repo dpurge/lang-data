@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "ready",
+    "tags": [
+      "mdina-1-16"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "النَّهرُ",
+      "transcription": "an-nahr",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "river",
+        "pol": "rzeka"
+      }
+    },
+    {
+      "phrase": "البَحْرُ",
+      "transcription": "al-baḥr",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sea",
+        "pol": "morze"
+      }
+    },
+    {
+      "phrase": "الفُنْدُقُ",
+      "transcription": "al-funduq",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hotel",
+        "pol": "hotel"
+      }
+    },
+    {
+      "phrase": "الطَّائِرَةُ",
+      "transcription": "aṭ-ṭāʾira",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "airplane",
+        "pol": "samolot"
+      }
+    }
+  ]
+}

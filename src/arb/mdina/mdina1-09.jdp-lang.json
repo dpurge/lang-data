@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "ready",
+    "tags": [
+      "mdina-1-09"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "الفَاكِهَةُ",
+      "transcription": "al-fākiha",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "fruit",
+        "pol": "owoc"
+      }
+    },
+    {
+      "phrase": "العُصْفُورُ",
+      "transcription": "al-ʿuṣfūr",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sparrow",
+        "pol": "wróbel"
+      }
+    },
+    {
+      "phrase": "الطَّائِرُ",
+      "transcription": "aṭ-ṭāʾir",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "bird",
+        "pol": "ptak"
+      }
+    },
+    {
+      "phrase": "العَرَبِيَّةُ",
+      "transcription": "al-ʿArabiyya",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Arabic",
+        "pol": "język arabski"
+      }
+    },
+    {
+      "phrase": "اللُّغَةُ",
+      "transcription": "al-luġa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "language",
+        "pol": "język"
+      }
+    },
+    {
+      "phrase": "سَهْلٌ",
+      "transcription": "sahl",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "easy",
+        "pol": "łatwy"
+      }
+    },
+    {
+      "phrase": "مُجْتَهِدٌ",
+      "transcription": "mujtahid",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "hardworking",
+        "pol": "pracowity"
+      }
+    },
+    {
+      "phrase": "شَهِيرٌ",
+      "transcription": "šahīr",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "famous",
+        "pol": "sławny"
+      }
+    },
+    {
+      "phrase": "الإِنْكِلِيزِيَّةُ",
+      "transcription": "al-ʾInkilīziyya",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "English",
+        "pol": "język angielski"
+      }
+    },
+    {
+      "phrase": "صَعْبٌ",
+      "transcription": "ṣaʿb",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "difficult",
+        "pol": "trudny"
+      }
+    },
+    {
+      "phrase": "المَدِينَةُ",
+      "transcription": "al-madīna",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "city",
+        "pol": "miasto"
+      }
+    },
+    {
+      "phrase": "القَاهِرَةُ",
+      "transcription": "al-Qāhira",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Cairo",
+        "pol": "Kair"
+      }
+    },
+    {
+      "phrase": "اليَوْمَ",
+      "transcription": "al-yawma",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "today",
+        "pol": "dzisiaj"
+      }
+    },
+    {
+      "phrase": "لِمَاذَا",
+      "transcription": "li-māḏā",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "why",
+        "pol": "dlaczego"
+      }
+    },
+    {
+      "phrase": "الكُوبُ",
+      "transcription": "al-kūb",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "cup",
+        "pol": "puchar"
+      }
+    },
+    {
+      "phrase": "المَكْتَبَةُ",
+      "transcription": "al-maktaba",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "library",
+        "pol": "biblioteka"
+      }
+    },
+    {
+      "phrase": "الآنَ",
+      "transcription": "al-ʾāna",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "now; just now",
+        "pol": "teraz; właśnie teraz"
+      }
+    },
+    {
+      "phrase": "هُنَاكَ",
+      "transcription": "hunāka",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "there",
+        "pol": "tam"
+      }
+    },
+    {
+      "phrase": "المُسْتَوْصَفُ",
+      "transcription": "al-mustawṣaf",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "clinic; small hospital",
+        "pol": "klinika; szpitalik"
+      }
+    },
+    {
+      "phrase": "المِرْوَحَةُ",
+      "transcription": "al-mirwaḥa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "fan",
+        "pol": "wiatrak; wachlarz"
+      }
+    },
+    {
+      "phrase": "الكُوَيْتُ",
+      "transcription": "al-Kuwayt",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Kuwait",
+        "pol": "Kuwejt"
+      }
+    },
+    {
+      "phrase": "الثَّانَوِيَّةُ",
+      "transcription": "aṯ-ṯānawiyya",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "secondary school",
+        "pol": "szkoła średnia"
+      }
+    },
+    {
+      "phrase": "الوَزِيرُ",
+      "transcription": "al-wazīr",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "minister",
+        "pol": "minister"
+      }
+    },
+    {
+      "phrase": "حَادٌّ",
+      "transcription": "ḥādd",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "sharp",
+        "pol": "ostry"
+      }
+    },
+    {
+      "phrase": "السُّوقُ",
+      "transcription": "as-sūq",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "market",
+        "pol": "targowisko"
+      }
+    },
+    {
+      "phrase": "إِنْدُونِيسِيَا",
+      "transcription": "Indūnīsiyā",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Indonesia",
+        "pol": "Indonezja"
+      }
+    },
+    {
+      "phrase": "الشَّارِعُ",
+      "transcription": "aš-šāriʿ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "street",
+        "pol": "ulica"
+      }
+    }
+  ]
+}

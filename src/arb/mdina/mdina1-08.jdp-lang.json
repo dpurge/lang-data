@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "ready",
+    "tags": [
+      "mdina-1-08"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "أَمْرِيكَا",
+      "transcription": "Amrīka",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "America",
+        "pol": "Ameryka"
+      }
+    },
+    {
+      "phrase": "مُغْلَقٌ",
+      "transcription": "muʿlaq",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "closed",
+        "pol": "zamknięty"
+      }
+    },
+    {
+      "phrase": "العِرَاقُ",
+      "transcription": "al-ʿIrāq",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Iraq",
+        "pol": "Irak"
+      }
+    },
+    {
+      "phrase": "سُوِيسْرَا",
+      "transcription": "Swīsra",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Switzerland",
+        "pol": "Szwajcaria"
+      }
+    },
+    {
+      "phrase": "السِّكِّينُ",
+      "transcription": "as-sikkīn",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "knife",
+        "pol": "nóż"
+      }
+    },
+    {
+      "phrase": "أَلْمَانِيَا",
+      "transcription": "Almānyā",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Germany",
+        "pol": "Niemcy"
+      }
+    },
+    {
+      "phrase": "إِنْكَلْتَرَا",
+      "transcription": "Inkaltarā",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "England",
+        "pol": "Anglia"
+      }
+    },
+    {
+      "phrase": "المُسْتَشْفَى",
+      "transcription": "al-mustašfā",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hospital",
+        "pol": "szpital"
+      }
+    }
+  ]
+}

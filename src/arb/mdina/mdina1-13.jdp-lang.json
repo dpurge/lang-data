@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "ready",
+    "tags": [
+      "mdina-1-13"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "فَتًى",
+      "transcription": "fatan",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "young man",
+        "pol": "młodzieniec"
+      }
+    },
+    {
+      "phrase": "فِتْيَةٌ",
+      "transcription": "fitya",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "young men",
+        "pol": "młodzieńcy"
+      }
+    },
+    {
+      "phrase": "طَوِيلٌ",
+      "transcription": "ṭawīl",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "tall",
+        "pol": "wysoki"
+      }
+    },
+    {
+      "phrase": "طِوَالٌ",
+      "transcription": "ṭiwāl",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "tall",
+        "pol": "wysocy"
+      }
+    },
+    {
+      "phrase": "طَالِبٌ",
+      "transcription": "ṭālib",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "student",
+        "pol": "student"
+      }
+    },
+    {
+      "phrase": "طُلَّابٌ",
+      "transcription": "ṭullāb",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "students",
+        "pol": "studenci"
+      }
+    },
+    {
+      "phrase": "جَدِيدٌ",
+      "transcription": "jadīd",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "new",
+        "pol": "nowy"
+      }
+    },
+    {
+      "phrase": "جُدُدٌ",
+      "transcription": "judud",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "new",
+        "pol": "nowi"
+      }
+    },
+    {
+      "phrase": "ضَيفٌ",
+      "transcription": "ḍayf",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "guest",
+        "pol": "gość"
+      }
+    },
+    {
+      "phrase": "ضُيُوفٌ",
+      "transcription": "ḍuyūf",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "guests",
+        "pol": "goście"
+      }
+    },
+    {
+      "phrase": "قَرْيَةٌ",
+      "transcription": "qarya",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "village",
+        "pol": "wieś"
+      }
+    },
+    {
+      "phrase": "حَقْلٌ",
+      "transcription": "ḥaql",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "field",
+        "pol": "pole"
+      }
+    },
+    {
+      "phrase": "حُقُولٌ",
+      "transcription": "ḥuqūl",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "fields",
+        "pol": "pola"
+      }
+    },
+    {
+      "phrase": "زَمِيلٌ",
+      "transcription": "zamīl",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "classmate",
+        "pol": "kolega"
+      }
+    },
+    {
+      "phrase": "زُمَلَاءُ",
+      "transcription": "zumalāʾ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "classmates",
+        "pol": "koledzy"
+      }
+    },
+    {
+      "phrase": "مُجْتَهِدٌ",
+      "transcription": "mujtahid",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "hardworking",
+        "pol": "pracowity"
+      }
+    },
+    {
+      "phrase": "إِسْمٌ",
+      "transcription": "ism",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "name",
+        "pol": "imię"
+      }
+    },
+    {
+      "phrase": "أَسْمَاءُ",
+      "transcription": "asmāʾ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "names",
+        "pol": "imiona"
+      }
+    },
+    {
+      "phrase": "رَجُلٌ",
+      "transcription": "rajul",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "man",
+        "pol": "mężczyzna"
+      }
+    },
+    {
+      "phrase": "رِجَالٌ",
+      "transcription": "rijāl",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "men",
+        "pol": "mężczyźni"
+      }
+    },
+    {
+      "phrase": "النَّاسُ",
+      "transcription": "an-nās",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "people",
+        "pol": "ludzie"
+      }
+    },
+    {
+      "phrase": "قَصِيرٌ",
+      "transcription": "qaṣīr",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "short",
+        "pol": "niski"
+      }
+    },
+    {
+      "phrase": "قِصَارٌ",
+      "transcription": "qiṣār",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "short",
+        "pol": "niscy"
+      }
+    },
+    {
+      "phrase": "حَاجٌّ",
+      "transcription": "ḥājj",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "pilgrim",
+        "pol": "pielgrzym"
+      }
+    },
+    {
+      "phrase": "حُجَّاجٌ",
+      "transcription": "ḥujjāj",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "pilgrims",
+        "pol": "pielgrzymi"
+      }
+    },
+    {
+      "phrase": "صَدِيقٌ",
+      "transcription": "ṣadīq",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "friend",
+        "pol": "przyjaciel"
+      }
+    },
+    {
+      "phrase": "أَصْدِقَاءُ",
+      "transcription": "aṣdiqāʾ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "friends",
+        "pol": "przyjaciele"
+      }
+    },
+    {
+      "phrase": "المَطْعَمُ",
+      "transcription": "al-maṭʿam",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "restaurant; mess",
+        "pol": "restauracja; stołówka"
+      }
+    },
+    {
+      "phrase": "إِبْنٌ",
+      "transcription": "ibn",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "son",
+        "pol": "syn"
+      }
+    },
+    {
+      "phrase": "أَبْنَاءٌ",
+      "transcription": "abnāʾ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sons",
+        "pol": "synowie"
+      }
+    },
+    {
+      "phrase": "شَيْخٌ",
+      "transcription": "šayḫ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "old man; learned man",
+        "pol": "mędrzec; szejk"
+      }
+    },
+    {
+      "phrase": "أُسْتَاذَةٌ",
+      "transcription": "ustāḏa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "lady profesor",
+        "pol": "pani profesor"
+      }
+    },
+    {
+      "phrase": "زَوْجَةٌ",
+      "transcription": "zawja",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "wife",
+        "pol": "żona"
+      }
+    },
+    {
+      "phrase": "عَمَّةٌ",
+      "transcription": "ʿamma",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "aunt; father's sister",
+        "pol": "ciotka; siostra ojca"
+      }
+    },
+    {
+      "phrase": "المَرْأَةُ",
+      "transcription": "al-marʾa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "women",
+        "pol": "kobiety"
+      }
+    },
+    {
+      "phrase": "النِّسَاءُ",
+      "transcription": "an-nisāʾ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "women",
+        "pol": "kobiety"
+      }
+    },
+    {
+      "phrase": "زَوْجٌ",
+      "transcription": "zawj",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "husband",
+        "pol": "mąż"
+      }
+    }
+  ]
+}

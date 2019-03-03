@@ -6,99 +6,174 @@
     "source": "Abdur-Raheem \"Lessons in Arabic language\"",
     "status": "ready",
     "tags": [
-      "mdina-1-5"
+      "mdina-1-05"
     ]
   },
   "data": [
     {
       "phrase": "تَحْتَ",
       "transcription": "taḥta",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pod"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pod"
+      }
     },
     {
       "phrase": "الاِبْنُ",
       "transcription": "al-ibn",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "syn"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "syn"
+      }
     },
     {
       "phrase": "السَّيَّارَةُ",
       "transcription": "as-sayyāra",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "samochód"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "samochód"
+      }
     },
     {
       "phrase": "هُنَا",
       "transcription": "hunā",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "tutaj"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tutaj"
+      }
     },
     {
       "phrase": "هُنَاكَ",
       "transcription": "hunāka",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "tam"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tam"
+      }
     },
     {
       "phrase": "البِنْتُ",
       "transcription": "al-bint",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "córka; dziewczyna"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "córka; dziewczyna"
+      }
     },
     {
       "phrase": "الطَّبِيبُ",
       "transcription": "aṭ-ṭabīb",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "lekarz"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lekarz"
+      }
     },
     {
       "phrase": "الرَّسُولُ",
       "transcription": "ar-rasūl",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "posłaniec"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "posłaniec"
+      }
     },
     {
       "phrase": "العَمُّ",
       "transcription": "al-ʿamm",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wuj ze strony ojca"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wuj ze strony ojca"
+      }
     },
     {
       "phrase": "الشَّارِعُ",
       "transcription": "aš-šāriʿ",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "ulica"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ulica"
+      }
     },
     {
       "phrase": "الكَعْبَةُ",
       "transcription": "al-Kaʿba",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Kaaba"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Kaaba"
+      }
     },
     {
       "phrase": "الخَالُ",
       "transcription": "al-ḫāl",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wuj ze strony matki"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wuj ze strony matki"
+      }
     },
     {
       "phrase": "مُغْلَقٌ",
       "transcription": "muġlaq",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "zamknięty"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zamknięty"
+      }
     },
     {
       "phrase": "الاِسْمُ",
       "transcription": "al-ism",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "imię"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "imię"
+      }
     },
     {
       "phrase": "الحَقِيبَةُ",
       "transcription": "al-ḥaqība",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "torba; teczka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "torba; teczka"
+      }
     }
   ]
 }

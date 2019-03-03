@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "ready",
+    "tags": [
+      "mdina-1-17"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "الشَّرِكَةُ",
+      "transcription": "aš-šarika",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "firm; company",
+        "pol": "firma; przedsiębiorstwo"
+      }
+    },
+    {
+      "phrase": "رَخِيصٌ",
+      "transcription": "raḫīṣ",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "cheap",
+        "pol": "tani"
+      }
+    },
+    {
+      "phrase": "القَمِيصُ",
+      "transcription": "al-qamīṣ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "shirt",
+        "pol": "koszula"
+      }
+    },
+    {
+      "phrase": "قُمْصَانٌ",
+      "transcription": "qumṣān",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "shirts",
+        "pol": "koszule"
+      }
+    },
+    {
+      "phrase": "مُدِيرُ الشَّرِكَةِ",
+      "transcription": "mudīru š-šarika",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "director of the company",
+        "pol": "dyrektor przedsiębiorstwa"
+      }
+    },
+    {
+      "phrase": "يَابَانِيَّةٌ",
+      "transcription": "yābāniyya",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Japanese",
+        "pol": "japońska"
+      }
+    }
+  ]
+}

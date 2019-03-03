@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "pes",
+    "source": "",
+    "tags": [
+      "alvlrnz07"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": ""
+      }
+    }
+  ]
+}

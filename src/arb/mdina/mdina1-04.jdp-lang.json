@@ -6,123 +6,218 @@
     "source": "Abdur-Raheem \"Lessons in Arabic language\"",
     "status": "ready",
     "tags": [
-      "mdina-1-4"
+      "mdina-1-04"
     ]
   },
   "data": [
     {
       "phrase": "عَلَى",
       "transcription": "ʿalā",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "na"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "na"
+      }
     },
     {
       "phrase": "السَّمَاءُ",
       "transcription": "as-samāʾ",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "niebo"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niebo"
+      }
     },
     {
       "phrase": "الفَصْلُ",
       "transcription": "al-faṣl",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "klasa"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "klasa"
+      }
     },
     {
       "phrase": "المِرْخَاضُ",
       "transcription": "al-mirḥāḍ",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "toaleta"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "toaleta"
+      }
     },
     {
       "phrase": "أَيْنَ",
       "transcription": "ayna",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "gdzie"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gdzie"
+      }
     },
     {
       "phrase": "غُرْفَةٌ",
       "transcription": "ġurfa",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pokój; izba"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pokój; izba"
+      }
     },
     {
       "phrase": "الحَمَّامُ",
       "transcription": "al-ḥammām",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "łazienka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łazienka"
+      }
     },
     {
       "phrase": "المَطْبَخُ",
       "transcription": "al-maṭbaḫ",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kuchnia"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kuchnia"
+      }
     },
     {
       "phrase": "فِي",
       "transcription": "fī",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "w"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "w"
+      }
     },
     {
       "phrase": "الفِلِبِينُ",
       "transcription": "al-Filibīn",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Filipiny"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Filipiny"
+      }
     },
     {
       "phrase": "المَدْرَسَةُ",
       "transcription": "al-madrasa",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "szkoła"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szkoła"
+      }
     },
     {
       "phrase": "السُّوقُ",
       "transcription": "as-sūq",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "targowisko"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "targowisko"
+      }
     },
     {
       "phrase": "الجَامِعَةُ",
-      "transcription": "al-ǧāmiʿa",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "uniwersytet"}
+      "transcription": "al-jāmiʿa",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uniwersytet"
+      }
     },
     {
       "phrase": "مِن",
       "transcription": "min",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "z"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "z"
+      }
     },
     {
       "phrase": "إِلَي",
       "transcription": "ilā",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "do"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "do"
+      }
     },
     {
       "phrase": "اليَابَانُ",
       "transcription": "al-Yābān",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Japonia"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Japonia"
+      }
     },
     {
       "phrase": "الصِّينُ",
       "transcription": "aṣ-Ṣīn",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Chiny"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Chiny"
+      }
     },
     {
       "phrase": "الهِنْدُ",
       "transcription": "al-Hind",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "Indie"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Indie"
+      }
     },
     {
       "phrase": "المُدِيرُ",
       "transcription": "al-mudīr",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dyrektor; kierownik"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dyrektor; kierownik"
+      }
     }
   ]
 }

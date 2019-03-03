@@ -6,33 +6,53 @@
     "source": "Abdur-Raheem \"Lessons in Arabic language\"",
     "status": "ready",
     "tags": [
-      "mdina-1-2"
+      "mdina-1-02"
     ]
   },
   "data": [
     {
       "phrase": "سُكَّرٌ",
       "transcription": "sukkar",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "cukier"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cukier"
+      }
     },
     {
       "phrase": "لَبَنٌ",
       "transcription": "laban",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "mleko"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mleko"
+      }
     },
     {
       "phrase": "إِمَامٌ",
       "transcription": "imām",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "imam"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "imam"
+      }
     },
     {
       "phrase": "حَجَرٌ",
-      "transcription": "ḥaǧar",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kamień"}
+      "transcription": "ḥajar",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kamień"
+      }
     }
   ]
 }

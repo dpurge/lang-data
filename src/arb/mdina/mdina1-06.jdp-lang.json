@@ -4,17 +4,242 @@
     "version": 1,
     "language": "arb",
     "source": "Abdur-Raheem \"Lessons in Arabic language\"",
-    "status": "pending",
+    "status": "ready",
     "tags": [
-      "mdina-1-6"
+      "mdina-1-06"
     ]
   },
   "data": [
     {
-      "phrase": "",
-      "transcription": "",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": ""}
+      "phrase": "المِكْوَاةُ",
+      "transcription": "al-mikwa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "iron",
+        "pol": "żelazko"
+      }
+    },
+    {
+      "phrase": "البَقَرَةُ",
+      "transcription": "al-baqara",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "cow",
+        "pol": "krowa"
+      }
+    },
+    {
+      "phrase": "الدَّرَّاجَةُ",
+      "transcription": "ad-darrāja",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "bicycle",
+        "pol": "rower"
+      }
+    },
+    {
+      "phrase": "المِلْعَقَةُ",
+      "transcription": "al-milʿaqa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "spoon",
+        "pol": "łyżka"
+      }
+    },
+    {
+      "phrase": "الفَلَّاحُ",
+      "transcription": "al-fallāḥu",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "farmer",
+        "pol": "rolnik"
+      }
+    },
+    {
+      "phrase": "الأُمُّ",
+      "transcription": "al-ʾumm",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mother",
+        "pol": "matka"
+      }
+    },
+    {
+      "phrase": "الأَبُ",
+      "transcription": "al-ʾab",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "father",
+        "pol": "ojciec"
+      }
+    },
+    {
+      "phrase": "الثَّلَّاجَةُ",
+      "transcription": "aṯ-ṯallāja",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "fridge",
+        "pol": "lodówka"
+      }
+    },
+    {
+      "phrase": "الشَّايُ",
+      "transcription": "aš-šāy",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tea",
+        "pol": "herbata"
+      }
+    },
+    {
+      "phrase": "المَغْرِبُ",
+      "transcription": "al-maġrib",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "west",
+        "pol": "zachód"
+      }
+    },
+    {
+      "phrase": "القَهْوَةُ",
+      "transcription": "al-qahwa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "coffee",
+        "pol": "kawa"
+      }
+    },
+    {
+      "phrase": "الأَنْفُ",
+      "transcription": "al-ʾanf",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "nose",
+        "pol": "nos"
+      }
+    },
+    {
+      "phrase": "الفَمُ",
+      "transcription": "al-fam",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mouth",
+        "pol": "usta"
+      }
+    },
+    {
+      "phrase": "القِدْرُ",
+      "transcription": "al-qidr",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "cooking pot",
+        "pol": "garnek"
+      }
+    },
+    {
+      "phrase": "الأُذْنُ",
+      "transcription": "al-ʾuḏn",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "ear",
+        "pol": "ucho"
+      }
+    },
+    {
+      "phrase": "العَيْنُ",
+      "transcription": "al-ʿayn",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "eye",
+        "pol": "oko"
+      }
+    },
+    {
+      "phrase": "اليَدُ",
+      "transcription": "al-yad",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hand",
+        "pol": "ręka"
+      }
+    },
+    {
+      "phrase": "الرِّجْلُ",
+      "transcription": "ar-rijl",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "leg",
+        "pol": "noga"
+      }
+    },
+    {
+      "phrase": "سَرِيعٌ",
+      "transcription": "sarīʿ",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "fast",
+        "pol": "szybki"
+      }
+    },
+    {
+      "phrase": "النَّافِذَةُ",
+      "transcription": "an-nāfiḏa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "window",
+        "pol": "okno"
+      }
+    },
+    {
+      "phrase": "الشَّرْقُ",
+      "transcription": "aš-šarq",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "east",
+        "pol": "wschód"
+      }
     }
   ]
 }

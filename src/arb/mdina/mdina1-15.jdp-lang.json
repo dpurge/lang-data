@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "ready",
+    "tags": [
+      "mdina-1-15"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "القَاهِرَةُ",
+      "transcription": "al-Qāhira",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Cairo",
+        "pol": "Kair"
+      }
+    },
+    {
+      "phrase": "الأُسْبُوعُ",
+      "transcription": "al-ʾusbūʿ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "week",
+        "pol": "tydzień"
+      }
+    },
+    {
+      "phrase": "الدَّرْسُ",
+      "transcription": "ad-dars",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "lesson",
+        "pol": "lekcja"
+      }
+    },
+    {
+      "phrase": "الآنَ",
+      "transcription": "al-ʾāna",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "now",
+        "pol": "teraz"
+      }
+    },
+    {
+      "phrase": "الاِخْتِبَارُ",
+      "transcription": "al-ʾiḫtibār",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "examination",
+        "pol": "egzamin"
+      }
+    }
+  ]
+}

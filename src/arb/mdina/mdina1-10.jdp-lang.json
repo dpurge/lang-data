@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "ready",
+    "tags": [
+      "mdina-1-10"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "الزَّمِيلُ",
+      "transcription": "az-zamīl",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "colleague; classmate",
+        "pol": "kolega"
+      }
+    },
+    {
+      "phrase": "الزَّوْجُ",
+      "transcription": "az-zawj",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "husband",
+        "pol": "mąż"
+      }
+    },
+    {
+      "phrase": "الطِّفْلُ",
+      "transcription": "aṭ-ṭifl",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "child",
+        "pol": "dziecko"
+      }
+    },
+    {
+      "phrase": "الفَتَى",
+      "transcription": "al-fatā",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "young man",
+        "pol": "młodzieniec"
+      }
+    },
+    {
+      "phrase": "وَاحِدٌ",
+      "transcription": "wāḥid",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one",
+        "pol": "jeden"
+      }
+    }
+  ]
+}

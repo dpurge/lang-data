@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "pending",
+    "tags": [
+      "mdina-1-18"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "category": {"lexical": ""},
+      "translation": {"eng": "", "pol": ""}
+    }
+  ]
+}

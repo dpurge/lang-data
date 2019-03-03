@@ -6,153 +6,273 @@
     "source": "Abdur-Raheem \"Lessons in Arabic language\"",
     "status": "ready",
     "tags": [
-      "mdina-1-1"
+      "mdina-1-01"
     ]
   },
   "data": [
     {
       "phrase": "وَلَدٌ",
       "transcription": "walad",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "chłopiec"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "chłopiec"
+      }
     },
     {
       "phrase": "طَالِبٌ",
       "transcription": "ṭālib",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "student"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "student"
+      }
     },
     {
       "phrase": "رَجُلٌ",
-      "transcription": "raǧul",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "mężczyzna"}
+      "transcription": "rajul",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mężczyzna"
+      }
     },
     {
       "phrase": "تَاجِرٌ",
-      "transcription": "tāǧir",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kupiec"}
+      "transcription": "tājir",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kupiec"
+      }
     },
     {
       "phrase": "كَلْبٌ",
       "transcription": "kalb",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pies"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pies"
+      }
     },
     {
       "phrase": "قِطٌّ",
       "transcription": "qiṭṭ",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kot"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kot"
+      }
     },
     {
       "phrase": "حِمَارٌ",
       "transcription": "ḥimār",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "osioł"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "osioł"
+      }
     },
     {
       "phrase": "حِصَانٌ",
       "transcription": "ḥiṣān",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "koń"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "koń"
+      }
     },
     {
       "phrase": "جَمَلٌ",
-      "transcription": "ǧamal",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "wielbłąd"}
+      "transcription": "jamal",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wielbłąd"
+      }
     },
     {
       "phrase": "دِيكٌ",
       "transcription": "dīk",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "kogut"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kogut"
+      }
     },
     {
       "phrase": "مُدَرِّسٌ",
       "transcription": "mudarris",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "nauczyciel"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nauczyciel"
+      }
     },
     {
       "phrase": "مِندِيلٌ",
       "transcription": "mindīl",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "chusteczka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "chusteczka"
+      }
     },
     {
       "phrase": "بَيتٌ",
       "transcription": "bayt",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "dom"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dom"
+      }
     },
     {
       "phrase": "مَسْجِدٌ",
-      "transcription": "masǧid",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "meczet"}
+      "transcription": "masjid",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "meczet"
+      }
     },
     {
       "phrase": "بَابٌ",
       "transcription": "bāb",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "drzwi"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "drzwi"
+      }
     },
     {
       "phrase": "كِتَابٌ",
       "transcription": "kitāb",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "książka"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "książka"
+      }
     },
     {
       "phrase": "قَلَمٌ",
       "transcription": "qalam",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "pióro; ołówek"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pióro; ołówek"
+      }
     },
     {
       "phrase": "مِفْتَاحٌ",
       "transcription": "miftāḥ",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "klucz"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "klucz"
+      }
     },
     {
       "phrase": "مَكْتَبٌ",
       "transcription": "maktab",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "biurko"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "biurko"
+      }
     },
     {
       "phrase": "سَرِيرٌ",
       "transcription": "sarīr",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "łóżko"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łóżko"
+      }
     },
     {
       "phrase": "كُرْسِيٌّ",
       "transcription": "kursī",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "krzesło"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "krzesło"
+      }
     },
     {
       "phrase": "نَجْمٌ",
-      "transcription": "naǧm",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "gwiazda"}
+      "transcription": "najm",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gwiazda"
+      }
     },
     {
       "phrase": "قَمِيصٌ",
       "transcription": "qamīṣ",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "koszula"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "koszula"
+      }
     },
     {
       "phrase": "طَبِيبٌ",
       "transcription": "ṭabīb",
-      "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "lekarz"}
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lekarz"
+      }
     }
   ]
 }

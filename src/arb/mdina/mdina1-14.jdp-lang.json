@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "ready",
+    "tags": [
+      "mdina-1-14"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "أَهْلًا وَسَهْلًا وَمَرْحَباً",
+      "transcription": "ahlan wa-sahlan wa-marḥaban",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "welcome",
+        "pol": "witajcie"
+      }
+    },
+    {
+      "phrase": "طِفْلَةٌ",
+      "transcription": "ṭifla",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "child",
+        "pol": "dziewczynka; dziecko"
+      }
+    },
+    {
+      "phrase": "المَطَارُ",
+      "transcription": "al-maṭār",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "airport",
+        "pol": "lotnisko"
+      }
+    },
+    {
+      "phrase": "الكُلِّيَّةُ",
+      "transcription": "al-kulliyya",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "faculty; college",
+        "pol": "fakultet; wydział"
+      }
+    },
+    {
+      "phrase": "كُلِّيَّةُ الطِّبِّ",
+      "transcription": "kulliyyatu ṭ-ṭibb",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Faculty of medicine",
+        "pol": "Wydział medycyny"
+      }
+    },
+    {
+      "phrase": "كُلِّيَّةُ الهَنْدَسَةِ",
+      "transcription": "kulliyyatu l-handasa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Faculty of engineering",
+        "pol": "Wydział inżynieryjny"
+      }
+    },
+    {
+      "phrase": "كُلِّيَّةُ التِّجَارَةِ",
+      "transcription": "kulliyyatu t-tijāra",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Faculty of commerce",
+        "pol": "Wydział handlowy"
+      }
+    },
+    {
+      "phrase": "كُلِّيَّةُ الشَّرِيعَةِ",
+      "transcription": "kulliyyatu š-šarīʿa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Faculty of Islamic law",
+        "pol": "Wydział prawa islamskiego"
+      }
+    },
+    {
+      "phrase": "نَصْرَانِيٌّ",
+      "transcription": "naṣrānī",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Christian",
+        "pol": "chrześcijanin"
+      }
+    },
+    {
+      "phrase": "نَصَارَى",
+      "transcription": "naṣārā",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Christians",
+        "pol": "chrześcijanie"
+      }
+    },
+    {
+      "phrase": "النَّبِيُّ",
+      "transcription": "an-nabī",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Prophet",
+        "pol": "Prorok"
+      }
+    },
+    {
+      "phrase": "الدِّينُ",
+      "transcription": "ad-dīn",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "religion",
+        "pol": "religia"
+      }
+    },
+    {
+      "phrase": "شَفَاهُ اللَّهُ",
+      "transcription": "šafāhu l-Lāhu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "May God grant him health!",
+        "pol": "Niech Bóg go strzeże!"
+      }
+    },
+    {
+      "phrase": "الدُّسْتُورٌ",
+      "transcription": "ad-dustūr",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "constitution",
+        "pol": "konstytucja"
+      }
+    },
+    {
+      "phrase": "القِبْلَةُ",
+      "transcription": "al-qibla",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "prayer direction",
+        "pol": "kierunek modlitwy"
+      }
+    },
+    {
+      "phrase": "المَحْكَمَةُ",
+      "transcription": "al-maḥkama",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "lawcourt",
+        "pol": "sąd"
+      }
+    },
+    {
+      "phrase": "حَفِيدٌ",
+      "transcription": "ḥafīd",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "grandson",
+        "pol": "wnuk"
+      }
+    },
+    {
+      "phrase": "حَفَدَةٌ",
+      "transcription": "ḥafada",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "grandsons",
+        "pol": "wnuki"
+      }
+    },
+    {
+      "phrase": "الحَدِيقَةُ",
+      "transcription": "al-ḥadīqa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "garden",
+        "pol": "ogród"
+      }
+    },
+    {
+      "phrase": "الرَّبُّ",
+      "transcription": "ar-Rabbu",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Lord",
+        "pol": "Pan"
+      }
+    },
+    {
+      "phrase": "يَومُ السَّبْتِ",
+      "transcription": "yawmu s-sabt",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Saturday",
+        "pol": "sobota"
+      }
+    },
+    {
+      "phrase": "الشَّهْرُ",
+      "transcription": "aš-šahr",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "month",
+        "pol": "miesiąc"
+      }
+    },
+    {
+      "phrase": "رَجَبٌ",
+      "transcription": "rajab",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "the month of Rajab",
+        "pol": "miesiąc Radżab"
+      }
+    },
+    {
+      "phrase": "اليُونَانُ",
+      "transcription": "al-Yūnān",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Greece",
+        "pol": "Grecja"
+      }
+    },
+    {
+      "phrase": "أَخٌ",
+      "transcription": "aḫ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "brother",
+        "pol": "brat"
+      }
+    },
+    {
+      "phrase": "إِخْوَةٌ",
+      "transcription": "iḫwa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "brothers",
+        "pol": "bracia"
+      }
+    }
+  ]
+}

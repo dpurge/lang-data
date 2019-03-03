@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "ready",
+    "tags": [
+      "mdina-1-07"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "النَّاقَةُ",
+      "transcription": "an-nāqa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "she-camel",
+        "pol": "wielbłądzica"
+      }
+    },
+    {
+      "phrase": "البَطَّةُ",
+      "transcription": "al-baṭṭa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "duck",
+        "pol": "kaczka"
+      }
+    },
+    {
+      "phrase": "المُمَرِّضَةُ",
+      "transcription": "al-mumarriḍa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "nurse",
+        "pol": "pielęgniarka"
+      }
+    },
+    {
+      "phrase": "البَيْضَةُ",
+      "transcription": "al-bayḍa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "egg",
+        "pol": "jajko"
+      }
+    },
+    {
+      "phrase": "المُؤَذِّنُ",
+      "transcription": "al-muʾaḏḏin",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "muezzin",
+        "pol": "muezzin"
+      }
+    },
+    {
+      "phrase": "الدَّجَاجَةُ",
+      "transcription": "ad-dajāja",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hen",
+        "pol": "kura"
+      }
+    }
+  ]
+}

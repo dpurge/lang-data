@@ -1,0 +1,377 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "pes",
+    "source": "",
+    "tags": [
+      "alvlrnz06"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "آسان",
+      "transcription": "āsān",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łatwy"
+      }
+    },
+    {
+      "phrase": "دشوار",
+      "transcription": "došvār",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "trudny"
+      }
+    },
+    {
+      "phrase": "معلم",
+      "transcription": "moʿallem",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nauczyciel"
+      }
+    },
+    {
+      "phrase": "سلام",
+      "transcription": "salām",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Dzień dobry!"
+      }
+    },
+    {
+      "phrase": "کجا",
+      "transcription": "kojā",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gdzie"
+      }
+    },
+    {
+      "phrase": "از",
+      "transcription": "az",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "z"
+      }
+    },
+    {
+      "phrase": "شهر",
+      "transcription": "šahr",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miasto"
+      }
+    },
+    {
+      "phrase": "در",
+      "transcription": "dar",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "w"
+      }
+    },
+    {
+      "phrase": "خانه",
+      "transcription": "xāne",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dom"
+      }
+    },
+    {
+      "phrase": "چه",
+      "transcription": "če",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "co"
+      }
+    },
+    {
+      "phrase": "کیست",
+      "transcription": "kist",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kto jest?"
+      }
+    },
+    {
+      "phrase": "به",
+      "transcription": "be",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "do"
+      }
+    },
+    {
+      "phrase": "سینما",
+      "transcription": "sinemā",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kino"
+      }
+    },
+    {
+      "phrase": "پول",
+      "transcription": "pul",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pieniądze"
+      }
+    },
+    {
+      "phrase": "پدر",
+      "transcription": "pedar",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ojciec"
+      }
+    },
+    {
+      "phrase": "وقت",
+      "transcription": "vaqt",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czas"
+      }
+    },
+    {
+      "phrase": "خوب",
+      "transcription": "xub",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dobry"
+      }
+    },
+    {
+      "phrase": "کتاب",
+      "transcription": "ketāb",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "książka"
+      }
+    },
+    {
+      "phrase": "دختر",
+      "transcription": "doxtar",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "córka; dziewczynka"
+      }
+    },
+    {
+      "phrase": "آمدن",
+      "transcription": "āmadan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przychodzić"
+      }
+    },
+    {
+      "phrase": "بودن",
+      "transcription": "budan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "być"
+      }
+    },
+    {
+      "phrase": "دادن",
+      "transcription": "dādan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dać"
+      }
+    },
+    {
+      "phrase": "دیدن",
+      "transcription": "didan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "widzieć"
+      }
+    },
+    {
+      "phrase": "شدن",
+      "transcription": "šodan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "stać się"
+      }
+    },
+    {
+      "phrase": "کردن",
+      "transcription": "kardan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "robić"
+      }
+    },
+    {
+      "phrase": "مردن",
+      "transcription": "mordan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "umrzeć"
+      }
+    },
+    {
+      "phrase": "بستن",
+      "transcription": "bastan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łączyć"
+      }
+    },
+    {
+      "phrase": "داشتن",
+      "transcription": "dāštan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mieć"
+      }
+    },
+    {
+      "phrase": "دانستن",
+      "transcription": "dānestan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wiedzieć"
+      }
+    },
+    {
+      "phrase": "رفتن",
+      "transcription": "raftan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "iść; jechać"
+      }
+    },
+    {
+      "phrase": "گرفتن",
+      "transcription": "gereftan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wziąć"
+      }
+    },
+    {
+      "phrase": "گفتن",
+      "transcription": "goftan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "powiedzieć"
+      }
+    },
+    {
+      "phrase": "نوشتن",
+      "transcription": "neveštan",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pisać"
+      }
+    }
+  ]
+}

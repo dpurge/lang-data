@@ -1,0 +1,344 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "Abdur-Raheem \"Lessons in Arabic language\"",
+    "status": "ready",
+    "tags": [
+      "mdina-1-12"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "العَمُّ",
+      "transcription": "al-ʿamm",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "paternal uncle",
+        "pol": "wuj ze strony ojca"
+      }
+    },
+    {
+      "phrase": "العَمَّةُ",
+      "transcription": "al-ʿamma",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "paternal aunt",
+        "pol": "ciotka ze strony ojca"
+      }
+    },
+    {
+      "phrase": "الخَالُ",
+      "transcription": "al-ḫāl",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "maternal uncle",
+        "pol": "wuj ze strony matki"
+      }
+    },
+    {
+      "phrase": "الخَالَةُ",
+      "transcription": "al-ḫāla",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "maternal aunt",
+        "pol": "ciotka ze strony matki"
+      }
+    },
+    {
+      "phrase": "مُسْتَشْفَى الوِلَادَةِ",
+      "transcription": "mustašfā-l-wilāda",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "maternity hospital",
+        "pol": "szpital położniczy"
+      }
+    },
+    {
+      "phrase": "يَا سَيِّدِي",
+      "transcription": "yā sayyidī",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sir!",
+        "pol": "proszę pana!"
+      }
+    },
+    {
+      "phrase": "يَا سَيِّدَتِي",
+      "transcription": "yā sayyidatī",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "madam!",
+        "pol": "proszę pani!"
+      }
+    },
+    {
+      "phrase": "كَيْفَ حَالُكَ؟",
+      "transcription": "Kayfa ḥāluka?",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "How are you?",
+        "pol": "Jak się masz?"
+      }
+    },
+    {
+      "phrase": "أُمَّهَاتٌ",
+      "transcription": "ummahāt",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mothers",
+        "pol": "matki"
+      }
+    },
+    {
+      "phrase": "وُزَرَاءُ",
+      "transcription": "wuzarāʾ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "ministers",
+        "pol": "ministrowie"
+      }
+    },
+    {
+      "phrase": "أُمٌّ",
+      "transcription": "umm",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mother",
+        "pol": "matka"
+      }
+    },
+    {
+      "phrase": "وَزِيرٌ",
+      "transcription": "wazīr",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "minister",
+        "pol": "minister"
+      }
+    },
+    {
+      "phrase": "قَوِيٌّ",
+      "transcription": "qawī",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "strong",
+        "pol": "silny"
+      }
+    },
+    {
+      "phrase": "أَقْوِيَاءُ",
+      "transcription": "aqwiyāʾ",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "strong",
+        "pol": "silni"
+      }
+    },
+    {
+      "phrase": "بَعْدَ",
+      "transcription": "baʿda",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "after",
+        "pol": "po"
+      }
+    },
+    {
+      "phrase": "الشَّجَرَةُ",
+      "transcription": "aš-šajara",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tree",
+        "pol": "drzewo"
+      }
+    },
+    {
+      "phrase": "سُورِيَا",
+      "transcription": "Sūriyā",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Syria",
+        "pol": "Syria"
+      }
+    },
+    {
+      "phrase": "المَدْرَسَةُ المُتَوَسِّطَةُ",
+      "transcription": "al-madrasa l-mutawassiṭa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "middle school",
+        "pol": "szkoła średnia"
+      }
+    },
+    {
+      "phrase": "المُفَتِّشُ",
+      "transcription": "al-mufattiš",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "inspector",
+        "pol": "inspektor"
+      }
+    },
+    {
+      "phrase": "الفَتَاةُ",
+      "transcription": "al-fatā",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "young lady",
+        "pol": "dziewczyna"
+      }
+    },
+    {
+      "phrase": "الدَّفْتَرُ",
+      "transcription": "ad-daftar",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "notebook",
+        "pol": "zeszyt"
+      }
+    },
+    {
+      "phrase": "مَالِيزِيَا",
+      "transcription": "Malīziyā",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Malaysia",
+        "pol": "Malezja"
+      }
+    },
+    {
+      "phrase": "أَنَا بِخَيْرٍ",
+      "transcription": "anā bi-ḫayr",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "I am fine",
+        "pol": "Mam się dobrze"
+      }
+    },
+    {
+      "phrase": "أَبٌ",
+      "transcription": "ab",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "father",
+        "pol": "ojciec"
+      }
+    },
+    {
+      "phrase": "آبَاءٌ",
+      "transcription": "ābāʾ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "fathers",
+        "pol": "ojcowie"
+      }
+    },
+    {
+      "phrase": "عَالِمٌ",
+      "transcription": "ʿālim",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "scholar",
+        "pol": "uczony"
+      }
+    },
+    {
+      "phrase": "عُلَمَاءُ",
+      "transcription": "ʿulamāʾ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "scholars",
+        "pol": "uczeni"
+      }
+    },
+    {
+      "phrase": "ضَعِيفٌ",
+      "transcription": "ḍaʿīf",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "weak",
+        "pol": "słaby"
+      }
+    },
+    {
+      "phrase": "ضِعَافٌ",
+      "transcription": "ḍiʿāf",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "weak",
+        "pol": "słabi"
+      }
+    },
+    {
+      "phrase": "المَمْلَكَةُ العَرَبِيَّةُ السَّعُودِيَّةُ",
+      "transcription": "al-Mamlaka l-ʿArabiyya s-Saʿudiyya",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Kingdom of Saudi Arabia",
+        "pol": "Królestwo Arabii Saudyjskiej"
+      }
+    }
+  ]
+}
