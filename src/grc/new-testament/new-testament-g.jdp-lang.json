@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "grc",
+    "source": "",
+    "tags": [
+        "NT-G"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "ὁ ἀπόστολος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "apostle",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "Μωϋσῆς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Moses",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐκβάλλω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to cast out",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "καταβαίνω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to come down; go down",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μᾶλλον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "more; rather",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἕκαστος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "each; each person",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἑκάστη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "each; each person",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἕκαστον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "each; each person",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅπου",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "where; whereas",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀναβαίνω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to go up; rise up; advance",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὥστε",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "so that; in order that; thus",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ μήτηρ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "mother",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "προσεύχομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to pray",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ καιρός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "time",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πληρόω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to fill; fulfill",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἄρχω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to begin; to rule over",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "προσέρχομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to come to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οὔτε",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "neither",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἑπτά",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "seven; 7",
+        "pol": ""
+      }
+    }
+  ]
+}

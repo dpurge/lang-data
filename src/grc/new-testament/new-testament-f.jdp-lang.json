@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "grc",
+    "source": "",
+    "tags": [
+        "NT-F"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "ἀπόλλυμι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to destroy; to lose",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀκολουθέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to follow",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πίπτω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to fall",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μηδείς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no; no one",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μηδεμία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no; no one",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μηδέν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no; no one",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ θάλασσα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sea; lake",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "κάθημαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to sit",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ δικαιοσύνη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "righteousness; justice",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ εἰρήνη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "peace",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ πούς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "foot",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἔτι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "yet; still",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ οἰκία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "house",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐνώπιον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) before; in front of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ τόπος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "place; position; opportunity",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "περιπατέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to walk; walk around",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "φοβέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to fear",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό αἷμα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "blood",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ ἄρτος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bread; burden",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "διδάσκω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to teach",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "γεννάω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be father of; to bear; beget",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ Φαρισαῖος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Pharisee",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἕτερος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "other; another",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἕτερα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "other; another",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἕτερον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "other; another",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό τέκνον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "child",
+        "pol": ""
+      }
+    }
+  ]
+}

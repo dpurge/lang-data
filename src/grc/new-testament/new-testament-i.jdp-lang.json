@@ -1,0 +1,414 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "grc",
+    "source": "",
+    "tags": [
+        "NT-I"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "προσκυνέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to fall down to worship; to do obeisance",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὑπάρχω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be; exist; possess",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό ἱμάτιον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "garment",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἤδη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "now; already",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὧδε",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "here; in this way; so; thus",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀγαπητός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "beloved",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀγαπητή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "beloved",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀγαπητόν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "beloved",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δοξάζω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to glorify",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ νύξ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "night",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "κηρύσσω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to proclaim; preach",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ Γαλιλαία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Galilee",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "Ἱεροσόλυμα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Jerusalem",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό θέλημα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "will; desire",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δοκέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to think; suppose; seem",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ θρόνος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "throne; seat",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό δαιμόνιον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "demon",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐρωτάω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to ask; question",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό ὄρος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "mountain; high hill",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ γραμματεύς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "scribe",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐάν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(untransl. particle)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "εἴτε",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "or; either; even if",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "φέρω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to bring; carry",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀπολύω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to release; divorce",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ καρπός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fruit",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "φημί",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to say",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πρεσβύτερος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "older; elder",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πρεσβύτερα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "older; elder",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πρεσβύτερον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "older; elder",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἄγω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to bring; lead",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πιστός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "faithful; reliable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πιστή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "faithful; reliable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πιστόν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "faithful; reliable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό πλοῖον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "boat; ship",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ ἐντολή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "commandment",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ Ἰσραήλ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Israel",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό ῥῆμα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "word; thing",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό σάββατον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sabbath; week",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τρεῖς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "three; 3",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τρία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "three; 3",
+        "pol": ""
+      }
+    }
+  ]
+}

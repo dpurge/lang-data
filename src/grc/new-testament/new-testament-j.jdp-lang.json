@@ -1,0 +1,564 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "grc",
+    "source": "",
+    "tags": [
+        "NT-J"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "ἡ γλῶσσα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "tongue; language; bar",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "κακός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "evil; bad; wrong; harm",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "κακή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "evil; bad; wrong; harm",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "κακόν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "evil; bad; wrong; harm",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μακάριος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "blessed; happy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μακαρία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "blessed; happy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μακάριον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "blessed; happy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ γραφή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "written document; scripture",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τυφλός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "blind",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τυφλή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "blind",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τυφλόν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "blind",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ παραβολή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "proverb; poem; parable",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "εὐθύς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "immediately; next",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ σοφία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "skill; wisdom",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἔσχατος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "last",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐσχάτη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "last",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐσχατον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "last",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό παιδίον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "child",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πείθω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to persuade; believe; trust",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "σπείρω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to sow",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅπως",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "so that; in order that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "διό",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "therefore",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ ἐλπίς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hope",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οὐχί",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "not; no",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δεξιός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "right hand",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δεξιά",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "right hand",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δεξιόν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "right hand",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ χρόνος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "time",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "εὐαγγελίζω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to proclaim good news",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ Πιλᾶτος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Pilate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ ἀρχή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "beginning; first; ruler",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "λοιπός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "rest; remaining; other",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "λοιπή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "rest; remaining; other",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "λοιπόν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "rest; remaining; other",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "κράζω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to call out",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δέχομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to take; receive",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τρίτος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "third; 3rd",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τρίτη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "third; 3rd",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τριτον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "third; 3rd",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μηδέ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "nor; and not",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐπερωτάω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to ask; inquire",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ συναγωγή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "collection; gathering; synagogue",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τοιοῦτος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "such; of such kind",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τοιαύτη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "such; of such kind",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τοιοῦτον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "such; of such kind",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "θεωρέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to see; observe",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μέσος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "middle; (prep +gen) in the middle; (adv) among",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μέση",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "middle; (prep +gen) in the middle; (adv) among",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μέσον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "middle; (prep +gen) in the middle; (adv) among",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ διδάσκαλος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "teacher",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ Δαυίδ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "David",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ λίθος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "stone",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀσπάζομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to greet",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "συνάγω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to gather; bring together",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ χαρά",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "joy",
+        "pol": ""
+      }
+    }
+  ]
+}

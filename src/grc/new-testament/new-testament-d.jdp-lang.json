@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "grc",
+    "source": "",
+    "tags": [
+        "NT-D"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "ὑπέρ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) for; (+acc) beyond; (adv) more",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πορεύομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to go",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἵστημι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to stand; place; put",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πρῶτος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "first; prominent; former",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πρώτη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "first; prominent; former",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πρωτον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "first; prominent; former",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἄλλος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "other; another; otherwise",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἄλλη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "other; another; otherwise",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἄλλο",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "other; another; otherwise",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ χάρις",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "grace; favor",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "Πέτρος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Peter",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ καρδία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "heart",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐσθίω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to eat",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ Παῦλος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Paul",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τότε",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "then",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό ἔθνος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "nation; people; Gentile",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ βασιλεία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "kingdom",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ πόλις",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "city; town",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἄν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(particle of entreaty)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ δόξα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "opinion; glory",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό ἔργον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "work",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ ἁμαρτία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sin; sin offering",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ ὄχλος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "crowd; army; people",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ ἄγγελος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "messenger; angel",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "εὑρίσκω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to find",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ χείρ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hand",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μέν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "indeed; on the one hand",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "καθώς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as; just as; inasmuch as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ κόσμος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "world; mankind; earth; adornment; decoration",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "γράφω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to write; engrave; inscribe; record",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "παρά",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) from; by; (+dat) with; (+acc) beside",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "Ἰουδαῖος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Jew",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ νόμος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "law; principle",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "εἰσέρχομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to enter",
+        "pol": ""
+      }
+    }
+  ]
+}

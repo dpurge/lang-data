@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "grc",
+    "source": "",
+    "tags": [
+        "NT-B"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "εἰ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "if",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὡς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as; like; while; that; (interjection) how!",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ Χριστός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "anointed; Christ",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τις",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "someone; something; a certain one",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "someone; something; a certain one",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ ἄνθρωπος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "man; human",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τίς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "who?; what?; which?; why?",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τί",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "who?; what?; which?; why?",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ποιέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to do; make",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἔρχομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to come; go",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀλλά",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "but; rather; on the contrary",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀπό",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) from; by; since",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἵνα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "that; in order that; so that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "διά",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) through; (+acc) because of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "γίνομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to become; be",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πρός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) for(+dat) at(+acc) to; toward",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἔχω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to have",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ κύριος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "lord; master; the Lord",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐπί",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen/dat/acc) over; on; at the time of; at; to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐκ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) of; out of; from",
+        "pol": ""
+      }
+    }
+  ]
+}

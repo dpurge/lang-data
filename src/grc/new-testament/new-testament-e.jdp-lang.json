@@ -1,0 +1,784 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "grc",
+    "source": "",
+    "tags": [
+        "NT-E"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "ὁ ὀφθαλμός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "eye",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τίθημι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to put; make; appoint",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀλλήλων",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one another",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "καλός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "good; beautiful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "καλή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "good; beautiful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "καλόν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "good; beautiful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ ὁδός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "road; way",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δεῖ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "it is necessary",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "αἴρω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to take up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ ἐξουσία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "authority; power",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀγαθός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "good",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀγαθή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "good",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀγαθόν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "good",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ ψυχή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "soul; self; inner life",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πῶς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "how?; in what way?",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅτε",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "when; while",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐκεῖ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "there",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "σῴζω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to save",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ ὥρα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hour",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀνίστημι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to raise up; set up; resist; restore; arise",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "παρακαλέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to urge; exhort; comfort",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ ἀλήθεια",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "truth; truthfulness; faithfulness",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅλος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "whole; all",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅλη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "whole; all",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅλον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "whole; all",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μέλλω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be about to; to linger",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅσος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as many as; as much as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅση",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as many as; as much as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅσον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as many as; as much as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀποθνῄσκω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to die",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἴδιος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one’s own; peculiar",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἰδία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one’s own; peculiar",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἴδιον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one’s own; peculiar",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μόνος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "only; alone",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μόνη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "only; alone",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μόνον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "only; alone",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ οἶκος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "house",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ ἐκκλησία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "congregation; assembly; church",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "κρίνω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to judge",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ βασιλεύς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "king",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ ἀγάπη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "love",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀπέρχομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to go away; depart",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ζητέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to seek; inquire",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μένω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to remain; abide; stay",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ δύναμις",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "power; strength",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "παραδίδωμι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to deliver; deliver over",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ θάνατος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "death",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ ἀρχιερεύς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "high priest",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "βάλλω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to throw; put",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ αἰών",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "age; eternity",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅταν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "when; whenever",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ δοῦλος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "slave; slavish",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "νεκρός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "dead",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "νεκρά",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "dead",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "νεκρόν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "dead",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "σύν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+dat) with; besides",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀμήν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "amen (Heb. truly)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "βλέπω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to see",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀποστέλλω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to send",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ ζωή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "life; living; way of life",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ Ἰωάννης",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "John",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δύο",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "two; 2",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ φωνή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "voice; sound",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ζάω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to live",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πάλιν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "again; in so far as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό σῶμα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "body",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ λαός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "people",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀφίημι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to forgive; permit; allow; free; neglect; abandon; leave",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οὐδέ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "and not; neither; nor; not even",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀγαπάω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to love",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐγείρω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to raise; lift up",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ προφήτης",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "prophet",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅστις",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "who; which; whoever",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἕως",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "until; till; up to; as far as",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "νῦν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "now; present",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ σάρξ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "flesh; meat; body; sinful nature",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "καλέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to call; summon; invite",
+        "pol": ""
+      }
+    }
+  ]
+}

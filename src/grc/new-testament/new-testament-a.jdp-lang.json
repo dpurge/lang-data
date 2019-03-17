@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "grc",
+    "source": "",
+    "tags": [
+        "NT-A"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "ὁ Ἰησοῦς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Jesus; Joshua",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "γάρ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "for; since; then; indeed",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "not; lest",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πᾶν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "all; every; the whole",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πᾶς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "all; every; the whole",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πᾶσα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "all; every; the whole",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅτι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "that; because; since",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ θεός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "god; God",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οὗτος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "this; this one; he",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "αὕτη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "this; this one; he",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τοῦτο",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "this; this one; he",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "who; which; what; that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἥ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "who; which; what; that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "who; which; what; that",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οὐ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "not",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "εἰς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+acc) into; to; for (prep)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the; who; which",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the; who; which",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the; who; which",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "λέγω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to say; speak; tell",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "εἰμί",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be; exist (sum)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐγώ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "I (sg.)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡμεῖς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "we (pl.)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+dat) in; with; by; to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δέ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "but; and; now",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "σύ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "you",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὑμεῖς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "you people (when pl)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "αὐτός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "he; self; same",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "αὐτή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "she; self; same",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "αὐτό",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "it; self; same",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "καί",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "and; also; even; and yet; but",
+        "pol": ""
+      }
+    }
+  ]
+}

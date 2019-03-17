@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "grc",
+    "source": "",
+    "tags": [
+        "NT-H"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "τηρέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to keep; to guard",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "αἰτέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to ask",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό πῦρ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fire",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "αἰώνιος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "eternal",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό ἱερόν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "temple",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ Ἀβραάμ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Abraham",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πίνω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to drink",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό φῶς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "light; man",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀποκτείνω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to kill",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "χαίρω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to rejoice",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δώδεκα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "twelve",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ Σίμων",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Simon",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ κεφαλή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "head",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό ὕδωρ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "water",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό εὐαγγέλιον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "good news; gospel",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐμόςἐμήἐμόν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "my",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό πρόσωπον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "face",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μαρτυρέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to bear testimony",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀνοίγω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to open; unlock; disclose",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό σημεῖον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sign; miracle",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "βαπτίζω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to baptize; wash; dip",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "Ἰερουσαλήμ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Jerusalem",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πονηρός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wicked; evil",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πονηρά",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wicked; evil",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πονηρόν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wicked; evil",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό στόμα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "mouth",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὑπάγω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to go away; to draw off",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πέμπω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to send",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δίκαιος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "righteous; just",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δικαία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "righteous; just",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δίκαιον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "righteous; just",
+        "pol": ""
+      }
+    }
+  ]
+}

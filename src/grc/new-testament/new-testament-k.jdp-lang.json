@@ -1,0 +1,694 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "grc",
+    "source": "",
+    "tags": [
+        "NT-K"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "μισέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to hate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οἰκοδομέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to build",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μνημεῖον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "tomb; monument",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὀλίγος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "little; few",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "λογίζομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to count; think; calculate",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "κλαίω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to weep; cry",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τέλος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "end; goal; tribute",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἑτοιμάζω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to prepare",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πάντοτε",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "always",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "παρίστημι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to present; stand by",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "χωρίς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) without (prep.); separately (adv)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "σήμερον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "today",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τέσσαρες",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "four; 4",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "εὐλογέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to bless",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τιμή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "honor",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐργάζομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to work",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἄξιος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "worthy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μέρος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "part",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "καινός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "new",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀνάστασις",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "standing up; rising; insurrection; resurrection",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "λύω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to loosen; release",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐγγίζω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to bring near; come near",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πάσχω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to suffer",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "Ἰάκωβος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Jacob; James",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to bind",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "θεραπεύω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to serve; heal",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "διέρχομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to pass through",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "γενεά",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "generation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "σεαυτοῦ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "of yourself (sing.)",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "θαυμάζω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to marvel; wonder",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "σπέρμα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "seed; offspring",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "Ἡρῴδης",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Herod",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἁμαρτάνω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to sin",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "φωνέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to call; to shout",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δεύτερος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "second; 2nd",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "Ἰουδαία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Judea",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐπιγινώσκω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to know",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "κατοικέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to settle; dwell; inhabit",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "Ἰούδας",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Judas; Judah",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ναός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "temple; palace",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "διώκω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to pursue; persecute",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀπαγγέλλω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to tell; bring news; report",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "θλῖψις",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "trouble; tribulation; oppression",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὅμοιος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "like",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πρό",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) before; above",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "φυλακή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "guard; watch; prison",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "κρίσις",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "judgment; decision",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "φόβος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fear; terror; reverence",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οὐκέτι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no longer",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "προσφέρω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to bring; to offer",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἁμαρτωλός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sinner; sinful",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "κρατέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to grasp; be strong; take possession",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "καθίζω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to sit; set; place",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οὐαί",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "woe",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μικρός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "small; little",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "σωτηρία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "salvation",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "σταυρόω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to crucify",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "θηρίον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wild animal",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἔρημος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "desolate; wilderness; desert",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀποδίδωμι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to give back; pay",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἔμπροσθεν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) before; in front of",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ποῦ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "where?",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "παραλαμβάνω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to take",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "φανερόω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to make known; reveal",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἔτος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "year",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἄχρι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) until",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "χρεία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "need",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἄρα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "then; therefore",
+        "pol": ""
+      }
+    }
+  ]
+}

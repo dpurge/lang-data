@@ -1,0 +1,544 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "grc",
+    "source": "",
+    "tags": [
+        "NT-C"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "ἰδού",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "look! pay attention!",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οὕτω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "thus; so; in this way",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οὕτως",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "thus; so; in this way",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "θέλω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to want; will",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δύναμαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be able; can",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ γυνή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "woman; wife",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τέ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "and; so; both",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ ἀνήρ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "man; husband",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐξέρχομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to come out; go out",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὑπό",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) by; from; (+acc) under",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "γινώσκω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to know; come to know; recognize",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οὐδείς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no one",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οὐδεμία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no one",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οὐδέν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no one",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀποκρίνομαι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to answer; reply",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό ὄνομα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "name",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἅγιος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "holy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἁγία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "holy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἅγιον",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "holy",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πιστεύω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to believe",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ πίστις",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "faith",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μέγας",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "great; large; old",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μεγάλη",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "great; large; old",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μέγα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "great; large; old",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ γῆ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "earth; land",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "λαμβάνω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to take; receive; choose",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ μαθητής",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "disciple; student",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐκεῖνος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "that; that one; he",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ οὐρανός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "heaven",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἐάν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "if",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "λαλέω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to speak",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οἶδα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to know",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἑαυτοῦ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "of himself; his own",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ λόγος",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "word; speech; message",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "περί",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) about; concerning; (+acc) around",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἤ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "or; than; either",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ ἀδελφός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "brother",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "εἷς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one; 1",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μία",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one; 1",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἕν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one; 1",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ υἱός",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "son",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "τό πνεῦμα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wind; breath; spirit; Spirit",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἡ ἡμέρα",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "day; lifetime; time period",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁ πατήρ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "father; Father",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "δίδωμι",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to give",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πολύς",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "much; many",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πολλή",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "much; many",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "πολύ",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "much; many",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ἀκούω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to hear; to heed; to obey",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ὁράω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to see",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "μετά",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) with; (+acc) after",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "κατά",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(+gen) against; down; (+acc) according to",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "οὖν",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "therefore; thus",
+        "pol": ""
+      }
+    }
+  ]
+}
