@@ -1,0 +1,544 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "deu",
+    "source": "",
+    "tags": [
+      "GR-04"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "Wie spät ist es?",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Która jest godzina?"
+      }
+    },
+    {
+      "phrase": "der Alexanderplatz",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "plac Aleksandra"
+      }
+    },
+    {
+      "phrase": "acht",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "osiem"
+      }
+    },
+    {
+      "phrase": "achtzehn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "osiemnaście"
+      }
+    },
+    {
+      "phrase": "also",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "więc"
+      }
+    },
+    {
+      "phrase": "bekannt",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "znany"
+      }
+    },
+    {
+      "phrase": "drei",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "trzy"
+      }
+    },
+    {
+      "phrase": "dreiundzwanzig",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dwadzieścia trzy"
+      }
+    },
+    {
+      "phrase": "dreizehn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "trzynaście"
+      }
+    },
+    {
+      "phrase": "einfach",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "prosty; łatwy"
+      }
+    },
+    {
+      "phrase": "eins",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jeden; raz"
+      }
+    },
+    {
+      "phrase": "einundzwanzig",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dwadzieścia jeden"
+      }
+    },
+    {
+      "phrase": "elf",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jedenaście"
+      }
+    },
+    {
+      "phrase": "der Fernsehturm",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wieża telewizyjna"
+      }
+    },
+    {
+      "phrase": "fünf",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pięć"
+      }
+    },
+    {
+      "phrase": "fünfzehn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piętnaście"
+      }
+    },
+    {
+      "phrase": "ganz",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cały"
+      }
+    },
+    {
+      "phrase": "hinten",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "z tyłu"
+      }
+    },
+    {
+      "phrase": "das Hotel",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hotel"
+      }
+    },
+    {
+      "phrase": "jetzt",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "teraz"
+      }
+    },
+    {
+      "phrase": "kaufen",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kupować"
+      }
+    },
+    {
+      "phrase": "das Kaufhaus",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dom towarowy"
+      }
+    },
+    {
+      "phrase": "links",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "na lewo; po lewej stronie"
+      }
+    },
+    {
+      "phrase": "minus",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "minus"
+      }
+    },
+    {
+      "phrase": "modern",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nowoczesny"
+      }
+    },
+    {
+      "phrase": "neun",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziewięć"
+      }
+    },
+    {
+      "phrase": "neunzehn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziewiętnaście"
+      }
+    },
+    {
+      "phrase": "plus",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "plus"
+      }
+    },
+    {
+      "phrase": "rechts",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "na prawo; z prawej strony"
+      }
+    },
+    {
+      "phrase": "die S-Bahn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kolejka miejska"
+      }
+    },
+    {
+      "phrase": "schön",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ładny; piękny"
+      }
+    },
+    {
+      "phrase": "sechs",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sześć"
+      }
+    },
+    {
+      "phrase": "sechzehn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szesnaście"
+      }
+    },
+    {
+      "phrase": "sehen",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "widzieć"
+      }
+    },
+    {
+      "phrase": "sieben",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "siedem"
+      }
+    },
+    {
+      "phrase": "siebzehn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "siedemnaście"
+      }
+    },
+    {
+      "phrase": "spät",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "późno"
+      }
+    },
+    {
+      "phrase": "die Stadt",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miasto"
+      }
+    },
+    {
+      "phrase": "der Turm",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wieża"
+      }
+    },
+    {
+      "phrase": "die Uhr",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zegar; godzina"
+      }
+    },
+    {
+      "phrase": "vier",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cztery"
+      }
+    },
+    {
+      "phrase": "vierundzwanzig",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dwadzieścia cztery"
+      }
+    },
+    {
+      "phrase": "vierzehn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czternaście"
+      }
+    },
+    {
+      "phrase": "was?",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "co?"
+      }
+    },
+    {
+      "phrase": "die Welt",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "świat"
+      }
+    },
+    {
+      "phrase": "die Weltuhr",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zegar świata"
+      }
+    },
+    {
+      "phrase": "wie?",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jaki?; jaka?; jakie?; jak?"
+      }
+    },
+    {
+      "phrase": "wo?",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gdzie?"
+      }
+    },
+    {
+      "phrase": "zehn",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziesięć"
+      }
+    },
+    {
+      "phrase": "zwanzig",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dwadzieścia"
+      }
+    },
+    {
+      "phrase": "zwei",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dwa"
+      }
+    },
+    {
+      "phrase": "zweiundzwanzig",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dwadzieścia dwa"
+      }
+    },
+    {
+      "phrase": "zwölf",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dwanaście"
+      }
+    }
+  ]
+}

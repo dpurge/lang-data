@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "deu",
+    "source": "",
+    "tags": [
+        "GR-13"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": ""
+      }
+    }
+  ]
+}

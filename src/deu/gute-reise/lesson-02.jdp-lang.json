@@ -1,0 +1,284 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "deu",
+    "source": "",
+    "tags": [
+      "GR-02"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "aber",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ale"
+      }
+    },
+    {
+      "phrase": "auch",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "także"
+      }
+    },
+    {
+      "phrase": "auf",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "na"
+      }
+    },
+    {
+      "phrase": "aus",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "z"
+      }
+    },
+    {
+      "phrase": "der Freund",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przyjaciel"
+      }
+    },
+    {
+      "phrase": "die Haltestelle",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przystanek; postój"
+      }
+    },
+    {
+      "phrase": "heißen",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nazywać się"
+      }
+    },
+    {
+      "phrase": "interessant",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "interesujący; ciekawy"
+      }
+    },
+    {
+      "phrase": "kommen",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przychodzić; pochodzić"
+      }
+    },
+    {
+      "phrase": "der Lehrer",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nauczyciel"
+      }
+    },
+    {
+      "phrase": "mein",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mój"
+      }
+    },
+    {
+      "phrase": "morgen",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rano; jutro"
+      }
+    },
+    {
+      "phrase": "nanu",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cóż to!"
+      }
+    },
+    {
+      "phrase": "Polen",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Polska"
+      }
+    },
+    {
+      "phrase": "so",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tak; więc"
+      }
+    },
+    {
+      "phrase": "der Spaß",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "żart; figiel"
+      }
+    },
+    {
+      "phrase": "das Taxi",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "taksówka"
+      }
+    },
+    {
+      "phrase": "die Taxihaltestelle",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "postój taksówek"
+      }
+    },
+    {
+      "phrase": "viel",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dużo"
+      }
+    },
+    {
+      "phrase": "das Wiedersehen",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ponowne spotkanie; ponowne zobaczenie się"
+      }
+    },
+    {
+      "phrase": "wohnen",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mieszkać"
+      }
+    },
+    {
+      "phrase": "Viel Spaß!",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Przyjemnej zabawy!"
+      }
+    },
+    {
+      "phrase": "mein Freund",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mój przyjaciel"
+      }
+    },
+    {
+      "phrase": "aus Polen",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "z Polski"
+      }
+    },
+    {
+      "phrase": "Auf Wiedersehen!",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Do widzenia!"
+      }
+    },
+    {
+      "phrase": "Bis morgen!",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Do jutra!"
+      }
+    },
+    {
+      "phrase": "Tschüs!",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Cześć!"
+      }
+    }
+  ]
+}

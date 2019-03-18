@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "deu",
+    "source": "",
+    "tags": [
+      "GR-03"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "zu Hause",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "w domu"
+      }
+    },
+    {
+      "phrase": "unsere Wohnung",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nasze mieszkanie"
+      }
+    },
+    {
+      "phrase": "ein Arbeitsplatz",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miejsce do pracy"
+      }
+    },
+    {
+      "phrase": "der Abend",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wieczór"
+      }
+    },
+    {
+      "phrase": "das Abendbrot",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kolacja"
+      }
+    },
+    {
+      "phrase": "alles",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wszystko"
+      }
+    },
+    {
+      "phrase": "arbeiten",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pracować"
+      }
+    },
+    {
+      "phrase": "der Arbeitsplatz",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miejsce pracy"
+      }
+    },
+    {
+      "phrase": "das Bad",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łazienka"
+      }
+    },
+    {
+      "phrase": "der Balkon",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "balkon"
+      }
+    },
+    {
+      "phrase": "dann",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "potem"
+      }
+    },
+    {
+      "phrase": "fertig",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gotowy"
+      }
+    },
+    {
+      "phrase": "gemütlich",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przytulny"
+      }
+    },
+    {
+      "phrase": "genug",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dosyć"
+      }
+    },
+    {
+      "phrase": "groß",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "duży"
+      }
+    },
+    {
+      "phrase": "das Haus",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dom"
+      }
+    },
+    {
+      "phrase": "hübsch",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ładny"
+      }
+    },
+    {
+      "phrase": "klein",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mały"
+      }
+    },
+    {
+      "phrase": "der Korridor",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "korytarz"
+      }
+    },
+    {
+      "phrase": "die Küche",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kuchnia"
+      }
+    },
+    {
+      "phrase": "nein",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nie"
+      }
+    },
+    {
+      "phrase": "neugierig",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ciekawy"
+      }
+    },
+    {
+      "phrase": "nicht",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nie"
+      }
+    },
+    {
+      "phrase": "der Platz",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miejsce; plac"
+      }
+    },
+    {
+      "phrase": "praktisch",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "praktyczny"
+      }
+    },
+    {
+      "phrase": "schlafen",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "spać"
+      }
+    },
+    {
+      "phrase": "das Schlafzimmer",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sypialnia"
+      }
+    },
+    {
+      "phrase": "übrigens",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zresztą"
+      }
+    },
+    {
+      "phrase": "unser",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nasz"
+      }
+    },
+    {
+      "phrase": "wahr",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "prawdziwy"
+      }
+    },
+    {
+      "phrase": "die Wohnung",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mieszkanie"
+      }
+    },
+    {
+      "phrase": "das Wohnzimmer",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pokój mieszkalny"
+      }
+    },
+    {
+      "phrase": "das Zimmer",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pokój"
+      }
+    },
+    {
+      "phrase": "zufrieden",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zadowolony"
+      }
+    }
+  ]
+}

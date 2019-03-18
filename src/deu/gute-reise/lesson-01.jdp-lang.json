@@ -1,0 +1,424 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "deu",
+    "source": "",
+    "tags": [
+      "GR-01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "alle",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wszyscy"
+      }
+    },
+    {
+      "phrase": "angenehm",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miły; przyjemny"
+      }
+    },
+    {
+      "phrase": "der Bahnhof",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dworzec"
+      }
+    },
+    {
+      "phrase": "bitte",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "proszę"
+      }
+    },
+    {
+      "phrase": "danke",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziękuję"
+      }
+    },
+    {
+      "phrase": "das",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "-"
+      }
+    },
+    {
+      "phrase": "dort",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tam"
+      }
+    },
+    {
+      "phrase": "du",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ty"
+      }
+    },
+    {
+      "phrase": "einmal",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "raz; kiedyś"
+      }
+    },
+    {
+      "phrase": "er",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "on"
+      }
+    },
+    {
+      "phrase": "es",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ono"
+      }
+    },
+    {
+      "phrase": "das Gepäck",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bagaż"
+      }
+    },
+    {
+      "phrase": "gut",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dobry"
+      }
+    },
+    {
+      "phrase": "herzlich",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "serdeczny"
+      }
+    },
+    {
+      "phrase": "hier",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tutaj"
+      }
+    },
+    {
+      "phrase": "ich",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ja"
+      }
+    },
+    {
+      "phrase": "ihr",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wy"
+      }
+    },
+    {
+      "phrase": "in",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "w"
+      }
+    },
+    {
+      "phrase": "ja",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tak"
+      }
+    },
+    {
+      "phrase": "der Koffer",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "walizka"
+      }
+    },
+    {
+      "phrase": "der Lautsprecher",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "głośnik"
+      }
+    },
+    {
+      "phrase": "die Lektion",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lekcja"
+      }
+    },
+    {
+      "phrase": "noch",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jeszcze"
+      }
+    },
+    {
+      "phrase": "nun",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "teraz"
+      }
+    },
+    {
+      "phrase": "der Ostbahnhof",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Dworzec Wschodni"
+      }
+    },
+    {
+      "phrase": "schnell",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szybko"
+      }
+    },
+    {
+      "phrase": "schon",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "już"
+      }
+    },
+    {
+      "phrase": "sehr",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bardzo"
+      }
+    },
+    {
+      "phrase": "sein",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "być"
+      }
+    },
+    {
+      "phrase": "sie",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ona; one; oni"
+      }
+    },
+    {
+      "phrase": "der Tag",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dzień"
+      }
+    },
+    {
+      "phrase": "die Tasche",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "torba; torebka"
+      }
+    },
+    {
+      "phrase": "und",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "i; a"
+      }
+    },
+    {
+      "phrase": "willkommen",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "witamy"
+      }
+    },
+    {
+      "phrase": "wir",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "my"
+      }
+    },
+    {
+      "phrase": "wirklich",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rzeczywiście"
+      }
+    },
+    {
+      "phrase": "Guten Tag!",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Dzień dobry!"
+      }
+    },
+    {
+      "phrase": "Herzlich willkommen!",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Serdecznie witamy!"
+      }
+    },
+    {
+      "phrase": "in Berlin",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "w Berlinie"
+      }
+    },
+    {
+      "phrase": "sehr angenehm",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bardzo mi miło"
+      }
+    },
+    {
+      "phrase": "noch einmal",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jeszcze raz"
+      }
+    }
+  ]
+}
