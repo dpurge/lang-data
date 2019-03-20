@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "fra",
+    "source": "",
+    "tags": [
+      "mauger1-01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "le garçon",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "chłopiec"
+      }
+    },
+    {
+      "phrase": "le crayon",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ołówek"
+      }
+    },
+    {
+      "phrase": "le banc",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ławka"
+      }
+    },
+    {
+      "phrase": "le cahier",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zeszyt"
+      }
+    },
+    {
+      "phrase": "l'homme",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mężczyzna"
+      }
+    },
+    {
+      "phrase": "le livre",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "książka"
+      }
+    },
+    {
+      "phrase": "le stylo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pióro"
+      }
+    },
+    {
+      "phrase": "la chaise",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "krzesło"
+      }
+    },
+    {
+      "phrase": "la femme",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kobieta"
+      }
+    },
+    {
+      "phrase": "la fille",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziewczyna"
+      }
+    },
+    {
+      "phrase": "la gomme",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gumka"
+      }
+    },
+    {
+      "phrase": "la règle",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "linijka"
+      }
+    },
+    {
+      "phrase": "la serviette",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "teczka"
+      }
+    },
+    {
+      "phrase": "la table",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "stół"
+      }
+    },
+    {
+      "phrase": "Qu'est-ce que c'est?",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Co to jest?"
+      }
+    },
+    {
+      "phrase": "Est-ce un ...?",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Czy to jest ...?"
+      }
+    },
+    {
+      "phrase": "Oui, c'est un ...",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Tak, to jest ..."
+      }
+    },
+    {
+      "phrase": "Non, ce n'est pas un ...",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Nie, to nie jest ..."
+      }
+    }
+  ]
+}

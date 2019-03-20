@@ -1,0 +1,194 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "fra",
+    "source": "",
+    "tags": [
+      "mauger1-04"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "la craie",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kreda"
+      }
+    },
+    {
+      "phrase": "la robe",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "suknia"
+      }
+    },
+    {
+      "phrase": "blanc",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "biały"
+      }
+    },
+    {
+      "phrase": "blanche",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "biała"
+      }
+    },
+    {
+      "phrase": "brun",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "brązowy"
+      }
+    },
+    {
+      "phrase": "brune",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "brązowa"
+      }
+    },
+    {
+      "phrase": "jaune",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "żółty; żółta"
+      }
+    },
+    {
+      "phrase": "rouge",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czerwony; czerwona"
+      }
+    },
+    {
+      "phrase": "bleu",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niebieski"
+      }
+    },
+    {
+      "phrase": "bleue",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niebieska"
+      }
+    },
+    {
+      "phrase": "noir",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czarny"
+      }
+    },
+    {
+      "phrase": "noire",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czarna"
+      }
+    },
+    {
+      "phrase": "gris",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szary"
+      }
+    },
+    {
+      "phrase": "grise",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szara"
+      }
+    },
+    {
+      "phrase": "rose",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "różowy; różowa"
+      }
+    },
+    {
+      "phrase": "vert",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zielony"
+      }
+    },
+    {
+      "phrase": "verte",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zielona"
+      }
+    },
+    {
+      "phrase": "De quelle couleur est le ...?",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Jakiego koloru jest ...?"
+      }
+    }
+  ]
+}

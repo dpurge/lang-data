@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "fra",
+    "source": "",
+    "tags": [
+      "mauger1-03"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "l'étudiant",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uczeń"
+      }
+    },
+    {
+      "phrase": "l'oiseau",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ptak"
+      }
+    },
+    {
+      "phrase": "le tableau",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tablica"
+      }
+    },
+    {
+      "phrase": "le professeur",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nauczyciel"
+      }
+    },
+    {
+      "phrase": "l'étudiante",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uczennica"
+      }
+    },
+    {
+      "phrase": "la classe",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "klasa"
+      }
+    },
+    {
+      "phrase": "où?",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gdzie?"
+      }
+    },
+    {
+      "phrase": "dans",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "w"
+      }
+    },
+    {
+      "phrase": "devant",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przed"
+      }
+    },
+    {
+      "phrase": "derrière",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "za"
+      }
+    },
+    {
+      "phrase": "sous",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pod"
+      }
+    },
+    {
+      "phrase": "sur",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nad"
+      }
+    },
+    {
+      "phrase": "maintenant",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "teraz"
+      }
+    },
+    {
+      "phrase": "voici",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "oto"
+      }
+    }
+  ]
+}

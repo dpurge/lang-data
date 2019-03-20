@@ -1,0 +1,484 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "writing",
+    "version": 1,
+    "language": "hye",
+    "source": "",
+    "tags": [
+        "lower"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "ա",
+      "transcription": "a",
+      "ipa": "ɑ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "այբ ayb"
+      }
+    },
+    {
+      "phrase": "բ",
+      "transcription": "b",
+      "ipa": "b",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "բեն ben"
+      }
+    },
+    {
+      "phrase": "գ",
+      "transcription": "g",
+      "ipa": "ɡ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "գիմ gim"
+      }
+    },
+    {
+      "phrase": "դ",
+      "transcription": "d",
+      "ipa": "d",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "դա da"
+      }
+    },
+    {
+      "phrase": "ե",
+      "transcription": "je; e",
+      "ipa": "jɛ; ɛ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "եչ yeč"
+      }
+    },
+    {
+      "phrase": "զ",
+      "transcription": "z",
+      "ipa": "z",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "զա za"
+      }
+    },
+    {
+      "phrase": "է",
+      "transcription": "e",
+      "ipa": "ɛ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "է ē"
+      }
+    },
+    {
+      "phrase": "ը",
+      "transcription": "ë",
+      "ipa": "ə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ըթ ët'"
+      }
+    },
+    {
+      "phrase": "թ",
+      "transcription": "t’",
+      "ipa": "tʰ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "թո t'o"
+      }
+    },
+    {
+      "phrase": "ժ",
+      "transcription": "ž",
+      "ipa": "ʒ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ժե že"
+      }
+    },
+    {
+      "phrase": "ի",
+      "transcription": "i",
+      "ipa": "i",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ինի ini"
+      }
+    },
+    {
+      "phrase": "լ",
+      "transcription": "l",
+      "ipa": "l",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "լյուն lyown"
+      }
+    },
+    {
+      "phrase": "խ",
+      "transcription": "x",
+      "ipa": "χ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "խե xe"
+      }
+    },
+    {
+      "phrase": "ծ",
+      "transcription": "ç",
+      "ipa": "ts",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ծա ça"
+      }
+    },
+    {
+      "phrase": "կ",
+      "transcription": "k",
+      "ipa": "k",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "կեն ken"
+      }
+    },
+    {
+      "phrase": "հ",
+      "transcription": "h",
+      "ipa": "h",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "հո ho"
+      }
+    },
+    {
+      "phrase": "ձ",
+      "transcription": "j",
+      "ipa": "dz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ձա ja"
+      }
+    },
+    {
+      "phrase": "ղ",
+      "transcription": "ġ",
+      "ipa": "ʁ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ղատ ġat"
+      }
+    },
+    {
+      "phrase": "ճ",
+      "transcription": "č̣",
+      "ipa": "tʃ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ճե č̣e"
+      }
+    },
+    {
+      "phrase": "մ",
+      "transcription": "m",
+      "ipa": "m",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "մեն men"
+      }
+    },
+    {
+      "phrase": "յ",
+      "transcription": "j",
+      "ipa": "j",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "հի hi"
+      }
+    },
+    {
+      "phrase": "ն",
+      "transcription": "n",
+      "ipa": "n; ŋ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "նու now"
+      }
+    },
+    {
+      "phrase": "շ",
+      "transcription": "š",
+      "ipa": "ʃ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "շա ša"
+      }
+    },
+    {
+      "phrase": "ո",
+      "transcription": "vo; o",
+      "ipa": "ʋɔ; ɔ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ո vo"
+      }
+    },
+    {
+      "phrase": "չ",
+      "transcription": "č",
+      "ipa": "tʃʰ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "չա ča"
+      }
+    },
+    {
+      "phrase": "պ",
+      "transcription": "p",
+      "ipa": "p",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "պե pe"
+      }
+    },
+    {
+      "phrase": "ջ",
+      "transcription": "ǰ",
+      "ipa": "dʒ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ջե ǰe"
+      }
+    },
+    {
+      "phrase": "ռ",
+      "transcription": "ṙ",
+      "ipa": "r",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ռա ṙa"
+      }
+    },
+    {
+      "phrase": "ս",
+      "transcription": "s",
+      "ipa": "s",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "սե se"
+      }
+    },
+    {
+      "phrase": "վ",
+      "transcription": "v",
+      "ipa": "v",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "վեվ vev"
+      },
+    {
+      "phrase": "տ",
+      "transcription": "t",
+      "ipa": "",
+      "image": "t",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "տյուն tyown"
+      },
+    {
+      "phrase": "ր",
+      "transcription": "r",
+      "ipa": "ɾ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "րե re"
+      },
+    {
+      "phrase": "ց",
+      "transcription": "c’",
+      "ipa": "tsʰ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ցո c'o"
+      },
+    {
+      "phrase": "ւ",
+      "transcription": "w",
+      "ipa": "v",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "վյուն vyun"
+      },
+    {
+      "phrase": "փ",
+      "transcription": "p’",
+      "ipa": "pʰ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "փյուր p'yowr"
+      },
+    {
+      "phrase": "ք",
+      "transcription": "k’",
+      "ipa": "kʰ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "քե k'e"
+      },
+    {
+      "phrase": "օ",
+      "transcription": "o",
+      "ipa": "o",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "օ ò"
+      },
+    {
+      "phrase": "ֆ",
+      "transcription": "f",
+      "ipa": "f",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ֆե fe"
+      },
+    {
+      "phrase": "ու",
+      "transcription": "u",
+      "ipa": "u",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      },
+    {
+      "phrase": "և",
+      "transcription": "yew; ew",
+      "ipa": "jɛv; ɛv",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "և jew"
+      }
+    }
+  ]
+}

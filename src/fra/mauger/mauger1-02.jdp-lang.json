@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "fra",
+    "source": "",
+    "tags": [
+      "mauger1-02"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "le calendrier",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kalendarz"
+      }
+    },
+    {
+      "phrase": "le gant",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rękawiczka"
+      }
+    },
+    {
+      "phrase": "le plancher",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podłoga"
+      }
+    },
+    {
+      "phrase": "le plafond",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sufit"
+      }
+    },
+    {
+      "phrase": "le mouchoir",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "chusteczka"
+      }
+    },
+    {
+      "phrase": "le mur",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mur"
+      }
+    },
+    {
+      "phrase": "le sac",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "torba"
+      }
+    },
+    {
+      "phrase": "la lampe",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lampa"
+      }
+    },
+    {
+      "phrase": "la montre",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zegar"
+      }
+    },
+    {
+      "phrase": "la clé",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "klucz"
+      }
+    },
+    {
+      "phrase": "la cravate",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "krawat"
+      }
+    },
+    {
+      "phrase": "la fenêtre",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "okno"
+      }
+    },
+    {
+      "phrase": "l'horloge",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zegar"
+      }
+    },
+    {
+      "phrase": "la porte",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "drzwi"
+      }
+    },
+    {
+      "phrase": "Est-ce que c'est un ...?",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Czy to jest ...?"
+      }
+    },
+    {
+      "phrase": "Ce sont des ...",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "To są ..."
+      }
+    },
+    {
+      "phrase": "Ce ne sont pas des ...",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "To nie są ..."
+      }
+    }
+  ]
+}
