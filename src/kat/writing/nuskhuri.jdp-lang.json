@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "writing",
+    "version": 1,
+    "language": "kat",
+    "source": "",
+    "tags": [
+        "nuskhuri"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "ⴀ",
+      "transcription": "A a",
+      "ipa": "ɑ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ani"
+      }
+    },
+    {
+      "phrase": "ⴁ",
+      "transcription": "B b",
+      "ipa": "b",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "bani"
+      }
+    },
+    {
+      "phrase": "ⴂ",
+      "transcription": "G g",
+      "ipa": "ɡ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "gani"
+      }
+    },
+    {
+      "phrase": "ⴃ",
+      "transcription": "D d",
+      "ipa": "d",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "doni"
+      }
+    },
+    {
+      "phrase": "ⴄ",
+      "transcription": "E e",
+      "ipa": "ɛ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "eni"
+      }
+    },
+    {
+      "phrase": "ⴅ",
+      "transcription": "V v",
+      "ipa": "v",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "vini"
+      }
+    },
+    {
+      "phrase": "ⴆ",
+      "transcription": "Z z",
+      "ipa": "z",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "zeni"
+      }
+    },
+    {
+      "phrase": "ⴡ",
+      "transcription": "Ē ē",
+      "ipa": "eɪ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "he"
+      }
+    },
+    {
+      "phrase": "ⴇ",
+      "transcription": "T' t'",
+      "ipa": "tʰ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "tani"
+      }
+    },
+    {
+      "phrase": "ⴈ",
+      "transcription": "I i",
+      "ipa": "i",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ini"
+      }
+    },
+    {
+      "phrase": "ⴉ",
+      "transcription": "K k",
+      "ipa": "kʼ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "k'ani"
+      }
+    },
+    {
+      "phrase": "ⴊ",
+      "transcription": "L l",
+      "ipa": "l",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "lasi"
+      }
+    },
+    {
+      "phrase": "ⴋ",
+      "transcription": "M m",
+      "ipa": "m",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "mani"
+      }
+    },
+    {
+      "phrase": "ⴌ",
+      "transcription": "N n",
+      "ipa": "n",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "nari"
+      }
+    },
+    {
+      "phrase": "ⴢ",
+      "transcription": "Y y",
+      "ipa": "je",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "hie"
+      }
+    {
+      "phrase": "ⴍ",
+      "transcription": "O o",
+      "ipa": "ɔ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "oni"
+      }
+    },
+    {
+      "phrase": "ⴎ",
+      "transcription": "P p",
+      "ipa": "pʼ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "p'ari"
+      }
+    },
+    {
+      "phrase": "ⴏ",
+      "transcription": "Ž ž",
+      "ipa": "ʒ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "zhani"
+      }
+    },
+    {
+      "phrase": "ⴐ",
+      "transcription": "R r",
+      "ipa": "r",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "rae"
+      }
+    },
+    {
+      "phrase": "ⴑ",
+      "transcription": "S s",
+      "ipa": "s",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "sani"
+      }
+    },
+    {
+      "phrase": "ⴒ",
+      "transcription": "T t",
+      "ipa": "tʼ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "t'ari"
+      }
+    },
+    {
+      "phrase": "ⴣ",
+      "transcription": "W w",
+      "ipa": "uɪ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "vie"
+      }
+    },
+    {
+      "phrase": "ⴓ",
+      "transcription": "U u",
+      "ipa": "u",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "uni"
+      }
+    },
+    {
+      "phrase": "ⴔ",
+      "transcription": "P' p'",
+      "ipa": "pʰ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "pari"
+      }
+    },
+    {
+      "phrase": "ⴕ",
+      "transcription": "K' k'",
+      "ipa": "kʰ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "kani"
+      }
+    },
+    {
+      "phrase": "ⴖ",
+      "transcription": "Ḡ ḡ",
+      "ipa": "ɣ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ghani"
+      }
+    },
+    {
+      "phrase": "ⴗ",
+      "transcription": "Q q",
+      "ipa": "qʼ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "q'ari"
+      }
+    },
+    {
+      "phrase": "ⴘ",
+      "transcription": "Š š",
+      "ipa": "ʃ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "shini"
+      }
+    },
+    {
+      "phrase": "ⴙ",
+      "transcription": "Č' č'",
+      "ipa": "tʃʰ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "chini"
+      }
+    },
+    {
+      "phrase": "ⴚ",
+      "transcription": "C’ c’",
+      "ipa": "tsʰ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "tsani"
+      }
+    },
+    {
+      "phrase": "ⴛ",
+      "transcription": "J j",
+      "ipa": "dz",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "dzili"
+      }
+    },
+    {
+      "phrase": "ⴜ",
+      "transcription": "C c",
+      "ipa": "tsʼ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ts'ili"
+      }
+    },
+    {
+      "phrase": "ⴝ",
+      "transcription": "Č č",
+      "ipa": "tʃʼ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "ch'ari"
+      }
+    },
+    {
+      "phrase": "ⴞ",
+      "transcription": "X x",
+      "ipa": "χ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "khani"
+      }
+    },
+    {
+      "phrase": "ⴤ",
+      "transcription": "H̱ ẖ",
+      "ipa": "qʰ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "qari, hari"
+      }
+    },
+    {
+      "phrase": "ⴟ",
+      "transcription": "J̌ ǰ",
+      "ipa": "dʒ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "jani"
+      }
+    },
+    {
+      "phrase": "ⴠ",
+      "transcription": "H h",
+      "ipa": "h",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "hae"
+      }
+    },
+    {
+      "phrase": "ⴥ",
+      "transcription": "Ō ō",
+      "ipa": "oː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": "hoe"
+      }
+    }
+  ]
+}
