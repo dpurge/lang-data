@@ -1,0 +1,66 @@
+{
+  "title": "",
+  "description": "",
+  "type": "object",
+
+  "additionalProperties": false,
+  "required": [
+    "meta",
+    "data"
+  ],
+
+  "properties": {
+    "meta": {
+			"title": "",
+			"description": "",
+			"type": "object",
+
+			"additionalProperties": false,
+			"required": [
+				"format",
+				"version",
+				"language",
+				"source",
+				"status",
+				"tags"
+			],
+
+			"properties": {
+				"format": {
+					"description": "name of the file format",
+					"type": "string",
+					"enum": ["writing"]
+				},
+				"version": {
+					"title": "version of the file format",
+					"description": "",
+					"type": "integer"
+				},
+				"language": {
+					"description": "ISO code of the language",
+					"type": "string"
+				},
+				"source": {
+					"description": "???",
+					"type": "string"
+				},
+				"status": {
+					"description": "status of the work on the file",
+					"type": "string",
+					"enum": [
+						"pending",
+						"ready",
+						"hidden"
+					]
+				},
+				"tags": {
+					"title": "",
+					"description": "",
+					"type": "array"
+				}
+			}
+  },
+
+    "data": {}
+  }
+}
