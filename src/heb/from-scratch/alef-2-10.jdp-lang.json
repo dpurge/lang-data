@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-2-10"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "לְהָבִין",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to understand",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַזְמִין",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "invite",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַזְמִין",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to invite",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַסְבִּיר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "explain",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַסְבִּיר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to explain",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַסַפֵּר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "tell",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְסַפֵּר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to tell",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַפְסִיק",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "stop",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַפְסִיק",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to stop",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַצְלִיח",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "succeed",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַצְלִיח",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to succeed",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַרְגִיש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "feel",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַרְגִיש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to feel",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַתְחִיל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "start/begin",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַתְחִיל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to start/begin",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גַן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "garden/park",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹדֶש",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "month",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עִיתוֹנַאי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "newspaper reporter",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָתִיד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "future",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פֶּלֶאפוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "cellphone",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קַיִץ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "summer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַחֲרוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "last",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חָשוּב",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "important",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יְוָונִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Greek",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶהְדָר",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "wonderful",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַחֲרֵי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "after",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "this is how …",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַה קָרָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "What happened?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּכָה כָּכָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "so so",
+        "pol": ""
+      }
+    }
+  ]
+}

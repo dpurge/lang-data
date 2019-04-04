@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-0-03"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "גָר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "live (dwell, reside)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לוֹמֵד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "study; learn",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "sing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": "Part"
+      },
+      "translation": {
+        "eng": "or",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "וְ",
+      "transcription": "",
+      "category": {
+        "lexical": "Part"
+      },
+      "translation": {
+        "eng": "and",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַתֶם",
+      "transcription": "",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "you (m.pl.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַתֶן",
+      "transcription": "",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "you (f.pl.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הֵם",
+      "transcription": "",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "they (m.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הֵן",
+      "transcription": "",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "they (f.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "this (m.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זֹאת",
+      "transcription": "",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "this (f.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵלֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "these",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לֹא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no; not",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְרָאוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "See you later!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָלוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hello / goodbye",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תוֹדָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "thanks",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַנְגְלִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "English (lang.)<br>",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גֶרְמָנִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "German (lang.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַלָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "challah",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יִידִיש",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Yiddish",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לֶחֶם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "bread",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִימוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "lemon",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֶלַח",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "salt",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוֹמָנִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Romanian (lang.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַגוֹלָן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "the Golan",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יַם הַמֶלַח",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "the Dead Sea",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דִימוֹנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Dimona",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טוֹרוֹנטוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Toronto",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יְרִיחוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Jericho",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לוֹנְדוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "London",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "וִידֵאוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "video",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זוֹאוֹלוֹגְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "zoology",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טֶלֶוִויזְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "television",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָיוֹנֶז",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mayonnaise",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֶנְטָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mint flavor",
+        "pol": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-1-03"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אוֹכֵל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "eat",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹשֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "sit",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְטַיֵיל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "go on a walk",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹלֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "cost",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַחֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "another",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַחֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "another",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּשָֹרִית",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "of meat",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּשָֹרִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "of meat",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲלָבִית",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "dairy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲלָבִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "dairy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יִשְֹרָאֵלִית",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Israeli",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יִשְֹרָאֵלִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Israeli",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֶחָד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְנַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "two",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְלוֹשָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "three",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַרְבָּעָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "four",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲמִישָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "five",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִישָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "six",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִבְעָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "seven",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְמוֹנָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "eight",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תִשְעָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "nine",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֲשָֹרָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ten",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֶלֶף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one thousand",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲמִישִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fifty",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֵאָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one hundred",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹהֶל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tent",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַכְסַנְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hostel",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּית כְּנֶסֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "synagogue",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גֶבֶר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "man",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דַקָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "minute",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "day",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כִּיסֵא",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "chair",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִיטָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "bed",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִילָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "word",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָקוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "place",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רָהִיט",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "furniture",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָטִיחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "carpet",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֶקֶל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "shekel",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "all / every / each",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַשֶהוּ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "something",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "more",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תוֹדָה רָבָּה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "thank you very much",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוּמוּס",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "chick-peas / humus",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כַּסְפּוֹמָט",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "ATM machine",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֶּדְוִוי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Bedouin",
+        "pol": ""
+      }
+    }
+  ]
+}

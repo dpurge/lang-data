@@ -1,0 +1,577 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-0-06"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אוֹהֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "like; love",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּא",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "come",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הוֹלֵך",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "go, walk",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּוֹתֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "write",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹרֵא",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "read, call",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חָלָב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "milk",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַחְשֵׁב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "computer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִכְתָב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "letter (epistle)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָלוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hotel",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּתֵי מָלוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hotel",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סֵפֶר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "book",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סְפָרַדִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Spanish (lang.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֲרָבִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Arabic (lang.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צָרְפָתִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "French (lang.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִׁיעוּר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "lesson, class",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּבַקָשָׁה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "please, you're welcome",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּוֹקֶר טוֹב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "good morning",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּרוּךְ השֵׁם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Thank God! ("Blessed is God.")",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּרוּכִים הַבָּאִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Welcome! (pl.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דְרִישַׁת שָׁלוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "greetings, regards",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַכְּנֶסֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the Knesset",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טוֹב",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj/Adv"
+      },
+      "translation": {
+        "eng": "good (adj.), well (adv.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹפִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Great! Wonderful! Beautiful!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְאוֹד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "very",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַה שְׁלוֹמְךָ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "how are you?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַה שְׁלוֹמֵךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "how are you?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עַכְשָׁיו",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "now",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֶרֶב טוֹב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "good evening",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲבָל",
+      "transcription": "",
+      "category": {
+        "lexical": "Conj"
+      },
+      "translation": {
+        "eng": "but",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵיפֹה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "where",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֶתְיוֹפְּיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Ethiopia",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סְפָרַד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Spain",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צָרְפַת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "France",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוּסְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Russia",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אָדִיס אַבֶּבָּה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Addis Ababa",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֵיפָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Haifa",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָפוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Jaffa",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סַן פְרַנְסִיסְקוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "San Francisco",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תֵל אָבִיב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Tel Aviv",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוּנִיבֶרסִיטָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "university",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲבוֹקָדוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "avocado",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִינטֶרנֶט",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "internet",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בַּנְק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "bank",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוּזיקָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "music",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פָלָאפֶל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "falafel",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּרוֹפֶסוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "professor",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קָפֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "coffee",
+        "pol": ""
+      }
+    }
+  ]
+}

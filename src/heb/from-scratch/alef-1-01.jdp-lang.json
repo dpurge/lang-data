@@ -1,0 +1,493 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-1-01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אוֹמֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "say",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֵבִין",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "understand",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִצְטַעֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "sorry",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹסֵעַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "Ride/go",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹבֵד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "work",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹנֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "buy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹמֵעַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "hear",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צִיבּוּרִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "public",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צִיבּוּרִית",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "public",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵין דָבָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Never mind",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֶטַח",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Sure/of course",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָמִינָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "To the right",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָשָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "straight",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוֹדִיעִין",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Information/telephone directory",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָכוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Correct/right",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְׂמֹאלָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "To the left",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְתֵי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "two",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֶפֶס",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "zero",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּוֹקֶר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "morning",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲנוּת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "shop",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַחְמָנִייָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "roll",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַיְלָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "night",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִסְפָּר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "number",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִפְרִיָיה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "library",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֲבוֹדָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "work",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֶרֶב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "evening",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צָהֳרַיים<br>(with O sounds)",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "afternoon",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רְחוֹב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "street",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֵירוּתִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Toilet/lavatory",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹטוֹבּוּס",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "bus",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵיך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "How?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כַּמָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "How many? (how much?)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָתַי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "When?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הָלוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Hello",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַרְכֵאוֹלוֹג",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "archeologist (m)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַרְכֵאוֹלוֹגִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "archeologist (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דוֹקְטוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "doctor",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִיסְטוֹרְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "history",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִימְפוֹנְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "symphony",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "rock (music)",
+        "pol": ""
+      }
+    }
+  ]
+}

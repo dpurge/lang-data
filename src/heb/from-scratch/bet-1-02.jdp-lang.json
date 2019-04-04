@@ -1,0 +1,601 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-1-02"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "גְבוּל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "border(m)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גֵיהִנוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hell",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דֶשֶא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "grass",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הוֹדָעָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "notice",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַרְצָאָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "lecture",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַמְסִין",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "heat wave",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חָצֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "yard(f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָרֵחַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "moon",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּוֹכָב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "star",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לוּח מוֹדָעוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "billboard notice board",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַדֹרִיך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "guide",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָוֶות",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "death",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַפְתֵח",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "key(m)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נְיָיר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "paper(m)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶצַח",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "eternity",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוֹד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "secret(m)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוּכָּה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "tabernacle, succa, booth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עַם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "people/nation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָנָן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cloud",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פַּח אַשְפָּה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "garbage can",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צַדִיק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "righteous person",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צִיפּוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bird",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹלְנוֹעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cinema",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רֶגֶש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "feeling(m)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוּחַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wind",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רָשָע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wicked",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תִינוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "baby(m)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תִקְוָוה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hope",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּרָא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "create",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִבְרוֹא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to create",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מביא<br>הַבִיא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bring",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהָבִיא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to bring",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִמְצָא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be found",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִימָצֵא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be found",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תָפַס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "catch",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִתְפוֹס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to catch",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חָמִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "a bit warm",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲמִימָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "a bit warm(f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סָגוּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "closed",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סְגוּרָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "closed(f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פָּתוּחַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "open<br>(adj.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פְּתוּחָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "open(f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵצֶל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "at/with<br>(people)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּזֶה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "such<br>(m)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּזֹאת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "such<br>(f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּאֵלֶה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "such<br>(pl)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְמַטָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "down",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוֹצָאֵי שַבָּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Saturday evening",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָחֳרָתַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the day after tomorrow",
+        "pol": ""
+      }
+    }
+  ]
+}

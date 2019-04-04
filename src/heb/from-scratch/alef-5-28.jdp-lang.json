@@ -1,0 +1,1501 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-5-28"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אֲוִויר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "air",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mother",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִימָהוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mothers",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּית סֵפֶר תִיכוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "highschool",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַחֲזֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "play<br>(drama)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַחְמָאָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "compliment",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְגִיאָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mistake",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַפְקִיד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "role",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַרְבּוּת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "culture",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲמִיתִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "real",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲמִיתִית",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "real",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זָר",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "foreign / foreigner",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זָרָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "foreign / foreigner",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּלֵב שָלֵם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "with all one's heart",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִיָד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "immediately",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָאצִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Nazi",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֶּן דוֹד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "cousin",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בַּת דוֹד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "cousin (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּרַיכָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "pool",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "וִיכּוּחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "argument",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִקְדָש",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "temple",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סֶלַע",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "rock",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סְלָעִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "rocks (p)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָבָר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "past",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עַמּוּד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "pillar/pole",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֵׁבֶט",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tribe",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְׁבָטִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tribe (p)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תוֹשָב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "inhabitant/resident",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תוֹשֶבֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "inhabitant/resident (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְרוּפָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "medicine",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְטַלְפֵּן",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "call/phone",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְטַלְפֶּנֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "call/phone (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְטַלְפֵּן",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to call/to phone",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְלַמֵד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "teach",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְלַמֶדֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "teach (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְלַמֵד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to teach",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹבֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "break<br>(objects)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹבֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "break (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִשְבּוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to break",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זָקֵן",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "old (beings)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זְקֵנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "old (beings) (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹנֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "different",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "different (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִינִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Chinese",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּדִיוּק",
+      "transcription": "",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "exactly",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הֲכִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "the most",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לוּחוֹת הַבְּרִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "the Tablets of the Covenant",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְׁטוּיוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "nonsense",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵיידְס",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "AIDS",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גֵּאוֹלוֹג",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "geologist",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוֹלְיוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Polio",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲתָר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "site",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "law",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טַיֶילֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "promenade",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָמִין",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "right",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּנֵסִיָיה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "church",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַטְבֵּעַ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "coin, Currency",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַטְבְּעוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "coins",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִסְגָּד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mosque",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נַצְרוּת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Christianity",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צַד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "side",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צְדָדִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sides",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְׂמֹאל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "left",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַּיָירוּת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tourism",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גָּדֵל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "grow",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גְּדֵלָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "grow (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִגְדול",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to grow",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְחַמֵם",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "warm",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְחַמֶמֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "warm (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְחַמֵם",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to warm",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְעַשֵן",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "smoke",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְעַשֶנֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "smoke (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְעַשֵן",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to smoke",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִכְנַס ל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "enter",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִכְנֶסֶת ל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "enter (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִכָּנֵס ל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to enter",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִפְגַּשׁ עם",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "meet<br>(niphal)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִפְגֶּשֶׁת עם",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "meet (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִפָּגֵשׁ עם",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to meet<br>(niphal)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִשְׁאַר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "stay/remain",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִשְׁאֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "stay/remain (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִשָּׁאֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to stay/remain",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹצֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "stop",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹצֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "stop (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַעֲצוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "To stop<br>not hafsik",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שׂוֹחֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "Swim",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שׂוֹחָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "Swim (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִשְׂחוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to Swim",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טִבְעִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "natural",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טִבְעִית",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "natural (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָנִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "poor",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֲנִיָיה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "poor (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוּדְנִיק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "A "nag" / a nagger / pest / nudge, pain in the neck",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִסְלָאם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Islam",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוּל",
+      "transcription": "",
+      "category": {
+        "lexical": "Prep"
+      },
+      "translation": {
+        "eng": "opposite / in front / across from",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דַמְקָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "checkers",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַדְלִיק",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "light",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַדְלִיק",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to light",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַחְלִיט",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "decide",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַחְלִיט",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to decide",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַסְכִּים",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "agree",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַסְכִּים",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to agree",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַקְשִיב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "listen",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַקְשִיב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to listen<br>(not hear)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּדַאי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "should / advisable",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חִילוֹנִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "secular",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אָחוּז",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "percent",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֱמוּנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "belief",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֶבְרָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "company / society",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֵלֶק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "part, parts",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יַחַס",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "attitude / relationship",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֶחְקָר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "research",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָכוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "institute",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סְבִיבוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "dradle / top",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֵס",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "miracle",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קִידוּש",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Kiddush (sanctification)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שַפַּעַת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "flu",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲנוּכָּה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Chanukah",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוּקְדָם",
+      "transcription": "",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "early",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פָּחוֹת מ...",
+      "transcription": "",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "less than...",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סֵדֶר פֶּסַח",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Passover dinner (Seder)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוֹף-סוֹף",
+      "transcription": "",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "finally",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוֹב",
+      "transcription": "",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "most<br>(majority of)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּמֶשֶךְ",
+      "transcription": "",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "during",
+        "pol": ""
+      }
+    }
+  ]
+}

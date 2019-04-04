@@ -1,0 +1,397 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-2-09"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "גְבִינָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "cheese",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גַנָן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "gardener",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זַיִת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "olive",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יֶרֶק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "vegetable",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְסִיבָּה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "party",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עַגְבֶנִיָיה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tomato",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פְּרַח",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "flower",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פְּרִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "fruit",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קַנְיוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Shopping mall",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוּק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "market",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּהַצְלָחָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Good luck!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֶּן כַּמָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "How old...?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בַּת כַּמָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "How old...?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לֹא חָשוּב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Never mind (lit. not important)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוֹף שָבוּעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "weekend",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּרִיא",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "healthy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָתוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "sweet",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְקַבֵּל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "receive",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְשַלֵם",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "pay",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָׂם",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "put",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹפֶּרָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "opera",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טוּנָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "tuna",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סֶלֶרִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "celery",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צֶ'ק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "check",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְלוֹש עֶשְׂרֵה",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "thirteen",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַרְבַּע עֶשְׂרֵה",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "fourteen",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲמֵש עֶשְׂרֵה",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "fifteen",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֵש עֶשְׂרֵה",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "sixteen",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְבַע עֶשְׂרֵה",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "seventeen",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְמוֹנֶה עֶשְׂרֵה",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "eighteen",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְשַע עֶשְׂרֵה",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "ninteen",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֶשְׂרִים",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "twenty",
+        "pol": ""
+      }
+    }
+  ]
+}

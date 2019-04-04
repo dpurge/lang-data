@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-2-08"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "יוֹרֵד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "descend / go down",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַם",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "hot",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּחוֹל",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "blue",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּשֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "kosher",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְשַעֲמֵם",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "boring",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קַר",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "cold",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָקֵט",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "quiet",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּית קָפֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Café",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גְלוּיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "postcard",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דֶרֶך",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "way",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹלֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sick / ill",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹרֶף",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "winter",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַלוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "window",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֶשְבּוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "bill / check",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִדְבָּר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "desert",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֶלְצָר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "waiter",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַעְיָין",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "(water) spring",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹף",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "view",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָׂפָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "language",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַרְגִיל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "exercise",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַיָיר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tourist",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּאֶמְצָע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in the middle (of)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּעוֹד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in another...",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַבַּיְתָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "homewards",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוּץ לָאָרֶץ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "abroad",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּבָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "already",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִבְרִיאוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bless you!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַה פִּתְאוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "No way!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פִּתְאוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "suddenly",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תָמִיד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "always",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַגִיד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "tell!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַגִידִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "tell!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַגִידוּ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "tell!<br>(pl)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טְרֶמפְּ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hitchhike",
+        "pol": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-4-22"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "בֶּגֶד יָם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "swimsuit",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בִּגְדֵי יָם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "swimsuit (p)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חָאקִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "khaki",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוּפְשָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "vacation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲצָאִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "skirt",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲצָאִיוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "skirts (p)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַשְמַל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "electricity",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ישְֹרָאֵלִיוּת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Israeliness",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוֹשָב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "settlement",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִכְנָסַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "pants",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְעִיל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "coat",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פִּתְרוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "solution",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פִּתְרוֹנוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "solutions",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פֶּתֶק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "note",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִׂמְלָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "dress",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְׂמָלוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "dresses",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוֹרִיד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "take off / decrease",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוֹרִידָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "take off / decrease (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהוֹרִיד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to take off / decrease",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חָזָק",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "strong",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲזָקָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "strong (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טִיפֵּש",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Stupid",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טִיפְּשָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Stupid (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טָרִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "fresh",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טְרִיָּיה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "fresh (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְאוּשָר",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "happy<br>(doesn't start w/ an s)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְאוּשֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "happy (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "comfortable",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹחָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "comfortable (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַנָ''כִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Biblical",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָכֵן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "therefore",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַף אֶחָד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "nobody",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲבָל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "it's a pity, it's a shame",
+        "pol": ""
+      }
+    }
+  ]
+}

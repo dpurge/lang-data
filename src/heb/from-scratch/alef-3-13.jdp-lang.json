@@ -1,0 +1,697 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-3-13"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "זָז",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "move",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָזוּז",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to move",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טָס",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "fly",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָטוּס",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to fly",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְבַקֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "visit",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְבַקֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to visit",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָח",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "rest",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָנוּח",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to rest",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צָם",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "fast",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָצוּם",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to fast",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹמֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "observe / keep",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִשְמוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to observe / to keep",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טָעִים",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "tasty / delicious",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קָרוֹב",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "close / near",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֵמִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Semitic",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַמְהָרִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Amharic (lang.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גֶעֶז",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Ge'ez (lang)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דָג",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "fish",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דֶלֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "door",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hole",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲלוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "dream",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יַחֲדוּת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Judaism",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּבִיש",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "road",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּפָר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "village",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַחֲנֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "camp",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָטוֹס",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "airplane",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֶלֶך",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "king",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָסוֹרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tradition",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַקֵל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "stick",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֶרְכָּז",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "center",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִימָן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sign",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְכוּנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "neighorhood",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כֵּיף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fun",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֶתְמוֹל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "yesterday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דָ''ש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "regards - דְרִישַת שָלוֹם",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹם כִּיפּוּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Yom Kippur (Day of atonement)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹתֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "more (than)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְאוּחָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "late<br>(m)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְאוּחֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "late<br>(f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֵאָז",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "since",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָאתַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "two hundred",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִבְצַע מֹשֶה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Moses Operation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִבְצַע שְלֹמֹה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Solomon Operation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוּב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "again<br>(not another time)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רִאשוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "first",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֵנִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "second",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְלִישִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "third",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רְבִיעִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "fourth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲמִישִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "fifth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִישִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "sixth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְבִינִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "seventh",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְמִינִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "eighth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְשִיעִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "ninth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֲשִׂירִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "tenth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הָאַחַד עָשׂר",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "the eleventh",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הָעֶשְׂרִים",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "the twentieth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הָעֶשְׂרִם וְאֶחָד",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "the twenty-first",
+        "pol": ""
+      }
+    }
+  ]
+}

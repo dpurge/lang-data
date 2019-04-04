@@ -1,0 +1,565 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-4-23"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אֶבֶן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "stone",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲבָנִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "stones",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַגָדָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "legend/tale",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹמָן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "artist",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹמָנִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "artist (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בִּנְיָין",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "building",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַתְחָלָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "beginning",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹמָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "wall (except city walls)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַחֲלָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "disease, illness",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַצָב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "situation/status/condition",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוֹפֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "writer, author",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוֹפֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "writer, author (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פִּיל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "elephant",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פִּילָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "elephant (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְמוּנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "picture/painting",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְנַאי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "condition",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְנאִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "conditions (p)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹלָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "sick (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַחְלוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to become ill, to sicken",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹלֵם",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "dream",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹלֶמֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "dreams (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַחְלוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to dream",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֵת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "die",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֵתָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "die (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָמוּת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to die",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹקֵל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "weigh",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹקֶלֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "weigh (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִשְקוֹל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to weigh",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָקִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "clean",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נְקִיָּיה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "clean (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָשִיר",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "rich",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָשִירָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "rich (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קָדוֹש",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "holy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קְדוֹשָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "holy (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רָחוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "far",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רְחוֹקָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "far (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הָעִירָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to the town",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִזְמָן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "a long time ago",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִחוּץ ל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "outside of",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִסָבִיב ל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "around the...",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹד פַּעַם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "again, one more time",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כוֹלֶרָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cholera",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טוּרְקִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "turkish",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִילְיוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "million",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִימְפָּטִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "likable/ nice",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֹוּלְטָן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sultan",
+        "pol": ""
+      }
+    }
+  ]
+}

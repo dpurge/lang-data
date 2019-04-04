@@ -1,0 +1,529 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-3-15"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אוֹזֶן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "ear",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹזְנַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "ears",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַף",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "nose",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֱמֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "truth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֶּטֶן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "stomach/tummy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גַב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "back",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גוּף",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "body",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זְאֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "wolf",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זְאֵבָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "she-wolf",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹמָן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "schedule",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "heart",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְבָבוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hearts",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סַמֶל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "symbol",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עִיגוּל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "circle",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עַיִן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "eye",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֵינַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "eyes",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פֶּה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Mouth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צַוָואר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "neck",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צָרָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "trouble",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קַו",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "line",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רֹאש",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "head",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רֶגֶל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "leg",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַגְלַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "legs",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֵן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tooth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִינַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "teeth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְׂעָר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hair",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְׂעָרוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hair (pl)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שַרְשֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "chain/necklace",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לוֹקֵחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "take",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לוֹקַחַת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "take (singular feminine)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָקַחַת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to take",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹנֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "answer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַעֲנוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to answer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוֹחֵד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "be afraid, scared",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִפְחוֹד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "To be scared",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אָרוֹךְ",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "long (m)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲרוּכָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "long (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּעֶרֶךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "about/around",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּתוֹךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "inside, in, within",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָׂם לַב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "notice/pay attention",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְנָתַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "two years",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִימֶטְרְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "symmetry",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָשִׂים לְמִישֵהוּ רֶגֶל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "tripped (someone) up",
+        "pol": ""
+      }
+    }
+  ]
+}

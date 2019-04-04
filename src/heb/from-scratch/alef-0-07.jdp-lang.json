@@ -1,0 +1,601 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-0-07"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "יוֹדֵעַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "know (information)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲדָשׁוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "news (pl)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֵצִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "half",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רֶבַע",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "quarter",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָׁעָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hour",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָׁעוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "clock, watch",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֶׁקֶט",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "quiet (noun)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַז",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "then, so",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵיזֶה מַזָל!",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "What luck!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָה הַשָׁעָה?",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "What time is it?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַחַת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְׁתַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "two (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָׁלוֹשׁ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "three (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַרְבַּע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "four (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חָמֵשׁ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "five (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֵׁש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "six (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֶׁבַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "seven (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְׁמוֹנֶה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "eight (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תֵשַׁע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "nine (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֶשֶׂר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ten (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַחַת עֶשְרֵה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "eleven (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְׁתֵים עֶשְרֵה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "twelve (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוֹנָטָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sonata",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִינִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Chinese (lang.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סֶנְדְוִויץ'",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sandwich",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צִ'יפְּס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "chips, fries",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צֶ'כִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Czech (lang.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צֶ'לוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cello",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צֶ'מְבָּלוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "harpsichord",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹנְצֶ'רטוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "concerto",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קֶטְשׁוֹפּ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ketchup",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוֹרֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "teacher (m.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוֹרָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "teacher (f.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַדְיוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "radio",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שלוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "peace; hello; goodbye",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוּגָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "cake",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַה נשְׁמַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "what's up? how's it going?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָעִים מְאוֹד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "it's a pleasure to meet you",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַעֲשׂוֹת חַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to have a great time, to have fun",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֶלֶקְטְרוֹנִיקָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "electronics",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סטוּדנטית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "student (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סטוּדנט",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "student (m)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סָלָט",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "salad",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹמוּנִיקַצְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "communication",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹנְצֶרְט",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "concert",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שׁוֹקוֹלָד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "chocolate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דִיסְנִילֶנד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Disneyland",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טוֹקְיוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Tokyo",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יְרוּשָׁלַיִם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Jerusalem",
+        "pol": ""
+      }
+    }
+  ]
+}

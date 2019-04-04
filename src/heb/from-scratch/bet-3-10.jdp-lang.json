@@ -1,0 +1,601 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-3-10"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אוֹפִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "character / nature",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּדִיחָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "joke",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גָאוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "genius",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גוֹלֶם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "idiot / fool",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גַפְרוּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "match",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֶבְרֶהמַן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sociable person",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲגִיגָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "celebration",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֶמְאָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "butter",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טִיפְּשוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "stupidity",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יְכוֹלֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ability",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כַּדוּרֶגֶל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "soccor",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַאֲכָל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "food",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִבְחָן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "test / exam",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַדְעָן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "scientist",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוּג",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "type / kind",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִיפּוּר עַם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "folk tale",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פְרָאיֵיר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "a sucker",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צוּרָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "shape / form",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תוֹצָאָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "consequence / result",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּחַן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "examine / test",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִבְחוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to examine / test",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בִּילָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "spend time",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְבַלוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to spend time",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִגְדִיל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "enlarge",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַגְדִיל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to enlarge",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הֶעֱבִיר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "pass",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַעֲבִיר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to pass",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הֶעֱדִיף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "prefer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַעֲדִיף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to prefer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִיצֵל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "take advantage of / use",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְנַצֵל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to take advantage of / use",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סָפַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "count",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִסְפוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to count",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פָּגַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hurt / insult/ hit",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִפְגוֹעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to hurt / insult / hit",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּעָיָיתִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "problematic",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּעָיָיתִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "problematic (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גוּפָנִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "physical",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גוּפָנִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "physical (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טִיפְּשִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "foolish / stupid",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טִיפְּשִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "foolish / stupid (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קְבוּצָתִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "of a group / collective",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קְבוּצָתִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "of a group / collective (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קָשוּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "connected to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קָשוּרָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "connected to (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּתֵיאָבוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bon apetite",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "וְכוּלֵי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "et cetera",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲסַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "..less",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֲדַיִין",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "still",
+        "pol": ""
+      }
+    }
+  ]
+}

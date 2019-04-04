@@ -1,0 +1,601 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-3-14"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "מְבָרֵך",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "Bless",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְבָרֵך",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to bless",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְסַפֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "tell",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְסַפֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to tell<br>(not declare)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְקַדֵש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "sanctify",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְקַדֵש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to consecrate/sanctify",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹעֵל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "Wear shoes",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִנְעוֹל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to wear shoes",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹפֵל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "fall",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִיפּוֹל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to fall",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹתֵן",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "Give",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָתֵת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to give",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹמֵד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "stand",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַעֲמוֹד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to stand",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִקְרוֹא",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to call/read",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אָדוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "red",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַצְחִיק",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "funny",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֶגוֹאִיסְטִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "egoist",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֵינָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Henna (henna party)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹנְסֶרְבָטִיבִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Conservative (Jew)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹקְטֵיְל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "cocktail",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שַמְפַּנְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "champagne",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תֵאוֹרְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "theory",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "letter<br>(of alphabet)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Son/boy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בַּת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Girl/daughter",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּרָכָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "blessing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דָבָר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "thing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דְבַש",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "honey",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זוּג",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "couple",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹפֶש",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Freedom/ vacation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טַבַּעַת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "ring",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טֶקֶס",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "ceremony",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּתוּבָּה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Marriage contract",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַזָל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Luck, sign of the zodiac",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְכוֹנִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "car",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִנְהָג",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "custom",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִשְׂחָק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "game",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נַעַל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "shoe",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זָכָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Masculine/male",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נְקֵבָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "feminine/female",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָחִיד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "singular",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַבִּים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "plural",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֵם עֶצֶם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "noun",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֵם תוֹאַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "adjective",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּדֶרֶך כְּלָל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "usually",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּן מִשְפָּחָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Family member",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טֵלֵפוֹן שָבוּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "telephone (game)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ל''ג בָּעוֹמֶר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "The 33ed day of the Omer count (Jewish holiday)",
+        "pol": ""
+      }
+    }
+  ]
+}

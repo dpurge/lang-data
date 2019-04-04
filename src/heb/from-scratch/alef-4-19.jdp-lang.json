@@ -1,0 +1,493 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-4-19"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אַרְיֵה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "lion",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲרָיוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "lions",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּצָל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Onion",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּצָלִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Onions",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גֶּזֶר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "carrot",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גְּזָרִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "carrots",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גַּן חַיוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "zoo",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גַּנֵי חַיוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "zoos",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סַבְלָנוּת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "patience",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פִּלְפֵּל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Pepper",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צֶמַח",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "plant",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צְמָחִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "plants",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קְבוּצָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "group",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹף",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "monkey",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קֶמַח",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "flour",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קֶשֶׁר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "connection/tie",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קְשָׁרִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "connections/ties",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָכֵן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "neighbor",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְכֵנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "neighbor - (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֶמֶן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "oil",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שַעַר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "gate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְעָרִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "gates",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תוֹכְנִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "program/plan",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תוֹכְנִיוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "programs \ plans",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּוֹדֵק",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "check",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּוֹדֶקֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "check (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִבְדוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "To check",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹצֵא",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "go out/exit",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹצֶאֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "go out/exit (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָצֵאת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to go out",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוֹתֵחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "open",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוֹתֶחֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "open (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִפְתוֹחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "To open",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צָרִיךְ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "need",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צְרִיכָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "need (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַחַר כָּך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "later<br>(after that...)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵין בְּעַד מָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "you're welcome",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הָמוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "a lot/many<br>(not harbeh)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹד מְעַט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "soon/ in a little while",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹדֶם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "first/before",
+        "pol": ""
+      }
+    }
+  ]
+}

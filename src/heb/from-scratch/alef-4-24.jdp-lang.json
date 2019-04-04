@@ -1,0 +1,530 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-4-24"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "גְבֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "lady/ Mrs.",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דָת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "religion",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הֲלָכָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "rule/the Jewish law",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֹום",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "heat/fever",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּאֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "pain",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּתוֹבֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "address",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִזְוָודָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "suitcase",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְשְטָרָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "police",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶפֶש",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "soul/mind",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קְהִילָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "community",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רְפוּאָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "medicine",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹטֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "policeman",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹטֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "policewoman",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִׂמְחָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "happiness/festivity",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְׂמָחוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "happiness/festivity (p)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַאֲרִיך",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "date
+(schedule)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְעוּדָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "certificate/document",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְקוּפָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "period/era",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּוֹאֵב ל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "hurt",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּוֹאֶבֶת ל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "hurt (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִכְאוֹב ל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to be hurt",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּוֹבֵש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "conquer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּוֹבֶשֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "conquer/capture (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִכְבּוֹש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to conquer/to capture",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַאֲמִין",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "believe",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַאֲמִינָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "believe (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַאֲמִין",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to believe",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹזֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "leave",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹזֶבֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "leave (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַעֲזוֹב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to leave",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹכֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "lie down",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹכֶבֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "lie down (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִשְׁכַּב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to lie down",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹפְשִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "free",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹפְשִית",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "free (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּין",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "between",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֶּן בַּיִת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "close friend/ like one of the family",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הָעֶרֶב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "this evening, tonight",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּל הַכָּבוֹד!",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bravo!, well done!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְעַט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "a little/few",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קָרוֹב ל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "close to, near",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תִהְיֶה בָּרִיא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "get well",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תִהְיִי בְּרִיאָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be well(f)",
+        "pol": ""
+      }
+    }
+  ]
+}

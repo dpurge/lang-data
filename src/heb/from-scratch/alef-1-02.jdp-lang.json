@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-1-02"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אַהֲבָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "love",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַרְמוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "castle",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּחוּרָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "young woman",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּחוּר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "young man",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גִינָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "garden",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דִירָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "apartment",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֶדֶר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "room",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲנוּכִּיָיה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Chanukah lamp",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַחְבֶּרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "notebook",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִטְבָּח",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "kitchen",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִקְלַחַת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "shower",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֵץ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tree",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צִיוּר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "painting / drawing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוּלְחָן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "table",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גָדוֹל",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "big",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חָדָש",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "new",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָפֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "beautiful / pretty",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָשָן",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "old<br>(thing)<br>",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְיוּחָד",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "special",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶחְמָד",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "nice",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עַתִיק",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "ancient",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קָטָן",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "small",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סָלוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "living room / salon",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קֵיסָרִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "empress",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קֵיסָר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "emperor",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵיזֶה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Which? / what?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֶיזוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Which?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵילוּ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Which?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּקֶשֶר ל...",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "about the / in connection to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּמוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "like / as",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְמָשָל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "for example",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִפְעָמִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sometimes",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עַל שֵם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "named after",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְצוּיָן ",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "excellent",
+        "pol": ""
+      }
+    }
+  ]
+}

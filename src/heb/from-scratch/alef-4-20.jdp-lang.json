@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-4-20"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "חַיָיל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "soldier",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַיֶילֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "soldier (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּוֹחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "power/strength, force",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּוֹחוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "powers/strengths, forces",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְדִינָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "state, country",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֶמְשָלָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "government",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָשִֹיא",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "president",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נְשִֹיאָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "President (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פִּרְסוֹמֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "advertisement, commercial",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "buyer (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רֹאש מֶמְשָלָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Prime Minister",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רֹאש עִיר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mayor",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְבִיתָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "strike",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זוֹכֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "remember",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זוֹכֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "remember (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִזְכּוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to remember",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַגִיד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to tell/declare ",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוֹגֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "close/shut",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוֹגֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "close ( f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִסְגוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "To close",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹכֵחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "forget",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹכֶחֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "forget ( f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִשְכּוֹחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "To forget",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רָעֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "hungry",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רְעֵבָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "hungry ( f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַשָבוּעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "this week",
+        "pol": ""
+      }
+    }
+  ]
+}

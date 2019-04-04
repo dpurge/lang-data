@@ -1,0 +1,565 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-0-05"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "בַּנָנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "banana",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוּזֵאוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "museum",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוּכָּר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sugar",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוּפֶּרְמַרְקֶט",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "supermarket",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוֹלִיטִיקָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "politics",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַאַטְרוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "theater",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַרְצוֹת הַבְּרִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "USA (Lands of the Covenant)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֶּלְגִיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Belgium",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּרָזִיל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Brazil",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דֶנֶמַרְק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Denmark",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יַפָּן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Japan",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוֹלִין",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Poland",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוֹרְטוּגָל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Portugal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פֶּרוּ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Peru",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּוּאֶנוֹס אַיְירֶס",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Buenos Aires",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּוֹסְטוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Boston",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּרִיסֶל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Brussels",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּת יָם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Bat Yam",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "וַרְשָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Warsaw",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִימָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Lima",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִיסְבּוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Lisbon",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹפֶנְהָגֶן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Copenhagen",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַבָּא",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "father",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוּלְפָּן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "studio",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֶשְכּוֹלִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "grapefruit",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בַּיִת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "house",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יַפָּנִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Japanese (lang.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כִּיתָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "class / classroom",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִשְפָּחָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "family",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹלָם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "world",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוֹלָנִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Polish (lang.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוֹרְטוּגֶזִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Portuguese (lang.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַפּוּז",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "orange",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְדַבֵּר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "talk",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּ",
+      "transcription": "",
+      "category": {
+        "lexical": "Prep"
+      },
+      "translation": {
+        "eng": "in",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְיַד",
+      "transcription": "",
+      "category": {
+        "lexical": "Prep"
+      },
+      "translation": {
+        "eng": "near; by",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עַל",
+      "transcription": "",
+      "category": {
+        "lexical": "Prep"
+      },
+      "translation": {
+        "eng": "on / about",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵין",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "there isn't / there aren't",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּסֵדֶר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "alright",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַכּוֹל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "everything",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַרְבֵּה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "many / a lot",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יֵש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "there is / there are",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יֵש!",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "yeh!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּל הָעוֹלָם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the whole world",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כֵּן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "yes",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פֹּה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "here",
+        "pol": ""
+      }
+    }
+  ]
+}

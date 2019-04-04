@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "ready",
+    "tags": [
+      "from-scratch-alef-0-01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אִימָא",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mother",
+        "pol": "matka"
+      }
+    },
+    
+    {
+      "phrase": "יַיִן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "wine",
+        "pol": "wino"
+      }
+    },
+    
+    {
+      "phrase": "יָם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sea",
+        "pol": "morze"
+      }
+    },
+    
+    {
+      "phrase": "מַיִם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "water",
+        "pol": "woda"
+      }
+    },
+    
+    {
+      "phrase": "מַתָנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "gift; present",
+        "pol": "podarunek; prezent"
+      }
+    },
+    
+    {
+      "phrase": "אֲנִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "I",
+        "pol": "ja"
+      }
+    },
+    
+    {
+      "phrase": "אַת",
+      "transcription": "",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "you",
+        "pol": "ty"
+      }
+    },
+    
+    {
+      "phrase": "אַתָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "you",
+        "pol": "ty"
+      }
+    },
+    
+    {
+      "phrase": "הִיא",
+      "transcription": "",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "she",
+        "pol": "ona"
+      }
+    },
+    
+    {
+      "phrase": "מָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "what?",
+        "pol": "co?"
+      }
+    },
+    
+    {
+      "phrase": "מִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "who?",
+        "pol": "kto?"
+      }
+    },
+    
+    {
+      "phrase": "הַיי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Hi!",
+        "pol": "Cześć!"
+      }
+    }
+  ]
+}

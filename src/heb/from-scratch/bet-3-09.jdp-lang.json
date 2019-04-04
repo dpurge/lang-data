@@ -1,0 +1,565 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-3-09"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אַלְבּוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "album",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִכְפַּתִיוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "caring / involvement",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּדִידוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "loneliness",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּחִירוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "elections",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַפְגָנָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "protest / demonstration",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְפַּתְחוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "development",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כַּלְכְּלָן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "economist",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סַכָּנָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "danger",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֶזְרָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "assistance / help",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עִירִיָיה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "municipality",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שַחְמָט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "chess",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִינוּי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "change",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְאוּנָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "accident",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַכְשִיט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "jewelry",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִזְדַקֵן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "aged",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִזְדַקֵן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to age",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִצְטָרֵף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "join (to)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִצְטָרֵף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to join (to)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְגָרֵש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "divorce (from)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְגָרֵש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to divorce (from)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְלַכְלֵךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "become dirty",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְלַכְלֵךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to become dirty",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְפַּתֵחַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "develop",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְפַּתֵחַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to develop",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְקַדֵם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "progress",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְקַדֵם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to progress",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְקַשִר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "phone / contact",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְקַשִר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to phone / contact",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְרַגִל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "get used to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְרַגִל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to get used to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָסַק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be engaged in",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַעֲסוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be engaged in",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פָּתַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "solve",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִפְתוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to solve",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִכְפַּתִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "caring / involvement",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִכְפַּתִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "caring / involvement",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֶבְרָתִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "social",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֶבְרָתִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "social",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְעוֹרָב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "involved",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְעוֹרֶבֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "involved",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָסוּק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "busy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֲסוּקָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "busy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קְהִילָתִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "communal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קְהִילָתִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "communal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִכְפַּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "care about",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שַיָיך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "belong to",
+        "pol": ""
+      }
+    }
+  ]
+}

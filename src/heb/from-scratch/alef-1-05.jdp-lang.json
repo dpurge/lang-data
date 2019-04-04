@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-1-05"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "לַחְשוֹב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to think",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹשֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "think",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִלְבּוֹש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to wear",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לוֹבֵש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "wear",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָרוּץ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to run",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רָץ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "run",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִשְאוֹל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to ask",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹאֵל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "ask",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּשֶקֶט",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "quietly",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "וְעוּד",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "and more",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְאַט",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "slow / slowly",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַהֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "fast",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִישֶהוּ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "somebody",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קָשֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "hard",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַה שְמֵךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "What is your name?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַה שִמְךָ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "What is your name?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְמִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "my name (is)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אָלֶף בֵּית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "alphabet",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֶּגֶד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "garment / cloths",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בַּעַל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "husband",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גְנִיזָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "archives",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זְמַן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "time",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יְהוּדִיָיה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "jew",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יְהוּדִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "jew",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "rabbi",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֵם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "name",
+        "pol": ""
+      }
+    }
+  ]
+}

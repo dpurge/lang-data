@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-3-12"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אֵבֶל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "mourning",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אָרוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cupboard / coffin",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּוֹגֵד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "traitor",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּסִיס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "basis, base",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גְבוּרָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "heroism",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גוֹרָל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fate / fortune",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גִיבּוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hero",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוּרְבָּן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "destruction",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּבוֹד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "honor",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְפַקֵד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "commander",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֶרֶד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "revolt",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֶבֶד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "slave",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עַבְדוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "slavery",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קְדוּשָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sanctity / holiness",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קַנַאי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "zealot / fanatic",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הוֹדִיעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "inform",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהוֹדִיעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to inform",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּבַש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "conquer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִיווָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "accompany / escort",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְלַווֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to accompany / escort",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָנַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "prevent",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִמְנוֹעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to prevent",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְאוּמִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "national",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְאוּמִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "national (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֶלְיוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "superior / upper",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֶלְיוֹנָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "superior / upper (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוּחַנִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "spiritual",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוּחָנִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "spiritual (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קָבוּעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "constant / fixed / permanent",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קְבוּעָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "constant / fixed / permanent",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רְצִינִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "serious",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רְצִינִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "serious (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּטָעוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "mistakenly",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּעַד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "pro / for",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "וְאִילוּ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "and on the other hand",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְמַאֲשֶׂה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "actually / in fact",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֵרֹאש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ahead / in advance",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶגֶד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "con / against",
+        "pol": ""
+      }
+    }
+  ]
+}

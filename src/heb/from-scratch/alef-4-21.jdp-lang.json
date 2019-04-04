@@ -1,0 +1,565 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-4-21"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "סַבּוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "soap",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּיצָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "egg",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּיצִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "eggs",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַסָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Lettuce",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טָעוּת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mistake<br>(not shgiah)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טָעוּיוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mistakes",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַדָע",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "science",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְנוֹרָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "lamp, Menorah",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָבִיא",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "prophet",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָבִיאָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "prophetess",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָהָג",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "driver",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נַהֶגֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "driver (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֵז",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "goat",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עִיזִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "goats",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פָּסוּק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "verse",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פְּסוּקִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "verses",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַעֲיוּן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "idea",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַעֲיוֹנוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "ideas",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַחֲנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "station",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַפּוּחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Apple",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַרְנְגוֹל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "rooster",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַרְנְגוֹלֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "chicken,hen",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָכוֹל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "Able to, Can",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יְכוֹלָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "Able to, Can (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַכִּירָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "recognize, be familiar with, know (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַכִּיר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to recognize, be familiar with, know",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַגִּיעַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "arrive",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַגִּיעָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "arrive (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַגִיע",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to arrive",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוֹנֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "turn",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוֹנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "turn (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִפְנוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to turn",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חָכָם",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "smart",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲכָמָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "smart (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֶרְכָּזִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "central",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֶרְכָּזִית",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "central (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גַן עֵדֶן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "garden of Eden / Heaven",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זְהִירוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be careful",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּלוּם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "nothing<br>(not shum davar)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עַל לֹא דָבָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "you're welcome",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֵץ הַדַעַת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the Tree of Knowledge",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַרְוָוה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sage (plant)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִיר הַשִירִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the songs of songs",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בני ישראל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the people of Israel",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְאֵנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "fig",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תָמָר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "date (tree and fruit)",
+        "pol": ""
+      }
+    }
+  ]
+}

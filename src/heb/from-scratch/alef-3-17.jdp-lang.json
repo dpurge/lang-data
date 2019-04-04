@@ -1,0 +1,529 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-3-17"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אוֹצָר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "treasure",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹצָרוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "treasures",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "light",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹרוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "lights",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּית הַמִקְדָש",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "the temple",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זָהָב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "gold",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹף",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "beach/shore",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹשֶך",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "darkness",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְגִילָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "scroll",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְעָרָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "cave",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹצְרִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "christian",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹצְרִיָיה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "christian (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נְחוֹשֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "copper",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פְּגִישָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "meeting",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָיֵיף",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "tired",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֲיֵיפָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Tired (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַע",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "bad/mean",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַעַה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "bad/mean (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַחֲקוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to research",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹקֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "research",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹקֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "research",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִכְעוֹס",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to be angry",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּוֹעֵס",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "be angry",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּוֹעֶסֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "be angry",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִמְצוֹא",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "To find",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוֹצֵא",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "find",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוֹצֵאת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "find",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְסַדֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to arrange",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְסַדֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "arrange",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְסַדֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "arrange",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִיוָולֵד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to be born",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹלָד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "be born",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹלֶדֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "be born",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַעֲזוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "To help",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹזֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "help",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹזֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "help",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַלְפַּיים",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "2000",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּרֶגֶל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "by foot/ on foot",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַסְפִירָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "A.D. (of a date)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִינְפוֹרְמַצֹיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "information",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִיסְטוֹרִיוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "historian",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פַנְטַזְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Fantasy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תֵאוֹלוֹג",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "theologian",
+        "pol": ""
+      }
+    }
+  ]
+}

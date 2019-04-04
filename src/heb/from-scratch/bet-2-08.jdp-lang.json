@@ -1,0 +1,637 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-2-08"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "וַעֲדָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "committee",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּוֹס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "glass",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כִּיפָּה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cap / skull cap",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּתֵף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "shoulder",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְוָויָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "funeral",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִסְפָּרַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "scissors",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַשְמָעוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "meaning",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִשְקָפַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "glasses",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָחָש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "snake",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָלֶה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "leaf",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סֵדֶר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "order",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֵרֶך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "value",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פֵּיאָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "side lock",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פָּנִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "face",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פְּרֵידָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "farewell / parting",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּכָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cry",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִבְכּוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to cry",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גָזַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cut",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִגְזוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to cut",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דָרַש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "demand",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִדְרוֹש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to demand",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הֵכִין",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "prepare",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהָכִין",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to prepare",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִקְרִיב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sacrifice",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַקְרִיב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to sacrifice",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִשְתַתֵף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "participate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִשְתַתֵף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to participate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְנַהֵג",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "behave",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְנַהֵג",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to behave",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְקָרֵב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "approach",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְקָרֵב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to approach",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זָרַק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "throw",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִזְרוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to throw",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִפְרַד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "part from",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִיפָּרֵד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to part from",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צִילֵם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "photograph",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְצַלֵם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to photograph",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קִיוָוה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hope",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְקַווֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to hope",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָבַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "break",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אָהוּב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "beloved",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲהוּבָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "beloved (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִיטִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "slow",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִיטִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "slow (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲסִידִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hassidic",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲסִידִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hassidic (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רִאשוֹנִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "primary",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רִאשוֹנִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "primary (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בִּכְלָל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "at all",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דוֹמֶה ל...",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "similar to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּדֵי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in order to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִידוּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "prayer book",
+        "pol": ""
+      }
+    }
+  ]
+}

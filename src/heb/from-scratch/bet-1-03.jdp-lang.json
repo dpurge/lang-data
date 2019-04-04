@@ -1,0 +1,349 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-1-03"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "הַקָדוֹש בָּרוּךְ הוּא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Blessed Be God's Name",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָגֵן דָוִד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Star of David",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִזְרָח",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "east",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַעֲרָב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "west",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְנַהֵל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "manager / boss",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נְשִיקָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "kiss",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִגְנוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "style",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סַל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "basket",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִפְרוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "literature",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פַּס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "stripe",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צֵל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "shadow",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צַעֲצוּעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "toy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַכְלָן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "gossip",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שַקְרָן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "liar",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מכניס<br>הִכְנִיס<br><br>",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "insert/admit /put in",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַכְנִיס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to insert /admit /put in",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "משקר<br>שִיקֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "lie<br>(verb)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְשַקֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to lie",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָׂנָא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִשְׂנוֹא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to hate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שופט<br>שָפַט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "judge<br>(verb)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִשְפּוֹט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to judge",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוּץ מ...",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "except / apart from",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּאִילוּ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as if",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲרֵדִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "pious (ultra-orthodox)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲרֵדִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "pious (ultra-orthodox)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָלֵא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "full",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְלֵאָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "full",
+        "pol": ""
+      }
+    }
+  ]
+}

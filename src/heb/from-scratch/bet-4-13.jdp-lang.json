@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-4-13"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אִיחוּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "lateness",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֶבְדֵל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "difference",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הֶסְבֵּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "explanation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַפְתָעָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "surprise",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּלָל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "rule / regulation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִפְעָל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "factory",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוּבְדָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fact",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צְעָקָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "a shout / yell",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוּפָּה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cash register",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְׂדֵה תְעוּפָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "airport",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "line",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִיבֵּד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "lose",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְאַבֵּד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to lose",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִיחֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be late",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְאַחֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be late",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הָפַךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "turn over",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַהֲפוֹך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to turn over",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִשְאִיר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "leave behind",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַשְאִיר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to leave behind",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִרְצַח",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be murdered",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהֵירָצַח",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be murdered",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צָדַק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be correct",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִצְדוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be correct",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָלַט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "control",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִשְלוֹט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to control",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְשַגֵעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "crazy (good) / terrific",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְשַגַעַת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "crazy (good) / terrific (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִפְלָא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wonderful",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִפְלָאָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wonderful (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוֹעֵש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "noisy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוֹעֶשֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "noisy (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַף עַל פִּי שֶ...",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "even though / although",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דֶרֶךְ אַגַב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "by the way / tangentially",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַמְרוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "despite / in spite",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֵאֲחוֹרֵי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "behind",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֵעַל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "above / over",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִתַחַת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "below / under",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תוֹדָה לָאֵל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "thank God",
+        "pol": ""
+      }
+    }
+  ]
+}

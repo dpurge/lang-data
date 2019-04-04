@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-2-06"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אוֹפְנָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "trend / fashion",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵזוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "area",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יֶרַח דְבַש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "honeymoon",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּתָב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "writing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּתוֹבֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "address/inscription",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַשְׂכּוֹרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "salary",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֶצֶם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "object",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פִּנְקָס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "notepad",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַכֶּבֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "train",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רְשִימָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "list",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bull",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שַׂק שֵינָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sleeping bag",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַרְמִיל גַב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "backpack",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְנוּעָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "movement",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גָנַב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "steal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִגְנוֹב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to steal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָגַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "touch",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָגַעַת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to touch",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִנְגוֹעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to touch",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶעֱלַם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "disappear",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהֵיעָלֵם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to disappear",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צִלְצֵל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ring,call",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְצַלְצֵל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to ring,call",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תִרְגֵם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "translate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְתַרְגֵם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to translate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּרוּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "clear / obvious",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּרוּרָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "clear / obvious",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בִּלְעֲדֵי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "without",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּשֶ...",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "when",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּאֲשֶר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "when",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְפָנִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in front",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֵאָחוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "behind",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִמְאָס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fed up with",
+        "pol": ""
+      }
+    }
+  ]
+}

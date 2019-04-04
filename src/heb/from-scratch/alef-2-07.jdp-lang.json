@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-2-07"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "בּוֹנֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "build",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִהְיוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to be",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּחִינָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "exam",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּעָיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "problem",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כַּוֹבַע",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hat",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כַּרְטִיס",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "ticket",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַדְרִיך",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "guide",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִלְחָמָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "war",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִיפּוּר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "story",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סַנְדָל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sandal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צָבָא",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "army",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָמַיִם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sky",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "year",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דַי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "enough",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹמְיוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "daily life",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כּוֹבַע טֶמְבֶּל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "temble hat",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּל ה...",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "all the…",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַסְפִּיק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "enough",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עַד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "until/till/to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוּם דָבָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "nothing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַשְכְּנַזִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Ashkenai",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְשוּגָע",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "crazy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סְפָרַדִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Spanish",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֲרָבִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Arab",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צִיוֹנִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Zionist",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָנוּאָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "January",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פֶבְּרוּאָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "February",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַרְס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "March",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַפְּרִיל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "April",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַאִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "May",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוּנִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "June",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוּלִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "July",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹגוּסְט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "August",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סֶפְּטֶמְבֶּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "September",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹקְטוֹבֶּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "October",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹבֶמְבֶּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "November",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דֶצֶמְבֶּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "December",
+        "pol": ""
+      }
+    }
+  ]
+}

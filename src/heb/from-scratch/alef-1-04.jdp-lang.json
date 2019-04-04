@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-1-04"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "מְחַפֵּש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "search",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַכִּיר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "know<br>(people)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוֹגֵש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "meet",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוֹאֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "see",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זוֹל",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "cheap",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דוֹדָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "aunt",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דוֹד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "uncle",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כֶּסֶף",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "money",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוֹכֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sales person / clerk",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עִיתוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "newspaper",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָבוּעַ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "week",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תִיק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "bag /file",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "(Direct Object Marker)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַיוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "today",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַכּוֹתֶל הַמַעֲרָבִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "the Wailing Wall",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זֶהוּ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "that's it",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָחָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "tomorrow",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹם רִאשוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Sunday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹם שֵנִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Monday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹם שְלִישִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Tuesday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹם רְבִיעִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Wednesday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹם חֲמִישִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Thursday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹם שִישִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Friday",
+        "pol": ""
+      }
+    }
+  ]
+}

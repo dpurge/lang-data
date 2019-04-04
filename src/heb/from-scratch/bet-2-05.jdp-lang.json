@@ -1,0 +1,373 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-2-05"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אַמְבַּטְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bathtub",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹכְמָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wisdom",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוֹמֶר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "material",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כַּלְכָּלָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "economics",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּרִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "pillow",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַלְאָךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "angel",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַסְלוּל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "course / path",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִקְצוֹעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "subject / profession",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עִנְיָין",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "interest",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פַּטִיש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hammer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צִיוּן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "grade / mark",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קִנְאָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "envy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רָצוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "will, wills",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֵינָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sleep<br>(noun)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תוֹאַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "degree / title",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מפריע<br>הִפְרִיעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "disturb",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַפְרִיעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to disturb",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חִיֵיךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "smile",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְחַיֵיךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to smile",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוסר<br>מָסַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "give / hand",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִמְסוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to give / to hand",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִכְשַל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fail",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִיכָּשֵל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to fail",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צועק<br>צָעַק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "shout",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִצְעוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to shout",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בִּמְהִירוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "quickly",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּסֵדֶר גָמוּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fine",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בִּשְבִיל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "for<br>(purpose)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּ...",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as / like",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּרָגִיל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as usual",
+        "pol": ""
+      }
+    }
+  ]
+}

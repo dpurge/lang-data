@@ -1,0 +1,685 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-3-18"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אוֹרֵחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "guest",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹרַחַת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "guest (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אָח",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "brother",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אָחוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sister",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲחִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "brothers",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲחָיוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sisters",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בַּמַאי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "director",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בַּמָאִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "director",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּשָֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "meat",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוּלְצָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "shirt",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָדִיד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "friend<br>(less close)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יְדִידָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "friend (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּלִי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "dish/instrument",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִימוּדִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "studies",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְלָפְפוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "cucumber",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָרָק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "soup",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶכֶד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Grandson",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶכְדָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Granddaughter",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סַבָּא",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "grandfather",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סָבְתָא",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "grandmother",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צַלַחַת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "plate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַפּוּחַ אֲדָמָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "potato",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַפּוּחֵי אֲדָמָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Potatoes",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גוֹמֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "finish",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גוֹמֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "finish (singular feminine)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִגְמוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "To finish",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַי",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "live",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "live (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִחְיוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to live",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָשֵׁן",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "Sleep",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יְשֵׁנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "Sleep (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִישֹוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to sleep",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְנַקֶּה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "clean",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְנַקָּה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "clean (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְנַקּוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to clean",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְרַכֵּל על",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "gossip",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְרַכֶּלֶת על",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "gossip (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְרַכֵל על",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to gossip",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צוֹחֵק על",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "laugh",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צוֹחֶקֶת על",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "laugh ( f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִצְחוֹק על",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "To laugh",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בָּטוּחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "sure/safe",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּטוּחָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "sure/safe (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְפוּרְסָם",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "famous",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְפוּרְסֶמֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "famous (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָשֹוּי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "married",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נְשֹוּאָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "married (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רָגִיל",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "regular, usual",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רְגִילָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "regular, usual (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹגוּרְט",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "yogurt",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סְפּוֹרְטַאי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "athlete",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סְפּוֹרְטָאִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "athlete (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּאן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "here<br>(not po)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוּרִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Purim",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַבִּי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Rabbi",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְעָתַיים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "two hours",
+        "pol": ""
+      }
+    }
+  ]
+}

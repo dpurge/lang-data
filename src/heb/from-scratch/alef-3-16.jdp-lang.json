@@ -1,0 +1,529 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-3-16"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אָבִיב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "spring<br>(season)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲדָמָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "earth/ground/land",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֵש",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Fire",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חָצָב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "squill (flower)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "candle",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֵרוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Candles",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוֹף",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "end",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סְתָיו",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "autumn, fall",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "season",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צֶבַע",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "color",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צְבָעִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Colors",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַוָוק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "single man",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַוָוקָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "single woman",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוֹפֵא",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "doctor",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוֹפְאָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "doctor (feminine)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּוֹחֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "choose",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּוֹחֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "choose",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִבְחוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to choose",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַתְאִים",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "fit/appropriate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַתְאִימָה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "fit/appropriate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַתְאִים",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to fit",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גָּבוֹהַ",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Tall, High<br>",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גְּבוֹהָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Tall, High ( f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָמוּך",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Short (in height), low",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נְמוּכָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "Short (in height), low (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קָרִיר",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "chilly, cool",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קְרִירָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "chilly, cool (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רָזֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "thin \ skinny",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רָזָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "thin \ skinny (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָמֵן",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "fat",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְמֵנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "fat (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוּם",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "brown",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָרוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "green",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָבָן",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "white",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סָגוֹל",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "purple",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צָהוֹב",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "yellow",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דִילֶמָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Dilemma",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲפִילוּ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "even",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַשָנָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "this year",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זֶה לָזֶה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to each other",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כִּמְעַט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "almost",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲתִיך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "good looking (m)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲתִיכָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "good looking (f)",
+        "pol": ""
+      }
+    }
+  ]
+}

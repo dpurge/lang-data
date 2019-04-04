@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-1-06"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "חוֹזֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "go back",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְשַׂחֵק",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "play",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קָם",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "get up",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוֹקֵד",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "dance",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְעַנְיֵין",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "interesting",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קַל",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "easy/light",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּלִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "without",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יַחַד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "together",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כִּי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "because",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְפִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "according to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֶרֶב שַבָּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "shabbath eve",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֶשׂרִים",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "twenty",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְלוֹשִים",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "thirty",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַרְבָּעִים",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "forty",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִישִים",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "sixty",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִבְעִים",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "seventy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְמִוֹנִים",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "eighty",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תִשְעִים",
+      "transcription": "",
+      "category": {
+        "lexical": "Num"
+      },
+      "translation": {
+        "eng": "ninety",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אָדָם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "human",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹכֶל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "food",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲרוּחָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "meal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּית סֵפֶר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "school",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הוֹרֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "parent",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַפְסָקה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "recess",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַקְלָאוּת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "agriculture",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טֶבַע",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "nature",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טִיוּל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hike",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְכוֹנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "machine",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִתְנַדֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "volunteer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְאֵלָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "question",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַבְלִין",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "spice",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָמָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "why?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "וְעוֹד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "plus (+)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּחוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "minus (-)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִיקְרוֹ-גַל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "micro-wave",
+        "pol": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-4-15"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אוּנָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "lobe",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַפְסָקַת אֵש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cease-fire",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַצָגָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "theater play",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוּג",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "department/club",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוּש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sense",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲזִיר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "pig",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חִילוֹנִיוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "secularism",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "tax",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִיצָחוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "victory",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סוּפְגָנִיָיה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "doughnut",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צְחוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "a laugh",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צִיבּוּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "public",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹשִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "difficulty",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רָמָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "level",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שַגְרִיר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ambassador",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְגוּבָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "response / reaction",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִמְצִיא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "invent /make up",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַמְצִיא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to invent /make up",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִמְלִיץ עַל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "recommend",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַמְלִיץ עַל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to recommend",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִסְרִיט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "film",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַסְרִיט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to film",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִפְגִין על/ב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "demonstrate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַפְגִין על/ב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to demonstrate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְייווֵן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be Hellenized",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְייווֵן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be Hellenized",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְנַגֵד ל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be opposed to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְנַגֵד ל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be opposed to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּפָה על/את",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "impose",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִכפּוֹת על/את",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to impose",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תֵיאֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "describe",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְתָאֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to describe",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְבוּגָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "adult / old",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְבוּגֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "adult / old (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָסוֹרְתִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "traditional",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָסוֹרְתִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "traditional (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַצְחִיקָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "funny (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָלֵם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "complete/whole",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְלֵמָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "complete/whole (f)",
+        "pol": ""
+      }
+    }
+  ]
+}

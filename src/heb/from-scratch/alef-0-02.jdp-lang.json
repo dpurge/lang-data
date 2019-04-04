@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "ready",
+    "tags": [
+      "from-scratch-alef-0-02"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אִיש",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "man",
+        "pol": "mężczyzna"
+      }
+    },
+    
+    {
+      "phrase": "אִישָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "woman; wife",
+        "pol": "kobieta; żona"
+      }
+    },
+    
+    {
+      "phrase": "גְלִידָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "ice-cream",
+        "pol": "lody"
+      }
+    },
+    
+    {
+      "phrase": "דֶגֶל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "flag",
+        "pol": "flaga"
+      }
+    },
+    
+    {
+      "phrase": "הַר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mountain",
+        "pol": "góra"
+      }
+    },
+    
+    {
+      "phrase": "יֶלֶד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "boy",
+        "pol": "chłopiec"
+      }
+    },
+    
+    {
+      "phrase": "יַלְדָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "girl",
+        "pol": "dziewczynka"
+      }
+    },
+    
+    {
+      "phrase": "שִיר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "song; poem",
+        "pol": "pieśń; wiersz"
+      }
+    },
+    
+    {
+      "phrase": "שֶמֶש",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "sun",
+        "pol": "słońce"
+      }
+    },
+    
+    {
+      "phrase": "תַלְמִיד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "student",
+        "pol": "uczeń"
+      }
+    },
+    
+    {
+      "phrase": "תַלְמִידָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "student",
+        "pol": "uczennica"
+      }
+    },
+    
+    {
+      "phrase": "מֵאַיִן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "where from?",
+        "pol": "skąd?"
+      }
+    },
+    
+    {
+      "phrase": "הַ",
+      "transcription": "",
+      "category": {
+        "lexical": "Part"
+      },
+      "translation": {
+        "eng": "the",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִ / מֵ / מִן",
+      "transcription": "",
+      "category": {
+        "lexical": "Part"
+      },
+      "translation": {
+        "eng": "from",
+        "pol": "z"
+      }
+    },
+    
+    {
+      "phrase": "שֶל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "of; belonging to",
+        "pol": "należący do"
+      }
+    },
+    
+    {
+      "phrase": "אִירְלַנְד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Ireland",
+        "pol": "Irlandia"
+      }
+    },
+    
+    {
+      "phrase": "אַנְגְלִיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "England",
+        "pol": "Anglia"
+      }
+    },
+    
+    {
+      "phrase": "גֶרְמַנְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Germany",
+        "pol": "Niemcy"
+      }
+    },
+    
+    {
+      "phrase": "יַרְדֵן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Jordan",
+        "pol": "Jordania"
+      }
+    },
+    
+    {
+      "phrase": "יִשְׂרָאֵל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Israel",
+        "pol": "Izrael"
+      }
+    },
+    
+    {
+      "phrase": "תֵימָן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Yemen",
+        "pol": "Jemen"
+      }
+    },
+    
+    {
+      "phrase": "נְתַנְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Nethania",
+        "pol": "Netania"
+      }
+    },
+    
+    {
+      "phrase": "מַרְגָרִינָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "margarine",
+        "pol": "margaryna"
+      }
+    },
+    
+    {
+      "phrase": "תֵה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tea",
+        "pol": "herbata"
+      }
+    },
+    
+    {
+      "phrase": "גַם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "also",
+        "pol": "także; też"
+      }
+    },
+    
+    {
+      "phrase": "הִינֵה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "there; behold",
+        "pol": "oto"
+      }
+    },
+    
+    {
+      "phrase": "שָם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(over) there",
+        "pol": "tam"
+      }
+    }
+  ]
+}

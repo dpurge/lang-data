@@ -1,0 +1,733 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-1-01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אַגָס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "pear",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹמָנוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "art",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹשֶר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "happiness",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֶמְצַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "middle",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּית קְבָרוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cemetery",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גָמָל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "camel",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דֶקֶל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "palm tree",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַקְדָשָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "dedication",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַחְשָבָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "thought",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַעְדֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hoe",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִיבָּה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "reason",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פְּסַנְתֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "piano",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "voice",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קֶטַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "section/except",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָׂדֶה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "field",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שַחֶפֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "tuberculosis",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִיטָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "method",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִירָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "poetry",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לֶאֱסוֹף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to gather",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אָסַף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "gather",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְבַשֵל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to cook",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מבשל<br>בִּישֵּל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cook",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִדְאוֹג",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to worry/take care",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דואג<br>דָאַג",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "worry/take care",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִשְפִּיעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "influence",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְגַעֲגֵעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to miss/long for",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְגַעֲגֵעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "miss/long/pine",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְחַבֵּא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to hide",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְחַבֵּא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hide",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְחַכּוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to wait",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מחכה<br>חִיכָּה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wait",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְטַפֵּל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to look after/take care of",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מטפל<br>טִיפֵּל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "look after/take care of",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִמְכּוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to sell",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוכר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sell",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִיגָּמֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to end",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִגְמַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "end",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִיזָּכֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to remember<br>(niphal)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִזְכֵּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "remember, reminisce",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְנַגֵן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to play (music)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מנַגֵן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "play (music)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִשְתוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be silent",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שותק<br>שָתַק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be silent",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּוֹדֵדָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "lonely(f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּוֹדֵד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "lonely",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַקְלָאִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "agricultural(f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַקְלַאי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "agricultural",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְשוּתֶפֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "common/shared(f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְשוּתָף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "common/shared",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַכָּה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "soft(f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "soft",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַף פַּעַם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "never",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בַּחוּץ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Outside",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בִּמְקוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "instead",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּקִיצוּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to sum up/in short",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּפִי שֶ...",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְבַד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "alone",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַמָש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "really/real",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נ.ב.",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "P.S",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹד לֹא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "not yet",
+        "pol": ""
+      }
+    }
+  ]
+}

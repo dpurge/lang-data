@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-3-11"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "בַּעַל חַיִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "animal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דַחַף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "urge",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְנַהֲגוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "behavior",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כַּווֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "beehive",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּלוּב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cage",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כַּעַס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "anger",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַגֶדֶת עֲתִידוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fortune teller",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְשִיבוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "answering machine",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֲקִיצָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sting (the wound)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צַעַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sorrow",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קִרְקָס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "circus",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹרֶש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "root",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹפֵט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "judge /referee",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שְׂמִיכָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "blanket",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תוּכִּי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "parrot",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כַּנִרְאֶה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "probably",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עַל יְדֵי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "by",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הֶאֱכִיל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fed",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַאֲכִיל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be fed",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶאֱסַף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be gathered / collected",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהֵיאָסֵף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be gathered / collected",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הֶחְזִיק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hold",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַחְזִיק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to hold",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְנַשֵק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "kiss (with)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְנַשֵק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to kiss (with)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִדְלַק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be lit",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִידָלֵק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be lit",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִזְהַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be careful (from)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִיזָהֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be careful (from)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶעֱזַב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be left (behind)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהֵיעָזֵב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be left behind",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶעֱזַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be helped (in)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהֵיעָזֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be helped (in)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶעֱצַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be stopped / arrested",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהֵיעָצֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be stopped / arrested",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶעֱקַץ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be stung",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהֵיעָקֵץ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be stung",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִפְגַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be hurt (from)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִיפָּגַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be hurt (from)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִפְצַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be injured (from)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִיפָּצַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be injured (from)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִרְדַף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be chased",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהֵירָדֵף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be chased",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִשְבַּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be broken",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִישָבֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be broken",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִשְכַּח",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be forgotten",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִישָכַח",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be forgotten",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָצַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "stop",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָקַץ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sting",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַעֲקוֹץ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to sting",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פָּצַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "injure",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִפְצוֹעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to injure",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רָדַף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "chase",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִרְדוֹף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to chase",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָמוֹק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "deep",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֲמוּקָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "deep (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תָפוּס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "busy/taken",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְפוּסָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "busy/taken (f)",
+        "pol": ""
+      }
+    }
+  ]
+}

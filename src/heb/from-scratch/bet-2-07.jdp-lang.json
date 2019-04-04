@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-2-07"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אֶזְרָח",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "citizen",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חָלוּץ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "pioneer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יְצִירָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "creation / piece",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לוֹחֵם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "warrior / fighter",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַאֲמָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "article",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוֹסָד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "institution / establishment",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְחַנֵך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "educator",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַטָרָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "goal / objective",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹשֵׂא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "subject",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֶצֶב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sadness",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פֶּסֶל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sculpture / statue",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צִיוֹנוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Zionism",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹאָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Holocaust",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַּרְבּוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "culture",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְחַזֵק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "gather strength",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְחַזֵק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to gather strength",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חִינֵך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "educate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְחַנֵך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to educate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כִּיבֵּד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "respect",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְכַבֵּד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to respect",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶהֱרַג",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "be killed",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהֵיהָרֵג",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be killed",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פִּטְפֵּט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "babble",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְפַטְפֵּט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to babble",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קִשְקֵש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "prattle",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְקַשְקֵש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to prattle",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוּצְלָח",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "successful",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוּצְלַחַת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "successful (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רָחָב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wide",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רְחָבָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wide (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָווֶה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "equal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָווָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "equal (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בִּמְיוּחָד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "especially",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הַאִם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(question/is it?)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְפִי דַעְתִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in my opinion",
+        "pol": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-5-27"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "הוֹרֵג",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "kill",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַהֲרוג",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to kill",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַבְטִיחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "promise",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַבְטִיחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to promise",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְנַסֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "try",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְנַסוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to try",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִסְתַכֵּל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "look",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִסְתַכֵּל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to look",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַשְפִּיעַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "influence / effect",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַשְפִּיעַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to influence / to effect",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִשְתַמֵש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "use",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִשְתַמֵש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to use",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִתְאַהֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "fall in love",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְאַהֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to fall in love",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְנֵדֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to volunteer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תוֹפֵס",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "capture / catch",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִתְפּוֹס",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to capture / to catch",
+        "pol": ""
+      }
+    }
+  ]
+}

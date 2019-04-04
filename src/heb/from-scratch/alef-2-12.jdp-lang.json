@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-2-12"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "מַמְשִיךְ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "continue",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַמְשִיךְ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to continue",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִתְחַתֵן",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "marry (with)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְחַתֵן",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to mary (with)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִתְלַכַּתֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "correspond",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְלַכַּתֵב",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to correspond",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִתְלַבֵּש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "dress",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְלַבֵּש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to dress",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִתְפַּלֵל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "pray (for)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְפַּלֵל",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to pray (for)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִתְרַגֵש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "get excited",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְרַגֵש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to get excited",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִתְרַחֵץ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "bathe / wash oneself",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְרַחֵץ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to bathe / to wash oneself",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוֹחֵץ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "wash",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִרְחוֹץ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to wash",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דָתִי",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "religious",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דָתִיָיה",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "religious<br>(f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צָעִיר",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "young",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָחוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "black",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גִיל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "age",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גֶשֶם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "rain",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַג",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "holiday / feast",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲתוּנָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "wedding",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חָתָן",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "groom",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "טַלִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tallith (prayer shawl)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hand",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יְשִיבָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "yeshiva (Talmudic college)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כַּלָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "bride",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוֹדָעָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "notice / ad",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְזוּזָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mezuzah (religious Jewish doorpost)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִקְוֶוה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "miqveh",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פַּעַם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "once (s)<br>times (pl)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְפִילָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "prayer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּל כָּך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "so / such / so much",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִפְנֵי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "before",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נוֹרָא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "very / terrible",
+        "pol": ""
+      }
+    }
+  ]
+}

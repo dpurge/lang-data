@@ -1,0 +1,637 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-4-14"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אוֹמֶץ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bravery",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אַלְמוֹג",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sea coral",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֱמוּנָה תְפֵלָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "superstition",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הֲבָנָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "understanding",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְחַמְמוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "warming (of)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כַּדוּר הָאָרֶץ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "planet earth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָקוֹחַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "customer / client",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִיקוּי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cleaning",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹנִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "poverty",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עַיִן הָרַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the evil eye",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֲסָקִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "business",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עֲצִירָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "stop",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָרוּץ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "channel",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פִּינָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "corner",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קֶרַח",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ice",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שֵירוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "service",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִכְבָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "layer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַהֲלִיך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "process",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גִילָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "reveal / show / discover",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְגַלוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to reveal / show / discover",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גָרַם ל...",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cause",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִגְרוֹם ל...",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to cause",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִקְטִין",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "reduce",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהַקְטִין",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to reduce",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְחַמֵם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "get warm",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְחַמֵם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to get warm",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָלַד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "give birth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לָלֶדֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to give birth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כִּיבָּה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "turn off / put out",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְכַבּוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to turn off / put out",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִיקָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "clean",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְנַקוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to clean",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְפַנוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to clear",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צִיפָּה ל...",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "expect",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְצַפּוֹת ל...",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to expect",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קֵירֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "cool",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְקָרֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to cool",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָפַך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "spill",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִשְפּוֹך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to spill",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִילוּ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "if",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּעֶצֶם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "as a matter of fact",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְמָחֳרָת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the next day",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אָדִיב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "curtious",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲדִיבָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "curtious",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּינְלְאוּמִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "international",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּינְלְאוּמִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "international",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הָפוּךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "opposite / upside down",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הֲפוּכָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "opposite / upside down",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְנוּמָס",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "polite",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְנוּמֶסֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "polite",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַפְחִיד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "frightening / scary",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַפְחִידָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "frightening / scary",
+        "pol": ""
+      }
+    }
+  ]
+}

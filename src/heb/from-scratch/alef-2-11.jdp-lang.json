@@ -1,0 +1,445 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-2-11"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "מְפַקְסֵס",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "fax",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְפַקְסֵס",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to fax",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹבֵר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "pass",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לַעֲבוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to pass",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹלֵחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "send",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִשְלוֹחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to send",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָקָר",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "dear / expensive",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עָצוּב",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "sad",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פָּשוּט",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "simple",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קָצָר",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "short",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָׂמֵחַ",
+      "transcription": "",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "happy<br>(not mushar)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תֵן לִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "give me! / allow me!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲגוֹרָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "agora (1/100 of a shekel)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֱלוֹהִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "god",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּוּל",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "stamp",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בֵּית חוֹלִים",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "hospital",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בַּקְבּוּק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "bottle",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דוֹאַר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mail/post",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דוֹאַר אֲוִויר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "air mail",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חֲבִילָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "package",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יוֹם הוּלֶדֶת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "birthday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כֶּלֶב",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "dog",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כַּלְבָּה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "dog",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִבְרָק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "telegram",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֶזֶג אֲוִויר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "weather",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַעֲטָפָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "envelope",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִשְׂרָד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "office",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פָּקִיד",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "clerk",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִׂיחָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "conversation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִיעוּרֵי בַּיִת",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "homework",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תֵיבַת דוֹאַר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "mailbox",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תַפּוּחַ עֵץ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "apple (tree)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְשוּבָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "answer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פּוֹעַל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "verb",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְבַקֵש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "request ",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְבַקֵש",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to request",
+        "pol": ""
+      }
+    }
+  ]
+}

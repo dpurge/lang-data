@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-4-16"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "אוּלָם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hall",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֶתְגָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "challenge",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חִידָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "riddle",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יֵצֶר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "drive / impulse",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַלְחִין",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "composer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְשוֹרֵר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "poet",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עוֹשֶר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "richeness / wealth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פַּחַד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fear",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פְּרוּסָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "slice",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "פַּרְצוּף",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "face",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צְלִיל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "note / sound",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קָהָל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "audience / crowd",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קַלוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ease",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שִׂיא",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "peak / height",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תוֹכְנָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "computer program",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הוֹפִיעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "appear",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהוֹפִיעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to appear",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חִיבֵּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "compose",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְחַבֵּר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to compose",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חִיקָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "imitate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְחַקוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to imitate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "יָצַר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "create",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִיצוֹר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to create",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָחָא כַּפַּיִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "clap",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִמְחוֹא כַּפַּיִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to clap",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נֶחֱנָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "enjoy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לֵיהָנוֹת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to enjoy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רִיגֵש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "excite",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְרַגֵש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to excite",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַד",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sharp",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חַדִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sharp (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְכוֹעָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ugly",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְכוֹעֶרֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ugly (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְמוּחְשָב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "computerized",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְמוּחְשֶבֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "computerized (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְקוֹרִי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "original",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְקוֹרִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "original (f)",
+        "pol": ""
+      }
+    }
+  ]
+}

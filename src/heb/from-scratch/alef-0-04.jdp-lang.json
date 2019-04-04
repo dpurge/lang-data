@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-alef-0-04"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "עוֹשֶׂה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "do; make",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוֹצֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "want",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שוֹתֶה",
+      "transcription": "",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "drink",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְ",
+      "transcription": "",
+      "category": {
+        "lexical": "Part"
+      },
+      "translation": {
+        "eng": "to; for",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עִם",
+      "transcription": "",
+      "category": {
+        "lexical": "Part"
+      },
+      "translation": {
+        "eng": "with",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֶרֶץ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "country, land",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִיץ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "juice",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִסְעָדָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "restaurant",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עִיר",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "city",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סֶרֶט",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "movie",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רֶגַע",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "moment",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רוּסִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Russian (lang.)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְאָן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "where to?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אֲנַחְנוּ",
+      "transcription": "",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "we",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הוּא",
+      "transcription": "",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "he",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִינַי",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Sinai",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָתֵמָטִיקָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Mathematics",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סְטוּדֶנְט",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Student",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סְטוּדֶנְטִית",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Student",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹקָה קוֹלָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Coca-Cola",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קְיוֹסְק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "kiosk",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוֹ קֵיי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "o.k.",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אוּלַי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "maybe",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְצוּיָן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "excellent",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נָעִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "pleasure to meet you",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סְלִיחָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "excuse me; forgive me; pardon me; sorry",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קְצָת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "a little",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "only; just",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִצְרַיִם",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Egypt",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מֶקְסִיקוֹ",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Mexico",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "סִין",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "China",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "עִירָק",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Iraq",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קֶנְיָה",
+      "transcription": "",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Kenya",
+        "pol": ""
+      }
+    }
+  ]
+}

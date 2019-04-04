@@ -1,0 +1,481 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "heb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "from-scratch-bet-1-04"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "בַּר מִצְווה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bar-mitzva",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בְּרִיאוּת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "health",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "גַעֲגוּעִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "missing / longing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "דָרוֹם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "south",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "זְבוּב",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fly<br>(insect)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "חוּט",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "string / thread",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִכְלוּךְ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "dirt /filth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוּסָר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "morality / ethics",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מַפָּה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "map",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מְקוּבָּל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Cabbalist",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מָשִיחַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Messiah",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִשְכָּן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "dwelling, tabernacle",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כְּלִי נְגִינָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "musical instrument",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צִיצִית",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "fringe (zizith)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צָפוֹן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "north",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קַבָּלָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Kabala",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קֶבֶר",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "grave / tomb",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹמָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "floor",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַחֲמִים",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "compassion / pity",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "רַעַש",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "noise",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "שָׂטָן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "devil",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "תְחִיָיה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "resurrection",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בורח<br>בָּרַח<br>",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "escape",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִבְרוֹחַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to escape",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "הִתְוַוכֵּחַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "argue",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִתְוַוכֵּחַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to argue",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מחַבֵּק<br>חִיבֵּק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "hug<br>(verb)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְחַבֵּק",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to hug",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "נִמְשַך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "last / continue",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לְהִימָשֵך",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to continue<br>(niphal)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "צובּעַ<br><br>צָבַע",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "color, paint<br>(verb)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "לִצְבּוֹעַ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to color, to paint",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוּכָן",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ready (m)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מוּכָנָה",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ready (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "קוֹדֶמֶת",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "former (f)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "אִם",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "if",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "בּגְלַל",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "because of",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "כָּל מִינֵי",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "all sorts",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "מִפְּנֵי שֶ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "because of",
+        "pol": ""
+      }
+    }
+  ]
+}
