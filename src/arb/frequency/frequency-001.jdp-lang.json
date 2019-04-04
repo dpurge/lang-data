@@ -1,0 +1,2057 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "freq-001"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "ال",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "و",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "and; with",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "في",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in; inside; on; at; about; among",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مِن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "from; since",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "for; to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ب",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "with; by",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بِسَبَب",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "because of; due to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عَلى",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "on; above",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أنَّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "that",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "إلى",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to; towards; till; until",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كانَ ، يَكونُ ، الكَوْن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "was",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كانَ ، يَكونُ ، الكَوْن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "is",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كانَ ، يَكونُ ، الكَوْن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "لا",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no; not; non-",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ولا…ولا",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "neither ... nor ...",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ألا",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "doesn't?; didn't?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "الله",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Allah",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "والله",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "I swear by God",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أنْ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "لِأنْ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in order to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بَعدَ أنْ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "after",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عَن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "from; about",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عَن طَريق",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "by way of; via",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "قالَ ، يَقولُ ، القَوْل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to say إنَّ that, to tell ل sb إنَّ that",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "هذا",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "this",
+        "pol": ""
+      },
+      "note": {
+        "eng": "masc sing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَعَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "with",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَعَ هَذا/ذَلِك",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "nevertheless",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "معاً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "together",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ألَّتي",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "who; whom; which; that",
+        "pol": ""
+      },
+      "note": {
+        "eng": "fem sing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كُلّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "each; every; all of",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "الكُلّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "everyone",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كُلُّ شَيْءٍ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "everything",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كُلُّ ما",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "everything that",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كُلُّ مَن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "everyone that",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كُلُّ مِن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "each one of the following",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عَلى كُلٍّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in any case; anyhow",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "هُوَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "he; it",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ف",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "and; so",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "هَذِهِ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "this",
+        "pol": ""
+      },
+      "note": {
+        "eng": "fem sing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أَوْ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "or",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ألَّذي",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "who; whom; which",
+        "pol": ""
+      },
+      "note": {
+        "eng": "masc sing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أنا",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "I",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "يَوْم ، أيّام",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "day",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "اليَوْم",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "today",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "يَوْماً ما",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "someday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "يَوماً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ever; (with neg) never",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "لَم",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(with jussive) did not",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ألَم",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Didn’t ... ?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ما",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "not",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أما",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Don’t ... ?; Doesn’t ... ?; Didn’t ... ?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "إنَّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "truly; that",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "يَيْنَ/ما بَيْنَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "between; among",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "فيما بَينَنا",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "among ourselves",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "هِيَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "she; it; they",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بَعدَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "after",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "يا",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "O…!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ذَلِك",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(masc sing) that",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "قَد",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(with perf) has/have already",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كانَ قَد",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "had already",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "يَكونُ قَد",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "will have already",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "آخَر ، أُخرى",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "other, another; one more, additional",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "شَيْء ، أشياء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "thing, something",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عِندَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "with, next to; at (time, location); (to have)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أوَّل ، أُولى ، أوائِل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "first; best, top-most",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أوَّل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "beginning",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أوائِل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "forefathers",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أوَّلاً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "first of all, primarily",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "غَيْر",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "other (than), different (than); not",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "غَيْر أنَّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "however, but",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بِغَيْر",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "without",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "إذا",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "when, if, whenever;",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "و إذا ب",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "and (then) suddenly",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "نَفْس ، أنفُس",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "same, self",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عَرَبيّ ، عَرَب",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Arab; Arabian; Arabic",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أيّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "any (in idaafa); what, which; whatever, whoever",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "رَئِيس ، رُؤَساء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "president, leader; chief, head, chairman; main, chief, principal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عَمَل ، أعمال",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "working; work, activity, action",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وَطَنيّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "national; nationalistic",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عَرَفَ ، يَعرِفُ ، المَعارِفة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to know sth/sb or أنّ that; (perf) to learn, find out أنَّ that",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بَعْض",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "some, several",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بَعضَ الشَّيْءٍ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "a little, to some extent",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بَعضُهُم بَعضاً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "each other",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَعَ بَعض",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "together",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "على بَعض",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "on top of each other",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وَراء بَعض",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in line, in a row (one behind the other)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "دَوْلة ، دُوَل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "state, country",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كَما",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "and, also, as well",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "إلّا",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "except (for), but (for), save",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "إلّا أنَّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "however, except that",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وإلّا",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "otherwise",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أنتَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "you (masc)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كَثير",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "many, much, numerous",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كَثيراً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "very much",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كَثيراً ما",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "frequently, often",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "واحِد",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one, single",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "لِأنَّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "because",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "لَكِنَّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(with following noun) however, but",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "لَيْسَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to not be",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ألَيْسَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "isn’t…?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "جَديد ، جُدُد",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "new, modern",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مِن جَديد",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "again, anew",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "إنْ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "if; whether",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وإنْ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "even if, although",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ما إنْ... حَتّى",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "no sooner had… than, had just…when",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عام ، أعوام",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "year",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أحَد/إحدى",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "one (of, someone; anyone; (neg) nobody, no one",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أكثَر",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "more/most, greater/est in number",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كَبير ، كِبار",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "large; great, important, major; adult, senior",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "الكِبار",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the adults",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أخ ، إخوان/إخوة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "brother",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "يا أخي",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "my friend; (hey) buddy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كَيْفَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "how",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "قَبلَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "before",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مِن قَبلِ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "before, prior to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "قَبلُ/من قَبلُ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "previously, earlier",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "سَنة ، سَنَوات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "year",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أمْر ، أُمور",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "matter, issue, concern, affair",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "قُوَّة ، -ات/قُوىً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "power, strength, force",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "هَل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(question marker)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "خِلال",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "during, through",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "في خِلال",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in the course of",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "في خِلال ذَلِك",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "meanwhile",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "من خِلال",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "by means of, through; across, via; on the basis of; based on",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَرّة ، -ات/مِرار",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "time, moment, occasion",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَرّةً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "once",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَرَّتَيْن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "twice",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مِراراً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "repeatedly",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَرّاتٍ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "several times, repeatedly",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بِالمَرّة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "totally; completely; (with neg) never, not at all",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "رَأَى ، يَرى ، الرَّؤية",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to see sth/sb; to think, believe أنَّ that",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أب ، آباء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "بشفاثق",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "الأبَوان",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the parents",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "هُناكَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "there, over there; there is, there are",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "تَمَّ ، يَتِمُّ ، التَّمام",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to finish, conclude, come to an end; to take place, be held (event)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَيْثُ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "where, in which (non-question word)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَيْثُ/بِحَيْثُ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "so that, in order to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَيْثُ أنَّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "since, because, given that",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "من حَيْثُ ال",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in terms of, based on",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ثانٍ/الثّاني",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "second, additional; next, following",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ثانياً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "secondly, furthermore",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ثَانيةً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "again, once more",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَتّى",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "until, up to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "جَميع",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "all (of); everyone one (of)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "الجَميع",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "everyone",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "جَميعاً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "altogether; all, entirely",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مِنطَقة ، مَناطِق",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "region, area, zone, territory",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَقّ ، حُقوق",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "truth; legal right; true, right",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "الحُقوق",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "the law",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَقّاً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "really, truly",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أمريكيّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "American",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مِثْل ، أمثال",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "like, similar to",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "لَوْ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "if",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وَلَوْ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "even if",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "لَوْ لا",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "if not, if it weren’t for",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عامّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "general, common, public",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "اِسم ، أسماء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "name",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أمكَنَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be possible (ل for sb) to do sth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "يُمكِنُ أنْ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "it’s possible to (do sth)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "رَجُل ، رِجال",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "man",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "لَكِن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "but",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عالَم ، عَوالِم",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "world",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَياة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "life",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَوْضوع ، مَواضيع",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "subject, topic, issue, theme; placed, laid down; located, situated",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وَزير ، وُزَراء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "minister",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "نَحنُ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "we",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وَقْت ، أوْقات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "time; moment; period",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "في الوَقْت الذي",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "while",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بَلَد ، بِلاد/بُلدان",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "country; nation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "who; whom",
+        "pol": ""
+      }
+    }
+  ]
+}

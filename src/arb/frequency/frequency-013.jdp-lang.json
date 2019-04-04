@@ -1,0 +1,1381 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "freq-013"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "نَبَأ ، أنباء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "news item, report",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عُدوان",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "aggression, hostility; enmity, animosity",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "خِطاب",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "speech, message, letter",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عُموم",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "generality, totality, whole; people, masses, public",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عُموماً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "generally, in general",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَجلِس العُموم",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "House of Commons",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "اِختارَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to select, pick, choose sth/sb; to prefer, choose sth على over sth else",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "إيجابيّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "postive, good; affirmative",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "جَوْلة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "tour, round, session; patrol",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "رَفْض",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "refusal, rejection",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أعظَم ، عُظمى",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "greater/est, mightier/est",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "شِراء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "buying, purchasing; purchase acquisition",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَسرَح ، مَساِح",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "theater, stage",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "غِياب",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "absence, disappearance",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَلَقة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ring, circle; link; program, show; (student) class, course",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "شَريف ، شُرَفاء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "honorable, noble, respectable",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ضَروريّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "necessary, required",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "فَساد",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "corruption; deterioration, decomposition",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "اِتِّفاقيّة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "treaty, accord",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "تَذَكَّرَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to remember sth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "تَناوَلَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to deal with, treat (a subject, an issue); to eat (a meal); to ingest (medicine)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "هَواء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "air, atmosphere; climate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "على الهَواء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "live (broadcasting)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "الحرمَيْن الشَّريفَيْن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "The Two Holy Mosques (of Mecca and Medina)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "قاضٍ/القاضي ، قُضاة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "judge, magistrate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "داعٍ/الداعي ، دُعاة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "reason, cause, motive; calling for sth, calling on sb, inviting sb; person (or voice) calling for",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عَدْل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "justice, fairness",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وَزير العَدْل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Minister of Justice",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "طَرَحَ ، يَطرَحُ ، الطَّرْح",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to throw, cast sth; to pose, present, suggest (question, issue) على to sb (for discussion); to offer (gesture, greeting); to offer sth (for sale); to invite (bids, tenders); to float, put into circulation (shares)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "شَماليّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "northern",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "جَدّ/ة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "grandfather/mother",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "هاتِف ، هَواتِف",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "phone",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَفِظَ ، يَحفَظُ ، الحِفْظ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to save, preserve, maintain; to protect, guard; to memorize",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ضُعْف",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "weakness",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "إقليميّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "regional, territorial, area; provincial, district",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَعهَد ، مَعاهِد",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "institute, academy, school",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "طَيْر ، طُيور",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bird",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "إمّا/إمّا…أو",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "either...or",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ريح ، رِياح",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "wind; odor",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "سَلبيّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "negative, passive",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "سَلبيّات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "negative points",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بَكى ، يَبكي ، البُكى",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to cry, weep (على over sth/sb); to mourn, weep for sb",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "دَواء ، أدوية",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "remedy, medicine, medication",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وِجهة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "direction, angle",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وِجهة النَّظَر",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "point of view",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عُمْق ، أعماق",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "depth, deep, bottom",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عَميق",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "deep, profound",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بَلَديّة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "municipality, community, township; city council",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "لاسِيَّما",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "especially",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ضَمان ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "guarantee, insurance",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "خَبير ، خُبَراء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "expert, specialist",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَشى ، يَمشي ، المَشي",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to walk, go; to leave, go away",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَخُيَّم ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "camp, refugee camp",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ماديّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "material, physical; materialistic; financial",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ماديّاً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "materially, physically; financially",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "تَوْفيق",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "success; reconciliation, mediation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "صَعيد ، أصعِدة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "level plane",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "الصَّعيد",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Upper Egypt",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "فَوْراً/على الفَوْر",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "immediately, at once",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "فَورَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "immediately after",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "فَرْض",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "imposing, levying; religious duty",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مُدَرِّب",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "trainer, coach; instructor",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَمْل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "carrying; pregnancy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "يالله",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "C’mon! Hurry up! Let’s go!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كَمّيّة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "quantity, amount",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أيْ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "that is to say, in other word, i.e.",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "قَدَّرَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to estimate, calculate, appraise sth; to appreciate, value sth; to allow, make possible (of God); to respect sth, take sth into consideration",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَرام",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "forbidden, out of bounds; sacred, holy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "يا حَرام",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "what a shame!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مِتْر ، أمتار",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "meter",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "سوء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "offense; bad, ill; miss-",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "فَقَدَ ، يَفقُد ، الفَقْد",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to lose sth; to lack, be missing sth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "اِشتَرى",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to buy, purchase sth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كَلْب ، كِلاب",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "dog",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "نامَ ، يَنامُ ، النَّوْم",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to sleep; lie down",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "قَصْر ،قُصور",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "castle, palace",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حادِثة ، حَوادِث",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "accident, mishap; event, incident",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "دَرْس ، دُروس",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "studying; examining, checking; lesson, course, study",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "اِنتِهاء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "finish, completion, conclusion",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "تَضَمَّنَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to guarantee; to include, comprise",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَدَّدَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to specify, determine sth; to set, define sth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "لَوحة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "painting, picture; panel, board",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "لَوحة المَفاتيح",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "keyboard",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مِمَّن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "from whom",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "طَرْح",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "suggestion, proposal (topic, idea); offering (gesture, greeting); inviting (bids, tenders); floating, putting into circulation (shares)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "جُنوبيّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "southern, south",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عَرَضَ ، يَعرِضُ ، العَرْض",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to show, exhibit, present sth; to review, inspect sth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَقَرّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "center, headquarters, main residence",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "باحِث",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "searching (عن for); discussing (في sth); researching (في sth); researcher, scholar",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "صُعوبة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "difficulty",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "طالَ ، يَطولُ ، الطَّوْل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be long or length; to take a while ب for sb",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ضَعيف ، ضُعَفاء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "weak, powerless",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَفهوم ، مَفاهيم",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "understood; concept, notion; meaning, sense, definition",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "دُستور ، دَساتير",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "constitution",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "سَيْطَرة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "control, dominion",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "قادَ ، يَقودُ ، القِيادة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to lead, guide sb إلى to; to drive (a vehicle), pilot (a plane)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "إذْن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "permission, authorization",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بِإذْنِ الله",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "god-willing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أحَد",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Sunday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "اِثنَيْن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Monday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ثُلَثاء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Tuesday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أربِعاء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Wednesday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "خَميس",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Thursday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "جُمعة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Friday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "سَبت",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Saturday",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أسير ، أسرى",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "prisoner, captive",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "تُجاهَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "towards; facing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَسَّ ، يَحِسُّ ، الحَسّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to feel, sense ب sth or أنَّ that",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "سَعيد ، سُعَداء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "happy, content",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حِكاية ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "story, tale, account, narrative",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "تَشجيل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "registration; recording; documentation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "تَيّار ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "current, stream",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "جازَ ، يَجوزُ ، الجَوْز",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to be allowed, be possible ل بخق سز",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "قُبول",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "reception; acceptance, approval",
+        "pol": ""
+      }
+    }
+  ]
+}

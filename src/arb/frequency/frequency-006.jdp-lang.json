@@ -1,0 +1,1345 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "arb",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "freq-006"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "كُرة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "ball, globe, sphere",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "زادَ ، يَزيدُ ، الزِّيادة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to grow, increase; to exceed, go beyond على/عن sth; to increase, add to (من) sth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عِدّة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(idaafa) a number of, (invariable) several, numerous",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عَودة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "return, going; return trip",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عالٍ/العالي",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "high, elevated",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "سِوى",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "other than, except for",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بَحر ، بِحار",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "sea",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "شَعَرَ ، يَشعُرُ ، الشِّعر",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to feel, be aware of ب sth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "تَقرير ، تَقارير",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "report, account",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَرَّ ، يَمُرُّ ، المَرارة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to pass by, go by (time, event); to pass by, go past على/ب sth/sb; to visit, stop by على (sb’s place)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "نِساء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "women",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "فَتَحَ ، يَفتَحُ ، الفَتْح",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to open sth; to open, start (a business); to turn on (lights, radio, TV); to conquer (city, land)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "شَهِدَ ، يَشهَدُ ، الشَّهادة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to witness, observe, see sth/sb; to testify, bear witness",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "سِلاح ، أسلِحة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "weapon; branch of the armed forces",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "سِلاح الجَوّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "air force",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عِلم",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "knowing; knowledge, information",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عِلماً أنّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "knowing that, in view of the fact that",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "إعادة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "repeating, doing sth again; returning, giving sth back",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "لَيْلة ، اللَّيالي/لَيالٍ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "night, evening",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "اللَّيْلة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "tonight",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ثَقافة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "culture, civilization",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "داخِليّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "internal, domestic",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مُنَظَّمة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "organization",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "فِكْر ، أفكار",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "thinking, thought; idea, concept, notion",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "رَسول",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "messenger (Muhammad)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "رُسُل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "messenger, apostle",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "جُزء ، أجزاء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "part, section, piece; portion, fraction",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "اِنتَهى",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to end, finish, conclude sth",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "غَريب ، غُرَباء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "strange; stranger, foreigner",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "غُرفة ، غُرَف",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "room, chamber",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مُرور",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "passing (of time); going through; passing by; stopping by (to visit); traffic",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كَلِمة المُرور",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "password",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مُروراً ل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "passing, crossing, going through, via",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حُرِّيّة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "freedom",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "تَسلَمُ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "thanks!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "زِيادة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "increase, rise, growth; addition, supplement",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "قائِد ، قادة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "leader, commander",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وَسيلة ، وَسائِل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "device, instrument, medium, means",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "نَقْل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "transportation, transfer; transmission, relaying (of news)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "نَقْلاً عن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "quoting, as reported by",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَقيقيّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "true, real, factual, authentic",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "اِحتاجَ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to need, want إلى sth/sb",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مُستَقبَل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(noun) future",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مُستَقبَلاً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "in the future",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَحكَمة ، مَحاكِم",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "court, tribunal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "قِيادة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "leadership, command; driving (a vehicle), piloting (an aircraft)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "قِيادات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "leaders, commanders",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "دِفاع",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "defense (military, legal, sports); protection",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "سَبيل ، سُبُل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "way, road; means",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عِلميّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "scientific, scholarly, academic",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "خِيال عِلميّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "science fiction",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بَينَما",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "while",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أصل ، أُصول",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "source, origin; descent, lineage; original, master copy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أصلاً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "originally, primarily",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أُصول",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "principles, basic rules; funds, assets, capital",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عِلم ، عُلوم",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "science; the study of...",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أمْنيّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "security, safety, protection",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَنزَل ، مَنازِل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "house, residence",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "زَمَن",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "time, period, duration",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بَيان",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "statement, declaration; bulletin, communiqué; press release",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بَيانات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "data, information",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "غَنيّ عن البَيان",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "needless to say, it goes without saying",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "غَربيّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "Western; Westerner; west of",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أثَر ، آثار",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "record, trace; sign, mark; effect, influence",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ِعلى/في أثَر",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "immediately after",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ضَرورة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "necessity, need",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بالضَّرورة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "necessarily",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "كَريم ، كِرام",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "noble, distinguished; decent, dignified; generous; dear, precious",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أساسيّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "basic, fundamental",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وَرَقة ، وَرَق/أوْراق",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(collective) paper; leaves; cards",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "الوالِدان",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "parents",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "جَمعيّة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "association, society",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "رَسميّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "official, formal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "رَسمياً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "officially, formally",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أُستاذ ، أساتِذة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "professor, teacher; (title) Prof, Mr; (polite) sir",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "اِحتِلال",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "occupation (of land or property); filling (a post, a position)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أبيَض/بَيضاء/بِيض",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "white; whites, Caucasians",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَكتَب ، مَكاتِب",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "office, bureau, department",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مُنتَدىً ، مُنتَدَيات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "assembly room, gathering place; (Internet) forum",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مُقاوَمة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "resistance, opposition",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "شِعر",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "poetry",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مُحَلّيّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "local",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مُحَلّيّاً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "locally",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "عَظيم ، عِظام",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "great, mighty, powerful",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "إعلام",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "information, media; informing, notifying",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "فيلم ، أفلام",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "film, movie",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "طَبيعيّ",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "natural, normal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "طَلَب ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "request; demand; application; (purchase) order",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "َوَراء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "behind, past, beyond",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "إلى الوَراء",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "backward, in reverse",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وَحْد",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(with pron) alone, by itself, only it",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "فَهِمَ ، يَفهَمُ ، الفَهْم",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to understand sth/sb or في sth or أنّ that",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "بِلا",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "without",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "دَعوة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "call; invitation; propaganda; (Islamic) missionary work",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "خَطوة ، خَطَوات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "step, stride; measure",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "تَقديم",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "offering, presenting, submitting",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مَدىً",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "range, extent, reach; time period, duration",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "تَجرِبة ، تَجارِب",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "experiment, test; experience, encounter; trial, ordeal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "وَحيد",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "only, sole, exclusive; alone",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أمير",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "prince, commander",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مُدّة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "time period, length of time, interval",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "تَغْيير ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "change, modification; replacement, switch",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ماتَ ، يَموتُ ، المَوْت",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to die, pass away",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "دار ، دِيار/دور",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "house, home, abode; family, household",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "دُخول",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "entering; entrance",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "أهَمّيّة",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "importance, significance",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "صَعْب",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "difficult, hard",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "مُقبِل",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "next, coming, approaching, nearing",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "حَدَث ، أحداث",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "event, incident",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "دَوْرة ، -ات",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "(sports) championship, tournament; cycle, turn, rotation, lap; circulation; round (elections); session (meeting); tour, patrol, round; (school) course, class",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "دَوْرة مِياه",
+      "transcription": "",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "bathroom, toilet",
+        "pol": ""
+      }
+    }
+  ]
+}
