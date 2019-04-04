@@ -4,7 +4,7 @@
     "version": 1,
     "language": "heb",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "from-scratch-alef-0-03"
     ]
@@ -17,8 +17,8 @@
         "lexical": "V"
       },
       "translation": {
-        "eng": "live (dwell, reside)",
-        "pol": ""
+        "eng": "live; dwell; reside",
+        "pol": "mieszka"
       }
     },
     
@@ -30,7 +30,7 @@
       },
       "translation": {
         "eng": "study; learn",
-        "pol": ""
+        "pol": "uczy się"
       }
     },
     
@@ -42,7 +42,7 @@
       },
       "translation": {
         "eng": "sing",
-        "pol": ""
+        "pol": "śpiewa"
       }
     },
     
@@ -54,7 +54,7 @@
       },
       "translation": {
         "eng": "or",
-        "pol": ""
+        "pol": "albo"
       }
     },
     
@@ -66,7 +66,7 @@
       },
       "translation": {
         "eng": "and",
-        "pol": ""
+        "pol": "i; a"
       }
     },
     
@@ -77,8 +77,12 @@
         "lexical": "Pron"
       },
       "translation": {
-        "eng": "you (m.pl.)",
-        "pol": ""
+        "eng": "you",
+        "pol": "wy"
+      },
+      "note": {
+        "eng": "m. pl.",
+        "pol": "m. pl."
       }
     },
     
@@ -89,8 +93,12 @@
         "lexical": "Pron"
       },
       "translation": {
-        "eng": "you (f.pl.)",
-        "pol": ""
+        "eng": "you",
+        "pol": "wy"
+      },
+      "note": {
+        "eng": "f. pl.",
+        "pol": "f. pl."
       }
     },
     
@@ -101,7 +109,11 @@
         "lexical": "Pron"
       },
       "translation": {
-        "eng": "they (m.)",
+        "eng": "they",
+        "pol": "oni"
+      },
+      "note": {
+        "eng": "m.",
         "pol": ""
       }
     },
@@ -113,7 +125,11 @@
         "lexical": "Pron"
       },
       "translation": {
-        "eng": "they (f.)",
+        "eng": "they",
+        "pol": "one"
+      },
+      "note": {
+        "eng": "f.",
         "pol": ""
       }
     },
@@ -125,8 +141,12 @@
         "lexical": "Pron"
       },
       "translation": {
-        "eng": "this (m.)",
-        "pol": ""
+        "eng": "this",
+        "pol": "to; ten"
+      },
+      "note": {
+        "eng": "m.",
+        "pol": "m."
       }
     },
     
@@ -137,8 +157,12 @@
         "lexical": "Pron"
       },
       "translation": {
-        "eng": "this (f.)",
-        "pol": ""
+        "eng": "this",
+        "pol": "to; ta"
+      },
+      "note": {
+        "eng": "f.",
+        "pol": "f."
       }
     },
     
@@ -150,7 +174,7 @@
       },
       "translation": {
         "eng": "these",
-        "pol": ""
+        "pol": "ci; te"
       }
     },
     
@@ -162,7 +186,7 @@
       },
       "translation": {
         "eng": "no; not",
-        "pol": ""
+        "pol": "nie"
       }
     },
     
@@ -174,7 +198,7 @@
       },
       "translation": {
         "eng": "See you later!",
-        "pol": ""
+        "pol": "Do widzenia!"
       }
     },
     
@@ -185,8 +209,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "hello / goodbye",
-        "pol": ""
+        "eng": "hello; goodbye",
+        "pol": "cześć"
       }
     },
     
@@ -198,7 +222,7 @@
       },
       "translation": {
         "eng": "thanks",
-        "pol": ""
+        "pol": "dzięki"
       }
     },
     
@@ -209,7 +233,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "English (lang.)<br>",
+        "eng": "English",
+        "pol": "język angielski"
+      },
+      "note": {
+        "eng": "language",
         "pol": ""
       }
     },
@@ -221,7 +249,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "German (lang.)",
+        "eng": "German",
+        "pol": "język niemiecki"
+      },
+      "note": {
+        "eng": "language",
         "pol": ""
       }
     },
@@ -234,7 +266,7 @@
       },
       "translation": {
         "eng": "challah",
-        "pol": ""
+        "pol": "chałka"
       }
     },
     
@@ -246,7 +278,7 @@
       },
       "translation": {
         "eng": "Yiddish",
-        "pol": ""
+        "pol": "Jidysz"
       }
     },
     
@@ -258,7 +290,7 @@
       },
       "translation": {
         "eng": "bread",
-        "pol": ""
+        "pol": "chleb"
       }
     },
     
@@ -270,7 +302,7 @@
       },
       "translation": {
         "eng": "lemon",
-        "pol": ""
+        "pol": "cytryna"
       }
     },
     
@@ -282,7 +314,7 @@
       },
       "translation": {
         "eng": "salt",
-        "pol": ""
+        "pol": "sól"
       }
     },
     
@@ -293,7 +325,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "Romanian (lang.)",
+        "eng": "Romanian",
+        "pol": "język rumuński"
+      },
+      "note": {
+        "eng": "language",
         "pol": ""
       }
     },
@@ -306,7 +342,7 @@
       },
       "translation": {
         "eng": "the Golan",
-        "pol": ""
+        "pol": "Golan"
       }
     },
     
@@ -318,7 +354,7 @@
       },
       "translation": {
         "eng": "the Dead Sea",
-        "pol": ""
+        "pol": "Morze Martwe"
       }
     },
     
@@ -330,7 +366,7 @@
       },
       "translation": {
         "eng": "Dimona",
-        "pol": ""
+        "pol": "Dimona"
       }
     },
     
@@ -342,7 +378,7 @@
       },
       "translation": {
         "eng": "Toronto",
-        "pol": ""
+        "pol": "Toronto"
       }
     },
     
@@ -354,7 +390,7 @@
       },
       "translation": {
         "eng": "Jericho",
-        "pol": ""
+        "pol": "Jerycho"
       }
     },
     
@@ -366,7 +402,7 @@
       },
       "translation": {
         "eng": "London",
-        "pol": ""
+        "pol": "Londyn"
       }
     },
     
@@ -378,7 +414,7 @@
       },
       "translation": {
         "eng": "video",
-        "pol": ""
+        "pol": "wideo"
       }
     },
     
@@ -390,7 +426,7 @@
       },
       "translation": {
         "eng": "zoology",
-        "pol": ""
+        "pol": "zoologia"
       }
     },
     
@@ -402,7 +438,7 @@
       },
       "translation": {
         "eng": "television",
-        "pol": ""
+        "pol": "telewizja"
       }
     },
     
@@ -414,7 +450,7 @@
       },
       "translation": {
         "eng": "mayonnaise",
-        "pol": ""
+        "pol": "majonez"
       }
     },
     
@@ -426,7 +462,7 @@
       },
       "translation": {
         "eng": "mint flavor",
-        "pol": ""
+        "pol": "mięta"
       }
     }
   ]

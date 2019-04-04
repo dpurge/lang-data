@@ -4,7 +4,7 @@
     "version": 1,
     "language": "heb",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "from-scratch-alef-0-06"
     ]
@@ -18,7 +18,7 @@
       },
       "translation": {
         "eng": "like; love",
-        "pol": ""
+        "pol": "lubi; kocha"
       }
     },
     
@@ -30,7 +30,7 @@
       },
       "translation": {
         "eng": "come",
-        "pol": ""
+        "pol": "przychodzi"
       }
     },
     
@@ -41,8 +41,8 @@
         "lexical": "V"
       },
       "translation": {
-        "eng": "go, walk",
-        "pol": ""
+        "eng": "go; walk",
+        "pol": "idzie"
       }
     },
     
@@ -54,7 +54,7 @@
       },
       "translation": {
         "eng": "write",
-        "pol": ""
+        "pol": "pisze"
       }
     },
     
@@ -65,8 +65,8 @@
         "lexical": "V"
       },
       "translation": {
-        "eng": "read, call",
-        "pol": ""
+        "eng": "read; call",
+        "pol": "czyta; woła"
       }
     },
     
@@ -78,7 +78,7 @@
       },
       "translation": {
         "eng": "milk",
-        "pol": ""
+        "pol": "mleko"
       }
     },
     
@@ -90,7 +90,7 @@
       },
       "translation": {
         "eng": "computer",
-        "pol": ""
+        "pol": "komputer"
       }
     },
     
@@ -101,8 +101,8 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "letter (epistle)",
-        "pol": ""
+        "eng": "letter; epistle",
+        "pol": "list"
       }
     },
     
@@ -114,7 +114,7 @@
       },
       "translation": {
         "eng": "hotel",
-        "pol": ""
+        "pol": "hotel"
       }
     },
     
@@ -125,8 +125,8 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "hotel",
-        "pol": ""
+        "eng": "hotels",
+        "pol": "hotele"
       }
     },
     
@@ -138,7 +138,7 @@
       },
       "translation": {
         "eng": "book",
-        "pol": ""
+        "pol": "książka"
       }
     },
     
@@ -149,7 +149,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "Spanish (lang.)",
+        "eng": "Spanish",
+        "pol": "język hiszpański"
+      },
+      "note": {
+        "eng": "language",
         "pol": ""
       }
     },
@@ -161,7 +165,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "Arabic (lang.)",
+        "eng": "Arabic",
+        "pol": "język arabski"
+      },
+      "note": {
+        "eng": "language",
         "pol": ""
       }
     },
@@ -173,7 +181,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "French (lang.)",
+        "eng": "French",
+        "pol": "język francuski"
+      },
+      "note": {
+        "eng": "language",
         "pol": ""
       }
     },
@@ -185,8 +197,8 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "lesson, class",
-        "pol": ""
+        "eng": "lesson; class",
+        "pol": "lekcja"
       }
     },
     
@@ -197,8 +209,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "please, you're welcome",
-        "pol": ""
+        "eng": "please; you're welcome",
+        "pol": "proszę"
       }
     },
     
@@ -210,7 +222,10 @@
       },
       "translation": {
         "eng": "good morning",
-        "pol": ""
+        "pol": "dzień dobry"
+      },
+      "note": {
+        "pol": "rano"
       }
     },
     
@@ -221,8 +236,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "Thank God! ("Blessed is God.")",
-        "pol": ""
+        "eng": "Thank God!",
+        "pol": "Dzięki Bogu!; Chwała Bogu!"
       }
     },
     
@@ -233,8 +248,11 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "Welcome! (pl.)",
-        "pol": ""
+        "eng": "Welcome!",
+        "pol": "Witajcie!"
+      },
+      "note": {
+        "eng": "pl."
       }
     },
     
@@ -245,8 +263,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "greetings, regards",
-        "pol": ""
+        "eng": "greetings; regards",
+        "pol": "pozdrowienia"
       }
     },
     
@@ -258,7 +276,7 @@
       },
       "translation": {
         "eng": "the Knesset",
-        "pol": ""
+        "pol": "Kneset"
       }
     },
     
@@ -266,11 +284,23 @@
       "phrase": "טוֹב",
       "transcription": "",
       "category": {
-        "lexical": "Adj/Adv"
+        "lexical": "Adj"
       },
       "translation": {
-        "eng": "good (adj.), well (adv.)",
-        "pol": ""
+        "eng": "good",
+        "pol": "dobry"
+      }
+    },
+    
+    {
+      "phrase": "טוֹב",
+      "transcription": "",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "well",
+        "pol": "dobrze"
       }
     },
     
@@ -282,7 +312,7 @@
       },
       "translation": {
         "eng": "Great! Wonderful! Beautiful!",
-        "pol": ""
+        "pol": "Wspaniale!; Pięknie!"
       }
     },
     
@@ -294,7 +324,7 @@
       },
       "translation": {
         "eng": "very",
-        "pol": ""
+        "pol": "bardzo"
       }
     },
     
@@ -306,7 +336,11 @@
       },
       "translation": {
         "eng": "how are you?",
-        "pol": ""
+        "pol": "jak sie masz?"
+      },
+      "note": {
+        "eng": "m.",
+        "pol": "m."
       }
     },
     
@@ -318,7 +352,11 @@
       },
       "translation": {
         "eng": "how are you?",
-        "pol": ""
+        "pol": "jak się masz?"
+      },
+      "note": {
+        "eng": "f.",
+        "pol": "f."
       }
     },
     
@@ -330,7 +368,7 @@
       },
       "translation": {
         "eng": "now",
-        "pol": ""
+        "pol": "teraz"
       }
     },
     
@@ -342,7 +380,7 @@
       },
       "translation": {
         "eng": "good evening",
-        "pol": ""
+        "pol": "dobry wieczór"
       }
     },
     
@@ -354,7 +392,7 @@
       },
       "translation": {
         "eng": "but",
-        "pol": ""
+        "pol": "ale"
       }
     },
     
@@ -366,7 +404,7 @@
       },
       "translation": {
         "eng": "where",
-        "pol": ""
+        "pol": "gdzie"
       }
     },
     
@@ -378,7 +416,7 @@
       },
       "translation": {
         "eng": "Ethiopia",
-        "pol": ""
+        "pol": "Etiopia"
       }
     },
     
@@ -390,7 +428,7 @@
       },
       "translation": {
         "eng": "Spain",
-        "pol": ""
+        "pol": "Hiszpania"
       }
     },
     
@@ -402,7 +440,7 @@
       },
       "translation": {
         "eng": "France",
-        "pol": ""
+        "pol": "Francja"
       }
     },
     
@@ -414,7 +452,7 @@
       },
       "translation": {
         "eng": "Russia",
-        "pol": ""
+        "pol": "Rosja"
       }
     },
     
@@ -426,7 +464,7 @@
       },
       "translation": {
         "eng": "Addis Ababa",
-        "pol": ""
+        "pol": "Addis Abeba"
       }
     },
     
@@ -438,7 +476,7 @@
       },
       "translation": {
         "eng": "Haifa",
-        "pol": ""
+        "pol": "Hajfa"
       }
     },
     
@@ -450,7 +488,7 @@
       },
       "translation": {
         "eng": "Jaffa",
-        "pol": ""
+        "pol": "Jaffa"
       }
     },
     
@@ -462,7 +500,7 @@
       },
       "translation": {
         "eng": "San Francisco",
-        "pol": ""
+        "pol": "San Francisco"
       }
     },
     
@@ -474,7 +512,7 @@
       },
       "translation": {
         "eng": "Tel Aviv",
-        "pol": ""
+        "pol": "Tel Awiw"
       }
     },
     
@@ -486,7 +524,7 @@
       },
       "translation": {
         "eng": "university",
-        "pol": ""
+        "pol": "uniwersytet"
       }
     },
     
@@ -498,7 +536,7 @@
       },
       "translation": {
         "eng": "avocado",
-        "pol": ""
+        "pol": "awokado"
       }
     },
     
@@ -510,7 +548,7 @@
       },
       "translation": {
         "eng": "internet",
-        "pol": ""
+        "pol": "internet"
       }
     },
     
@@ -522,7 +560,7 @@
       },
       "translation": {
         "eng": "bank",
-        "pol": ""
+        "pol": "bank"
       }
     },
     
@@ -534,7 +572,7 @@
       },
       "translation": {
         "eng": "music",
-        "pol": ""
+        "pol": "muzyka"
       }
     },
     
@@ -546,7 +584,7 @@
       },
       "translation": {
         "eng": "falafel",
-        "pol": ""
+        "pol": "falafel"
       }
     },
     
@@ -558,7 +596,7 @@
       },
       "translation": {
         "eng": "professor",
-        "pol": ""
+        "pol": "profesor"
       }
     },
     
@@ -570,7 +608,7 @@
       },
       "translation": {
         "eng": "coffee",
-        "pol": ""
+        "pol": "kawa"
       }
     }
   ]

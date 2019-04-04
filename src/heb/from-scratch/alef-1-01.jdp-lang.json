@@ -4,7 +4,7 @@
     "version": 1,
     "language": "heb",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "from-scratch-alef-1-01"
     ]
@@ -18,7 +18,7 @@
       },
       "translation": {
         "eng": "say",
-        "pol": ""
+        "pol": "mówi"
       }
     },
     
@@ -30,7 +30,7 @@
       },
       "translation": {
         "eng": "understand",
-        "pol": ""
+        "pol": "rozumie"
       }
     },
     
@@ -42,7 +42,7 @@
       },
       "translation": {
         "eng": "sorry",
-        "pol": ""
+        "pol": "żałuje"
       }
     },
     
@@ -53,8 +53,8 @@
         "lexical": "V"
       },
       "translation": {
-        "eng": "Ride/go",
-        "pol": ""
+        "eng": "ride; go",
+        "pol": "jedzie"
       }
     },
     
@@ -66,7 +66,7 @@
       },
       "translation": {
         "eng": "work",
-        "pol": ""
+        "pol": "pracuje"
       }
     },
     
@@ -78,7 +78,7 @@
       },
       "translation": {
         "eng": "buy",
-        "pol": ""
+        "pol": "kupuje"
       }
     },
     
@@ -90,7 +90,7 @@
       },
       "translation": {
         "eng": "hear",
-        "pol": ""
+        "pol": "słyszy"
       }
     },
     
@@ -102,7 +102,7 @@
       },
       "translation": {
         "eng": "public",
-        "pol": ""
+        "pol": "publiczny"
       }
     },
     
@@ -114,7 +114,7 @@
       },
       "translation": {
         "eng": "public",
-        "pol": ""
+        "pol": "publiczna"
       }
     },
     
@@ -126,7 +126,7 @@
       },
       "translation": {
         "eng": "Never mind",
-        "pol": ""
+        "pol": "nieważne"
       }
     },
     
@@ -137,8 +137,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "Sure/of course",
-        "pol": ""
+        "eng": "sure; of course",
+        "pol": "oczywiście"
       }
     },
     
@@ -149,8 +149,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "To the right",
-        "pol": ""
+        "eng": "to the right",
+        "pol": "na prawo"
       }
     },
     
@@ -162,7 +162,7 @@
       },
       "translation": {
         "eng": "straight",
-        "pol": ""
+        "pol": "prosto"
       }
     },
     
@@ -173,8 +173,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "Information/telephone directory",
-        "pol": ""
+        "eng": "information; telephone directory",
+        "pol": "informacja"
       }
     },
     
@@ -185,8 +185,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "Correct/right",
-        "pol": ""
+        "eng": "correct; right",
+        "pol": "zgadza się; dobrze"
       }
     },
     
@@ -197,8 +197,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "To the left",
-        "pol": ""
+        "eng": "to the left",
+        "pol": "na lewo"
       }
     },
     
@@ -210,7 +210,7 @@
       },
       "translation": {
         "eng": "two",
-        "pol": ""
+        "pol": "dwie"
       }
     },
     
@@ -222,7 +222,7 @@
       },
       "translation": {
         "eng": "zero",
-        "pol": ""
+        "pol": "zero"
       }
     },
     
@@ -234,7 +234,7 @@
       },
       "translation": {
         "eng": "morning",
-        "pol": ""
+        "pol": "ranek"
       }
     },
     
@@ -246,7 +246,7 @@
       },
       "translation": {
         "eng": "shop",
-        "pol": ""
+        "pol": "sklep"
       }
     },
     
@@ -258,7 +258,7 @@
       },
       "translation": {
         "eng": "roll",
-        "pol": ""
+        "pol": "bułka"
       }
     },
     
@@ -270,7 +270,7 @@
       },
       "translation": {
         "eng": "night",
-        "pol": ""
+        "pol": "noc"
       }
     },
     
@@ -282,7 +282,7 @@
       },
       "translation": {
         "eng": "number",
-        "pol": ""
+        "pol": "numer"
       }
     },
     
@@ -294,7 +294,7 @@
       },
       "translation": {
         "eng": "library",
-        "pol": ""
+        "pol": "biblioteka"
       }
     },
     
@@ -306,7 +306,7 @@
       },
       "translation": {
         "eng": "work",
-        "pol": ""
+        "pol": "praca"
       }
     },
     
@@ -318,19 +318,19 @@
       },
       "translation": {
         "eng": "evening",
-        "pol": ""
+        "pol": "wieczór"
       }
     },
     
     {
-      "phrase": "צָהֳרַיים<br>(with O sounds)",
+      "phrase": "צָהֳרַיים",
       "transcription": "",
       "category": {
         "lexical": "N"
       },
       "translation": {
         "eng": "afternoon",
-        "pol": ""
+        "pol": "popołudnie"
       }
     },
     
@@ -342,7 +342,7 @@
       },
       "translation": {
         "eng": "street",
-        "pol": ""
+        "pol": "ulica"
       }
     },
     
@@ -353,8 +353,8 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "Toilet/lavatory",
-        "pol": ""
+        "eng": "toilet; lavatory",
+        "pol": "toaleta"
       }
     },
     
@@ -366,7 +366,7 @@
       },
       "translation": {
         "eng": "bus",
-        "pol": ""
+        "pol": "autobus"
       }
     },
     
@@ -377,8 +377,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "How?",
-        "pol": ""
+        "eng": "how?",
+        "pol": "jak?"
       }
     },
     
@@ -389,8 +389,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "How many? (how much?)",
-        "pol": ""
+        "eng": "how many?; how much?",
+        "pol": "ile?"
       }
     },
     
@@ -401,8 +401,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "When?",
-        "pol": ""
+        "eng": "when?",
+        "pol": "kiedy?"
       }
     },
     
@@ -413,8 +413,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "Hello",
-        "pol": ""
+        "eng": "hello",
+        "pol": "halo"
       }
     },
     
@@ -425,8 +425,12 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "archeologist (m)",
-        "pol": ""
+        "eng": "archeologist",
+        "pol": "archeolog"
+      },
+      "note": {
+        "eng": "m.",
+        "pol": "mężczyzna"
       }
     },
     
@@ -437,8 +441,12 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "archeologist (f)",
-        "pol": ""
+        "eng": "archeologist",
+        "pol": "archeolog"
+      },
+      "note": {
+        "eng": "f.",
+        "pol": "kobieta"
       }
     },
     
@@ -450,7 +458,7 @@
       },
       "translation": {
         "eng": "doctor",
-        "pol": ""
+        "pol": "doktor"
       }
     },
     
@@ -462,7 +470,7 @@
       },
       "translation": {
         "eng": "history",
-        "pol": ""
+        "pol": "historia"
       }
     },
     
@@ -474,7 +482,7 @@
       },
       "translation": {
         "eng": "symphony",
-        "pol": ""
+        "pol": "symfonia"
       }
     },
     
@@ -485,8 +493,12 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "rock (music)",
-        "pol": ""
+        "eng": "rock",
+        "pol": "rock"
+      },
+      "note": {
+        "eng": "music",
+        "pol": "muzyka"
       }
     }
   ]

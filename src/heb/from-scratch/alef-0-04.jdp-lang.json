@@ -4,7 +4,7 @@
     "version": 1,
     "language": "heb",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "from-scratch-alef-0-04"
     ]
@@ -18,7 +18,7 @@
       },
       "translation": {
         "eng": "do; make",
-        "pol": ""
+        "pol": "robi"
       }
     },
     
@@ -30,7 +30,7 @@
       },
       "translation": {
         "eng": "want",
-        "pol": ""
+        "pol": "chce"
       }
     },
     
@@ -42,7 +42,7 @@
       },
       "translation": {
         "eng": "drink",
-        "pol": ""
+        "pol": "pije"
       }
     },
     
@@ -54,7 +54,7 @@
       },
       "translation": {
         "eng": "to; for",
-        "pol": ""
+        "pol": "do; ku"
       }
     },
     
@@ -66,7 +66,7 @@
       },
       "translation": {
         "eng": "with",
-        "pol": ""
+        "pol": "z"
       }
     },
     
@@ -77,8 +77,8 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "country, land",
-        "pol": ""
+        "eng": "country; land",
+        "pol": "ziemia; kraj"
       }
     },
     
@@ -90,7 +90,7 @@
       },
       "translation": {
         "eng": "juice",
-        "pol": ""
+        "pol": "sok"
       }
     },
     
@@ -102,7 +102,7 @@
       },
       "translation": {
         "eng": "restaurant",
-        "pol": ""
+        "pol": "restauracja"
       }
     },
     
@@ -114,7 +114,7 @@
       },
       "translation": {
         "eng": "city",
-        "pol": ""
+        "pol": "miasto"
       }
     },
     
@@ -126,7 +126,7 @@
       },
       "translation": {
         "eng": "movie",
-        "pol": ""
+        "pol": "film"
       }
     },
     
@@ -138,7 +138,7 @@
       },
       "translation": {
         "eng": "moment",
-        "pol": ""
+        "pol": "chwila"
       }
     },
     
@@ -149,7 +149,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "Russian (lang.)",
+        "eng": "Russian",
+        "pol": "język rosyjski"
+      },
+      "note": {
+        "eng": "language",
         "pol": ""
       }
     },
@@ -162,7 +166,7 @@
       },
       "translation": {
         "eng": "where to?",
-        "pol": ""
+        "pol": "dokąd?"
       }
     },
     
@@ -174,7 +178,7 @@
       },
       "translation": {
         "eng": "we",
-        "pol": ""
+        "pol": "my"
       }
     },
     
@@ -186,7 +190,7 @@
       },
       "translation": {
         "eng": "he",
-        "pol": ""
+        "pol": "on"
       }
     },
     
@@ -198,7 +202,7 @@
       },
       "translation": {
         "eng": "Sinai",
-        "pol": ""
+        "pol": "Synaj"
       }
     },
     
@@ -210,7 +214,7 @@
       },
       "translation": {
         "eng": "Mathematics",
-        "pol": ""
+        "pol": "matematyka"
       }
     },
     
@@ -221,8 +225,8 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "Student",
-        "pol": ""
+        "eng": "student",
+        "pol": "student"
       }
     },
     
@@ -233,8 +237,8 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "Student",
-        "pol": ""
+        "eng": "student",
+        "pol": "studentka"
       }
     },
     
@@ -246,7 +250,7 @@
       },
       "translation": {
         "eng": "Coca-Cola",
-        "pol": ""
+        "pol": "Coca-Cola"
       }
     },
     
@@ -258,7 +262,7 @@
       },
       "translation": {
         "eng": "kiosk",
-        "pol": ""
+        "pol": "kiosk"
       }
     },
     
@@ -270,7 +274,7 @@
       },
       "translation": {
         "eng": "o.k.",
-        "pol": ""
+        "pol": "okej"
       }
     },
     
@@ -282,7 +286,7 @@
       },
       "translation": {
         "eng": "maybe",
-        "pol": ""
+        "pol": "być może"
       }
     },
     
@@ -294,7 +298,7 @@
       },
       "translation": {
         "eng": "excellent",
-        "pol": ""
+        "pol": "doskonale"
       }
     },
     
@@ -306,7 +310,7 @@
       },
       "translation": {
         "eng": "pleasure to meet you",
-        "pol": ""
+        "pol": "miło mi"
       }
     },
     
@@ -318,7 +322,7 @@
       },
       "translation": {
         "eng": "excuse me; forgive me; pardon me; sorry",
-        "pol": ""
+        "pol": "przepraszam"
       }
     },
     
@@ -330,7 +334,7 @@
       },
       "translation": {
         "eng": "a little",
-        "pol": ""
+        "pol": "trochę"
       }
     },
     
@@ -342,7 +346,7 @@
       },
       "translation": {
         "eng": "only; just",
-        "pol": ""
+        "pol": "tylko"
       }
     },
     
@@ -354,7 +358,7 @@
       },
       "translation": {
         "eng": "Egypt",
-        "pol": ""
+        "pol": "Egipt"
       }
     },
     
@@ -366,7 +370,7 @@
       },
       "translation": {
         "eng": "Mexico",
-        "pol": ""
+        "pol": "Meksyk"
       }
     },
     
@@ -378,7 +382,7 @@
       },
       "translation": {
         "eng": "China",
-        "pol": ""
+        "pol": "Chiny"
       }
     },
     
@@ -390,7 +394,7 @@
       },
       "translation": {
         "eng": "Iraq",
-        "pol": ""
+        "pol": "Irak"
       }
     },
     
@@ -402,7 +406,7 @@
       },
       "translation": {
         "eng": "Kenya",
-        "pol": ""
+        "pol": "Kenia"
       }
     }
   ]

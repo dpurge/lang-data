@@ -4,7 +4,7 @@
     "version": 1,
     "language": "heb",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "from-scratch-alef-0-05"
     ]
@@ -18,7 +18,7 @@
       },
       "translation": {
         "eng": "banana",
-        "pol": ""
+        "pol": "banan"
       }
     },
     
@@ -30,7 +30,7 @@
       },
       "translation": {
         "eng": "museum",
-        "pol": ""
+        "pol": "muzeum"
       }
     },
     
@@ -42,7 +42,7 @@
       },
       "translation": {
         "eng": "sugar",
-        "pol": ""
+        "pol": "cukier"
       }
     },
     
@@ -54,7 +54,7 @@
       },
       "translation": {
         "eng": "supermarket",
-        "pol": ""
+        "pol": "supermarket"
       }
     },
     
@@ -66,7 +66,7 @@
       },
       "translation": {
         "eng": "politics",
-        "pol": ""
+        "pol": "polityka"
       }
     },
     
@@ -78,7 +78,7 @@
       },
       "translation": {
         "eng": "theater",
-        "pol": ""
+        "pol": "teatr"
       }
     },
     
@@ -89,8 +89,8 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "USA (Lands of the Covenant)",
-        "pol": ""
+        "eng": "United States",
+        "pol": "Stany Zjednoczone"
       }
     },
     
@@ -102,7 +102,7 @@
       },
       "translation": {
         "eng": "Belgium",
-        "pol": ""
+        "pol": "Belgia"
       }
     },
     
@@ -114,7 +114,7 @@
       },
       "translation": {
         "eng": "Brazil",
-        "pol": ""
+        "pol": "Brazylia"
       }
     },
     
@@ -126,7 +126,7 @@
       },
       "translation": {
         "eng": "Denmark",
-        "pol": ""
+        "pol": "Dania"
       }
     },
     
@@ -138,7 +138,7 @@
       },
       "translation": {
         "eng": "Japan",
-        "pol": ""
+        "pol": "Japonia"
       }
     },
     
@@ -150,7 +150,7 @@
       },
       "translation": {
         "eng": "Poland",
-        "pol": ""
+        "pol": "Polska"
       }
     },
     
@@ -162,7 +162,7 @@
       },
       "translation": {
         "eng": "Portugal",
-        "pol": ""
+        "pol": "Portugalia"
       }
     },
     
@@ -174,7 +174,7 @@
       },
       "translation": {
         "eng": "Peru",
-        "pol": ""
+        "pol": "Peru"
       }
     },
     
@@ -186,7 +186,7 @@
       },
       "translation": {
         "eng": "Buenos Aires",
-        "pol": ""
+        "pol": "Buenos Aires"
       }
     },
     
@@ -198,7 +198,7 @@
       },
       "translation": {
         "eng": "Boston",
-        "pol": ""
+        "pol": "Boston"
       }
     },
     
@@ -210,7 +210,7 @@
       },
       "translation": {
         "eng": "Brussels",
-        "pol": ""
+        "pol": "Bruksela"
       }
     },
     
@@ -222,7 +222,7 @@
       },
       "translation": {
         "eng": "Bat Yam",
-        "pol": ""
+        "pol": "Bat Yam"
       }
     },
     
@@ -234,7 +234,7 @@
       },
       "translation": {
         "eng": "Warsaw",
-        "pol": ""
+        "pol": "Warszawa"
       }
     },
     
@@ -246,7 +246,7 @@
       },
       "translation": {
         "eng": "Lima",
-        "pol": ""
+        "pol": "Lima"
       }
     },
     
@@ -258,7 +258,7 @@
       },
       "translation": {
         "eng": "Lisbon",
-        "pol": ""
+        "pol": "Lizbona"
       }
     },
     
@@ -270,7 +270,7 @@
       },
       "translation": {
         "eng": "Copenhagen",
-        "pol": ""
+        "pol": "Kopenhaga"
       }
     },
     
@@ -282,7 +282,7 @@
       },
       "translation": {
         "eng": "father",
-        "pol": ""
+        "pol": "ojciec"
       }
     },
     
@@ -294,7 +294,7 @@
       },
       "translation": {
         "eng": "studio",
-        "pol": ""
+        "pol": "studio; ulpan"
       }
     },
     
@@ -306,7 +306,7 @@
       },
       "translation": {
         "eng": "grapefruit",
-        "pol": ""
+        "pol": "grejpfrut"
       }
     },
     
@@ -318,7 +318,7 @@
       },
       "translation": {
         "eng": "house",
-        "pol": ""
+        "pol": "dom"
       }
     },
     
@@ -329,7 +329,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "Japanese (lang.)",
+        "eng": "Japanese",
+        "pol": "język japoński"
+      },
+      "note": {
+        "eng": "language",
         "pol": ""
       }
     },
@@ -341,8 +345,8 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "class / classroom",
-        "pol": ""
+        "eng": "class; classroom",
+        "pol": "klasa"
       }
     },
     
@@ -354,7 +358,7 @@
       },
       "translation": {
         "eng": "family",
-        "pol": ""
+        "pol": "rodzina"
       }
     },
     
@@ -366,7 +370,7 @@
       },
       "translation": {
         "eng": "world",
-        "pol": ""
+        "pol": "świat"
       }
     },
     
@@ -377,7 +381,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "Polish (lang.)",
+        "eng": "Polish",
+        "pol": "język polski"
+      },
+      "note": {
+        "eng": "language",
         "pol": ""
       }
     },
@@ -389,7 +397,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "Portuguese (lang.)",
+        "eng": "Portuguese",
+        "pol": "język portugalski"
+      },
+      "note": {
+        "eng": "language",
         "pol": ""
       }
     },
@@ -402,7 +414,7 @@
       },
       "translation": {
         "eng": "orange",
-        "pol": ""
+        "pol": "pomarańcza"
       }
     },
     
@@ -414,7 +426,7 @@
       },
       "translation": {
         "eng": "talk",
-        "pol": ""
+        "pol": "mówi"
       }
     },
     
@@ -426,7 +438,7 @@
       },
       "translation": {
         "eng": "in",
-        "pol": ""
+        "pol": "w"
       }
     },
     
@@ -438,7 +450,7 @@
       },
       "translation": {
         "eng": "near; by",
-        "pol": ""
+        "pol": "obok; przy"
       }
     },
     
@@ -449,8 +461,8 @@
         "lexical": "Prep"
       },
       "translation": {
-        "eng": "on / about",
-        "pol": ""
+        "eng": "on; about",
+        "pol": "na; o"
       }
     },
     
@@ -461,8 +473,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "there isn't / there aren't",
-        "pol": ""
+        "eng": "there isn't; there aren't",
+        "pol": "nie ma"
       }
     },
     
@@ -474,7 +486,7 @@
       },
       "translation": {
         "eng": "alright",
-        "pol": ""
+        "pol": "w porządku"
       }
     },
     
@@ -486,7 +498,7 @@
       },
       "translation": {
         "eng": "everything",
-        "pol": ""
+        "pol": "wszystko"
       }
     },
     
@@ -497,8 +509,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "many / a lot",
-        "pol": ""
+        "eng": "many; a lot",
+        "pol": "dużo"
       }
     },
     
@@ -509,8 +521,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "there is / there are",
-        "pol": ""
+        "eng": "there is; there are",
+        "pol": "jest; są; znajduje się"
       }
     },
     
@@ -522,7 +534,7 @@
       },
       "translation": {
         "eng": "yeh!",
-        "pol": ""
+        "pol": "tak jest!; hura!"
       }
     },
     
@@ -534,7 +546,7 @@
       },
       "translation": {
         "eng": "the whole world",
-        "pol": ""
+        "pol": "cały świat"
       }
     },
     
@@ -546,7 +558,7 @@
       },
       "translation": {
         "eng": "yes",
-        "pol": ""
+        "pol": "tak"
       }
     },
     
@@ -558,7 +570,7 @@
       },
       "translation": {
         "eng": "here",
-        "pol": ""
+        "pol": "tutaj"
       }
     }
   ]

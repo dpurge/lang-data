@@ -96,12 +96,17 @@
 								"type": "string",
 								"enum": [
 									"",
-									"N",
-									"V",
-									"Adv",
 									"Adj",
+									"Adv",
+									"Art",
+									"Conj",
+									"Interj",
+									"N",
+									"Num",
+									"Part",
                                     "Pron",
-                                    "Prep"
+                                    "Prep",
+									"V"
 								]
 							},
 							"grammatical": {

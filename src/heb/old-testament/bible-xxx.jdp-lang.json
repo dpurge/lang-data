@@ -15167,25 +15167,25 @@
     },
     
     {
-      "phrase": "Plural of עִיר",
+      "phrase": "עָרִים",
       "transcription": "",
       "category": {
         "lexical": "N"
       },
       "translation": {
-        "eng": "<p dir='rtl'>עָרִים</p>cities",
+        "eng": "cities",
         "pol": ""
       }
     },
     
     {
-      "phrase": "Plural of עַם",
+      "phrase": "עַמִּים",
       "transcription": "",
       "category": {
         "lexical": "N"
       },
       "translation": {
-        "eng": "<p dir="rtl">עַמִּים</p>peoples",
+        "eng": "peoples",
         "pol": ""
       }
     },

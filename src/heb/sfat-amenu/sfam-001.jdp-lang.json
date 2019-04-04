@@ -20,19 +20,19 @@
       "phrase": "חֶדֶר",
       "transcription": "",
       "category": {"lexical": "N"},
-      "translation": {"eng": "", "pol": "pokój, izba"}
+      "translation": {"eng": "", "pol": "pokój; izba"}
     },
     {
       "phrase": "יֶשׁ",
       "transcription": "",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "jest, istnieje, są"}
+      "translation": {"eng": "", "pol": "jest; istnieje; są"}
     },
     {
       "phrase": "תִקְרָה",
       "transcription": "",
       "category": {"lexical": "N"},
-      "translation": {"eng": "", "pol": "powała, sufit"}
+      "translation": {"eng": "", "pol": "powała; sufit"}
     },
     {
       "phrase": "רִצְפָּה",
@@ -74,7 +74,7 @@
       "phrase": "מַה?",
       "transcription": "",
       "category": {"lexical": ""},
-      "translation": {"eng": "", "pol": "co? jak?"}
+      "translation": {"eng": "", "pol": "co?; jak?"}
     },
     {
       "phrase": "אַיֵּה?",

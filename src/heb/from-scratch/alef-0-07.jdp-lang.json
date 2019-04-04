@@ -4,7 +4,7 @@
     "version": 1,
     "language": "heb",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "from-scratch-alef-0-07"
     ]
@@ -17,8 +17,11 @@
         "lexical": "V"
       },
       "translation": {
-        "eng": "know (information)",
-        "pol": ""
+        "eng": "know",
+        "pol": "wie"
+      },
+      "note": {
+        "eng": "information"
       }
     },
     
@@ -29,8 +32,8 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "news (pl)",
-        "pol": ""
+        "eng": "news",
+        "pol": "nowości; wiadomości"
       }
     },
     
@@ -42,7 +45,7 @@
       },
       "translation": {
         "eng": "half",
-        "pol": ""
+        "pol": "pół"
       }
     },
     
@@ -54,7 +57,7 @@
       },
       "translation": {
         "eng": "quarter",
-        "pol": ""
+        "pol": "ćwierć"
       }
     },
     
@@ -66,7 +69,7 @@
       },
       "translation": {
         "eng": "hour",
-        "pol": ""
+        "pol": "godzina"
       }
     },
     
@@ -77,8 +80,8 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "clock, watch",
-        "pol": ""
+        "eng": "clock; watch",
+        "pol": "zegar"
       }
     },
     
@@ -89,8 +92,8 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "quiet (noun)",
-        "pol": ""
+        "eng": "quiet",
+        "pol": "cisza"
       }
     },
     
@@ -101,8 +104,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "then, so",
-        "pol": ""
+        "eng": "then; so",
+        "pol": "wtedy"
       }
     },
     
@@ -114,7 +117,7 @@
       },
       "translation": {
         "eng": "What luck!",
-        "pol": ""
+        "pol": "Co za szczęście!"
       }
     },
     
@@ -126,7 +129,7 @@
       },
       "translation": {
         "eng": "What time is it?",
-        "pol": ""
+        "pol": "Która godzina?"
       }
     },
     
@@ -137,8 +140,11 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "one (f)",
-        "pol": ""
+        "eng": "one",
+        "pol": "jedna"
+      },
+      "note": {
+        "eng": "f."
       }
     },
     
@@ -149,8 +155,11 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "two (f)",
-        "pol": ""
+        "eng": "two",
+        "pol": "dwie"
+      },
+      "note": {
+        "eng": "f."
       }
     },
     
@@ -161,8 +170,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "three (f)",
-        "pol": ""
+        "eng": "three",
+        "pol": "trzy"
+      },
+      "note": {
+        "eng": "f.",
+        "pol": "f."
       }
     },
     
@@ -173,8 +186,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "four (f)",
-        "pol": ""
+        "eng": "four",
+        "pol": "cztery"
+      },
+      "note": {
+        "eng": "f.",
+        "pol": "f."
       }
     },
     
@@ -185,8 +202,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "five (f)",
-        "pol": ""
+        "eng": "five",
+        "pol": "pięć"
+      },
+      "note": {
+        "eng": "f.",
+        "pol": "f."
       }
     },
     
@@ -197,8 +218,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "six (f)",
-        "pol": ""
+        "eng": "six",
+        "pol": "sześć"
+      },
+      "note": {
+        "eng": "f.",
+        "pol": "f."
       }
     },
     
@@ -209,8 +234,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "seven (f)",
-        "pol": ""
+        "eng": "seven",
+        "pol": "siedem"
+      },
+      "note": {
+        "eng": "f.",
+        "pol": "f."
       }
     },
     
@@ -221,8 +250,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "eight (f)",
-        "pol": ""
+        "eng": "eight",
+        "pol": "osiem"
+      },
+      "note": {
+        "eng": "f.",
+        "pol": "f."
       }
     },
     
@@ -233,8 +266,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "nine (f)",
-        "pol": ""
+        "eng": "nine",
+        "pol": "dziewięć"
+      },
+      "note": {
+        "eng": "f.",
+        "pol": "f."
       }
     },
     
@@ -245,8 +282,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "ten (f)",
-        "pol": ""
+        "eng": "ten",
+        "pol": "dziesięć"
+      },
+      "note": {
+        "eng": "f.",
+        "pol": "f."
       }
     },
     
@@ -257,8 +298,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "eleven (f)",
-        "pol": ""
+        "eng": "eleven",
+        "pol": "jedenaście"
+      },
+      "note": {
+        "eng": "f.",
+        "pol": "f."
       }
     },
     
@@ -269,8 +314,12 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "twelve (f)",
-        "pol": ""
+        "eng": "twelve",
+        "pol": "dwanaście"
+      },
+      "note": {
+        "eng": "f.",
+        "pol": "f."
       }
     },
     
@@ -282,7 +331,7 @@
       },
       "translation": {
         "eng": "sonata",
-        "pol": ""
+        "pol": "sonata"
       }
     },
     
@@ -293,7 +342,11 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "Chinese (lang.)",
+        "eng": "Chinese",
+        "pol": "język chiński"
+      },
+      "note": {
+        "eng": "language",
         "pol": ""
       }
     },
@@ -306,7 +359,7 @@
       },
       "translation": {
         "eng": "sandwich",
-        "pol": ""
+        "pol": "kanapka"
       }
     },
     
@@ -317,8 +370,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "chips, fries",
-        "pol": ""
+        "eng": "chips; fries",
+        "pol": "czipsy; frytki"
       }
     },
     
@@ -329,7 +382,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "Czech (lang.)",
+        "eng": "Czech",
+        "pol": "język czeski"
+      },
+      "note": {
+        "eng": "language",
         "pol": ""
       }
     },
@@ -342,7 +399,7 @@
       },
       "translation": {
         "eng": "cello",
-        "pol": ""
+        "pol": "wiolonczela"
       }
     },
     
@@ -354,7 +411,7 @@
       },
       "translation": {
         "eng": "harpsichord",
-        "pol": ""
+        "pol": "klawesyn"
       }
     },
     
@@ -366,7 +423,7 @@
       },
       "translation": {
         "eng": "concerto",
-        "pol": ""
+        "pol": "koncert"
       }
     },
     
@@ -378,7 +435,7 @@
       },
       "translation": {
         "eng": "ketchup",
-        "pol": ""
+        "pol": "keczup"
       }
     },
     
@@ -389,8 +446,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "teacher (m.)",
-        "pol": ""
+        "eng": "teacher",
+        "pol": "nauczyciel"
+      },
+      "note": {
+        "eng": "m."
       }
     },
     
@@ -401,7 +461,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "teacher (f.)",
+        "eng": "teacher",
+        "pol": "nauczycielka"
+      },
+      "note": {
+        "eng": "f.",
         "pol": ""
       }
     },
@@ -414,7 +478,7 @@
       },
       "translation": {
         "eng": "radio",
-        "pol": ""
+        "pol": "radio"
       }
     },
     
@@ -426,7 +490,7 @@
       },
       "translation": {
         "eng": "peace; hello; goodbye",
-        "pol": ""
+        "pol": "pokój; cześć"
       }
     },
     
@@ -438,7 +502,7 @@
       },
       "translation": {
         "eng": "cake",
-        "pol": ""
+        "pol": "ciasto"
       }
     },
     
@@ -449,8 +513,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "what's up? how's it going?",
-        "pol": ""
+        "eng": "what's up?; how's it going?",
+        "pol": "co słychać?"
       }
     },
     
@@ -462,7 +526,7 @@
       },
       "translation": {
         "eng": "it's a pleasure to meet you",
-        "pol": ""
+        "pol": "bardzo mi miło"
       }
     },
     
@@ -473,8 +537,8 @@
         "lexical": ""
       },
       "translation": {
-        "eng": "to have a great time, to have fun",
-        "pol": ""
+        "eng": "to have a great time; to have fun",
+        "pol": "dobrze się bawić"
       }
     },
     
@@ -486,7 +550,7 @@
       },
       "translation": {
         "eng": "electronics",
-        "pol": ""
+        "pol": "elektronika"
       }
     },
     
@@ -497,8 +561,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "student (f)",
-        "pol": ""
+        "eng": "student",
+        "pol": "studentka"
+      },
+      "note": {
+        "eng": "f."
       }
     },
     
@@ -509,8 +576,11 @@
         "lexical": "N"
       },
       "translation": {
-        "eng": "student (m)",
-        "pol": ""
+        "eng": "student",
+        "pol": "student"
+      },
+      "note": {
+        "eng": "m."
       }
     },
     
@@ -522,7 +592,7 @@
       },
       "translation": {
         "eng": "salad",
-        "pol": ""
+        "pol": "sałatka"
       }
     },
     
@@ -534,7 +604,7 @@
       },
       "translation": {
         "eng": "communication",
-        "pol": ""
+        "pol": "komunikacja"
       }
     },
     
@@ -546,7 +616,7 @@
       },
       "translation": {
         "eng": "concert",
-        "pol": ""
+        "pol": "koncert"
       }
     },
     
@@ -558,7 +628,7 @@
       },
       "translation": {
         "eng": "chocolate",
-        "pol": ""
+        "pol": "czekolada"
       }
     },
     
@@ -570,7 +640,7 @@
       },
       "translation": {
         "eng": "Disneyland",
-        "pol": ""
+        "pol": "Disneyland"
       }
     },
     
@@ -582,7 +652,7 @@
       },
       "translation": {
         "eng": "Tokyo",
-        "pol": ""
+        "pol": "Tokio"
       }
     },
     
@@ -594,7 +664,7 @@
       },
       "translation": {
         "eng": "Jerusalem",
-        "pol": ""
+        "pol": "Jerozolima"
       }
     }
   ]

@@ -21,7 +21,6 @@
         "pol": "mężczyzna"
       }
     },
-    
     {
       "phrase": "אִישָה",
       "transcription": "",
@@ -33,7 +32,6 @@
         "pol": "kobieta; żona"
       }
     },
-    
     {
       "phrase": "גְלִידָה",
       "transcription": "",
@@ -45,7 +43,6 @@
         "pol": "lody"
       }
     },
-    
     {
       "phrase": "דֶגֶל",
       "transcription": "",
@@ -57,7 +54,6 @@
         "pol": "flaga"
       }
     },
-    
     {
       "phrase": "הַר",
       "transcription": "",
@@ -69,7 +65,6 @@
         "pol": "góra"
       }
     },
-    
     {
       "phrase": "יֶלֶד",
       "transcription": "",
@@ -81,7 +76,6 @@
         "pol": "chłopiec"
       }
     },
-    
     {
       "phrase": "יַלְדָה",
       "transcription": "",
@@ -93,7 +87,6 @@
         "pol": "dziewczynka"
       }
     },
-    
     {
       "phrase": "שִיר",
       "transcription": "",
@@ -105,7 +98,6 @@
         "pol": "pieśń; wiersz"
       }
     },
-    
     {
       "phrase": "שֶמֶש",
       "transcription": "",
@@ -117,7 +109,6 @@
         "pol": "słońce"
       }
     },
-    
     {
       "phrase": "תַלְמִיד",
       "transcription": "",
@@ -129,7 +120,6 @@
         "pol": "uczeń"
       }
     },
-    
     {
       "phrase": "תַלְמִידָה",
       "transcription": "",
@@ -141,7 +131,6 @@
         "pol": "uczennica"
       }
     },
-    
     {
       "phrase": "מֵאַיִן",
       "transcription": "",
@@ -153,7 +142,6 @@
         "pol": "skąd?"
       }
     },
-    
     {
       "phrase": "הַ",
       "transcription": "",
@@ -162,12 +150,15 @@
       },
       "translation": {
         "eng": "the",
-        "pol": ""
+        "pol": "-"
+      },
+      "note": {
+        "eng": "",
+        "pol": "rodzajnik określony"
       }
     },
-    
     {
-      "phrase": "מִ / מֵ / מִן",
+      "phrase": "מִן",
       "transcription": "",
       "category": {
         "lexical": "Part"
@@ -177,7 +168,6 @@
         "pol": "z"
       }
     },
-    
     {
       "phrase": "שֶל",
       "transcription": "",
@@ -189,7 +179,6 @@
         "pol": "należący do"
       }
     },
-    
     {
       "phrase": "אִירְלַנְד",
       "transcription": "",
@@ -201,7 +190,6 @@
         "pol": "Irlandia"
       }
     },
-    
     {
       "phrase": "אַנְגְלִיָה",
       "transcription": "",
@@ -213,7 +201,6 @@
         "pol": "Anglia"
       }
     },
-    
     {
       "phrase": "גֶרְמַנְיָה",
       "transcription": "",
@@ -225,7 +212,6 @@
         "pol": "Niemcy"
       }
     },
-    
     {
       "phrase": "יַרְדֵן",
       "transcription": "",
@@ -237,7 +223,6 @@
         "pol": "Jordania"
       }
     },
-    
     {
       "phrase": "יִשְׂרָאֵל",
       "transcription": "",
@@ -249,7 +234,6 @@
         "pol": "Izrael"
       }
     },
-    
     {
       "phrase": "תֵימָן",
       "transcription": "",
@@ -261,7 +245,6 @@
         "pol": "Jemen"
       }
     },
-    
     {
       "phrase": "נְתַנְיָה",
       "transcription": "",
@@ -273,7 +256,6 @@
         "pol": "Netania"
       }
     },
-    
     {
       "phrase": "מַרְגָרִינָה",
       "transcription": "",
@@ -285,7 +267,6 @@
         "pol": "margaryna"
       }
     },
-    
     {
       "phrase": "תֵה",
       "transcription": "",
@@ -297,7 +278,6 @@
         "pol": "herbata"
       }
     },
-    
     {
       "phrase": "גַם",
       "transcription": "",
@@ -309,7 +289,6 @@
         "pol": "także; też"
       }
     },
-    
     {
       "phrase": "הִינֵה",
       "transcription": "",
@@ -321,7 +300,6 @@
         "pol": "oto"
       }
     },
-    
     {
       "phrase": "שָם",
       "transcription": "",
