@@ -1,0 +1,1200 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "vocabulary",
+    "version": 1,
+    "language": "grc",
+    "source": "",
+    "tags": [
+        "NT-35-49"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "ἔμπροσθεν",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "in front of, before (gen)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἔτος, -ους, τό",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "a year",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἀποδίδωμι",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "to give back, pay; to sell (middle)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "χρεία, -ας, ἡ",
+      "category": {
+        "lexical": "Prep"
+      },
+      "translation": {
+        "eng": "a need",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "παραλαμβάνω",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "to receive, take",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἄχρι",
+      "category": {
+        "lexical": "Part"
+      },
+      "translation": {
+        "eng": "as far as, up to (gen); until (as conjunction)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἄρα",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "then, therefore",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "φανερόω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to manifest, make manifest, reveal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἔρημος, -ου, ἡ",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "a desert, wilderness",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "φυλακή, -ῆς, ἡ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "a guard, a prison, a watch",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "δεύτερος, -α, -ον",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "second",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "πρό",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "before (gen)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "κρατέω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "rule, conquer, seize",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἁμαρτάνω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to sin",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "καθίζω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to seat, sit",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "γενεά, -ᾶς, ἡ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "a generation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "σωτηρία, -ας, ἡ",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "salvation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἀπαγγέλλω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to announce, report",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "οὐκέτι",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "no more, no longer, no further, opp. οὔπω (not yet)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ὅμοιος, -α, -ον",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "like",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "δέομαι",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to bind",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "θηρίον, -ου, τό",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "a wild beast",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "θλῖψις, -εως, ἡ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "tribulation",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "κρίσις, -εως, ἡ",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "judgment",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ναός, -οῦ, ὁ",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "a temple",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ποῦ",
+      "category": {
+        "lexical": "Prep"
+      },
+      "translation": {
+        "eng": "where? whither?",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "φόβος, -ου, ὁ",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "fear, terror",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "σταυρόω",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "to crucify",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "Ἰούδας, -α, ὁ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Judas, Judah",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἁμαρτωλός, -όν",
+      "category": {
+        "lexical": "Prep"
+      },
+      "translation": {
+        "eng": "sinful; sinner (as a noun)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "προσφέρω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to bring to, offer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "οὐαί",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "woe! alas!",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "κατοικέω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to inhabit, dwell",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἐπιγινώσκω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to come to know, recognize",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "διώκω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to pursue, persecute",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "μικρός, -ά, -όν",
+      "category": {
+        "lexical": "Interj"
+      },
+      "translation": {
+        "eng": "small, little",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "μέρος, -ους, τό",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "a part",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἐγγίζω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to come near",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "σπέρμα, -τος, τό",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "a seed",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "σεαυτοῦ, -ῆς",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "of you",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "πάντοτε",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "always",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἀνάστασις, -εως, ἡ",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "resurrection",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "θεραπεύω",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "to heal",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "πάσχω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to suffer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἐργάζομαι",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to work",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "τέσσαρες",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "four",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "σήμερον",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "today",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "διέρχομαι",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to pass through",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἑτοιμάζω",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "to prepare",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "Ἰουδαία, -ας, ἡ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Judea",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "Ἡρῴδης, -ου, ὁ",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "Herod",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἄξιος, -α, -ον",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "worthy",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "εὐλογέω",
+      "category": {
+        "lexical": "Prep"
+      },
+      "translation": {
+        "eng": "to bless",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "λύω",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "to loose",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "παρίστημι",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "to be present, stand by",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "τιμή, -ῆς, ἡ",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "honor, price",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "θαυμάζω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to marvel, wonder at",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "καινός, -ή, -όν",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "new",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "Ἰάκωβος, -ου, ὁ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "James",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "φωνέω",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "to call",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "χωρίς",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "without, apart from (gen)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "μνημεῖον, -ου, τό",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "a tomb, monument",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "πλανάω",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "to lead astray",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "πειράζω",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "to test, tempt, attempt",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "πέντε",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "five",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "μισέω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to hate",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ὀλίγος, -η, -ον",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "little, few",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἱκανός, -ή, -όν",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "sufficient, able, considerable",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἐμαυτοῦ, -ῆς",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "of myself",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἄρχων, -οντος, ὁ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "a ruler",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "κλαίω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to weep",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "βούλομαι",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to wish, determine",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ὑποτάσσω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to subject, put in subjection",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "πρόβατον, -ου, τό",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "a sheep",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἐπιθυμία, -ας, ἡ",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "eager desire, passion, lust",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "τέλος, -ους, τό",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "end",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "λογίζομαι",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to account, reckon",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "περισσεύω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to abound, be rich",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "θύρα, -ας, ἡ",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "a door",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "πράσσω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to do, perform",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "εὐχαριστέω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to give thanks",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἐπιτίθημι",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "to lay upon",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "οἰκοδομέω",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "to build, edify",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "δικαιόω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to justify, pronounce righteous",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἅπτω",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "grasp (c. gen) <br />perceive (c. gen)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "διάβολος, -ου, ὁ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "slanderer, accuser, the Devil",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "διακονέω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to wait upon, serve",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ὥσπερ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "just as, even as",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ὀπίσω",
+      "category": {
+        "lexical": "Prep"
+      },
+      "translation": {
+        "eng": "behind, after (gen)",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "περιτομή, -ῆς, ἡ",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "circumcision",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ὀφείλω",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to owe, ought",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἐπιστρέφω",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "to turn to, return",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἀγρός, -οῦ, ὁ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "a field",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "Φίλιππος, -ου, ὁ",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "Philip",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ὀργή, -ῆς, ἡ",
+      "category": {
+        "lexical": "Conj"
+      },
+      "translation": {
+        "eng": "wrath, anger",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "καυχάομαι",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "to boast",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "Ἰωσήφ, ὁ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Joseph",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "εὐθέως",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "immediately",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἄρτι",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "now, just now",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "Σατανᾶς, -ᾶ, ὁ",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "Satan",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ὑποστρέφω",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "to turn back, return",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "προσευχή, -ῆς, ἡ",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "prayer",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "ἔξειμι",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "to depart, leave",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "μάρτυς, μάρτυρος",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "a witness",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "μαρτυρία, -ας, ἡ",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "a testimony, evidence",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "οὖς, ὠτός, τό",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "an ear",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "καλῶς",
+      "category": {
+        "lexical": "Adv"
+      },
+      "translation": {
+        "eng": "well",
+        "pol": ""
+      }
+    },
+    
+    {
+      "phrase": "παραγίνομαι",
+      "category": {
+        "lexical": "Pron"
+      },
+      "translation": {
+        "eng": "to come, arrive",
+        "pol": ""
+      }
+    }
+  ]
+}

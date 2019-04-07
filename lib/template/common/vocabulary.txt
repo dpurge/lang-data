@@ -1,3 +1,5 @@
 {% for i in data -%}
+{% if i['translation'] | length -%}
 {{ i['phrase'] }}	{{ i['transcription'] }}	{{ i['lexcat'] }}	{{ i['translation'] }}	{{ i['image'] }}	{{ i['audio'] }}	{{ i['video'] }}	{{ i['note'] }}	{{ i['tags'] }}
+{% endif -%}
 {% endfor %}
