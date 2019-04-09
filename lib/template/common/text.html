@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title></title>
+{%- block style %}{% endblock %}
+</head>
+{% set show = namespace(phrase=true, lexcat=true, transcription=true, tags=true) -%}
+{% block parameters -%}
+{% endblock -%}
+<body>
+  <dl class="vocabulary">
+    {% for phrase in data %}
+      {%- for lexcat in data[phrase] %}
+        {% set transcription = data[phrase][lexcat]['transcription'] %}
+    <dt class="vocabulary">
+      {% if show.phrase -%}
+      <span class="phrase">{{ phrase }}</span>
+      {%- endif %}
+      {% if show.lexcat and lexcat -%}
+      <span class="lexcat">[{{ lexcat }}]</span>
+      {%- endif %}
+      {% if show.transcription and transcription -%}
+      <span class="transcription">{{ transcription }}</span>
+      {%- endif %}
+    </dt>
+    <dd class="translation">
+      {%- for i in data[phrase][lexcat]['translation'] -%}
+        {{ i }}{{ "; " if not loop.last }}
+      {%- endfor -%}
+    </dd>
+    {%- if data[phrase][lexcat]['note'] %}
+      <dd class="note">(
+        {%- for i in data[phrase][lexcat]['note'] -%}
+          {{ i }}{{ "; " if not loop.last }}
+        {%- endfor -%}
+      )</dd>
+    {%- endif %}
+    {%- if show.tags %}
+    <dd class="tags">
+    {%- for i in data[phrase][lexcat]['tags'] -%}
+      [{{ i }}]{{ " " if not loop.last }}
+    {%- endfor -%}
+    </dd>
+    {%- endif %}
+    
+      {%- endfor -%}
+    {% endfor %}
+  </dl>
+</body>
+
+</html>

@@ -74,11 +74,50 @@ def validate_schema(schema_dir, data_dir):
             print('{filename}: {message}'.format(filename = filename, message = str(e)))
 
 
-def get_language(directory, language):
+Language = collections.namedtuple('Language',[
+    'name',
+    'code',
+    'directory',
+    'files'])
+Format = collections.namedtuple('Format', [
+    'name',
+    'version'])
+Category = collections.namedtuple('Category', [
+    'lexical',
+    'grammatical'])
+VocabularyRecord = collections.namedtuple('VocabularyRecord', [
+    'phrase',
+    'transcription',
+    'category',
+    'translation',
+    'image',
+    'audio',
+    'video',
+    'note',
+    'format',
+    'tags'])
+WritingRecord = collections.namedtuple('WritingRecord', [
+    'phrase',
+    'transcription',
+    'translation',
+    'image',
+    'audio',
+    'video',
+    'note',
+    'format',
+    'tags'])
+TextRecord = collections.namedtuple('TextRecord', [
+    'phrase',
+    'transcription',
+    'image',
+    'audio',
+    'video',
+    'note',
+    'format',
+    'tags'])
 
-    Language = collections.namedtuple('Language',
-        ['name', 'code', 'directory', 'files'])
-        
+def get_language(directory, language):
+    
     for filename in glob.glob(
         os.path.join(directory, language, 'language.json'), recursive = True):
         
@@ -99,65 +138,108 @@ def get_language(directory, language):
             directory = dir,
             files = files)
 
+def get_record_vocabulary(data, translation, format, tags):
+    return VocabularyRecord(
+        phrase = data.get('phrase', '').strip(),
+        transcription = data.get('transcription', ''),
+        category = Category(
+            lexical = data.get('category', {}).get('lexical', ''),
+            grammatical = None),
+        translation = [i.strip() for i in data\
+            .get('translation', {})\
+            .get(translation, '')\
+            .split(';')],
+        image = data.get('image', ''),
+        audio = data.get('audio', ''),
+        video = data.get('video', ''),
+        note = [i.strip() for i in data\
+            .get('note', {})\
+            .get(translation, '')\
+            .split(';')],
+        format = format,
+        tags = tags)
+    
+def get_record_writing(data, translation, format, tags):
+    return WritingRecord(
+        phrase = data.get('phrase', '').strip(),
+        transcription = data.get('transcription', ''),
+        translation = [i.strip() for i in data\
+            .get('translation', {})\
+            .get(translation, '')\
+            .split(';')],
+        image = data.get('image', ''),
+        audio = data.get('audio', ''),
+        video = data.get('video', ''),
+        note = [i.strip() for i in data\
+            .get('note', {})\
+            .get(translation, '')\
+            .split(';')],
+        format = format,
+        tags = tags)
+        
+def get_record_text(data, translation, format, tags):
+    return TextRecord(
+        phrase = data.get('phrase', '').strip(),
+        transcription = data.get('transcription', ''),
+        image = data.get('image', ''),
+        audio = data.get('audio', ''),
+        video = data.get('video', ''),
+        note = [i.strip() for i in data\
+            .get('note', {})\
+            .get(translation, '')\
+            .split(';')],
+        format = format,
+        tags = tags)
+
 def get_records(language, format, tag, translation):
-    Format = collections.namedtuple('Format', ['name', 'version'])
-    Category = collections.namedtuple('Category', ['lexical', 'grammatical'])
-    Record = collections.namedtuple('Record', [
-        'phrase',
-        'transcription',
-        'category',
-        'translation',
-        'image',
-        'audio',
-        'video',
-        'note',
-        'format',
-        'tags'])
     
     for datafile in language.files:
         with open(datafile, encoding='utf-8') as f:
             langdata = json.loads(f.read())
             
-        if not langdata['meta']['status'] == 'ready':
-            continue
-        if not fnmatch.fnmatch(langdata['meta']['format'], format):
-            continue
-        if not fnmatch.filter(langdata['meta']['tags'], tag):
+        status = langdata['meta']['status']
+        if not status == 'ready':
             continue
         
-        for record in langdata['data']:
+        fmt = Format(
+            name = langdata['meta']['format'],
+            version = langdata['meta']['version'])
+        if not fnmatch.fnmatch(fmt.name, format):
+            continue
         
-            phrase = record.get('phrase', '').strip()
-            if not phrase: continue
+        tags = langdata['meta']['tags']
+        if not fnmatch.filter(tags, tag):
+            continue
+        
+        for item in langdata['data']:
+            if fmt.name == 'vocabulary':
+                record = get_record_vocabulary(
+                    data = item,
+                    translation = translation,
+                    format = fmt,
+                    tags = tags)
+                if not record.phrase: continue
+                if not record.translation: continue
+            elif fmt.name == 'writing':
+                record = get_record_writing(
+                    data = item,
+                    translation = translation,
+                    format = fmt,
+                    tags = tags)
+                if not record.phrase: continue
+            elif fmt.name == 'text':
+                record = get_record_text(
+                    data = item,
+                    translation = translation,
+                    format = fmt,
+                    tags = tags)
+                if not record.phrase: continue
+            else:
+                raise Exception(
+                    'Unsupported format: {name}'.format(
+                        name = fmt.name))
             
-            translations = [i.strip() for i in record\
-                .get('translation', {})\
-                .get(translation, '')\
-                .split(';')]
-            if not translations: continue
-            
-            notes = [i.strip() for i in record\
-                .get('note', {})\
-                .get(translation, '')\
-                .split(';')]
-            
-            category = Category(
-                lexical = record.get('category', {}).get('lexical', ''),
-                grammatical = None)
-                
-            yield Record(
-                phrase = phrase,
-                transcription = record.get('transcription', ''),
-                category = category,
-                translation = translations,
-                image = record.get('image', ''),
-                audio = record.get('audio', ''),
-                video = record.get('video', ''),
-                note = notes,
-                format = Format(
-                    name = langdata['meta']['format'],
-                    version = langdata['meta']['version']),
-                tags = langdata['meta']['tags'])
+            yield(record)
 
 
 def get_data(language, format, tag, translation):
@@ -173,25 +255,34 @@ def get_data(language, format, tag, translation):
             data[record.format.name] = {}
         if not record.phrase in data[record.format.name]:
             data[record.format.name][record.phrase] = {}
-        if not record.category.lexical in data[record.format.name][record.phrase]:
-            data[record.format.name][record.phrase][record.category.lexical] = {
-                'transcription': record.transcription,
-                'translation': [],
-                'image': [],
-                'audio': [],
-                'video': [],
-                'note': [],
-                'tags': []}
-            
-        item = data[record.format.name][record.phrase][record.category.lexical]
+        if type(record) == VocabularyRecord:
+            if not record.category.lexical in data[record.format.name][record.phrase]:
+                data[record.format.name][record.phrase][record.category.lexical] = {
+                    'transcription': record.transcription,
+                    'translation': [],
+                    'image': [],
+                    'audio': [],
+                    'video': [],
+                    'note': [],
+                    'tags': []}
                 
-        for I,J in \
-            (record.translation, item['translation']),\
-            (record.note, item['note']),\
-            (record.tags, item['tags']):
-            for i in I:
-                if i and not i in J:
-                    J.append(i)
+            item = data[record.format.name][record.phrase][record.category.lexical]
+                    
+            for I,J in \
+                (record.translation, item['translation']),\
+                (record.note, item['note']),\
+                (record.tags, item['tags']):
+                for i in I:
+                    if i and not i in J:
+                        J.append(i)
+        elif type(record) == WritingRecord:
+            pass
+        elif type(record) == TextRecord:
+            pass
+        else:
+            raise Exception(
+                'Cannot process records of type: {}'.format(
+                    type(record).__name__))
     
     return data
 

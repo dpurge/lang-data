@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "text",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "tags": [
+      "mytag"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "This is an {{c1::example}} text.",
+      "transcription": "zis is en {{c1::egzampl}} tekst",
+      "translation": {
+        "eng": {"c1":""},
+        "pol": {"c1":""}
+      },
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    }
+  ]
+}
