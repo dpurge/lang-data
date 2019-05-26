@@ -99,7 +99,7 @@ VocabularyRecord = collections.namedtuple('VocabularyRecord', [
 WritingRecord = collections.namedtuple('WritingRecord', [
     'phrase',
     'transcription',
-    'translation',
+    'ipa',
     'image',
     'audio',
     'video',
@@ -163,10 +163,7 @@ def get_record_writing(data, translation, format, tags):
     return WritingRecord(
         phrase = data.get('phrase', '').strip(),
         transcription = data.get('transcription', ''),
-        translation = [i.strip() for i in data\
-            .get('translation', {})\
-            .get(translation, '')\
-            .split(';')],
+        ipa = data.get('ipa', '').strip(),
         image = data.get('image', ''),
         audio = data.get('audio', ''),
         video = data.get('video', ''),
@@ -267,7 +264,7 @@ def get_data(language, format, tag, translation):
                     'tags': []}
                 
             item = data[record.format.name][record.phrase][record.category.lexical]
-                    
+            
             for I,J in \
                 (record.translation, item['translation']),\
                 (record.note, item['note']),\
@@ -276,7 +273,24 @@ def get_data(language, format, tag, translation):
                     if i and not i in J:
                         J.append(i)
         elif type(record) == WritingRecord:
-            pass
+            if not record.transcription in data[record.format.name][record.phrase]:
+                data[record.format.name][record.phrase][record.transcription] = {
+                'ipa': [],
+                'image': [],
+                'audio': [],
+                'video': [],
+                'note': [],
+                'tags': []}
+                
+            item = data[record.format.name][record.phrase][record.transcription]
+            
+            for I,J in \
+                (record.ipa, item['ipa']),\
+                (record.note, item['note']),\
+                (record.tags, item['tags']):
+                for i in I:
+                    if i and not i in J:
+                        J.append(i)
         elif type(record) == TextRecord:
             pass
         else:
@@ -340,9 +354,10 @@ def export_data(data, language, directory, output):
                 directory, "{}-{}.{}".format(language, formatname, output_name))
             
             with open(filename, 'w', encoding='utf-8') as f:
-                if output_name == 'txt':
-                    f.write(template.render(data = flatten_data(data[formatname])))
-                else:
-                    f.write(template.render(data = data[formatname]))
+                #if output_name == 'txt':
+                #    f.write(template.render(data = flatten_data(data[formatname])))
+                #else:
+                #    f.write(template.render(data = data[formatname]))
+                f.write(template.render(data = data[formatname]))
             
             yield filename

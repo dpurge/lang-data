@@ -1,5 +1,16 @@
-{% for i in data -%}
-{% if i['translation'] | length -%}
-{{ i['phrase'] }}	{{ i['transcription'] }}	{{ i['lexcat'] }}	{{ i['translation'] }}	{{ i['image'] }}	{{ i['audio'] }}	{{ i['video'] }}	{{ i['note'] }}	{{ i['tags'] }}
-{% endif -%}
+{% for phrase in data -%}
+{% set lexcat = data[phrase] | reject('==', '') | unique | list -%}
+{% set transcription = data[phrase].values() | map(attribute='transcription') | reject('==', '') | unique | list -%}
+{% set translation = data[phrase].values() | map(attribute='translation') | list -%}
+{{ phrase -}}
+{{ "\t" -}}
+{{ transcription -}}
+{{ "\t" -}}
+{{ lexcat | join(', ') }}
+{{ translation }}
+{{ image }}
+{{ audio }}
+{{ video }}
+{{ note }}
+{{ tags }}
 {% endfor %}

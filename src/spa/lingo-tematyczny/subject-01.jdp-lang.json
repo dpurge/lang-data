@@ -1,0 +1,2674 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "",
+    "source": "",
+    "status": "pending",
+    "tags": [
+      "lingo-01"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "la abuela",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "babcia"
+      }
+    },
+    {
+      "phrase": "la confirmación",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bierzmowanie"
+      }
+    },
+    {
+      "phrase": "los gemelos",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bliźnięta"
+      }
+    },
+    {
+      "phrase": "los mellizos",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bliźnięta"
+      }
+    },
+    {
+      "phrase": "el hermano",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "brat"
+      }
+    },
+    {
+      "phrase": "el hermanastro",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "brat przyrodni"
+      }
+    },
+    {
+      "phrase": "ser la oveja negra",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "być czarną owcą"
+      }
+    },
+    {
+      "phrase": "estar embarazada",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "być w ciąży"
+      }
+    },
+    {
+      "phrase": "la ex-mujer",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "była żona"
+      }
+    },
+    {
+      "phrase": "el ex-marido",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "były mąż"
+      }
+    },
+    {
+      "phrase": "el bautismo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "chrzest"
+      }
+    },
+    {
+      "phrase": "la tía",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ciotka"
+      }
+    },
+    {
+      "phrase": "la hija",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "córka"
+      }
+    },
+    {
+      "phrase": "el miembro de la familia",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "członek rodziny"
+      }
+    },
+    {
+      "phrase": "la dama de honor",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "druhna"
+      }
+    },
+    {
+      "phrase": "el abuelo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziadek"
+      }
+    },
+    {
+      "phrase": "los niños",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dzieci"
+      }
+    },
+    {
+      "phrase": "el Día de la Abuela",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Dzień Babci"
+      }
+    },
+    {
+      "phrase": "el Día del Abuelo",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Dzień Dziadka"
+      }
+    },
+    {
+      "phrase": "el Día del Niño",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Dzień Dziecka"
+      }
+    },
+    {
+      "phrase": "el Día de la Madre",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Dzień Matki"
+      }
+    },
+    {
+      "phrase": "el Día del Padre",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Dzień Ojca"
+      }
+    },
+    {
+      "phrase": "el Día de San Valentin",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Dzień Zakochanych; Walentynki"
+      }
+    },
+    {
+      "phrase": "las felicitaciones",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gratulacje"
+      }
+    },
+    {
+      "phrase": "el día de santo",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "imieniny"
+      }
+    },
+    {
+      "phrase": "el aniversario",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jubileusz"
+      }
+    },
+    {
+      "phrase": "pelear",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kłócić się"
+      }
+    },
+    {
+      "phrase": "tener una pelea",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kłócić się"
+      }
+    },
+    {
+      "phrase": "discutir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kłócić się"
+      }
+    },
+    {
+      "phrase": "el amante",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kochanek"
+      }
+    },
+    {
+      "phrase": "la amante",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kochanka"
+      }
+    },
+    {
+      "phrase": "el conflicto generacional",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "konflikt pokoleń"
+      }
+    },
+    {
+      "phrase": "el concubinato",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "konkubinat"
+      }
+    },
+    {
+      "phrase": "el familiar",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "krewny"
+      }
+    },
+    {
+      "phrase": "el miembro de la familia",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "krewny"
+      }
+    },
+    {
+      "phrase": "el amigo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kumpel; kolega"
+      }
+    },
+    {
+      "phrase": "el compañero",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kumpel; kolega"
+      }
+    },
+    {
+      "phrase": "el primo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kuzyn"
+      }
+    },
+    {
+      "phrase": "la prima",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kuzynka"
+      }
+    },
+    {
+      "phrase": "la madrastra",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "macocha"
+      }
+    },
+    {
+      "phrase": "el matrimonio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "małżeństwo"
+      }
+    },
+    {
+      "phrase": "el esposo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "małżonek"
+      }
+    },
+    {
+      "phrase": "la esposa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "małżonka"
+      }
+    },
+    {
+      "phrase": "la madre",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "matka"
+      }
+    },
+    {
+      "phrase": "mamá",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mama"
+      }
+    },
+    {
+      "phrase": "la madrina",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "matka chrzestna"
+      }
+    },
+    {
+      "phrase": "el marido",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mąż"
+      }
+    },
+    {
+      "phrase": "la luna de miel",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miesiąc miodowy"
+      }
+    },
+    {
+      "phrase": "la familia más cercana",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "najbliższa rodzina"
+      }
+    },
+    {
+      "phrase": "la novia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "narzeczona"
+      }
+    },
+    {
+      "phrase": "el novio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "narzeczony"
+      }
+    },
+    {
+      "phrase": "el hijo ilegítimo",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nieślubne dziecko"
+      }
+    },
+    {
+      "phrase": "celebrar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obchodzić; świętować"
+      }
+    },
+    {
+      "phrase": "festejar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obchodzić; świętować"
+      }
+    },
+    {
+      "phrase": "esperar un hijo",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "oczekiwać dziecka"
+      }
+    },
+    {
+      "phrase": "heredar",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odziedziczyć"
+      }
+    },
+    {
+      "phrase": "el padre",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ojciec"
+      }
+    },
+    {
+      "phrase": "el padrino",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ojciec chrzestny"
+      }
+    },
+    {
+      "phrase": "el padrastro",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ojczym"
+      }
+    },
+    {
+      "phrase": "cuidar de",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "opiekować się"
+      }
+    },
+    {
+      "phrase": "abandonar el nido",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "opuścić gniazdo"
+      }
+    },
+    {
+      "phrase": "la petición de mano",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "oświadczyny"
+      }
+    },
+    {
+      "phrase": "el novio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pan młody"
+      }
+    },
+    {
+      "phrase": "la novia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "panna młoda"
+      }
+    },
+    {
+      "phrase": "la pareja",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "para"
+      }
+    },
+    {
+      "phrase": "la Primera Comunión",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pierwsza komunia św."
+      }
+    },
+    {
+      "phrase": "reconciliarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pogodzić się z kimś"
+      }
+    },
+    {
+      "phrase": "el entierro",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pogrzeb"
+      }
+    },
+    {
+      "phrase": "abandonar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "porzucić"
+      }
+    },
+    {
+      "phrase": "casar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "poślubić"
+      }
+    },
+    {
+      "phrase": "el descendiente",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "potomek"
+      }
+    },
+    {
+      "phrase": "la familia política",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "powinowaci"
+      }
+    },
+    {
+      "phrase": "la tatarabuela",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "prababka"
+      }
+    },
+    {
+      "phrase": "el tatarabuelo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pradziadek"
+      }
+    },
+    {
+      "phrase": "los antepasados",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przodkowie"
+      }
+    },
+    {
+      "phrase": "el hijo adoptivo",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przybrane dziecko"
+      }
+    },
+    {
+      "phrase": "los padres adoptivos",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przybrani rodzice"
+      }
+    },
+    {
+      "phrase": "el amigo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przyjaciel"
+      }
+    },
+    {
+      "phrase": "la amiga",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przyjaciółka"
+      }
+    },
+    {
+      "phrase": "la amistad",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przyjaźń"
+      }
+    },
+    {
+      "phrase": "el hermanastro",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przyrodni brat"
+      }
+    },
+    {
+      "phrase": "la hermanastra",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przyrodnia siostra"
+      }
+    },
+    {
+      "phrase": "adoptar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przysposobić; adoptować"
+      }
+    },
+    {
+      "phrase": "echar a perder a un niño",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "psuć dziecko"
+      }
+    },
+    {
+      "phrase": "la cita",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "randka"
+      }
+    },
+    {
+      "phrase": "el aniversario de boda",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rocznica ślubu"
+      }
+    },
+    {
+      "phrase": "los hermanos",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rodzeństwo"
+      }
+    },
+    {
+      "phrase": "los padres",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rodzice"
+      }
+    },
+    {
+      "phrase": "la familia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rodzina"
+      }
+    },
+    {
+      "phrase": "la familia monoparental",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rodzina niepełna"
+      }
+    },
+    {
+      "phrase": "la familia multigeneracional",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rodzina wielopokoleniowa"
+      }
+    },
+    {
+      "phrase": "la familia de acogida",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rodzina zastępcza"
+      }
+    },
+    {
+      "phrase": "la familia materna",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rodzina ze strony matki"
+      }
+    },
+    {
+      "phrase": "la familia paterna",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rodzina ze strony ojca"
+      }
+    },
+    {
+      "phrase": "el romance",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "romans"
+      }
+    },
+    {
+      "phrase": "la aventura",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "romans"
+      }
+    },
+    {
+      "phrase": "el hogar roto",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozbity dom"
+      }
+    },
+    {
+      "phrase": "separarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozstawać się"
+      }
+    },
+    {
+      "phrase": "divorciarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozwieść się"
+      }
+    },
+    {
+      "phrase": "el divorcio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozwód"
+      }
+    },
+    {
+      "phrase": "el vecino",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sąsiad"
+      }
+    },
+    {
+      "phrase": "la separación",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "separacja"
+      }
+    },
+    {
+      "phrase": "el órfano",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sierota"
+      }
+    },
+    {
+      "phrase": "la hermana",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "siostra"
+      }
+    },
+    {
+      "phrase": "la hermanastra",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "siostra przyrodnia"
+      }
+    },
+    {
+      "phrase": "la sobrina",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "siostrzenica; bratanica"
+      }
+    },
+    {
+      "phrase": "el sobrino",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "siostrzeniec; bratanek"
+      }
+    },
+    {
+      "phrase": "discutir con alguien",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sprzeczać się z kimś"
+      }
+    },
+    {
+      "phrase": "el novio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sympatia; chłopak"
+      }
+    },
+    {
+      "phrase": "la novia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sympatia; dziewczyna"
+      }
+    },
+    {
+      "phrase": "el hijo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "syn"
+      }
+    },
+    {
+      "phrase": "la nuera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "synowa"
+      }
+    },
+    {
+      "phrase": "el cuñado",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szwagier"
+      }
+    },
+    {
+      "phrase": "la cuñada",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szwagierka; bratowa"
+      }
+    },
+    {
+      "phrase": "la boda",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ślub"
+      }
+    },
+    {
+      "phrase": "el padrino",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "świadek"
+      }
+    },
+    {
+      "phrase": "la fiesta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "święto"
+      }
+    },
+    {
+      "phrase": "el papá",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tata"
+      }
+    },
+    {
+      "phrase": "la suegra",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "teściowa"
+      }
+    },
+    {
+      "phrase": "los suegros",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "teściowie"
+      }
+    },
+    {
+      "phrase": "el suegro",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "teść"
+      }
+    },
+    {
+      "phrase": "la pareja",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "towarzysz życia; partner"
+      }
+    },
+    {
+      "phrase": "morir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "umierać"
+      }
+    },
+    {
+      "phrase": "la celebración",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uroczystość"
+      }
+    },
+    {
+      "phrase": "dar a luz",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "urodzić dziecko"
+      }
+    },
+    {
+      "phrase": "el cumpleaños",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "urodziny"
+      }
+    },
+    {
+      "phrase": "sentar la cabeza",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ustatkować się"
+      }
+    },
+    {
+      "phrase": "mantener a alguien",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "utrzymywać kogoś"
+      }
+    },
+    {
+      "phrase": "la viuda",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wdowa"
+      }
+    },
+    {
+      "phrase": "el viudo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wdowiec"
+      }
+    },
+    {
+      "phrase": "la fiesta de bodas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wesele"
+      }
+    },
+    {
+      "phrase": "la boda",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wesele"
+      }
+    },
+    {
+      "phrase": "el amor eterno",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wieczna miłość"
+      }
+    },
+    {
+      "phrase": "la nieta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wnuczka"
+      }
+    },
+    {
+      "phrase": "el nieto",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wnuk"
+      }
+    },
+    {
+      "phrase": "el tío",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wujek"
+      }
+    },
+    {
+      "phrase": "educar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wychowywać"
+      }
+    },
+    {
+      "phrase": "comportarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zachowywać się"
+      }
+    },
+    {
+      "phrase": "fundar una familia",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zakładać rodzinę"
+      }
+    },
+    {
+      "phrase": "invitar a una cita",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zaprosić kogoś na randkę"
+      }
+    },
+    {
+      "phrase": "comprometerse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zaręczać się"
+      }
+    },
+    {
+      "phrase": "el compromiso",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zaręczyny"
+      }
+    },
+    {
+      "phrase": "casarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zawrzeć małżeństwo"
+      }
+    },
+    {
+      "phrase": "engañar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zdradzić"
+      }
+    },
+    {
+      "phrase": "romper con alguien",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zerwać z kimś"
+      }
+    },
+    {
+      "phrase": "el yerno",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zięć"
+      }
+    },
+    {
+      "phrase": "la reunión familiar",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zjazd rodzinny"
+      }
+    },
+    {
+      "phrase": "el conocido",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "znajomy"
+      }
+    },
+    {
+      "phrase": "el compañero de trabajo",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "znajomy z pracy; współpracownik"
+      }
+    },
+    {
+      "phrase": "la mujer",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "żona"
+      }
+    },
+    {
+      "phrase": "la esposa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "żona"
+      }
+    },
+    {
+      "phrase": "vivir feliz",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "żyć szczęśliwie"
+      }
+    },
+    {
+      "phrase": "la antipatía",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "antypatia"
+      }
+    },
+    {
+      "phrase": "la aversión",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "awersja"
+      }
+    },
+    {
+      "phrase": "la depresión",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "depresja"
+      }
+    },
+    {
+      "phrase": "el entusiasmo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "entuzjazm"
+      }
+    },
+    {
+      "phrase": "el humor",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "humor"
+      }
+    },
+    {
+      "phrase": "el ánimo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "humor"
+      }
+    },
+    {
+      "phrase": "la irritación",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "irytacja"
+      }
+    },
+    {
+      "phrase": "gustar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lubić"
+      }
+    },
+    {
+      "phrase": "querer",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lubić"
+      }
+    },
+    {
+      "phrase": "el amor",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miłość"
+      }
+    },
+    {
+      "phrase": "la esperanza",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nadzieja"
+      }
+    },
+    {
+      "phrase": "disgustar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nie lubić"
+      }
+    },
+    {
+      "phrase": "el odio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nienawiść"
+      }
+    },
+    {
+      "phrase": "el descontento",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niezadowolenie"
+      }
+    },
+    {
+      "phrase": "la indiferencia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obojętność"
+      }
+    },
+    {
+      "phrase": "la excitación",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podniecenie"
+      }
+    },
+    {
+      "phrase": "la admiración",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podziw"
+      }
+    },
+    {
+      "phrase": "el desprecio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pogarda"
+      }
+    },
+    {
+      "phrase": "divertir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozbawiać"
+      }
+    },
+    {
+      "phrase": "entretener",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozbawiać"
+      }
+    },
+    {
+      "phrase": "la decepción",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozczarowanie"
+      }
+    },
+    {
+      "phrase": "la desesperación",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozpacz"
+      }
+    },
+    {
+      "phrase": "la soledad",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "samotność"
+      }
+    },
+    {
+      "phrase": "la tristeza",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "smutek"
+      }
+    },
+    {
+      "phrase": "el miedo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "strach"
+      }
+    },
+    {
+      "phrase": "el respeto",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szacunek"
+      }
+    },
+    {
+      "phrase": "la felicidad",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szczęście"
+      }
+    },
+    {
+      "phrase": "la añoranza",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tęsknota"
+      }
+    },
+    {
+      "phrase": "el alivio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ulga"
+      }
+    },
+    {
+      "phrase": "el agradecimiento",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wdzięczność"
+      }
+    },
+    {
+      "phrase": "la graditud",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wdzięczność"
+      }
+    },
+    {
+      "phrase": "la fe",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wiara"
+      }
+    },
+    {
+      "phrase": "la hostilidad",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wrogość"
+      }
+    },
+    {
+      "phrase": "la compasión",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "współczucie"
+      }
+    },
+    {
+      "phrase": "la vergüenza",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wstyd"
+      }
+    },
+    {
+      "phrase": "la furia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wściekłość"
+      }
+    },
+    {
+      "phrase": "la ira",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wściekłość"
+      }
+    },
+    {
+      "phrase": "la satisfacción",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zadowolenie"
+      }
+    },
+    {
+      "phrase": "la vergüenza",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zakłopotanie"
+      }
+    },
+    {
+      "phrase": "los celos",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zazdrość"
+      }
+    },
+    {
+      "phrase": "la envidia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zazdrość"
+      }
+    },
+    {
+      "phrase": "la mortificación",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zażenowanie"
+      }
+    },
+    {
+      "phrase": "la humillación",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zażenowanie"
+      }
+    },
+    {
+      "phrase": "la furia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "złość"
+      }
+    },
+    {
+      "phrase": "la cólera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "złość"
+      }
+    },
+    {
+      "phrase": "la ira",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "złość"
+      }
+    },
+    {
+      "phrase": "la preocupación",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zmartwienie"
+      }
+    },
+    {
+      "phrase": "la cadera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "biodro"
+      }
+    },
+    {
+      "phrase": "la ceja",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "brew"
+      }
+    },
+    {
+      "phrase": "el estómago",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "brzuch"
+      }
+    },
+    {
+      "phrase": "el cuerpo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ciało"
+      }
+    },
+    {
+      "phrase": "la frente",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czoło"
+      }
+    },
+    {
+      "phrase": "la mano",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dłoń"
+      }
+    },
+    {
+      "phrase": "la garganta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gardło"
+      }
+    },
+    {
+      "phrase": "la cabeza",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "głowa"
+      }
+    },
+    {
+      "phrase": "la nuca",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kark"
+      }
+    },
+    {
+      "phrase": "el pulgar",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kciuk"
+      }
+    },
+    {
+      "phrase": "el pecho",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "klatka piersiowa"
+      }
+    },
+    {
+      "phrase": "la rodilla",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kolano"
+      }
+    },
+    {
+      "phrase": "el miembro",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kończyna"
+      }
+    },
+    {
+      "phrase": "la espina",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kręgosłup"
+      }
+    },
+    {
+      "phrase": "el codo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łokieć"
+      }
+    },
+    {
+      "phrase": "la pantorilla",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łydka"
+      }
+    },
+    {
+      "phrase": "la muñeca",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nadgarstek"
+      }
+    },
+    {
+      "phrase": "la pierna",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "noga"
+      }
+    },
+    {
+      "phrase": "la nariz",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nos"
+      }
+    },
+    {
+      "phrase": "la narices",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nozdrza"
+      }
+    },
+    {
+      "phrase": "el ojo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "oko"
+      }
+    },
+    {
+      "phrase": "la axila",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pacha"
+      }
+    },
+    {
+      "phrase": "el dedo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "palec"
+      }
+    },
+    {
+      "phrase": "el meñique",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mały palec"
+      }
+    },
+    {
+      "phrase": "el ombligo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pępek"
+      }
+    },
+    {
+      "phrase": "el pecho",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pierś"
+      }
+    },
+    {
+      "phrase": "la teta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pierś"
+      }
+    },
+    {
+      "phrase": "el puño",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pięść"
+      }
+    },
+    {
+      "phrase": "el talón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pięta"
+      }
+    },
+    {
+      "phrase": "la espalda",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "plecy"
+      }
+    },
+    {
+      "phrase": "la barbilla",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podbródek"
+      }
+    },
+    {
+      "phrase": "la planta del pie",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podeszwa"
+      }
+    },
+    {
+      "phrase": "la mejilla",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "policzek"
+      }
+    },
+    {
+      "phrase": "la nalga",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pośladek"
+      }
+    },
+    {
+      "phrase": "el párpado",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "powieka"
+      }
+    },
+    {
+      "phrase": "el hombro",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ramię"
+      }
+    },
+    {
+      "phrase": "la mano",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ręka"
+      }
+    },
+    {
+      "phrase": "la pestaña",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rzęsa"
+      }
+    },
+    {
+      "phrase": "la piel",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "skóra"
+      }
+    },
+    {
+      "phrase": "el pie",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "stopa"
+      }
+    },
+    {
+      "phrase": "el cuello",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szyja"
+      }
+    },
+    {
+      "phrase": "la cintura",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "talia"
+      }
+    },
+    {
+      "phrase": "la iris",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tęczówka"
+      }
+    },
+    {
+      "phrase": "la oreja",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ucho"
+      }
+    },
+    {
+      "phrase": "el muslo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "udo"
+      }
+    },
+    {
+      "phrase": "la boca",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "usta"
+      }
+    },
+    {
+      "phrase": "el labio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "warga"
+      }
+    },
+    {
+      "phrase": "el pelo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "włosy"
+      }
+    },
+    {
+      "phrase": "el cabello",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "włosy"
+      }
+    },
+    {
+      "phrase": "la pupila",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "źrenica"
+      }
+    },
+    {
+      "phrase": "la vena",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "żyła"
+      }
+    },
+    {
+      "phrase": "ser adulto",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "być dorosłym"
+      }
+    },
+    {
+      "phrase": "estar en la flor de la vida",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "być w kwiecie wieku"
+      }
+    },
+    {
+      "phrase": "la madureza",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dojrzałość"
+      }
+    },
+    {
+      "phrase": "madurar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dojrzewać"
+      }
+    },
+    {
+      "phrase": "la pubescencia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dojrzewanie"
+      }
+    },
+    {
+      "phrase": "crecer",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dorastać"
+      }
+    },
+    {
+      "phrase": "adulto",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dorosły"
+      }
+    },
+    {
+      "phrase": "la infancia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dzieciństwo"
+      }
+    },
+    {
+      "phrase": "el niño",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziecko"
+      }
+    },
+    {
+      "phrase": "el jubilado",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "emeryt; rencista"
+      }
+    },
+    {
+      "phrase": "el pensionista",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "emeryt; rencista"
+      }
+    },
+    {
+      "phrase": "el joven",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "młoda osoba"
+      }
+    },
+    {
+      "phrase": "la joven",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "młoda osoba"
+      }
+    },
+    {
+      "phrase": "juvenil",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "młodociany"
+      }
+    },
+    {
+      "phrase": "la juventud",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "młodość"
+      }
+    },
+    {
+      "phrase": "joven",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "młody"
+      }
+    }
+  ]
+}
