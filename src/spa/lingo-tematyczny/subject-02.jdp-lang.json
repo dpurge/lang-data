@@ -11,14 +11,1563 @@
   },
   "data": [
     {
-      "phrase": "",
-      "transcription": "",
+      "phrase": "el adolescente",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nastolatek"
+      }
+    },
+    {
+      "phrase": "el bebé",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niemowlę"
+      }
+    },
+    {
+      "phrase": "la primera infancia",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niemowlęctwo"
+      }
+    },
+    {
+      "phrase": "el recién nacido",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "noworodek"
+      }
+    },
+    {
+      "phrase": "hacerse mayor de edad",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "osiągnąć dorosłość"
+      }
+    },
+    {
+      "phrase": "hacerse adulto",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "osiągnąć dorosłość"
+      }
+    },
+    {
+      "phrase": "la persona anciana",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "osoba starsza"
+      }
+    },
+    {
+      "phrase": "envejecido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podstarzały"
+      }
+    },
+    {
+      "phrase": "jubilarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przejść na emeryturę"
+      }
+    },
+    {
+      "phrase": "la jubilación anticipada",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przejść na wcześniejszą emeryturę"
+      }
+    },
+    {
+      "phrase": "anciano",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sędziwy"
+      }
+    },
+    {
+      "phrase": "senil",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "starczy"
+      }
+    },
+    {
+      "phrase": "la vejez",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "starszy wiek; starość"
+      }
+    },
+    {
+      "phrase": "viejo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "stary"
+      }
+    },
+    {
+      "phrase": "envejecer",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "starzeć się"
+      }
+    },
+    {
+      "phrase": "hacerse mayor de edad",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uzyskać pełnoletność"
+      }
+    },
+    {
+      "phrase": "la adolescencia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wiek dojrzewania"
+      }
+    },
+    {
+      "phrase": "la edad mediana",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wiek średni"
+      }
+    },
+    {
+      "phrase": "entusiasta",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "entuzjastyczny"
+      }
+    },
+    {
+      "phrase": "entusiasmado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "entuzjastyczny"
+      }
+    },
+    {
+      "phrase": "inquieto",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niespokojny"
+      }
+    },
+    {
+      "phrase": "infeliz",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nieszczęśliwy"
+      }
+    },
+    {
+      "phrase": "insatisfecho",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niezadowolony"
+      }
+    },
+    {
+      "phrase": "indiferente",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obojętny"
+      }
+    },
+    {
+      "phrase": "enfadado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obrażony; zdenerwowany"
+      }
+    },
+    {
+      "phrase": "impresionado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pod wrażeniem"
+      }
+    },
+    {
+      "phrase": "excitado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podniecony"
+      }
+    },
+    {
+      "phrase": "despreciativo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pogardliwy"
+      }
+    },
+    {
+      "phrase": "deprimido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przygnębiony"
+      }
+    },
+    {
+      "phrase": "entretenido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozbawiony"
+      }
+    },
+    {
+      "phrase": "decepcionado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozczarowany"
+      }
+    },
+    {
+      "phrase": "solo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "samotny"
+      }
+    },
+    {
+      "phrase": "sentimental",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sentymentalny"
+      }
+    },
+    {
+      "phrase": "triste",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "smutny"
+      }
+    },
+    {
+      "phrase": "feliz",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szczęśliwy"
+      }
+    },
+    {
+      "phrase": "agradecido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wdzięczny"
+      }
+    },
+    {
+      "phrase": "hostil",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wrogi"
+      }
+    },
+    {
+      "phrase": "compasivo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "współczujący"
+      }
+    },
+    {
+      "phrase": "furioso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wściekły"
+      }
+    },
+    {
+      "phrase": "conmovido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wzruszony"
+      }
+    },
+    {
+      "phrase": "satisfecho",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zadowolony"
+      }
+    },
+    {
+      "phrase": "avergonzado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zakłopotany"
+      }
+    },
+    {
+      "phrase": "avergonzado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zawstydzony"
+      }
+    },
+    {
+      "phrase": "envidioso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zazdrosny"
+      }
+    },
+    {
+      "phrase": "celoso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zazdrosny"
+      }
+    },
+    {
+      "phrase": "confundido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zażenowany"
+      }
+    },
+    {
+      "phrase": "confuso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zażenowany"
+      }
+    },
+    {
+      "phrase": "nervioso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zdenerwowany"
+      }
+    },
+    {
+      "phrase": "desesperado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zdeterminowany"
+      }
+    },
+    {
+      "phrase": "sorprendido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zdziwiony"
+      }
+    },
+    {
+      "phrase": "irritado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zirytowany"
+      }
+    },
+    {
+      "phrase": "nervioso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zirytowany"
+      }
+    },
+    {
+      "phrase": "furioso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zły"
+      }
+    },
+    {
+      "phrase": "enojado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zły"
+      }
+    },
+    {
+      "phrase": "enfadado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zły"
+      }
+    },
+    {
+      "phrase": "preocupado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zmartwiony"
+      }
+    },
+    {
+      "phrase": "desesperado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zrozpaczony"
+      }
+    },
+    {
+      "phrase": "agresivo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "agresywny"
+      }
+    },
+    {
+      "phrase": "ambicioso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ambitny"
+      }
+    },
+    {
+      "phrase": "apodíctico",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "apodyktyczny"
+      }
+    },
+    {
+      "phrase": "arrogante",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "arogancki"
+      }
+    },
+    {
+      "phrase": "desinteresado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bezinteresowny"
+      }
+    },
+    {
+      "phrase": "temeroso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bojaźliwy"
+      }
+    },
+    {
+      "phrase": "inteligente",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bystry"
+      }
+    },
+    {
+      "phrase": "lúcido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bystry"
+      }
+    },
+    {
+      "phrase": "paciente",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cierpliwy"
+      }
+    },
+    {
+      "phrase": "bueno",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dobry"
+      }
+    },
+    {
+      "phrase": "exacto",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dokładny"
+      }
+    },
+    {
+      "phrase": "egoista",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "egoistyczny"
+      }
+    },
+    {
+      "phrase": "emocional",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "emocjonalny"
+      }
+    },
+    {
+      "phrase": "hablador",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gadatliwy"
+      }
+    },
+    {
+      "phrase": "locuaz",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gadatliwy"
+      }
+    },
+    {
+      "phrase": "confiable",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "godny zaufania"
+      }
+    },
+    {
+      "phrase": "caprichoso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "grymaśny"
+      }
+    },
+    {
+      "phrase": "generoso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hojny"
+      }
+    },
+    {
+      "phrase": "de humor cambiante",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "humorzasty"
+      }
+    },
+    {
+      "phrase": "temperamental",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "humorzasty"
+      }
+    },
+    {
+      "phrase": "inteligente",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "inteligentny"
+      }
+    },
+    {
+      "phrase": "introvertido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "introwertyk"
+      }
+    },
+    {
+      "phrase": "pendenciero",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kłótliwy"
+      }
+    },
+    {
+      "phrase": "perezoso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "leniwy"
+      }
+    },
+    {
+      "phrase": "taciturno",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "małomówny"
+      }
+    },
+    {
+      "phrase": "nervioso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nerwowy"
+      }
+    },
+    {
+      "phrase": "impaciente",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niecierpliwy"
+      }
+    },
+    {
+      "phrase": "insensible",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niedelikatny"
+      }
+    },
+    {
+      "phrase": "hosco",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niemiły"
+      }
+    },
+    {
+      "phrase": "desobediente",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nieposłuszny"
+      }
+    },
+    {
+      "phrase": "poco fiable",
+      "category": {
+        "lexical": "AdjP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nierzetelny"
+      }
+    },
+    {
+      "phrase": "tímido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nieśmiały"
+      }
+    },
+    {
+      "phrase": "deshonesto",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nieuczciwy"
+      }
+    },
+    {
+      "phrase": "grosero",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nieuprzejmy"
+      }
+    },
+    {
+      "phrase": "de confianza",
       "category": {
         "lexical": ""
       },
       "translation": {
         "eng": "",
-        "pol": ""
+        "pol": "niezawodny"
+      }
+    },
+    {
+      "phrase": "aburrido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nudny"
+      }
+    },
+    {
+      "phrase": "valiente",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odważny"
+      }
+    },
+    {
+      "phrase": "bravo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odważny"
+      }
+    },
+    {
+      "phrase": "tranquilo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "opanowany; spokojny"
+      }
+    },
+    {
+      "phrase": "seguro de sí mismo",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pewny siebie"
+      }
+    },
+    {
+      "phrase": "alegre",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pogodny"
+      }
+    },
+    {
+      "phrase": "violento",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "porywczy"
+      }
+    },
+    {
+      "phrase": "impetuoso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "porywczy"
+      }
+    },
+    {
+      "phrase": "obediente",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "posłuszny"
+      }
+    },
+    {
+      "phrase": "serio",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "poważny"
+      }
+    },
+    {
+      "phrase": "trabajador",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pracowity"
+      }
+    },
+    {
+      "phrase": "práctico",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "praktyczny"
+      }
+    },
+    {
+      "phrase": "vano",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "próżny"
+      }
+    },
+    {
+      "phrase": "amistoso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przyjazny"
+      }
+    },
+    {
+      "phrase": "romántico",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "romantyczny"
+      }
+    },
+    {
+      "phrase": "distraído",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "roztargniony"
+      }
+    },
+    {
+      "phrase": "de confianza",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rzetelny"
+      }
+    },
+    {
+      "phrase": "avaro",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "skąpy"
+      }
+    },
+    {
+      "phrase": "tacaño",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "skąpy"
+      }
+    },
+    {
+      "phrase": "modesto",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "skromny"
+      }
+    },
+    {
+      "phrase": "tranquilo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "spokojny"
+      }
+    },
+    {
+      "phrase": "franco",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szczery"
+      }
+    },
+    {
+      "phrase": "honesto",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szczery"
+      }
+    },
+    {
+      "phrase": "sociable",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "towarzyski"
+      }
+    },
+    {
+      "phrase": "considerado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "troskliwy"
+      }
+    },
+    {
+      "phrase": "cuidadoso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "troskliwy"
+      }
+    },
+    {
+      "phrase": "honesto",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uczciwy"
+      }
+    },
+    {
+      "phrase": "testarudo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uparty"
+      }
+    },
+    {
+      "phrase": "atento",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "usłużny"
+      }
+    },
+    {
+      "phrase": "servicial",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "usłużny"
+      }
+    },
+    {
+      "phrase": "sensible",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wrażliwy"
+      }
+    },
+    {
+      "phrase": "hostil",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wrogi"
+      }
+    },
+    {
+      "phrase": "melindroso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wybredny"
+      }
+    },
+    {
+      "phrase": "exigente",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wybredny; wymagający"
+      }
+    },
+    {
+      "phrase": "olvidadizo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zapominalski"
+      }
+    },
+    {
+      "phrase": "presumido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zarozumiały"
+      }
+    },
+    {
+      "phrase": "celoso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zazdrosny"
+      }
+    },
+    {
+      "phrase": "de voluntad firme",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zdecydowany"
+      }
+    },
+    {
+      "phrase": "decidido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zdecydowany"
+      }
+    },
+    {
+      "phrase": "malévolo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "złośliwy"
+      }
+    },
+    {
+      "phrase": "animado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "żywy; żywotny"
+      }
+    },
+    {
+      "phrase": "atractivo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "atrakcyjny"
+      }
+    },
+    {
+      "phrase": "ancho de espaldas",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "barczysty"
+      }
+    },
+    {
+      "phrase": "pálido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "blady"
+      }
+    },
+    {
+      "phrase": "la cicatriz",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "blizna"
+      }
+    },
+    {
+      "phrase": "rubio",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "blondyn"
+      }
+    },
+    {
+      "phrase": "rubia",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "blondynka"
+      }
+    },
+    {
+      "phrase": "barbudo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "brodaty"
+      }
+    },
+    {
+      "phrase": "la verruga",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "brodawka"
+      }
+    },
+    {
+      "phrase": "feo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "brzydki"
+      }
+    },
+    {
+      "phrase": "flaco",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "chudy"
+      }
+    },
+    {
+      "phrase": "patilargo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "długonogi"
+      }
+    },
+    {
+      "phrase": "bien formado",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dobrze zbudowany"
+      }
+    },
+    {
+      "phrase": "bien hecho",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dobrze zbudowany"
+      }
+    },
+    {
+      "phrase": "minúsculo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "drobny"
+      }
+    },
+    {
+      "phrase": "diminuto",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "drobny"
+      }
+    },
+    {
+      "phrase": "el peinado",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "fryzura"
+      }
+    },
+    {
+      "phrase": "gordo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gruby"
+      }
+    },
+    {
+      "phrase": "el flequillo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "grzywka"
+      }
+    },
+    {
+      "phrase": "corpulento",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "korpulentny"
+      }
+    },
+    {
+      "phrase": "óseo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kościsty"
+      }
+    },
+    {
+      "phrase": "la cola de caballo",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kucyk"
+      }
+    },
+    {
+      "phrase": "bonito",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ładny"
+      }
+    },
+    {
+      "phrase": "calvo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łysy"
       }
     }
   ]
