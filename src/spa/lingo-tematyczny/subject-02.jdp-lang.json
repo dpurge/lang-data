@@ -2,9 +2,9 @@
   "meta": {
     "format": "vocabulary",
     "version": 1,
-    "language": "",
+    "language": "spa",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "lingo-02"
     ]
@@ -1568,6 +1568,1680 @@
       "translation": {
         "eng": "",
         "pol": "łysy"
+      }
+    },
+    {
+      "phrase": "bajo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niski"
+      }
+    },
+    {
+      "phrase": "regordete",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niski i pulchny"
+      }
+    },
+    {
+      "phrase": "de constitución fina",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "o drobnej budowie ciała"
+      }
+    },
+    {
+      "phrase": "robusto",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "o muskularnej budowie ciała"
+      }
+    },
+    {
+      "phrase": "de constitución mediana",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "o średniej budowie ciała"
+      }
+    },
+    {
+      "phrase": "las orejas prominentes",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odstające uszy"
+      }
+    },
+    {
+      "phrase": "afeitado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ogolony"
+      }
+    },
+    {
+      "phrase": "el bronceado",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "opalenizna"
+      }
+    },
+    {
+      "phrase": "obeso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "otyły"
+      }
+    },
+    {
+      "phrase": "la peca",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pieg"
+      }
+    },
+    {
+      "phrase": "pecoso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piegowaty"
+      }
+    },
+    {
+      "phrase": "el lunar",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pieprzyk; znamię"
+      }
+    },
+    {
+      "phrase": "la papada",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podwójny podbródek"
+      }
+    },
+    {
+      "phrase": "arrugado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pomarszczony"
+      }
+    },
+    {
+      "phrase": "común",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pospolity"
+      }
+    },
+    {
+      "phrase": "el grano",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pryszcz"
+      }
+    },
+    {
+      "phrase": "guapo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przystojny"
+      }
+    },
+    {
+      "phrase": "rechoncho",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pulchny"
+      }
+    },
+    {
+      "phrase": "colorado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rumiany"
+      }
+    },
+    {
+      "phrase": "sonrosado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rumiany"
+      }
+    },
+    {
+      "phrase": "aseado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "schludny"
+      }
+    },
+    {
+      "phrase": "limpio",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "schludny"
+      }
+    },
+    {
+      "phrase": "esmerado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "schludny"
+      }
+    },
+    {
+      "phrase": "esbelto",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "smukły"
+      }
+    },
+    {
+      "phrase": "encantador",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uroczy"
+      }
+    },
+    {
+      "phrase": "bigotudo",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wąsaty"
+      }
+    },
+    {
+      "phrase": "con bigote",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wąsaty"
+      }
+    },
+    {
+      "phrase": "el pelo hasta los hombros",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "włosy do ramion"
+      }
+    },
+    {
+      "phrase": "el pelo rizado",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "włosy kręcone"
+      }
+    },
+    {
+      "phrase": "el pelo liso",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "włosy proste"
+      }
+    },
+    {
+      "phrase": "alto",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wysoki"
+      }
+    },
+    {
+      "phrase": "obeso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "z nadwagą"
+      }
+    },
+    {
+      "phrase": "el barrigón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "z wielkim brzuchem"
+      }
+    },
+    {
+      "phrase": "el panzón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "z wielkim brzuchem"
+      }
+    },
+    {
+      "phrase": "de ojos saltones",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "z wyłupiastymi oczami"
+      }
+    },
+    {
+      "phrase": "el vello",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zarost"
+      }
+    },
+    {
+      "phrase": "el pelaje",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zarost"
+      }
+    },
+    {
+      "phrase": "bizco",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zezowaty"
+      }
+    },
+    {
+      "phrase": "la arruga",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zmarszczka"
+      }
+    },
+    {
+      "phrase": "latir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bić"
+      },
+      "note": {
+        "eng": "",
+        "pol": "o sercu"
+      }
+    },
+    {
+      "phrase": "estar exhausto",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "być wyczerpanym"
+      }
+    },
+    {
+      "phrase": "hacer ejercicio",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ćwiczyć"
+      }
+    },
+    {
+      "phrase": "practicar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ćwiczyć"
+      }
+    },
+    {
+      "phrase": "tocar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dotykać"
+      }
+    },
+    {
+      "phrase": "rascarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "drapać się"
+      }
+    },
+    {
+      "phrase": "morder",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gryźć"
+      }
+    },
+    {
+      "phrase": "aplaudir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "klaskać"
+      }
+    },
+    {
+      "phrase": "palmar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "klepać"
+      }
+    },
+    {
+      "phrase": "dar palmadas",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "klepać"
+      }
+    },
+    {
+      "phrase": "cosquillear",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łaskotać"
+      }
+    },
+    {
+      "phrase": "agitar el brazo",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "machać ręką"
+      }
+    },
+    {
+      "phrase": "inclinarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nachylać się"
+      }
+    },
+    {
+      "phrase": "abrazar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obejmować"
+      }
+    },
+    {
+      "phrase": "respirar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "oddychać"
+      }
+    },
+    {
+      "phrase": "apoyarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "opierać się"
+      }
+    },
+    {
+      "phrase": "sudar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pocić się"
+      }
+    },
+    {
+      "phrase": "tragar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "połykać"
+      }
+    },
+    {
+      "phrase": "crecer",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rosnąć"
+      }
+    },
+    {
+      "phrase": "saltar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "skakać"
+      }
+    },
+    {
+      "phrase": "probar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "smakować; próbować"
+      }
+    },
+    {
+      "phrase": "saborear",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "smakować; próbować"
+      }
+    },
+    {
+      "phrase": "empujar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szturchnąć; popchnąć"
+      }
+    },
+    {
+      "phrase": "digerir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "trawić"
+      }
+    },
+    {
+      "phrase": "hacerse una siesta",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uciąć sobie drzemkę"
+      }
+    },
+    {
+      "phrase": "golpear",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uderzać pięścią"
+      }
+    },
+    {
+      "phrase": "dar un puñetazo",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uderzać pięścią"
+      }
+    },
+    {
+      "phrase": "pellizcar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uszczypnąć"
+      }
+    },
+    {
+      "phrase": "cojear",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "utykać"
+      }
+    },
+    {
+      "phrase": "oler",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wąchać"
+      }
+    },
+    {
+      "phrase": "suspirar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "westchnąć"
+      }
+    },
+    {
+      "phrase": "saludar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "witać się"
+      }
+    },
+    {
+      "phrase": "indicar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wskazywać"
+      }
+    },
+    {
+      "phrase": "ahogarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zadławić się"
+      }
+    },
+    {
+      "phrase": "la dirección",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "adres"
+      }
+    },
+    {
+      "phrase": "la fecha de nacimiento",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "data urodzenia"
+      }
+    },
+    {
+      "phrase": "el DNI",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dowód osobisty"
+      }
+    },
+    {
+      "phrase": "el carnet de identidad",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dowód osobisty"
+      }
+    },
+    {
+      "phrase": "el nombre",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "imię"
+      }
+    },
+    {
+      "phrase": "el idioma",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "język obcy"
+      }
+    },
+    {
+      "phrase": "la lengua materna",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "język ojczysty"
+      }
+    },
+    {
+      "phrase": "el soltero",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kawaler"
+      }
+    },
+    {
+      "phrase": "la soltera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "panna"
+      }
+    },
+    {
+      "phrase": "la mujer",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kobieta"
+      }
+    },
+    {
+      "phrase": "el código postal",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kod pocztowy"
+      }
+    },
+    {
+      "phrase": "el país",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kraj"
+      }
+    },
+    {
+      "phrase": "el hombre",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mężczyzna"
+      }
+    },
+    {
+      "phrase": "el lugar de nacimiento",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miejsce urodzenia"
+      }
+    },
+    {
+      "phrase": "el domicilio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miejsce zamieszkania"
+      }
+    },
+    {
+      "phrase": "la nacionalidad",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "narodowość"
+      }
+    },
+    {
+      "phrase": "el apellido",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nazwisko"
+      }
+    },
+    {
+      "phrase": "el número de apartamento",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "numer mieszkania"
+      }
+    },
+    {
+      "phrase": "el número de piso",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "numer mieszkania"
+      }
+    },
+    {
+      "phrase": "el número de pasaporte",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "numer paszportu"
+      }
+    },
+    {
+      "phrase": "el número de telefono",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "numer telefonu"
+      }
+    },
+    {
+      "phrase": "la ciudadanía",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obywatelstwo"
+      }
+    },
+    {
+      "phrase": "el sexo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "płeć"
+      }
+    },
+    {
+      "phrase": "la firma",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podpis"
+      }
+    },
+    {
+      "phrase": "divorciado",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozwodnik"
+      }
+    },
+    {
+      "phrase": "divorciada",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozwódka"
+      }
+    },
+    {
+      "phrase": "el estado civil",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "stan cywilny"
+      }
+    },
+    {
+      "phrase": "el viudo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wdowiec"
+      }
+    },
+    {
+      "phrase": "la viuda",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wdowa"
+      }
+    },
+    {
+      "phrase": "la edad",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wiek"
+      }
+    },
+    {
+      "phrase": "casado",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "żonaty"
+      }
+    },
+    {
+      "phrase": "casada",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zamężna"
+      }
+    },
+    {
+      "phrase": "el cuarto de baño",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łazienka"
+      }
+    },
+    {
+      "phrase": "el botiquín",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "apteczka"
+      }
+    },
+    {
+      "phrase": "la esponja",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gąbka"
+      }
+    },
+    {
+      "phrase": "el peine",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "grzebień"
+      }
+    },
+    {
+      "phrase": "la cabina de la ducha",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kabina prysznicowa"
+      }
+    },
+    {
+      "phrase": "los azulejos",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kafelki"
+      }
+    },
+    {
+      "phrase": "el cesto de la ropa",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kosz na bieliznę"
+      }
+    },
+    {
+      "phrase": "el grifo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kran"
+      }
+    },
+    {
+      "phrase": "el espejo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lustro"
+      }
+    },
+    {
+      "phrase": "la jabonera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mydelniczka"
+      }
+    },
+    {
+      "phrase": "el jabón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mydło"
+      }
+    },
+    {
+      "phrase": "el papel higiénico",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "papier toaletowy"
+      }
+    },
+    {
+      "phrase": "el dentífrico",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pasta do zębów"
+      }
+    },
+    {
+      "phrase": "la pasta de dientes",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pasta do zębów"
+      }
+    },
+    {
+      "phrase": "el estante",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "półka"
+      }
+    },
+    {
+      "phrase": "la lavadora",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pralka"
+      }
+    },
+    {
+      "phrase": "la ducha",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "prysznic"
+      }
+    },
+    {
+      "phrase": "los artículos de tocador",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przybory toaletowe"
+      }
+    },
+    {
+      "phrase": "la toalla",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ręcznik"
+      }
+    },
+    {
+      "phrase": "la secadora",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "suszarka do włosów"
+      }
+    },
+    {
+      "phrase": "el cepillo de dientes",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szczoteczka do zębów"
+      }
+    },
+    {
+      "phrase": "el baño",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ubikacja"
+      }
+    },
+    {
+      "phrase": "el lavabo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "umywalka"
+      }
+    },
+    {
+      "phrase": "la bañera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wanna"
+      }
+    },
+    {
+      "phrase": "el cuarto de estar",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pokój dzienny"
+      }
+    },
+    {
+      "phrase": "el dormitorio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sypialnia"
+      }
+    },
+    {
+      "phrase": "el mini-bar",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "barek"
+      }
+    },
+    {
+      "phrase": "el despertador",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "budzik"
+      }
+    },
+    {
+      "phrase": "la alfombra",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dywan"
+      }
+    },
+    {
+      "phrase": "la alfombrilla",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dywanik"
+      }
+    },
+    {
+      "phrase": "el sillón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "fotel"
+      }
+    },
+    {
+      "phrase": "el sofá",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kanapa"
+      }
+    },
+    {
+      "phrase": "el candelabro de pared",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kinkiet"
+      }
+    },
+    {
+      "phrase": "la manta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "koc"
+      }
+    },
+    {
+      "phrase": "la chimenea",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kominek"
+      }
+    },
+    {
+      "phrase": "la cómoda",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "komoda"
+      }
+    },
+    {
+      "phrase": "el aparador",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kredens"
+      }
+    },
+    {
+      "phrase": "la silla",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "krzesło"
+      }
+    },
+    {
+      "phrase": "la mecedora",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "krzesło bujane"
+      }
+    },
+    {
+      "phrase": "la silla plegable",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "krzesło składane"
+      }
+    },
+    {
+      "phrase": "la lámpara de pie",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lampa stojąca"
+      }
+    },
+    {
+      "phrase": "la lámpara de noche",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lampka nocna"
+      }
+    },
+    {
+      "phrase": "la cama",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łóżko"
+      }
+    },
+    {
+      "phrase": "la cama reclinable",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łóżko rozkładane"
+      }
+    },
+    {
+      "phrase": "el colchón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "materac"
+      }
+    },
+    {
+      "phrase": "el mueble",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mebel"
+      }
+    },
+    {
+      "phrase": "el cuadro",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obraz"
+      }
+    },
+    {
+      "phrase": "el reposapiés",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podnóżek"
+      }
+    },
+    {
+      "phrase": "la ropa de cama",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pościel"
+      }
+    },
+    {
+      "phrase": "el estante de libros",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "półka na książki"
+      }
+    },
+    {
+      "phrase": "el puf",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pufa"
+      }
+    },
+    {
+      "phrase": "la estantería",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "regał"
+      }
+    },
+    {
+      "phrase": "el sofá",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sofa"
+      }
+    },
+    {
+      "phrase": "el soporte para CDs",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "stojak na CD"
+      }
+    },
+    {
+      "phrase": "la mesita baja",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "stolik do kawy"
+      }
+    },
+    {
+      "phrase": "la mesilla de noche",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "stolik nocny"
+      }
+    },
+    {
+      "phrase": "la mesa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "stół"
+      }
+    },
+    {
+      "phrase": "el armario",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szafa"
+      }
+    },
+    {
+      "phrase": "la televisión vía satélite",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "telewizja satelitarna"
+      }
+    },
+    {
+      "phrase": "la televisión por cable",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "telewizja kablowa"
+      }
+    },
+    {
+      "phrase": "el televisor",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "telewizor"
+      }
+    },
+    {
+      "phrase": "la tele",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "telewizor"
       }
     }
   ]

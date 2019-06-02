@@ -2,23 +2,2812 @@
   "meta": {
     "format": "vocabulary",
     "version": 1,
-    "language": "",
+    "language": "spa",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "lingo-03"
     ]
   },
   "data": [
     {
-      "phrase": "",
-      "transcription": "",
+      "phrase": "el tocador",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "toaletka"
+      }
+    },
+    {
+      "phrase": "el ventilador",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wiatrak"
+      }
+    },
+    {
+      "phrase": "la cocina",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kuchnia"
+      }
+    },
+    {
+      "phrase": "la hervidor",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czajnik"
+      }
+    },
+    {
+      "phrase": "la tetera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czajnik"
+      }
+    },
+    {
+      "phrase": "la cafetera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ekspres do kawy"
+      }
+    },
+    {
+      "phrase": "la olla",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "garnek"
+      }
+    },
+    {
+      "phrase": "la copa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kieliszek"
+      }
+    },
+    {
+      "phrase": "la papelera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kosz na śmieci"
+      }
+    },
+    {
+      "phrase": "la jarra",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kubek"
+      }
+    },
+    {
+      "phrase": "la estufa eléctrica",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kuchenka elektryczna"
+      }
+    },
+    {
+      "phrase": "el microondas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kuchenka mikrofalowa"
+      }
+    },
+    {
+      "phrase": "la estufa a gas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kuchnia gazowa"
+      }
+    },
+    {
+      "phrase": "la nevera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lodówka"
+      }
+    },
+    {
+      "phrase": "la cama",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łóżko"
+      }
+    },
+    {
+      "phrase": "la cucharita",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łyżeczka"
+      }
+    },
+    {
+      "phrase": "la cuchara",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łyżka"
+      }
+    },
+    {
+      "phrase": "el tazón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miska"
+      }
+    },
+    {
+      "phrase": "el recipiente",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "naczynie"
+      }
+    },
+    {
+      "phrase": "el plato",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "naczynie"
+      }
+    },
+    {
+      "phrase": "el cuchillo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nóż"
+      }
+    },
+    {
+      "phrase": "el mantel",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obrus"
+      }
+    },
+    {
+      "phrase": "la sartén",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "patelnia"
+      }
+    },
+    {
+      "phrase": "el horno",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piec kuchenny"
+      }
+    },
+    {
+      "phrase": "el especiero",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "półka na przyprawy"
+      }
+    },
+    {
+      "phrase": "la servilleta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "serwetka"
+      }
+    },
+    {
+      "phrase": "el taburete",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "stołek"
+      }
+    },
+    {
+      "phrase": "la mesa de la cocina",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "stół kuchenny"
+      }
+    },
+    {
+      "phrase": "el vaso",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szklanka"
+      }
+    },
+    {
+      "phrase": "los cubiertos",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sztućce"
+      }
+    },
+    {
+      "phrase": "el taburete",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "taboret"
+      }
+    },
+    {
+      "phrase": "el plato",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "talerz"
+      }
+    },
+    {
+      "phrase": "el tenedor",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "widelec"
+      }
+    },
+    {
+      "phrase": "el extractor de humos",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wyciąg kuchenny"
+      }
+    },
+    {
+      "phrase": "el fregadero",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zlewozmywak"
+      }
+    },
+    {
+      "phrase": "el lavavajillas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zmywarka do naczyń"
+      }
+    },
+    {
+      "phrase": "jugar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bawić się; grać w coś"
+      }
+    },
+    {
+      "phrase": "leer un periódico",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czytać gazetę"
+      }
+    },
+    {
+      "phrase": "leer un libro",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czytać książkę"
+      }
+    },
+    {
+      "phrase": "hacer gimnasia",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gimnastykować się"
+      }
+    },
+    {
+      "phrase": "hacer ejercicios",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gimnastykować się"
+      }
+    },
+    {
+      "phrase": "afeitarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "golić się"
+      }
+    },
+    {
+      "phrase": "cocinar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gotować"
+      }
+    },
+    {
+      "phrase": "ir al trabajo",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "iść do pracy"
+      }
+    },
+    {
+      "phrase": "ir a la escuela",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "iść do szkoły"
+      }
+    },
+    {
+      "phrase": "ir de paseo",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "iść na spacer"
+      }
+    },
+    {
+      "phrase": "dar un paseo",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "iść na spacer"
+      }
+    },
+    {
+      "phrase": "lavar los dientes",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "myć zęby"
+      }
+    },
+    {
+      "phrase": "poner la mesa",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nakrywać do stołu"
+      }
+    },
+    {
+      "phrase": "recoger los niños de la escuela",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odebrać dzieci ze szkoły"
+      }
+    },
+    {
+      "phrase": "poner los libros en su sitio",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odkładać książki na miejsce"
+      }
+    },
+    {
+      "phrase": "aspirar el suelo",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odkurzać podłogę"
+      }
+    },
+    {
+      "phrase": "quitar el polvo de las estanterías",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odkurzać półki"
+      }
+    },
+    {
+      "phrase": "descansar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odpoczywać"
+      }
+    },
+    {
+      "phrase": "hacer los deberes",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odrabiać lekcje"
+      }
+    },
+    {
+      "phrase": "visitar a los amigos",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odwiedzić przyjaciół"
+      }
+    },
+    {
+      "phrase": "regar las plantas",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podlewać kwiatki"
+      }
+    },
+    {
+      "phrase": "colgar la ropa",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "powiesić ubrania"
+      }
+    },
+    {
+      "phrase": "planchar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "prasować"
+      }
+    },
+    {
+      "phrase": "preparar la comida",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przygotować posiłek"
+      }
+    },
+    {
+      "phrase": "maquillarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "robić makijaż"
+      }
+    },
+    {
+      "phrase": "lavar la ropa",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "robić pranie"
+      }
+    },
+    {
+      "phrase": "hacer compras",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "robić zakupy"
+      }
+    },
+    {
+      "phrase": "quitarse la ropa",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozebrać się"
+      }
+    },
+    {
+      "phrase": "desnudarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozebrać się do naga"
+      }
+    },
+    {
+      "phrase": "desempacar las compras",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozpakować zakupy"
+      }
+    },
+    {
+      "phrase": "colgar la ropa lavada",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozwiesić pranie"
+      }
+    },
+    {
+      "phrase": "doblar la ropa",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "składać ubrania"
+      }
+    },
+    {
+      "phrase": "usar el baño",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "skorzystać z toalety"
+      }
+    },
+    {
+      "phrase": "escuchar la música",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "słuchać muzyki"
+      }
+    },
+    {
+      "phrase": "escuchar la radio",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "słuchać radia"
+      }
+    },
+    {
+      "phrase": "limpiar la habitación",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sprzątać pokój"
+      }
+    },
+    {
+      "phrase": "navegar por Internet",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "surfować po intemecie"
+      }
+    },
+    {
+      "phrase": "hacer la cama",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ścielić łóżko"
+      }
+    },
+    {
+      "phrase": "limpiar el polvo",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ścierać kurze"
+      }
+    },
+    {
+      "phrase": "quitar el polvo",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ścierać kurze"
+      }
+    },
+    {
+      "phrase": "vestirse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ubierać się"
+      }
+    },
+    {
+      "phrase": "estudiar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uczyć się"
+      }
+    },
+    {
+      "phrase": "limpiar el suelo",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "umyć podłogę"
+      }
+    },
+    {
+      "phrase": "lavar el pelo",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "umyć włosy"
+      }
+    },
+    {
+      "phrase": "limpiar la habitación",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uporządkować rzeczy w pokoju"
+      }
+    },
+    {
+      "phrase": "arreglar la habitación",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uporządkować rzeczy w pokoju"
+      }
+    },
+    {
+      "phrase": "hacer deporte",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uprawiać sport"
+      }
+    },
+    {
+      "phrase": "practicar deporte",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "uprawiać sport"
+      }
+    },
+    {
+      "phrase": "poner música",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "włączyć muzykę"
+      }
+    },
+    {
+      "phrase": "encender la tele",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "włączyć telewizor"
+      }
+    },
+    {
+      "phrase": "encender el ordenador",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "włączyć komputer"
+      }
+    },
+    {
+      "phrase": "levantarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wstawać"
+      }
+    },
+    {
+      "phrase": "secar los platos",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wycierać naczynia"
+      }
+    },
+    {
+      "phrase": "hacer las tareas del hogar",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wykonywać prace domowe"
+      }
+    },
+    {
+      "phrase": "sacar la basura",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wynosić śmieci"
+      }
+    },
+    {
+      "phrase": "pasear al perro",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wyprowadzać psa"
+      }
+    },
+    {
+      "phrase": "ducharse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wziąć prysznic"
+      }
+    },
+    {
+      "phrase": "ponerse algo",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zakładać coś na siebie"
+      }
+    },
+    {
+      "phrase": "vestirse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zakładać coś na siebie"
+      }
+    },
+    {
+      "phrase": "dormirse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zasypiać"
+      }
+    },
+    {
+      "phrase": "cambiar las sabanas",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zmieniać pościel"
+      }
+    },
+    {
+      "phrase": "fregar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zmywać"
+      }
+    },
+    {
+      "phrase": "limpiar los platos",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zmywać"
+      }
+    },
+    {
+      "phrase": "la residencia de estudiantes",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "akademik"
+      }
+    },
+    {
+      "phrase": "el balcón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "balkon"
+      }
+    },
+    {
+      "phrase": "el edificio de viviendas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "blok mieszkalny"
+      }
+    },
+    {
+      "phrase": "el edificio residencial",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "budynek mieszkalny"
+      }
+    },
+    {
+      "phrase": "la cabaña",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "chata"
+      }
+    },
+    {
+      "phrase": "el tejado",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dach"
+      }
+    },
+    {
+      "phrase": "la cabaña",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dacza"
+      }
+    },
+    {
+      "phrase": "el hogar",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dom; gospodarstwo domowe"
+      }
+    },
+    {
+      "phrase": "la casa adosada",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dom bliźniak"
+      }
+    },
+    {
+      "phrase": "la casa de dos plantas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dom dwukondygnacyjny"
+      }
+    },
+    {
+      "phrase": "el chalet",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dom parterowy"
+      }
+    },
+    {
+      "phrase": "el chalet",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dom wolnostojący"
+      }
+    },
+    {
+      "phrase": "la cabaña",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "domek wiejski"
+      }
+    },
+    {
+      "phrase": "el rascacielos",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "drapacz chmur"
+      }
+    },
+    {
+      "phrase": "el garaje",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "garaż"
+      }
+    },
+    {
+      "phrase": "el guardarropa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "garderoba"
+      }
+    },
+    {
+      "phrase": "la finca",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gospodarstwo na wsi"
+      }
+    },
+    {
+      "phrase": "la entrada",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hol wejściowy"
+      }
+    },
+    {
+      "phrase": "el pasillo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hol wejściowy"
+      }
+    },
+    {
+      "phrase": "el comedor",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jadalnia"
+      }
+    },
+    {
+      "phrase": "la escalera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "klatka schodowa"
+      }
+    },
+    {
+      "phrase": "la chimenea",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "komin"
+      }
+    },
+    {
+      "phrase": "el corredor",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "korytarz"
+      }
+    },
+    {
+      "phrase": "el pasillo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "korytarz"
+      }
+    },
+    {
+      "phrase": "la estufa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kuchenka"
+      }
+    },
+    {
+      "phrase": "la cocina",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kuchnia"
+      }
+    },
+    {
+      "phrase": "la casa del forastero",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "leśniczówka"
+      }
+    },
+    {
+      "phrase": "el cuarto de baño",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łazienka"
+      }
+    },
+    {
+      "phrase": "el apartamento",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mieszkanie"
+      }
+    },
+    {
+      "phrase": "el jardín",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ogród"
+      }
+    },
+    {
+      "phrase": "la urbanización",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "osiedle"
+      }
+    },
+    {
+      "phrase": "el barrio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "osiedle"
+      }
+    },
+    {
+      "phrase": "el sótano",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piwnica"
+      }
+    },
+    {
+      "phrase": "la entrada de coches",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podjazd"
+      }
+    },
+    {
+      "phrase": "el cuarto de los niños",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pokój dziecięcy"
+      }
+    },
+    {
+      "phrase": "la sala de estar",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pokój dzienny"
+      }
+    },
+    {
+      "phrase": "el living",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pokój dzienny"
+      }
+    },
+    {
+      "phrase": "la habitación de huéspedes",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pokój gościnny"
+      }
+    },
+    {
+      "phrase": "el cuarto de huéspedes",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pokój gościnny"
+      }
+    },
+    {
+      "phrase": "la habitación",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pokój; pomieszczenie"
+      }
+    },
+    {
+      "phrase": "el cuarto",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pokój; pomieszczenie"
+      }
+    },
+    {
+      "phrase": "el taller",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pracownia"
+      }
+    },
+    {
+      "phrase": "el vestíbulo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przedpokój"
+      }
+    },
+    {
+      "phrase": "el pasillo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przedpokój"
+      }
+    },
+    {
+      "phrase": "la agencia de inmuebles",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "biuro nieruchomości"
+      }
+    },
+    {
+      "phrase": "el alquiler",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czynsz"
+      }
+    },
+    {
+      "phrase": "renta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czynsz"
+      }
+    },
+    {
+      "phrase": "para alquiler",
       "category": {
         "lexical": ""
       },
       "translation": {
         "eng": "",
-        "pol": ""
+        "pol": "do wynajęcia"
+      }
+    },
+    {
+      "phrase": "arrendar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dzierżawić"
+      }
+    },
+    {
+      "phrase": "la agencia de mudanzas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "firma przeprowadzkowa"
+      }
+    },
+    {
+      "phrase": "la empresa de mudanzas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "firma przeprowadzkowa"
+      }
+    },
+    {
+      "phrase": "la hipoteca",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hipoteka"
+      }
+    },
+    {
+      "phrase": "el depósito",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kaucja"
+      }
+    },
+    {
+      "phrase": "los gastos adicionales",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "koszty dodatkowe"
+      }
+    },
+    {
+      "phrase": "el inquilino",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "najemca; lokator"
+      }
+    },
+    {
+      "phrase": "sin muebles",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nieumeblowane"
+      }
+    },
+    {
+      "phrase": "no amueblado",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nieumeblowane"
+      }
+    },
+    {
+      "phrase": "cobrar una tarifa",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obciążać opłatą"
+      }
+    },
+    {
+      "phrase": "las ofertas de viviendas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "oferty mieszkaniowe"
+      }
+    },
+    {
+      "phrase": "la parcela",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "parcela; działka"
+      }
+    },
+    {
+      "phrase": "pagar el alquiler",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "płacić czynsz"
+      }
+    },
+    {
+      "phrase": "el pago por adelantado",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "płatność z góry"
+      }
+    },
+    {
+      "phrase": "la residencia temporal",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pobyt czasowy"
+      }
+    },
+    {
+      "phrase": "la residencia permanente",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pobyt stały"
+      }
+    },
+    {
+      "phrase": "el aumento del alquiler",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podwyżka czynszu"
+      }
+    },
+    {
+      "phrase": "la localización",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "położenie"
+      }
+    },
+    {
+      "phrase": "el agente",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pośrednik; agent"
+      }
+    },
+    {
+      "phrase": "diseñar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "projektować"
+      }
+    },
+    {
+      "phrase": "la comisión",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "prowizja"
+      }
+    },
+    {
+      "phrase": "mudarse de casa",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przeprowadzać się"
+      }
+    },
+    {
+      "phrase": "hacer reformas",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "remontować"
+      }
+    },
+    {
+      "phrase": "reparar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "remontować"
+      }
+    },
+    {
+      "phrase": "buscar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozglądać się; szukać"
+      }
+    },
+    {
+      "phrase": "el plazo de notificación",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "termin wypowiedzenia"
+      }
+    },
+    {
+      "phrase": "las comodidades",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "udogodnienia"
+      }
+    },
+    {
+      "phrase": "amueblado",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "umeblowane"
+      }
+    },
+    {
+      "phrase": "el contrato de alquiler",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "umowa najmu"
+      }
+    },
+    {
+      "phrase": "el dueño",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "właściciel"
+      }
+    },
+    {
+      "phrase": "la cocina común",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wspólna kuchnia"
+      }
+    },
+    {
+      "phrase": "compartir el piso",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "współwynajmować mieszkanie"
+      }
+    },
+    {
+      "phrase": "alquilar un piso a alquien",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wynająć komuś mieszkanie"
+      }
+    },
+    {
+      "phrase": "alquilar un piso de alguien",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wynająć od kogoś mieszkanie"
+      }
+    },
+    {
+      "phrase": "el alquilador",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wynajmujący"
+      }
+    },
+    {
+      "phrase": "el dueño",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "właściciel"
+      }
+    },
+    {
+      "phrase": "el administrador",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zarządca"
+      }
+    },
+    {
+      "phrase": "el gestor",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zarządca"
+      }
+    },
+    {
+      "phrase": "el agente de viajes",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "agent biura podróży"
+      }
+    },
+    {
+      "phrase": "la máquina de billetes",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "automat biletowy"
+      }
+    },
+    {
+      "phrase": "la autopista",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "autostrada"
+      }
+    },
+    {
+      "phrase": "el equipaje",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bagaż"
+      }
+    },
+    {
+      "phrase": "el equipaje de mano",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bagaż podręczny"
+      }
+    },
+    {
+      "phrase": "la gasolina sin plomo",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "benzyna bezołowiowa"
+      }
+    },
+    {
+      "phrase": "el billete de segunda clase",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bilet drugiej klasy"
+      }
+    },
+    {
+      "phrase": "el billete electrónico",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bilet elektroniczny"
+      }
+    },
+    {
+      "phrase": "el billete de primera clase",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bilet pierwszej klasy"
+      }
+    },
+    {
+      "phrase": "el billete de ida y vuelta",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bilet powrotny"
+      }
+    },
+    {
+      "phrase": "el billete de familia",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bilet rodzinny"
+      }
+    },
+    {
+      "phrase": "el billete semanal",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bilet tygodniowy"
+      }
+    },
+    {
+      "phrase": "el billete de ida",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bilet w jedną stronę"
+      }
+    },
+    {
+      "phrase": "la agencia de viajes",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "biuro podróży"
+      }
+    },
+    {
+      "phrase": "la oficina de objetos perdidos",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "biuro rzeczy znalezionych"
+      }
+    },
+    {
+      "phrase": "el bloqueo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "blokada"
+      }
+    },
+    {
+      "phrase": "la puerta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bramka;przejście"
+      }
+    },
+    {
+      "phrase": "el destino",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cel wyjazdu; miejsce docelowe"
+      }
+    },
+    {
+      "phrase": "el mareo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "choroba morska"
+      }
+    },
+    {
+      "phrase": "dar marcha atrás",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cofać"
+      }
+    },
+    {
+      "phrase": "llegar a",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dojść do"
+      }
+    },
+    {
+      "phrase": "el carnet de identidad",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dowód osobisty"
+      }
+    },
+    {
+      "phrase": "el permiso de circulación",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dowód rejestracyjny"
+      }
+    },
+    {
+      "phrase": "la carretera de peaje",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "droga z płatnym przejazdem"
+      }
+    },
+    {
+      "phrase": "la estación de autobuses",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dworzec autobusowy"
+      }
+    },
+    {
+      "phrase": "el bache",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziura w drodze"
+      }
+    },
+    {
+      "phrase": "las vacaciones de invierno",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ferie zimowe"
+      }
+    },
+    {
+      "phrase": "la banda de frenado",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "próg zwalniający"
+      }
+    },
+    {
+      "phrase": "la calle principal",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "główna ulica"
+      }
+    },
+    {
+      "phrase": "la frontera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "granica"
+      }
+    },
+    {
+      "phrase": "la sala de salidas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hala odlotów"
+      }
+    },
+    {
+      "phrase": "la sala de llegadas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hala przylotów"
+      }
+    },
+    {
+      "phrase": "frenar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hamować"
+      }
+    },
+    {
+      "phrase": "ir a pie",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "iść na piechotę"
+      }
+    },
+    {
+      "phrase": "caminar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "iść na piechotę"
+      }
+    },
+    {
+      "phrase": "viajar a dedo",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jechać autostopem"
+      }
+    },
+    {
+      "phrase": "ir de vacaciones",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jechać na wakacje"
+      }
+    },
+    {
+      "phrase": "ir a los lagos",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jechać nad jezioro"
+      }
+    },
+    {
+      "phrase": "ir a la costa",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jechać nad morze"
+      }
+    },
+    {
+      "phrase": "ir a la playa",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jechać nad morze"
+      }
+    },
+    {
+      "phrase": "ir a la montaña",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jechać w góry"
+      }
+    },
+    {
+      "phrase": "la cabina doble",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kabina dwuosobowa"
+      }
+    },
+    {
+      "phrase": "la cabina simple",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kabina jednoosobowa"
+      }
+    },
+    {
+      "phrase": "la tarjeta de embarcamiento",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "karta pokładowa"
+      }
+    },
+    {
+      "phrase": "el conductor",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kierowca"
+      }
+    },
+    {
+      "phrase": "la dirección",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kierunek"
+      }
+    },
+    {
+      "phrase": "la clase ejecutiva",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "klasa biznes"
+      }
+    },
+    {
+      "phrase": "la clase económica",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "klasa ekonomiczna"
+      }
+    },
+    {
+      "phrase": "el control de equipaje",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kontrola bagażowa"
+      }
+    },
+    {
+      "phrase": "la facturación de equipaje",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odprawa bagażowa"
+      }
+    },
+    {
+      "phrase": "el revisor",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kontroler"
+      }
+    },
+    {
+      "phrase": "el revisor",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kontroler biletów"
+      }
+    },
+    {
+      "phrase": "el bordillo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "krawężnik"
+      }
+    },
+    {
+      "phrase": "el aterrizaje",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lądowanie"
+      }
+    },
+    {
+      "phrase": "el límite de equipaje",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "limit bagażowy"
+      }
+    },
+    {
+      "phrase": "la línea costera",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "linia brzegowa"
+      }
+    },
+    {
+      "phrase": "el vuelo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lot"
+      }
+    },
+    {
+      "phrase": "el aeropuerto",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lotnisko"
+      }
+    },
+    {
+      "phrase": "la multa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mandat"
+      }
+    },
+    {
+      "phrase": "el asiento de la ventana",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miejsce przy oknie"
+      }
+    },
+    {
+      "phrase": "el asiento de pasillo",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miejsce przy przejściu"
+      }
+    },
+    {
+      "phrase": "el asiento en la mitad",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miejsce w środku"
+      }
+    },
+    {
+      "phrase": "el asiento en la frente",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miejsce z przodu"
+      }
+    },
+    {
+      "phrase": "el asiento atrás",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miejsce z tyłu"
+      }
+    },
+    {
+      "phrase": "el asiento",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miejscówka"
+      }
+    },
+    {
+      "phrase": "pasar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "minąć"
+      }
+    },
+    {
+      "phrase": "el motociclista",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "motocyklista"
+      }
+    },
+    {
+      "phrase": "pegatina con el nombre del país",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "naklejka z nazwą kraju"
+      }
+    },
+    {
+      "phrase": "el desvío",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "objazd"
+      }
+    },
+    {
+      "phrase": "la circunvalación",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obwodnica"
+      }
+    },
+    {
+      "phrase": "la recogida de equipaje",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odbiór bagażu"
+      }
+    },
+    {
+      "phrase": "salir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odjechać"
+      }
+    },
+    {
+      "phrase": "irse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odjechać"
+      }
+    },
+    {
+      "phrase": "el despegue",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odlot"
+      }
+    },
+    {
+      "phrase": "el control de seguridad",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odprawa bezpieczeństwa pasażerów"
+      }
+    },
+    {
+      "phrase": "la facturación",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "odprawa paszportowo-bagażowa"
+      }
+    },
+    {
+      "phrase": "el retraso",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "opóźnienie"
+      }
+    },
+    {
+      "phrase": "la señalización",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "oznakowanie drogowe"
+      }
+    },
+    {
+      "phrase": "hacer las maletas",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pakować się"
+      }
+    },
+    {
+      "phrase": "el aparcamiento con vigilancia",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "parking strzeżony"
+      }
+    },
+    {
+      "phrase": "aparcar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "parkować"
+      }
+    },
+    {
+      "phrase": "el cinturón de seguridad",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pas bezpieczeństwa"
+      }
+    },
+    {
+      "phrase": "el carril",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pas jezdni"
+      }
+    },
+    {
+      "phrase": "el carril rápido",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pas szybkiego ruchu"
+      }
+    },
+    {
+      "phrase": "el pasajero",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pasażer"
+      }
+    },
+    {
+      "phrase": "el viajero sin boleto",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pasażer na gapę"
+      }
+    },
+    {
+      "phrase": "el andén",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "peron"
+      }
+    },
+    {
+      "phrase": "ir volando",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pędzić"
+      }
+    },
+    {
+      "phrase": "ir a toda prisa",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pędzić"
+      }
+    },
+    {
+      "phrase": "el peatón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pieszy"
+      }
+    },
+    {
+      "phrase": "el piloto",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pilot"
+      }
+    },
+    {
+      "phrase": "el itinerario",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "plan podróży; marszruta"
+      }
+    },
+    {
+      "phrase": "planificar el viaje",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "planować podróż"
+      }
+    },
+    {
+      "phrase": "organizar el viaje",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "planować podróż"
+      }
+    },
+    {
+      "phrase": "la mochila",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "plecak"
       }
     }
   ]
