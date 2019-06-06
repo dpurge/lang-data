@@ -12,91 +12,91 @@
   "data": [
     {
       "phrase": "ა",
-      "transcription": "A a",
+      "transcription": "a",
       "ipa": "ɑ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "ani",
         "pol": "ani"
       }
     },
     {
       "phrase": "ბ",
-      "transcription": "B b",
+      "transcription": "b",
       "ipa": "b",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "bani",
         "pol": "bani"
       }
     },
     {
       "phrase": "გ",
-      "transcription": "G g",
+      "transcription": "g",
       "ipa": "ɡ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "gani",
         "pol": "gani"
       }
     },
     {
       "phrase": "დ",
-      "transcription": "D d",
+      "transcription": "d",
       "ipa": "d",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "doni",
         "pol": "doni"
       }
     },
     {
       "phrase": "ე",
-      "transcription": "E e",
+      "transcription": "e",
       "ipa": "ɛ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "eni",
         "pol": "eni"
       }
     },
     {
       "phrase": "ვ",
-      "transcription": "V v",
+      "transcription": "v",
       "ipa": "v",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "vini",
         "pol": "vini"
       }
     },
     {
       "phrase": "ზ",
-      "transcription": "Z z",
+      "transcription": "z",
       "ipa": "z",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "zeni",
         "pol": "zeni"
       }
     },
     {
       "phrase": "ჱ",
-      "transcription": "Ē ē",
+      "transcription": "ē",
       "ipa": "eɪ",
       "image": "",
       "audio": "",
@@ -108,385 +108,385 @@
     },
     {
       "phrase": "თ",
-      "transcription": "T' t'",
+      "transcription": "t'",
       "ipa": "tʰ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "tani",
         "pol": "tani"
       }
     },
     {
       "phrase": "ი",
-      "transcription": "I i",
+      "transcription": "i",
       "ipa": "i",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "ini",
         "pol": "ini"
       }
     },
     {
       "phrase": "კ",
-      "transcription": "K k",
+      "transcription": "k",
       "ipa": "kʼ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "k'ani",
         "pol": "k'ani"
       }
     },
     {
       "phrase": "ლ",
-      "transcription": "L l",
+      "transcription": "l",
       "ipa": "l",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "lasi",
         "pol": "lasi"
       }
     },
     {
       "phrase": "მ",
-      "transcription": "M m",
+      "transcription": "m",
       "ipa": "m",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "mani",
         "pol": "mani"
       }
     },
     {
       "phrase": "ნ",
-      "transcription": "N n",
+      "transcription": "n",
       "ipa": "n",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "nari",
         "pol": "nari"
       }
     },
     {
       "phrase": "ჲ",
-      "transcription": "Y y",
+      "transcription": "y",
       "ipa": "je",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "hie",
         "pol": "hie"
       }
     },
     {
       "phrase": "ო",
-      "transcription": "O o",
+      "transcription": "o",
       "ipa": "ɔ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "oni",
         "pol": "oni"
       }
     },
     {
       "phrase": "პ",
-      "transcription": "P p",
+      "transcription": "p",
       "ipa": "pʼ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "p'ari",
         "pol": "p'ari"
       }
     },
     {
       "phrase": "ჟ",
-      "transcription": "Ž ž",
+      "transcription": "ž",
       "ipa": "ʒ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "zhani",
         "pol": "zhani"
       }
     },
     {
       "phrase": "რ",
-      "transcription": "R r",
+      "transcription": "r",
       "ipa": "r",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "rae",
         "pol": "rae"
       }
     },
     {
       "phrase": "ს",
-      "transcription": "S s",
+      "transcription": "s",
       "ipa": "s",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "sani",
         "pol": "sani"
       }
     },
     {
       "phrase": "ტ",
-      "transcription": "T t",
+      "transcription": "t",
       "ipa": "tʼ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "t'ari",
         "pol": "t'ari"
       }
     },
     {
       "phrase": "ჳ",
-      "transcription": "W w",
+      "transcription": "w",
       "ipa": "uɪ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "vie",
         "pol": "vie"
       }
     },
     {
       "phrase": "უ",
-      "transcription": "U u",
+      "transcription": "u",
       "ipa": "u",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "uni",
         "pol": "uni"
       }
     },
     {
       "phrase": "ჷ",
-      "transcription": "—",
+      "transcription": "-",
       "ipa": "ə",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "yn",
         "pol": "yn"
       }
     },
     {
       "phrase": "ფ",
-      "transcription": "P' p'",
+      "transcription": "p'",
       "ipa": "pʰ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "pari",
         "pol": "pari"
       }
     },
     {
       "phrase": "ქ",
-      "transcription": "K' k'",
+      "transcription": "k'",
       "ipa": "kʰ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "kani",
         "pol": "kani"
       }
     },
     {
       "phrase": "ღ",
-      "transcription": "Ḡ ḡ",
+      "transcription": "ḡ",
       "ipa": "ɣ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "ghani",
         "pol": "ghani"
       }
     },
     {
       "phrase": "ყ",
-      "transcription": "Q q",
+      "transcription": "q",
       "ipa": "qʼ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "q'ari",
         "pol": "q'ari"
       }
     },
     {
       "phrase": "ჸ",
-      "transcription": "—",
+      "transcription": "-",
       "ipa": "ʔ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "elif",
         "pol": "elif"
       }
     },
     {
       "phrase": "შ",
-      "transcription": "Š š",
+      "transcription": "š",
       "ipa": "ʃ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "shini",
         "pol": "shini"
       }
     },
     {
       "phrase": "ჩ",
-      "transcription": "Č' č'",
+      "transcription": "č'",
       "ipa": "tʃʰ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "chini",
         "pol": "chini"
       }
     },
     {
       "phrase": "ც",
-      "transcription": "C’ c’",
+      "transcription": "c’",
       "ipa": "tsʰ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "tsani",
         "pol": "tsani"
       }
     },
     {
       "phrase": "ძ",
-      "transcription": "J j",
+      "transcription": "j",
       "ipa": "dz",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "dzili",
         "pol": "dzili"
       }
     },
     {
       "phrase": "წ",
-      "transcription": "C c",
+      "transcription": "c",
       "ipa": "tsʼ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "ts'ili",
         "pol": "ts'ili"
       }
     },
     {
       "phrase": "ჭ",
-      "transcription": "Č č",
+      "transcription": "č",
       "ipa": "tʃʼ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "ch'ari",
         "pol": "ch'ari"
       }
     },
     {
       "phrase": "ხ",
-      "transcription": "X x",
+      "transcription": "x",
       "ipa": "χ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "khani",
         "pol": "khani"
       }
     },
     {
       "phrase": "ჴ",
-      "transcription": "H̱ ẖ",
+      "transcription": "ẖ",
       "ipa": "qʰ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "qari, hari",
         "pol": "qari, hari"
       }
     },
     {
       "phrase": "ჯ",
-      "transcription": "J̌ ǰ",
+      "transcription": "ǰ",
       "ipa": "dʒ",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "jani",
         "pol": "jani"
       }
     },
     {
       "phrase": "ჰ",
-      "transcription": "H h",
+      "transcription": "h",
       "ipa": "h",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "hae",
         "pol": "hae"
       }
     },
     {
       "phrase": "ჵ",
-      "transcription": "Ō ō",
+      "transcription": "ō",
       "ipa": "oː",
       "image": "",
       "audio": "",
       "video": "",
       "note": {
-        "eng": "",
+        "eng": "hoe",
         "pol": "hoe"
       }
     }

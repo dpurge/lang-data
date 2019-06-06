@@ -1,3 +1,33 @@
-{% for i in data -%}
-{{ i['phrase'] }}	{{ i['transcription'] }}	{{ i['lexcat'] }}	{{ i['translation'] }}	{{ i['image'] }}	{{ i['audio'] }}	{{ i['video'] }}	{{ i['note'] }}	{{ i['tags'] }}
+{% for phrase in data -%}
+{% set transcription = data[phrase] | reject('==', '') | unique | list -%}
+{% set ipa = data[phrase].values() | sum(attribute='ipa', start=[]) | unique | list -%}
+{% set note = data[phrase].values() | sum(attribute='note', start=[]) | unique | list -%}
+
+{% set image = data[phrase].values() | sum(attribute='image', start=[]) | unique | list -%}
+{% set audio = data[phrase].values() | sum(attribute='audio', start=[]) | unique | list -%}
+{% set video = data[phrase].values() | sum(attribute='video', start=[]) | unique | list -%}
+
+{% set tags = data[phrase].values() | sum(attribute='tags', start=[]) | list-%}
+
+{{ phrase -}}
+{{ "\t" -}}
+{{ transcription | join('; ') -}}
+{{ "\t" -}}
+{{ ipa | join('; ') -}}
+{{ "\t" -}}
+{% for i in image -%}
+{{ i }}
+{%- endfor -%}
+{{ "\t" -}}
+{% for i in audio -%}
+{{ i }}
+{%- endfor -%}
+{{ "\t" -}}
+{% for i in video -%}
+{{ i }}
+{%- endfor -%}
+{{ "\t" -}}
+{{ note | join('; ') -}}
+{{ "\t" -}}
+{{ tags | join(', ') }}
 {% endfor %}

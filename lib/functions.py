@@ -284,9 +284,9 @@ def get_data(language, format, tag, translation):
                 'tags': []}
                 
             item = data[record.format.name][record.phrase][record.transcription]
+            item['ipa'].append(record.ipa)
             
             for I,J in \
-                (record.ipa, item['ipa']),\
                 (record.note, item['note']),\
                 (record.tags, item['tags']):
                 for i in I:
