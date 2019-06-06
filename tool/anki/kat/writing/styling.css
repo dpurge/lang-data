@@ -1,0 +1,43 @@
+.card {
+ font-family: arial;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+.georgian {
+ font-family: 'Arial', serif;
+ font-size: 250%;
+ color: red;
+}
+
+.georgian-small {
+ font-family: 'Arial', serif;
+ font-size: 150%;
+ color: red;
+}
+
+.transcription {
+  font-size: 130%;
+ color: blue;
+ font-style:italic;
+ padding-bottom: 10px;
+}
+
+.transcription-small {
+  color: blue;
+  font-style:italic;
+}
+
+.ipa {
+  font-size: 130%;
+}
+
+.ipa-small {
+}
+
+.notes {
+ font-size: 80%;
+ color: grey;
+}
