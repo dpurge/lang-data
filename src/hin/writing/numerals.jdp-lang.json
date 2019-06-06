@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "writing",
+    "version": 1,
+    "language": "hin",
+    "source": "",
+    "tags": [
+        "numerals"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "०",
+      "transcription": "0",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "१",
+      "transcription": "1",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "२",
+      "transcription": "2",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "३",
+      "transcription": "3",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "४",
+      "transcription": "4",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "५",
+      "transcription": "5",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "६",
+      "transcription": "6",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "७",
+      "transcription": "7",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "८",
+      "transcription": "8",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "९",
+      "transcription": "9",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    }
+  ]
+}

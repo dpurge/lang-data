@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "status": "ready",
+    "format": "writing",
+    "version": 1,
+    "language": "hin",
+    "source": "",
+    "tags": [
+        "consonants"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "क",
+      "transcription": "ka",
+      "ipa": "kə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ख",
+      "transcription": "kha",
+      "ipa": "kʰə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ग",
+      "transcription": "ga",
+      "ipa": "ɡə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "घ",
+      "transcription": "gha",
+      "ipa": "ɡʱə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ङ",
+      "transcription": "ṅa",
+      "ipa": "ŋə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ह",
+      "transcription": "ha",
+      "ipa": "ɦə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "च",
+      "transcription": "ca",
+      "ipa": "tʃə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "छ",
+      "transcription": "cha",
+      "ipa": "tʃʰə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ज",
+      "transcription": "ja",
+      "ipa": "dʒə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "झ",
+      "transcription": "jha",
+      "ipa": "dʒʱə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ञ",
+      "transcription": "ña",
+      "ipa": "ɲə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "य",
+      "transcription": "ya",
+      "ipa": "jə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "श",
+      "transcription": "śa",
+      "ipa": "ɕə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ट",
+      "transcription": "ṭa",
+      "ipa": "ʈə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ठ",
+      "transcription": "ṭha",
+      "ipa": "ʈʰə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ड",
+      "transcription": "ḍa",
+      "ipa": "ɖə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ढ",
+      "transcription": "ḍha",
+      "ipa": "ɖʱə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ण",
+      "transcription": "ṇa",
+      "ipa": "ɳə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "र",
+      "transcription": "ra",
+      "ipa": "ɹə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ष",
+      "transcription": "ṣa",
+      "ipa": "ʂə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "त",
+      "transcription": "ta",
+      "ipa": "t̪ə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "थ",
+      "transcription": "tha",
+      "ipa": "t̪ʰə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "द",
+      "transcription": "da",
+      "ipa": "d̪ə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ध",
+      "transcription": "dha",
+      "ipa": "d̪ʱə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "न",
+      "transcription": "na",
+      "ipa": "nə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ल",
+      "transcription": "la",
+      "ipa": "lə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "स",
+      "transcription": "sa",
+      "ipa": "sə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "प",
+      "transcription": "pa",
+      "ipa": "pə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "फ",
+      "transcription": "pha",
+      "ipa": "pʰə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ब",
+      "transcription": "ba",
+      "ipa": "bə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "भ",
+      "transcription": "bha",
+      "ipa": "bʱə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "म",
+      "transcription": "ma",
+      "ipa": "mə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "व",
+      "transcription": "va",
+      "ipa": "ʋə",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    }
+  ]
+}

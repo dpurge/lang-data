@@ -1,0 +1,506 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "writing",
+    "version": 1,
+    "language": "hin",
+    "source": "",
+    "tags": [
+        "consonants"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "अ",
+      "transcription": "a",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "क",
+      "transcription": "ka",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "आ",
+      "transcription": "ā",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "का",
+      "transcription": "kā",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ॲ",
+      "transcription": "æ",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कॅ",
+      "transcription": "kæ",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ऑ",
+      "transcription": "ɒ",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कॉ",
+      "transcription": "kɒ",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "इ",
+      "transcription": "i",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कि",
+      "transcription": "ki",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ई",
+      "transcription": "ī",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "की",
+      "transcription": "kī",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "उ",
+      "transcription": "u",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कु",
+      "transcription": "ku",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ऊ",
+      "transcription": "ū",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कू",
+      "transcription": "kū",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ऎ",
+      "transcription": "e",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कॆ",
+      "transcription": "ke",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ए",
+      "transcription": "ē",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "के",
+      "transcription": "kē",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ऐ",
+      "transcription": "ai",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कै",
+      "transcription": "kai",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ऒ",
+      "transcription": "o",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कॊ",
+      "transcription": "ko",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ओ",
+      "transcription": "ō",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "को",
+      "transcription": "kō",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "औ",
+      "transcription": "au",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कौ",
+      "transcription": "kau",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ऋ",
+      "transcription": "r̥",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कृ",
+      "transcription": "kr̥",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ॠ",
+      "transcription": "r̥̄",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कॄ",
+      "transcription": "kr̥̄",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ऌ",
+      "transcription": "l̥",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कॢ",
+      "transcription": "kl̥",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ॡ",
+      "transcription": "l̥̄",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कॣ",
+      "transcription": "kl̥̄",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "अं",
+      "transcription": "ṁ",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कं",
+      "transcription": "kṁ",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "अः",
+      "transcription": "ḥ",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "कः",
+      "transcription": "kaḥ",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "क्",
+      "transcription": "k",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    }
+  ]
+}

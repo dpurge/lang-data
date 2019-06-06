@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "writing",
+    "version": 1,
+    "language": "bod",
+    "source": "",
+    "tags": [
+        "clusters"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "",
+      "transcription": "",
+      "ipa": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    }
+  ]
+}

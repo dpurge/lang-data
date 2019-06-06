@@ -1,0 +1,950 @@
+{
+  "meta": {
+    "status": "pending",
+    "format": "writing",
+    "version": 1,
+    "language": "bod",
+    "source": "",
+    "tags": [
+        "vowels"
+    ]
+  },
+  "data": [
+    {
+      "phrase": "ཨ།",
+      "transcription": "a",
+      "ipa": "a",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨའུ།",
+      "transcription": "au",
+      "ipa": "au̯",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨར།",
+      "transcription": "ar",
+      "ipa": "aː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨལ།",
+      "transcription": "ä",
+      "ipa": "ɛ:",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨའི།",
+      "transcription": "ä",
+      "ipa": "ɛ:",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨག།",
+      "transcription": "ag",
+      "ipa": "aʡ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨགས།",
+      "transcription": "ag",
+      "ipa": "aʡ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨབ།",
+      "transcription": "ab",
+      "ipa": "əʡ̆",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨབས།",
+      "transcription": "ab",
+      "ipa": "əʡ̆",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨད།",
+      "transcription": "ä",
+      "ipa": "ɛ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨས།",
+      "transcription": "ä",
+      "ipa": "ɛ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨང༌།",
+      "transcription": "ang",
+      "ipa": "aŋ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨངས།",
+      "transcription": "ang",
+      "ipa": "aŋ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨམ།",
+      "transcription": "am",
+      "ipa": "am",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨམས།",
+      "transcription": "am",
+      "ipa": "am",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨན།",
+      "transcription": "än",
+      "ipa": "ɛ̃ː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨི།",
+      "transcription": "i",
+      "ipa": "i",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིའུ།",
+      "transcription": "iu",
+      "ipa": "iu̯",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེའུ།",
+      "transcription": "iu",
+      "ipa": "iu̯",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིར།",
+      "transcription": "ir",
+      "ipa": "iː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིལ།",
+      "transcription": "i",
+      "ipa": "iː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨའི།",
+      "transcription": "i",
+      "ipa": "iː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིག།",
+      "transcription": "ig",
+      "ipa": "iʡ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིགས།",
+      "transcription": "ig",
+      "ipa": "iʡ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིབ།",
+      "transcription": "ib",
+      "ipa": "ɪʡ̆",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིབས།",
+      "transcription": "ib",
+      "ipa": "ɪʡ̆",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིད།",
+      "transcription": "i",
+      "ipa": "i",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིས།",
+      "transcription": "i",
+      "ipa": "i",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིང༌།",
+      "transcription": "ing",
+      "ipa": "iŋ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིངས།",
+      "transcription": "ing",
+      "ipa": "iŋ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིམ།",
+      "transcription": "im",
+      "ipa": "im]",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིམས།",
+      "transcription": "im",
+      "ipa": "im",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨིན།",
+      "transcription": "in",
+      "ipa": "ĩː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུ།",
+      "transcription": "u",
+      "ipa": "u",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུར།",
+      "transcription": "ur",
+      "ipa": "uː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུལ།",
+      "transcription": "ü",
+      "ipa": "yː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུའི།",
+      "transcription": "ü",
+      "ipa": "yː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུག།",
+      "transcription": "ug",
+      "ipa": "uʡ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུགས།",
+      "transcription": "ug",
+      "ipa": "uʡ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུབ།",
+      "transcription": "ub",
+      "ipa": "ʊʡ̆",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུབས།",
+      "transcription": "ub",
+      "ipa": "ʊʡ̆",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུད།",
+      "transcription": "ü",
+      "ipa": "y",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུས།",
+      "transcription": "ü",
+      "ipa": "y",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུང༌།",
+      "transcription": "ung",
+      "ipa": "uŋ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུངས།",
+      "transcription": "ung",
+      "ipa": "uŋ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུམ།",
+      "transcription": "um",
+      "ipa": "um",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུམས།",
+      "transcription": "um",
+      "ipa": "um",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨུན།",
+      "transcription": "ün",
+      "ipa": "ỹː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེ།",
+      "transcription": "ê",
+      "ipa": "e",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེར།",
+      "transcription": "êr",
+      "ipa": "eː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེལ།",
+      "transcription": "ê",
+      "ipa": "eː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེའི།",
+      "transcription": "ê",
+      "ipa": "eː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེག།",
+      "transcription": "êg",
+      "ipa": "eʡ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེགས།",
+      "transcription": "êg",
+      "ipa": "eʡ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེབ།",
+      "transcription": "êb",
+      "ipa": "eʡ̆",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེབས།",
+      "transcription": "êb",
+      "ipa": "eʡ̆",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེད།",
+      "transcription": "ê",
+      "ipa": "e",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེས།",
+      "transcription": "ê",
+      "ipa": "e",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེང༌།",
+      "transcription": "êng",
+      "ipa": "eŋ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེངས།",
+      "transcription": "êng",
+      "ipa": "eŋ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེམ།",
+      "transcription": "êm",
+      "ipa": "em",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེམས།",
+      "transcription": "êm",
+      "ipa": "em",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨེན།",
+      "transcription": "ên",
+      "ipa": "ẽː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོ།",
+      "transcription": "ô",
+      "ipa": "o",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོར།",
+      "transcription": "ôr",
+      "ipa": "oː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོལ།",
+      "transcription": "ö",
+      "ipa": "øː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོའི།",
+      "transcription": "ö",
+      "ipa": "øː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོག།",
+      "transcription": "ôg",
+      "ipa": "oʡ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོགས།",
+      "transcription": "ôg",
+      "ipa": "oʡ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོབ།",
+      "transcription": "ôb",
+      "ipa": "oʡ̆",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོབས།",
+      "transcription": "ôb",
+      "ipa": "oʡ̆",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོད།",
+      "transcription": "ö",
+      "ipa": "ø",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོས།",
+      "transcription": "ö",
+      "ipa": "ø",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོང༌།",
+      "transcription": "ông",
+      "ipa": "oŋ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོངས།",
+      "transcription": "ông",
+      "ipa": "oŋ",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོམ།",
+      "transcription": "ôm",
+      "ipa": "om",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོམས།",
+      "transcription": "ôm",
+      "ipa": "om",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    },
+    {
+      "phrase": "ཨོན།",
+      "transcription": "ön",
+      "ipa": "ø̃ː",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": {
+        "eng": "",
+        "pol": ""
+      }
+    }
+  ]
+}
