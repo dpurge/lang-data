@@ -1,5 +1,7 @@
 # Lexical categories
 
+Basic categories:
+
 Lexical category | Markup code
 --- | ---
 adjective | Adj
@@ -30,3 +32,11 @@ pronoun | Pron
 suffix | Suff
 subordinator | Sub
 verb | V
+
+Phrase categories:
+
+Lexical category | Markup code
+--- | ---
+Adjective phrase | AdjP
+Noun phrase | NP
+Verb Phrase | VP
