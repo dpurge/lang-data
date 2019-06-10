@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "format": "language",
+    "version": 1,
+    "status": "ready"
+  },
+  "data": {
+    "name": "Japanese",
+    "code": "jpn"
+  }
+}

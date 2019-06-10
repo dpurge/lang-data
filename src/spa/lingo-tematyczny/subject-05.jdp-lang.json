@@ -4,21 +4,4128 @@
     "version": 1,
     "language": "",
     "source": "",
-    "status": "pending",
+    "status": "ready",
     "tags": [
       "lingo-05"
     ]
   },
   "data": [
     {
-      "phrase": "",
-      "transcription": "",
+      "phrase": "el alcaparra",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kapary"
+      }
+    },
+    {
+      "phrase": "la col",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kapusta"
+      }
+    },
+    {
+      "phrase": "la alcachofa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "karczoch"
+      }
+    },
+    {
+      "phrase": "el maíz",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kukurydza"
+      }
+    },
+    {
+      "phrase": "la mandarina",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mandarynka"
+      }
+    },
+    {
+      "phrase": "el mango",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mango"
+      }
+    },
+    {
+      "phrase": "la zanahoria",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "marchewka"
+      }
+    },
+    {
+      "phrase": "la menta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mięta"
+      }
+    },
+    {
+      "phrase": "el albaricoque",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "morela"
+      }
+    },
+    {
+      "phrase": "la nectarina",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nektarynka"
+      }
+    },
+    {
+      "phrase": "el pepino",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ogórek"
+      }
+    },
+    {
+      "phrase": "la aceituna",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "oliwka"
+      }
+    },
+    {
+      "phrase": "la nuez",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "orzech"
+      }
+    },
+    {
+      "phrase": "la avellana",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "orzech laskowy"
+      }
+    },
+    {
+      "phrase": "el pimientón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "papryka"
+      }
+    },
+    {
+      "phrase": "el champiñón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pieczarka"
+      }
+    },
+    {
+      "phrase": "la pimienta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pieprz"
+      }
+    },
+    {
+      "phrase": "la naranja",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pomarańcza"
+      }
+    },
+    {
+      "phrase": "el tomate",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pomidor"
+      }
+    },
+    {
+      "phrase": "el puero",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "por"
+      }
+    },
+    {
+      "phrase": "el ruibarbo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rabarbar"
+      }
+    },
+    {
+      "phrase": "las uvas pasas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rodzynki"
+      }
+    },
+    {
+      "phrase": "el romero",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rozmaryn"
+      }
+    },
+    {
+      "phrase": "la lechuga",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sałata"
+      }
+    },
+    {
+      "phrase": "el apio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "seler"
+      }
+    },
+    {
+      "phrase": "la cebolleta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szczypiorek"
+      }
+    },
+    {
+      "phrase": "el espárrago",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szparag"
+      }
+    },
+    {
+      "phrase": "la espinaca",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szpinak"
+      }
+    },
+    {
+      "phrase": "la ciruela",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "śliwka"
+      }
+    },
+    {
+      "phrase": "la ciruela pasa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "śliwka suszona"
+      }
+    },
+    {
+      "phrase": "el tomillo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tymianek"
+      }
+    },
+    {
+      "phrase": "la patata",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ziemniak"
+      }
+    },
+    {
+      "phrase": "la carne de cordero",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "baranina"
+      }
+    },
+    {
+      "phrase": "el bistec",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "befsztyk"
+      }
+    },
+    {
+      "phrase": "el tocino",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bekon"
+      }
+    },
+    {
+      "phrase": "la ternera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cielęcina"
+      }
+    },
+    {
+      "phrase": "la carne de caza",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziczyzna"
+      }
+    },
+    {
+      "phrase": "la oca",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gęś"
+      }
+    },
+    {
+      "phrase": "el pavo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "indyk"
+      }
+    },
+    {
+      "phrase": "la carne de cordero",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jagnięcina"
+      }
+    },
+    {
+      "phrase": "el pato",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kaczka"
+      }
+    },
+    {
+      "phrase": "el pollo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kurczak"
+      }
+    },
+    {
+      "phrase": "la codorniz",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przepiórka"
+      }
+    },
+    {
+      "phrase": "el jamón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szynka"
+      }
+    },
+    {
+      "phrase": "la carne de cerdo",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wieprzowina"
+      }
+    },
+    {
+      "phrase": "la carne de puerco",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wieprzowina"
+      }
+    },
+    {
+      "phrase": "la carne de vaca",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wołowina"
+      }
+    },
+    {
+      "phrase": "la carne de res",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wołowina"
+      }
+    },
+    {
+      "phrase": "las anchoas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "anchois"
+      }
+    },
+    {
+      "phrase": "el bacalao",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dorsz"
+      }
+    },
+    {
+      "phrase": "la langosta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "homar"
+      }
+    },
+    {
+      "phrase": "la carpa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "karp"
+      }
+    },
+    {
+      "phrase": "los langostinos",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "krewetki"
+      }
+    },
+    {
+      "phrase": "las gambas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "krewetki"
+      }
+    },
+    {
+      "phrase": "el salmón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łosoś"
+      }
+    },
+    {
+      "phrase": "la caballa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "makrela"
+      }
+    },
+    {
+      "phrase": "las almejas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "małże"
+      }
+    },
+    {
+      "phrase": "la perca",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "okoń"
+      }
+    },
+    {
+      "phrase": "la ostra",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ostryga"
+      }
+    },
+    {
+      "phrase": "el pulpo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ośmiornica"
+      }
+    },
+    {
+      "phrase": "la trucha",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pstrąg"
+      }
+    },
+    {
+      "phrase": "el cangrejo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rak"
+      }
+    },
+    {
+      "phrase": "la lucioperca",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sandacz"
+      }
+    },
+    {
+      "phrase": "las sardinas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sardynki"
+      }
+    },
+    {
+      "phrase": "el siluro",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sum"
+      }
+    },
+    {
+      "phrase": "el lucio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szczupak"
+      }
+    },
+    {
+      "phrase": "el espadín",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szprot"
+      }
+    },
+    {
+      "phrase": "el arenque",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "śledź"
+      }
+    },
+    {
+      "phrase": "el caracol",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ślimak"
+      }
+    },
+    {
+      "phrase": "el atún",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tuńczyk"
+      }
+    },
+    {
+      "phrase": "la anguila",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "węgorz"
+      }
+    },
+    {
+      "phrase": "el chocolate caliente",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gorąca czekolada"
+      }
+    },
+    {
+      "phrase": "el té negro",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "herbata czarna"
+      }
+    },
+    {
+      "phrase": "el té con azúcar",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "herbata z cukrem"
+      }
+    },
+    {
+      "phrase": "el té con limón",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "herbata z cytryną"
+      }
+    },
+    {
+      "phrase": "el té verde",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "herbata zielona"
+      }
+    },
+    {
+      "phrase": "el yogur",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jogurt"
+      }
+    },
+    {
+      "phrase": "el cacao",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kakao"
+      }
+    },
+    {
+      "phrase": "el decafeinado",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kawa bezkofeinowa"
+      }
+    },
+    {
+      "phrase": "el café con leche",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kawa biała"
+      }
+    },
+    {
+      "phrase": "el café solo",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kawa czarna"
+      }
+    },
+    {
+      "phrase": "el cortado",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kawa z bardzo matą ilością mleka"
+      }
+    },
+    {
+      "phrase": "el cóctel",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "koktajl"
+      }
+    },
+    {
+      "phrase": "la limonada",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lemoniada"
+      }
+    },
+    {
+      "phrase": "la leche",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mleko"
+      }
+    },
+    {
+      "phrase": "el refresco",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "napój"
+      }
+    },
+    {
+      "phrase": "la horchata",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "napój z cibory (roślina strączkowa)"
+      }
+    },
+    {
+      "phrase": "la cerveza",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piwo"
+      }
+    },
+    {
+      "phrase": "la cerveza oscura",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piwo ciemne"
+      }
+    },
+    {
+      "phrase": "la cerveza ligera",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piwo jasne"
+      }
+    },
+    {
+      "phrase": "el lager",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piwo jasne"
+      }
+    },
+    {
+      "phrase": "la cerveza de barril",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piwo z beczki"
+      }
+    },
+    {
+      "phrase": "la caña",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piwo z beczki"
+      }
+    },
+    {
+      "phrase": "la manzanilla",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rumianek"
+      }
+    },
+    {
+      "phrase": "el jugo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sok"
+      }
+    },
+    {
+      "phrase": "el zumo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sok"
+      }
+    },
+    {
+      "phrase": "el champán",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szampan"
+      }
+    },
+    {
+      "phrase": "el whisky",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "whisky"
+      }
+    },
+    {
+      "phrase": "el güisqui",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "whisky"
+      }
+    },
+    {
+      "phrase": "el vino blanco",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wino białe"
+      }
+    },
+    {
+      "phrase": "el vino tinto",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wino czerwone"
+      }
+    },
+    {
+      "phrase": "el vino semiseco",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wino półwytrawne"
+      }
+    },
+    {
+      "phrase": "el vino dulce",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wino słodkie"
+      }
+    },
+    {
+      "phrase": "el vino de mesa",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wino stołowe"
+      }
+    },
+    {
+      "phrase": "el vino de casa",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wino stołowe"
+      }
+    },
+    {
+      "phrase": "el vino seco",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wino wytrawne"
+      }
+    },
+    {
+      "phrase": "el agua con gas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "woda gazowana"
+      }
+    },
+    {
+      "phrase": "el agua mineral",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "woda mineralna"
+      }
+    },
+    {
+      "phrase": "el agua natural",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "woda niegazowana"
+      }
+    },
+    {
+      "phrase": "la vodka",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wódka"
+      }
+    },
+    {
+      "phrase": "la aguardiente",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wódka"
+      }
+    },
+    {
+      "phrase": "el pan blanco",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "białe pieczywo"
+      }
+    },
+    {
+      "phrase": "el panecillo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bułka"
+      }
+    },
+    {
+      "phrase": "el pan",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "chleb"
+      }
+    },
+    {
+      "phrase": "el pan de centeno",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "chleb razowy"
+      }
+    },
+    {
+      "phrase": "el azúcar",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cukier"
+      }
+    },
+    {
+      "phrase": "los terrones de azúcar",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cukier w kostkach"
+      }
+    },
+    {
+      "phrase": "el bollo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "drożdżówka"
+      }
+    },
+    {
+      "phrase": "el huevo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jajko"
+      }
+    },
+    {
+      "phrase": "la salsa de tomate",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "keczup"
+      }
+    },
+    {
+      "phrase": "la mantequilla",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "masło"
+      }
+    },
+    {
+      "phrase": "el suero de la leche",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "maślanka"
+      }
+    },
+    {
+      "phrase": "la leche cortada",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "maślanka"
+      }
+    },
+    {
+      "phrase": "la leche",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mleko"
+      }
+    },
+    {
+      "phrase": "la mostaza",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "musztarda"
+      }
+    },
+    {
+      "phrase": "el vinagre",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ocet"
+      }
+    },
+    {
+      "phrase": "el aceite de oliva",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "oliwa z oliwek"
+      }
+    },
+    {
+      "phrase": "el afrecho",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "otręby"
+      }
+    },
+    {
+      "phrase": "el salvado",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "otręby"
+      }
+    },
+    {
+      "phrase": "los condimentos",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przyprawy"
+      }
+    },
+    {
+      "phrase": "las especias",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przyprawy"
+      }
+    },
+    {
+      "phrase": "el queso",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ser"
+      }
+    },
+    {
+      "phrase": "el requesón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ser biały; twaróg"
+      }
+    },
+    {
+      "phrase": "el queso manchego",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ser z regionu La Mancha"
+      }
+    },
+    {
+      "phrase": "la salsa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sos"
+      }
+    },
+    {
+      "phrase": "el aliño",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sos do sałatek"
+      }
+    },
+    {
+      "phrase": "el aderezo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sos do sałatek"
+      }
+    },
+    {
+      "phrase": "la salsa de soya",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sos sojowy"
+      }
+    },
+    {
+      "phrase": "la nata",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "śmietana"
+      }
+    },
+    {
+      "phrase": "el desayuno",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "śniadanie"
+      }
+    },
+    {
+      "phrase": "la marmelada",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dżem"
+      }
+    },
+    {
+      "phrase": "el pan tumaca",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "grzanka z pomidorem i oliwą"
+      }
+    },
+    {
+      "phrase": "la hamburgesa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hamburger"
+      }
+    },
+    {
+      "phrase": "el perrito caliente",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hot dog"
+      }
+    },
+    {
+      "phrase": "los huevos revueltos",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jajecznica"
+      }
+    },
+    {
+      "phrase": "el huevo pasado por agua",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jajko na miękko"
+      }
+    },
+    {
+      "phrase": "el huevo duro",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jajko na twardo"
+      }
+    },
+    {
+      "phrase": "el bocadillo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kanapka"
+      }
+    },
+    {
+      "phrase": "la miel",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "miód"
+      }
+    },
+    {
+      "phrase": "los crepes",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "naleśniki"
+      }
+    },
+    {
+      "phrase": "la tortilla francesa",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "omlet z jajek"
+      }
+    },
+    {
+      "phrase": "la tortilla española",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "omlet z ziemniaków"
+      }
+    },
+    {
+      "phrase": "la salchicha",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "parówka; kiełbaska"
+      }
+    },
+    {
+      "phrase": "paté",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pasztet"
+      }
+    },
+    {
+      "phrase": "la tortilla de maíz",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "placek kukurydziany"
+      },
+      "note": {
+        "eng": "",
+        "pol": "(Meksyk)"
+      }
+    },
+    {
+      "phrase": "el cereal",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "płatki zbożowe"
+      }
+    },
+    {
+      "phrase": "el croissant",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rogalik"
+      }
+    },
+    {
+      "phrase": "el primer plato",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pierwsze danie"
+      }
+    },
+    {
+      "phrase": "el segundo plato",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "drugie danie"
+      }
+    },
+    {
+      "phrase": "el guisado de col blanca fermentada",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bigos"
+      }
+    },
+    {
+      "phrase": "la carne de caza",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dziczyzna"
+      }
+    },
+    {
+      "phrase": "las tripas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "flaki"
+      }
+    },
+    {
+      "phrase": "los callos",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "flaki"
+      }
+    },
+    {
+      "phrase": "las patatas fritas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "frytki"
+      }
+    },
+    {
+      "phrase": "la chuleta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kotlet"
+      }
+    },
+    {
+      "phrase": "la chuleta de ternera",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kotlet cielęcy"
+      }
+    },
+    {
+      "phrase": "la chuleta de cerdo",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kotlet wieprzowy"
+      }
+    },
+    {
+      "phrase": "el filete",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kotlet; filet"
+      }
+    },
+    {
+      "phrase": "las gambas al ajillo",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "krewetki w sosie czosnkowym"
+      }
+    },
+    {
+      "phrase": "el pollo asado",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kurczak pieczony"
+      }
+    },
+    {
+      "phrase": "la lasaña",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lazania"
+      }
+    },
+    {
+      "phrase": "la pasta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "makaron"
+      }
+    },
+    {
+      "phrase": "los fideos",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "makaron cienki"
+      },
+      "note": {
+        "eng": "",
+        "pol": "(dodatek)"
+      }
+    },
+    {
+      "phrase": "la carne picada",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mięso mielone"
+      }
+    },
+    {
+      "phrase": "las patatas bravas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pieczone ziemniaki z pikantnym sosem"
+      }
+    },
+    {
+      "phrase": "las empanadillas cocidas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pierogi"
+      }
+    },
+    {
+      "phrase": "las empanadillas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pierożki pieczone"
+      }
+    },
+    {
+      "phrase": "la pechuga de pollo",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pierś z kurczaka"
+      }
+    },
+    {
+      "phrase": "las albóndigas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pulpety"
+      }
+    },
+    {
+      "phrase": "el caldo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rosół"
+      }
+    },
+    {
+      "phrase": "el cocido",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rosół z mięsem i warzywami"
+      }
+    },
+    {
+      "phrase": "el arroz",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ryż"
+      }
+    },
+    {
+      "phrase": "la paella",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ryż z owocami morza lub mięsem"
+      }
+    },
+    {
+      "phrase": "la ensalada",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sałatka"
+      }
+    },
+    {
+      "phrase": "calamares a la romana",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "smażone krążki z kalmarów"
+      }
+    },
+    {
+      "phrase": "las lentejas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "soczewica"
+      }
+    },
+    {
+      "phrase": "las verduras de barbacoa",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "warzywa z grilla"
+      }
+    },
+    {
+      "phrase": "el hígado",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wątróbka"
+      }
+    },
+    {
+      "phrase": "la sopa de tomate",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zupa pomidorowa"
+      }
+    },
+    {
+      "phrase": "la sopa de queso",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zupa serowa"
+      }
+    },
+    {
+      "phrase": "la sopa de verdura",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zupa warzywna"
+      }
+    },
+    {
+      "phrase": "el gazpacho",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zupa-chłodnik z pomidorów"
+      }
+    },
+    {
+      "phrase": "el postre",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "deser"
+      }
+    },
+    {
+      "phrase": "el meringue",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "beza"
+      }
+    },
+    {
+      "phrase": "el bizcocho",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "biszkopt"
+      }
+    },
+    {
+      "phrase": "la nata batida",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bita śmietana"
+      }
+    },
+    {
+      "phrase": "el flan",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "budyń"
+      }
+    },
+    {
+      "phrase": "la galleta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ciasteczko"
+      }
+    },
+    {
+      "phrase": "la napoletana",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ciastko francuskie z czekoladą"
+      }
+    },
+    {
+      "phrase": "el pastel",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ciastko; ciasto"
+      }
+    },
+    {
+      "phrase": "la tarta de santiago",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ciasto z migdałów"
+      }
+    },
+    {
+      "phrase": "el dulce",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cukierek"
+      }
+    },
+    {
+      "phrase": "el bombón",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cukierek"
+      }
+    },
+    {
+      "phrase": "el chocolate",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czekolada"
+      }
+    },
+    {
+      "phrase": "la gelatina",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "galaretka"
+      }
+    },
+    {
+      "phrase": "la galleta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "herbatnik"
+      }
+    },
+    {
+      "phrase": "el yogur congelado",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jogurt mrożony"
+      }
+    },
+    {
+      "phrase": "las natillas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "krem śmietankowy"
+      }
+    },
+    {
+      "phrase": "los helados",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lody"
+      }
+    },
+    {
+      "phrase": "el mazapán",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "marcepan"
+      }
+    },
+    {
+      "phrase": "la madalena",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mufin"
+      }
+    },
+    {
+      "phrase": "la berlina",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pączek"
+      }
+    },
+    {
+      "phrase": "el buñuelo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pączek"
+      }
+    },
+    {
+      "phrase": "el pastel",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "placek; ciasto"
+      }
+    },
+    {
+      "phrase": "el arroz con leche",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gęsty ryż z mlekiem na słodko"
+      }
+    },
+    {
+      "phrase": "la ensalada de fruta",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sałatka owocowa"
+      }
+    },
+    {
+      "phrase": "la macedonia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sałatka z owoców"
+      }
+    },
+    {
+      "phrase": "la tarta de manzana",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "szarlotka w syropie"
+      }
+    },
+    {
+      "phrase": "la tarta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tarta"
+      }
+    },
+    {
+      "phrase": "sin sabor",
       "category": {
         "lexical": ""
       },
       "translation": {
         "eng": "",
-        "pol": ""
+        "pol": "bez smaku"
+      }
+    },
+    {
+      "phrase": "pesado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ciężkostrawny"
+      }
+    },
+    {
+      "phrase": "dietético",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dietetyczny"
+      }
+    },
+    {
+      "phrase": "casero",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "domowej roboty"
+      }
+    },
+    {
+      "phrase": "hecho en casa",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "domowej roboty"
+      }
+    },
+    {
+      "phrase": "excelente",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "doskonały"
+      }
+    },
+    {
+      "phrase": "guisar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dusić"
+      }
+    },
+    {
+      "phrase": "orgánico",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ekologiczny"
+      }
+    },
+    {
+      "phrase": "ecológico",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ekologiczny"
+      }
+    },
+    {
+      "phrase": "prensar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gnieść; tłuc"
+      }
+    },
+    {
+      "phrase": "amasar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gnieść; tłuc"
+      }
+    },
+    {
+      "phrase": "cocinar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gotować"
+      }
+    },
+    {
+      "phrase": "hervir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gotować (się)"
+      }
+    },
+    {
+      "phrase": "cocer al vapor",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gotować na parze"
+      }
+    },
+    {
+      "phrase": "calórico",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kaloryczny"
+      }
+    },
+    {
+      "phrase": "cortar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kroić"
+      }
+    },
+    {
+      "phrase": "cortar en rodajas",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kroić na plasterki"
+      }
+    },
+    {
+      "phrase": "ácido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kwaśny"
+      }
+    },
+    {
+      "phrase": "ligero",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lekkostrawny"
+      }
+    },
+    {
+      "phrase": "blando",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "łagodny; miękki"
+      }
+    },
+    {
+      "phrase": "marinar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "marynować"
+      }
+    },
+    {
+      "phrase": "escabechar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "marynować"
+      }
+    },
+    {
+      "phrase": "mezclar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mieszać"
+      }
+    },
+    {
+      "phrase": "llenar (la copa, el vaso)",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nalewać (do kieliszka, szklanki)"
+      }
+    },
+    {
+      "phrase": "engrasar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "natłuszczać"
+      }
+    },
+    {
+      "phrase": "malo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niesmaczny"
+      }
+    },
+    {
+      "phrase": "insano",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "niezdrowy"
+      }
+    },
+    {
+      "phrase": "pelar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obierać"
+      }
+    },
+    {
+      "phrase": "picante",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ostry"
+      }
+    },
+    {
+      "phrase": "hacer en horno",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piec (ciasto)"
+      }
+    },
+    {
+      "phrase": "cocer en horno",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piec (ciasto)"
+      }
+    },
+    {
+      "phrase": "hacer la carne al horno",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piec mięso"
+      }
+    },
+    {
+      "phrase": "asar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "piec na rożnie"
+      }
+    },
+    {
+      "phrase": "servir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podawać"
+      }
+    },
+    {
+      "phrase": "calentar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podgrzewać"
+      }
+    },
+    {
+      "phrase": "añadir sal",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "posolić"
+      }
+    },
+    {
+      "phrase": "salpimentar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "posolić i popieprzyć"
+      }
+    },
+    {
+      "phrase": "nutritivo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pożywny"
+      }
+    },
+    {
+      "phrase": "simple",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "proste"
+      }
+    },
+    {
+      "phrase": "probar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "próbować; kosztować"
+      }
+    },
+    {
+      "phrase": "quemar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przypalać"
+      }
+    },
+    {
+      "phrase": "condimentar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przyprawiać"
+      }
+    },
+    {
+      "phrase": "sazonar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przyprawiać"
+      }
+    },
+    {
+      "phrase": "fermentar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "skwaśnieć"
+      }
+    },
+    {
+      "phrase": "agriarse",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "skwaśnieć"
+      }
+    },
+    {
+      "phrase": "dulce",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "słodki"
+      }
+    },
+    {
+      "phrase": "echar azúcar",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "słodzić"
+      }
+    },
+    {
+      "phrase": "tomar con azúcar",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "słodzić"
+      }
+    },
+    {
+      "phrase": "sabroso",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "smaczny"
+      }
+    },
+    {
+      "phrase": "rico",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "smaczny"
+      }
+    },
+    {
+      "phrase": "freír",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "smażyć"
+      }
+    },
+    {
+      "phrase": "enfriar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "studzić"
+      }
+    },
+    {
+      "phrase": "crudo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "surowy"
+      }
+    },
+    {
+      "phrase": "fresco",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "świeży"
+      }
+    },
+    {
+      "phrase": "grasiento",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tłusty"
+      }
+    },
+    {
+      "phrase": "derretir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "topić"
+      }
+    },
+    {
+      "phrase": "fundir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "topić"
+      }
+    },
+    {
+      "phrase": "rallar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ucierać"
+      }
+    },
+    {
+      "phrase": "vegano",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wegański"
+      }
+    },
+    {
+      "phrase": "vegetariano",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wegetariański"
+      }
+    },
+    {
+      "phrase": "ahumar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wędzić"
+      }
+    },
+    {
+      "phrase": "exprimir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wyciskać"
+      }
+    },
+    {
+      "phrase": "sofisitcado",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wyrafinowany"
+      }
+    },
+    {
+      "phrase": "amasar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zagniatać ciasto"
+      }
+    },
+    {
+      "phrase": "congelar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zamrozić"
+      }
+    },
+    {
+      "phrase": "sano",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zdrowy"
+      }
+    },
+    {
+      "phrase": "podrido",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zepsuty"
+      }
+    },
+    {
+      "phrase": "malo",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zepsuty"
+      }
+    },
+    {
+      "phrase": "el plato",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "danie"
+      }
+    },
+    {
+      "phrase": "el plato principal",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "danie główne"
+      }
+    },
+    {
+      "phrase": "el plato con carne",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "danie mięsne"
+      }
+    },
+    {
+      "phrase": "el plato vegetariano",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "danie wegetariańskie"
+      }
+    },
+    {
+      "phrase": "el postre",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "deser"
+      }
+    },
+    {
+      "phrase": "las guarniciones",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dodatki"
+      }
+    },
+    {
+      "phrase": "las aves del corral",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "drób"
+      }
+    },
+    {
+      "phrase": "la cena",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kolacja"
+      }
+    },
+    {
+      "phrase": "el almuerzo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lunch"
+      }
+    },
+    {
+      "phrase": "las bebidas alcohólicas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "napoje alkoholowe"
+      }
+    },
+    {
+      "phrase": "los refrescos",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "napoje bezalkoholowe"
+      }
+    },
+    {
+      "phrase": "las bebidas calientes",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "napoje gorące"
+      }
+    },
+    {
+      "phrase": "la comida",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obiad"
+      }
+    },
+    {
+      "phrase": "los mariscos",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "owoce morza"
+      }
+    },
+    {
+      "phrase": "la merienda",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "podwieczorek"
+      }
+    },
+    {
+      "phrase": "la tapa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przekąska"
+      }
+    },
+    {
+      "phrase": "el aperitivo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przekąska"
+      }
+    },
+    {
+      "phrase": "el entremés",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przystawka"
+      }
+    },
+    {
+      "phrase": "el pescado",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ryby"
+      }
+    },
+    {
+      "phrase": "el desayuno",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "śniadanie"
+      }
+    },
+    {
+      "phrase": "el menú del día",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zestaw dnia (obiad)"
+      }
+    },
+    {
+      "phrase": "la sopa",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zupa"
+      }
+    },
+    {
+      "phrase": "el bar",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bar"
+      }
+    },
+    {
+      "phrase": "el bar de comidas lácteas",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bar mleczny"
+      }
+    },
+    {
+      "phrase": "el chiringuito",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bar przy plaży ze stolikami na zewnątrz"
+      }
+    },
+    {
+      "phrase": "el fast food",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bar szybkiej obsługi"
+      }
+    },
+    {
+      "phrase": "la sidrería",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bar z cydrem"
+      }
+    },
+    {
+      "phrase": "el bar de tapas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bar z przekąskami"
+      }
+    },
+    {
+      "phrase": "la pulpería",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bar z potrawami z ośmiornicy; restauracja z potrawami z ośmiornicy"
+      }
+    },
+    {
+      "phrase": "el bistrot",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bistro"
+      }
+    },
+    {
+      "phrase": "el buffet de ensaladas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bufet sałatkowy"
+      }
+    },
+    {
+      "phrase": "el plato del día",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "danie dnia"
+      }
+    },
+    {
+      "phrase": "el hostel",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "hostel"
+      }
+    },
+    {
+      "phrase": "el bocadillo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kanapka"
+      }
+    },
+    {
+      "phrase": "la carta de vinos",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "karta win"
+      }
+    },
+    {
+      "phrase": "la clase",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kategoria"
+      }
+    },
+    {
+      "phrase": "la cafetería",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kawiarnia"
+      }
+    },
+    {
+      "phrase": "el café",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kawiarnia"
+      }
+    },
+    {
+      "phrase": "el camarero",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kelner"
+      }
+    },
+    {
+      "phrase": "la camarera",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kelnerka"
+      }
+    },
+    {
+      "phrase": "el menú",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "menu"
+      }
+    },
+    {
+      "phrase": "para llevar",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "na wynos"
+      }
+    },
+    {
+      "phrase": "la propina",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "napiwek"
+      }
+    },
+    {
+      "phrase": "el servicio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "obsługa"
+      }
+    },
+    {
+      "phrase": "la pizzeria",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pizzeria"
+      }
+    },
+    {
+      "phrase": "pagar por separado",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "płacić oddzielnie"
+      }
+    },
+    {
+      "phrase": "recomendar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "polecić"
+      }
+    },
+    {
+      "phrase": "la comida",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "posiłek"
+      }
+    },
+    {
+      "phrase": "la cuenta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "rachunek"
+      }
+    },
+    {
+      "phrase": "el restaurante",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "restauracja"
+      }
+    },
+    {
+      "phrase": "el autoservicio",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "samoobsługa"
+      }
+    },
+    {
+      "phrase": "servir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "serwować; podawać"
+      }
+    },
+    {
+      "phrase": "hacer una queja",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "składać reklamację"
+      }
+    },
+    {
+      "phrase": "la especialiad de la casa",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "specjalność lokalu"
+      }
+    },
+    {
+      "phrase": "el plato de la casa",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "specjalność lokalu"
+      }
+    },
+    {
+      "phrase": "la cantina",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "stołówka"
+      }
+    },
+    {
+      "phrase": "la taberna",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tawerna"
+      }
+    },
+    {
+      "phrase": "la cocina española tradicional",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tradycyjna kuchnia hiszpańska"
+      }
+    },
+    {
+      "phrase": "la cocina polaca tradicional",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tradycyjna kuchnia polska"
+      }
+    },
+    {
+      "phrase": "la bodega",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "winiarnia"
+      }
+    },
+    {
+      "phrase": "la mesa libre",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wolny stolik"
+      }
+    },
+    {
+      "phrase": "elegir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wybierać"
+      }
+    },
+    {
+      "phrase": "ocupar el asiento",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zająć miejsce"
+      }
+    },
+    {
+      "phrase": "pedir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zamawiać"
+      }
+    },
+    {
+      "phrase": "el pedido",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zamówienie"
+      }
+    },
+    {
+      "phrase": "invitar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zaprosić"
+      }
+    },
+    {
+      "phrase": "reservar una mesa",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zarezerwować stolik"
+      }
+    },
+    {
+      "phrase": "la autobiografia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "autobiografia"
+      }
+    },
+    {
+      "phrase": "el cuento de hadas",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bajka"
+      }
+    },
+    {
+      "phrase": "la balada",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "ballada"
+      }
+    },
+    {
+      "phrase": "la ficción",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "beletrystyka"
+      }
+    },
+    {
+      "phrase": "el bestseller",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "bestseller"
+      }
+    },
+    {
+      "phrase": "la biografia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "biografia"
+      }
+    },
+    {
+      "phrase": "la citación",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cytat"
+      }
+    },
+    {
+      "phrase": "el lector",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czytelnik"
+      }
+    },
+    {
+      "phrase": "el drama",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dramat"
+      }
+    },
+    {
+      "phrase": "la película de suspense",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dreszczowiec"
+      }
+    },
+    {
+      "phrase": "la obra completa",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dzieła zebrane"
+      }
+    },
+    {
+      "phrase": "el trama",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "fabuła"
+      }
+    },
+    {
+      "phrase": "el género",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gatunek literacki"
+      }
+    },
+    {
+      "phrase": "la comedia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "komedia"
+      }
+    },
+    {
+      "phrase": "el tebeo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "komiks"
+      }
+    },
+    {
+      "phrase": "la crónica",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kronika"
+      }
+    },
+    {
+      "phrase": "la novela policiaca",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kryminał"
+      }
+    },
+    {
+      "phrase": "el libro",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "książka"
+      }
+    },
+    {
+      "phrase": "el libro de bolsillo",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "książka w wydaniu kieszonkowym"
+      }
+    },
+    {
+      "phrase": "la leyenda",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "legenda"
+      }
+    },
+    {
+      "phrase": "la literatura",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "literatura"
+      }
+    },
+    {
+      "phrase": "la no ficción",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "literatura faktu"
+      }
+    },
+    {
+      "phrase": "la literatura juvenil",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "literatura młodzieżowa"
+      }
+    },
+    {
+      "phrase": "la literatura clásica",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "literatura piękna"
+      }
+    },
+    {
+      "phrase": "la literatura contermporánea",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "literatura współczesna"
+      }
+    },
+    {
+      "phrase": "el melodrama",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "melodramat"
+      }
+    },
+    {
+      "phrase": "el ratón de biblioteca",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mól książkowy"
+      }
+    },
+    {
+      "phrase": "el cuento",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nowela; opowiadanie"
+      }
+    },
+    {
+      "phrase": "la cubierta",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "okładka"
+      }
+    },
+    {
+      "phrase": "publicar",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "opublikować; wydać"
+      }
+    },
+    {
+      "phrase": "el diario",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pamiętnik"
+      }
+    },
+    {
+      "phrase": "la canción",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pieśń"
+      }
+    },
+    {
+      "phrase": "escribir un libro",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pisać książkę"
+      }
+    },
+    {
+      "phrase": "la poesía",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "poezja"
+      }
+    },
+    {
+      "phrase": "la novela",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "powieść"
+      }
+    },
+    {
+      "phrase": "la novela de fantasía",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "powieść fantastyczna"
+      }
+    },
+    {
+      "phrase": "la novela histórica",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "powieść historyczna"
+      }
+    },
+    {
+      "phrase": "la reseña",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "recenzja"
+      }
+    },
+    {
+      "phrase": "la novela romántica",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "romans"
+      }
+    },
+    {
+      "phrase": "la novela rosa",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "romans"
+      }
+    },
+    {
+      "phrase": "el volumen",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tom"
+      }
+    },
+    {
+      "phrase": "la tragedia",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tragedia"
+      }
+    },
+    {
+      "phrase": "la obra épica",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "utwór epicki"
+      }
+    },
+    {
+      "phrase": "el poema",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wiersz"
+      }
+    },
+    {
+      "phrase": "la editorial",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wydawnictwo"
+      }
+    },
+    {
+      "phrase": "la agencia de prensa",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "agencja prasowa"
+      }
+    },
+    {
+      "phrase": "el artículo",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "artykuł"
+      }
+    },
+    {
+      "phrase": "la censura",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "cenzura"
+      }
+    },
+    {
+      "phrase": "imprimir",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "drukować"
+      }
+    },
+    {
+      "phrase": "el periódico",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gazeta"
+      }
+    },
+    {
+      "phrase": "el periódico",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gazeta codzienna"
+      }
+    },
+    {
+      "phrase": "el periódico nacional",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gazeta krajowa"
+      }
+    },
+    {
+      "phrase": "el periódico local",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "gazeta lokalna"
+      }
+    },
+    {
+      "phrase": "los comentarios",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "komentarze"
+      }
+    },
+    {
+      "phrase": "la revista",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "magazyn"
+      }
+    },
+    {
+      "phrase": "el titular",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nagłówek"
+      }
+    },
+    {
+      "phrase": "los obituarios",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "nekrologi"
       }
     }
   ]
