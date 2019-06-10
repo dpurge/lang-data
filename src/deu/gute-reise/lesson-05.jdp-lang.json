@@ -1,23 +1,528 @@
 {
   "meta": {
-    "status": "pending",
+    "status": "ready",
     "format": "vocabulary",
     "version": 1,
     "language": "deu",
     "source": "",
     "tags": [
-        "GR-05"
+      "GR-05"
     ]
   },
   "data": [
     {
-      "phrase": "",
+      "phrase": "Verzeihung",
       "category": {
         "lexical": ""
       },
       "translation": {
         "eng": "",
-        "pol": ""
+        "pol": "przepraszam; proszę o przebaczenie"
+      }
+    },
+    {
+      "phrase": "Platz nehmen",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "siadać; zajmować miejsce"
+      }
+    },
+    {
+      "phrase": "recht haben",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mieć rację"
+      }
+    },
+    {
+      "phrase": "ein Stück Torte",
+      "category": {
+        "lexical": "NP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kawałek tortu"
+      }
+    },
+    {
+      "phrase": "einen Moment, bitte",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "chwileczkę, proszę"
+      }
+    },
+    {
+      "phrase": "Haben Sie ...?",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "Czy ma pan ...?"
+      }
+    },
+    {
+      "phrase": "mein Herr",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "proszę pana"
+      }
+    },
+    {
+      "phrase": "in Ordnung",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "w porządku"
+      }
+    },
+    {
+      "phrase": "Hunger haben",
+      "category": {
+        "lexical": "VP"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "być głodnym"
+      }
+    },
+    {
+      "phrase": "bestellen",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zamawiać"
+      }
+    },
+    {
+      "phrase": "bestimmt",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "na pewno"
+      }
+    },
+    {
+      "phrase": "das Café",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kawiarnia"
+      }
+    },
+    {
+      "phrase": "da",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "w takim razie; wtedy; tam"
+      }
+    },
+    {
+      "phrase": "doch",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przecież"
+      }
+    },
+    {
+      "phrase": "das Eis",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "lody"
+      }
+    },
+    {
+      "phrase": "der Eiskaffee",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kawa z lodami; kawa mrożona"
+      }
+    },
+    {
+      "phrase": "essen",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jeść"
+      }
+    },
+    {
+      "phrase": "etwas",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "coś"
+      }
+    },
+    {
+      "phrase": "frei",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "wolny"
+      }
+    },
+    {
+      "phrase": "gleich",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "zaraz"
+      }
+    },
+    {
+      "phrase": "haben",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mieć"
+      }
+    },
+    {
+      "phrase": "der Herr",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pan"
+      }
+    },
+    {
+      "phrase": "der Hunger",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "głód"
+      }
+    },
+    {
+      "phrase": "der Kaffee",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kawa"
+      }
+    },
+    {
+      "phrase": "die Karte",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "karta"
+      },
+      "note": {
+        "deu": "im Restaurant",
+        "eng": "",
+        "pol": "w restauracji"
+      }
+    },
+    {
+      "phrase": "der Kellner",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kelner"
+      }
+    },
+    {
+      "phrase": "mit",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "z"
+      }
+    },
+    {
+      "phrase": "der Mokka",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mokka"
+      }
+    },
+    {
+      "phrase": "mögen",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "chcieć; mieć ochotę"
+      }
+    },
+    {
+      "phrase": "nehmen",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "brać"
+      }
+    },
+    {
+      "phrase": "die Nuß",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "orzech"
+      }
+    },
+    {
+      "phrase": "die Nußtorte",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tort orzechowy"
+      }
+    },
+    {
+      "phrase": "der Ober",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kelner"
+      }
+    },
+    {
+      "phrase": "das Obst",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "owoce"
+      }
+    },
+    {
+      "phrase": "der Obstsaft",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "sok owocowy"
+      }
+    },
+    {
+      "phrase": "die Obsttorte",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tort owocowy"
+      }
+    },
+    {
+      "phrase": "die Ordnung",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "porządek"
+      }
+    },
+    {
+      "phrase": "die Sahne",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "śmietana"
+      }
+    },
+    {
+      "phrase": "die Sahnetorte",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tort śmietankowy"
+      }
+    },
+    {
+      "phrase": "stark",
+      "category": {
+        "lexical": "Adj"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "mocny"
+      }
+    },
+    {
+      "phrase": "das Stück",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "kawałek"
+      }
+    },
+    {
+      "phrase": "der Tee",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "herbata"
+      }
+    },
+    {
+      "phrase": "der Tisch",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "stół"
+      }
+    },
+    {
+      "phrase": "die Torte",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "tort"
+      }
+    },
+    {
+      "phrase": "trinken",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "pić"
+      }
+    },
+    {
+      "phrase": "Verzeihung",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "przepraszam"
+      }
+    },
+    {
+      "phrase": "vielleicht",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "może"
+      }
+    },
+    {
+      "phrase": "wie",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "jak"
+      }
+    },
+    {
+      "phrase": "wünschen",
+      "category": {
+        "lexical": "V"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "życzyć (sobie)"
+      }
+    },
+    {
+      "phrase": "die Zeit",
+      "category": {
+        "lexical": "N"
+      },
+      "translation": {
+        "eng": "",
+        "pol": "czas"
+      }
+    },
+    {
+      "phrase": "zweimal",
+      "category": {
+        "lexical": ""
+      },
+      "translation": {
+        "eng": "",
+        "pol": "dwa razy"
       }
     }
   ]

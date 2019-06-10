@@ -2,10 +2,10 @@
   "meta": {
     "format": "language",
     "version": 1,
-    "status": "pending"
+    "status": "ready"
   },
   "data": {
     "name": "Egyptian Arabic",
-	"code": "arz"
+    "code": "arz"
   }
 }
