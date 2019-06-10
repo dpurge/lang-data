@@ -8,7 +8,7 @@ import fnmatch
 
 import jinja2
 
-from .patterns import *
+#from .patterns import *
 
 def create_directories(*directories):
     
@@ -301,46 +301,6 @@ def get_data(language, format, tag, translation):
     
     return data
 
-#def flatten_data(data):
-#    for phrase in data:
-#        lexcat = []
-#        transcription = []
-#        translation = []
-#        image = []
-#        audio = []
-#        video = []
-#        note = []
-#        tags = []
-#        
-#        for pos in data[phrase]:
-#            if pos: lexcat.append(pos)
-#            item = data[phrase][pos]
-#            if not item['transcription'] in transcription: transcription.append(item['transcription'])
-#            for i in item['translation']:
-#                if not i in translation: translation.append(i)
-#            for i in item['image']:
-#                if not i in image: image.append(i)
-#            for i in item['audio']:
-#                if not i in audio: audio.append(i)
-#            for i in item['video']:
-#                if not i in video: video.append(i)
-#            for i in item['note']:
-#                if not i in note: note.append(i)
-#            for i in item['tags']:
-#                if not i in tags: tags.append(i)
-#            
-#        yield {
-#            'phrase': phrase,
-#            'lexcat': ', '.join(lexcat),
-#            'transcription': '; '.join(transcription),
-#            'translation': '; '.join(translation),
-#            'image': '; '.join(image),
-#            'audio': '; '.join(audio),
-#            'video': '; '.join(video),
-#            'note': '; '.join(note),
-#            'tags': ' '.join(tags)
-#        }
-
 def export_data(data, language, directory, output):
     templateLoader = jinja2.FileSystemLoader(searchpath=os.path.join(os.path.dirname(__file__), 'template'))
     templateEnv = jinja2.Environment(loader=templateLoader)
@@ -355,10 +315,6 @@ def export_data(data, language, directory, output):
                 directory, "{}-{}.{}".format(language, formatname, output_name))
             
             with open(filename, 'w', encoding='utf-8') as f:
-                #if output_name == 'txt':
-                #    f.write(template.render(data = flatten_data(data[formatname])))
-                #else:
-                #    f.write(template.render(data = data[formatname]))
                 f.write(template.render(data = data[formatname]))
             
             yield filename

@@ -97,16 +97,19 @@
 								"enum": [
 									"",
 									"Adj",
+									"AdjP",
 									"Adv",
 									"Art",
 									"Conj",
 									"Interj",
 									"N",
+									"NP",
 									"Num",
 									"Part",
                                     "Pron",
                                     "Prep",
-									"V"
+									"V",
+									"VP"
 								]
 							},
 							"grammatical": {
