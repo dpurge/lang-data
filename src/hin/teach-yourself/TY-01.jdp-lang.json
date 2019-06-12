@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "format": "vocabulary",
+    "version": 1,
+    "language": "hin",
+    "source": "",
+    "status": "pending",
+    "tags": []
+  },
+  "data": [
+    {
+      "phrase": "",
+      "transcription": "",
+      "grammar": "",
+      "translation": "",
+      "image": "",
+      "audio": "",
+      "video": "",
+      "note": ""
+    }
+  ]
+}

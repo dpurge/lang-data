@@ -1,0 +1,8 @@
+# By default, do not normalize files
+* -text
+*.fakes diff
+
+# These files should be processed by LFS
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.svg filter=lfs diff=lfs merge=lfs -text lockable

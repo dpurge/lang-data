@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "format": "language",
+    "version": 1,
+    "status": "pending"
+  },
+  "data": {
+    "name": "Latin",
+    "code": "lat"
+  }
+}
