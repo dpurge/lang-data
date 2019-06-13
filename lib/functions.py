@@ -5,6 +5,7 @@ import shutil
 import json
 import jsonschema
 import fnmatch
+import hashlib
 
 import jinja2
 
@@ -116,6 +117,27 @@ TextRecord = collections.namedtuple('TextRecord', [
     'format',
     'tags'])
 
+def get_media_filename(filename):
+    media_filename = ''
+    
+    if filename:
+        if os.path.exists(filename):
+            media_filename = os.path.abspath(filename)
+        else:
+            raise Exception(
+                'Cannot find file in directory "{current_dir}": {file_name}'.format(
+                    current_dir = os.getcwd(),
+                    file_name = filename))
+    
+    return media_filename
+    
+def get_media_md5(filename):
+    hash_md5 = hashlib.md5()
+    with open(filename, "rb") as f:
+        for chunk in iter(lambda: f.read(4096), b""):
+            hash_md5.update(chunk)
+    return hash_md5.hexdigest()
+
 def get_language(directory, language):
     
     for filename in glob.glob(
@@ -149,24 +171,26 @@ def get_record_vocabulary(data, translation, format, tags):
             .get('translation', {})\
             .get(translation, '')\
             .split(';')],
-        image = data.get('image', ''),
-        audio = data.get('audio', ''),
-        video = data.get('video', ''),
+        image = get_media_filename(data.get('image', '')),
+        audio = get_media_filename(data.get('audio', '')),
+        video = get_media_filename(data.get('video', '')),
         note = [i.strip() for i in data\
             .get('note', {})\
             .get(translation, '')\
             .split(';')],
         format = format,
         tags = tags)
+        
     
 def get_record_writing(data, translation, format, tags):
+                
     return WritingRecord(
         phrase = data.get('phrase', '').strip(),
         transcription = data.get('transcription', ''),
         ipa = data.get('ipa', '').strip(),
-        image = data.get('image', ''),
-        audio = data.get('audio', ''),
-        video = data.get('video', ''),
+        image = get_media_filename(data.get('image', '')),
+        audio = get_media_filename(data.get('audio', '')),
+        video = get_media_filename(data.get('video', '')),
         note = [i.strip() for i in data\
             .get('note', {})\
             .get(translation, '')\
@@ -175,12 +199,13 @@ def get_record_writing(data, translation, format, tags):
         tags = tags)
         
 def get_record_text(data, translation, format, tags):
+    
     return TextRecord(
         phrase = data.get('phrase', '').strip(),
         transcription = data.get('transcription', ''),
-        image = data.get('image', ''),
-        audio = data.get('audio', ''),
-        video = data.get('video', ''),
+        image = get_media_filename(data.get('image', '')),
+        audio = get_media_filename(data.get('audio', '')),
+        video = get_media_filename(data.get('video', '')),
         note = [i.strip() for i in data\
             .get('note', {})\
             .get(translation, '')\
@@ -190,10 +215,15 @@ def get_record_text(data, translation, format, tags):
 
 def get_records(language, format, tag, translation):
     
+    current_directory = os.getcwd()
+    
     for datafile in language.files:
         with open(datafile, encoding='utf-8') as f:
             langdata = json.loads(f.read())
             
+        data_directory = os.path.dirname(datafile)
+        os.chdir(data_directory)
+        
         status = langdata['meta']['status']
         if not status == 'ready':
             continue
@@ -237,6 +267,8 @@ def get_records(language, format, tag, translation):
                         name = fmt.name))
             
             yield(record)
+        
+    os.chdir(current_directory)
 
 
 def get_data(language, format, tag, translation):
@@ -285,6 +317,9 @@ def get_data(language, format, tag, translation):
                 
             item = data[record.format.name][record.phrase][record.transcription]
             item['ipa'].append(record.ipa)
+            item['image'].append(record.image)
+            item['audio'].append(record.audio)
+            item['video'].append(record.video)
             
             for I,J in \
                 (record.note, item['note']),\
@@ -301,11 +336,43 @@ def get_data(language, format, tag, translation):
     
     return data
 
+def export_media(data, directory):
+    image_dir = os.path.join(directory, 'image')
+    audio_dir = os.path.join(directory, 'audio')
+    video_dir = os.path.join(directory, 'video')
+    
+    if not os.path.exists(image_dir): os.makedirs(image_dir)
+    if not os.path.exists(audio_dir): os.makedirs(audio_dir)
+    if not os.path.exists(video_dir): os.makedirs(video_dir)
+        
+    for phrase in data:
+        for transcription in data[phrase]:
+            item = data[phrase][transcription]
+            
+            images = []
+            for image in item['image']:
+                if image:
+                    image_md5 = get_media_md5(image)
+                    _, image_extension = os.path.splitext(image)
+                    exported_image = os.path.join(
+                        image_dir,
+                        '{name}{extension}'.format(
+                            name = image_md5,
+                            extension = image_extension))
+                    if not os.path.isfile(exported_image):
+                        shutil.copyfile(image, exported_image)
+                    images.append(os.path.basename(exported_image))
+            item['image'] = images
+
 def export_data(data, language, directory, output):
     templateLoader = jinja2.FileSystemLoader(searchpath=os.path.join(os.path.dirname(__file__), 'template'))
     templateEnv = jinja2.Environment(loader=templateLoader)
     
     for formatname in data:
+        media_dir = os.path.join(
+            directory, "{}-{}".format(language, formatname))
+        export_media(data[formatname], media_dir)
+    
         for output_name in 'txt', 'html':
             if not fnmatch.fnmatch(output_name, output):
                 continue

@@ -14,7 +14,7 @@
       "phrase": "ա",
       "transcription": "a",
       "ipa": "ɑ",
-      "image": "",
+      "image": "image/lowercase/ա.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -26,7 +26,7 @@
       "phrase": "բ",
       "transcription": "b",
       "ipa": "b",
-      "image": "",
+      "image": "image/lowercase/բ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -38,7 +38,7 @@
       "phrase": "գ",
       "transcription": "g",
       "ipa": "ɡ",
-      "image": "",
+      "image": "image/lowercase/գ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -50,7 +50,7 @@
       "phrase": "դ",
       "transcription": "d",
       "ipa": "d",
-      "image": "",
+      "image": "image/lowercase/դ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -62,7 +62,7 @@
       "phrase": "ե",
       "transcription": "je; e",
       "ipa": "jɛ; ɛ",
-      "image": "",
+      "image": "image/lowercase/ե.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -74,7 +74,7 @@
       "phrase": "զ",
       "transcription": "z",
       "ipa": "z",
-      "image": "",
+      "image": "image/lowercase/զ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -86,7 +86,7 @@
       "phrase": "է",
       "transcription": "e",
       "ipa": "ɛ",
-      "image": "",
+      "image": "image/lowercase/է.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -98,7 +98,7 @@
       "phrase": "ը",
       "transcription": "ë",
       "ipa": "ə",
-      "image": "",
+      "image": "image/lowercase/ը.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -110,7 +110,7 @@
       "phrase": "թ",
       "transcription": "t’",
       "ipa": "tʰ",
-      "image": "",
+      "image": "image/lowercase/թ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -122,7 +122,7 @@
       "phrase": "ժ",
       "transcription": "ž",
       "ipa": "ʒ",
-      "image": "",
+      "image": "image/lowercase/ժ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -134,7 +134,7 @@
       "phrase": "ի",
       "transcription": "i",
       "ipa": "i",
-      "image": "",
+      "image": "image/lowercase/ի.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -146,7 +146,7 @@
       "phrase": "լ",
       "transcription": "l",
       "ipa": "l",
-      "image": "",
+      "image": "image/lowercase/լ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -158,7 +158,7 @@
       "phrase": "խ",
       "transcription": "x",
       "ipa": "χ",
-      "image": "",
+      "image": "image/lowercase/խ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -170,7 +170,7 @@
       "phrase": "ծ",
       "transcription": "ç",
       "ipa": "ts",
-      "image": "",
+      "image": "image/lowercase/ծ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -182,7 +182,7 @@
       "phrase": "կ",
       "transcription": "k",
       "ipa": "k",
-      "image": "",
+      "image": "image/lowercase/կ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -194,7 +194,7 @@
       "phrase": "հ",
       "transcription": "h",
       "ipa": "h",
-      "image": "",
+      "image": "image/lowercase/հ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -206,7 +206,7 @@
       "phrase": "ձ",
       "transcription": "j",
       "ipa": "dz",
-      "image": "",
+      "image": "image/lowercase/ձ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -218,7 +218,7 @@
       "phrase": "ղ",
       "transcription": "ġ",
       "ipa": "ʁ",
-      "image": "",
+      "image": "image/lowercase/ղ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -230,7 +230,7 @@
       "phrase": "ճ",
       "transcription": "č̣",
       "ipa": "tʃ",
-      "image": "",
+      "image": "image/lowercase/ճ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -242,7 +242,7 @@
       "phrase": "մ",
       "transcription": "m",
       "ipa": "m",
-      "image": "",
+      "image": "image/lowercase/մ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -254,7 +254,7 @@
       "phrase": "յ",
       "transcription": "j",
       "ipa": "j",
-      "image": "",
+      "image": "image/lowercase/յ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -266,7 +266,7 @@
       "phrase": "ն",
       "transcription": "n",
       "ipa": "n; ŋ",
-      "image": "",
+      "image": "image/lowercase/ն.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -278,7 +278,7 @@
       "phrase": "շ",
       "transcription": "š",
       "ipa": "ʃ",
-      "image": "",
+      "image": "image/lowercase/շ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -290,7 +290,7 @@
       "phrase": "ո",
       "transcription": "vo; o",
       "ipa": "ʋɔ; ɔ",
-      "image": "",
+      "image": "image/lowercase/ո.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -302,7 +302,7 @@
       "phrase": "չ",
       "transcription": "č",
       "ipa": "tʃʰ",
-      "image": "",
+      "image": "image/lowercase/չ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -314,7 +314,7 @@
       "phrase": "պ",
       "transcription": "p",
       "ipa": "p",
-      "image": "",
+      "image": "image/lowercase/պ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -326,7 +326,7 @@
       "phrase": "ջ",
       "transcription": "ǰ",
       "ipa": "dʒ",
-      "image": "",
+      "image": "image/lowercase/ջ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -338,7 +338,7 @@
       "phrase": "ռ",
       "transcription": "ṙ",
       "ipa": "r",
-      "image": "",
+      "image": "image/lowercase/ռ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -350,7 +350,7 @@
       "phrase": "ս",
       "transcription": "s",
       "ipa": "s",
-      "image": "",
+      "image": "image/lowercase/ս.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -362,7 +362,7 @@
       "phrase": "վ",
       "transcription": "v",
       "ipa": "v",
-      "image": "",
+      "image": "image/lowercase/վ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -374,7 +374,7 @@
       "phrase": "տ",
       "transcription": "t",
       "ipa": "",
-      "image": "t",
+      "image": "image/lowercase/տ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -386,7 +386,7 @@
       "phrase": "ր",
       "transcription": "r",
       "ipa": "ɾ",
-      "image": "",
+      "image": "image/lowercase/ր.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -398,7 +398,7 @@
       "phrase": "ց",
       "transcription": "c’",
       "ipa": "tsʰ",
-      "image": "",
+      "image": "image/lowercase/ց.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -422,7 +422,7 @@
       "phrase": "փ",
       "transcription": "p’",
       "ipa": "pʰ",
-      "image": "",
+      "image": "image/lowercase/փ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -434,7 +434,7 @@
       "phrase": "ք",
       "transcription": "k’",
       "ipa": "kʰ",
-      "image": "",
+      "image": "image/lowercase/ք.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -446,7 +446,7 @@
       "phrase": "օ",
       "transcription": "o",
       "ipa": "o",
-      "image": "",
+      "image": "image/lowercase/օ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -458,7 +458,7 @@
       "phrase": "ֆ",
       "transcription": "f",
       "ipa": "f",
-      "image": "",
+      "image": "image/lowercase/ֆ.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -470,7 +470,7 @@
       "phrase": "ու",
       "transcription": "u",
       "ipa": "u",
-      "image": "",
+      "image": "image/lowercase/ու.svg",
       "audio": "",
       "video": "",
       "note": {
@@ -482,7 +482,7 @@
       "phrase": "և",
       "transcription": "yew; ew",
       "ipa": "jɛv; ɛv",
-      "image": "",
+      "image": "image/lowercase/և.svg",
       "audio": "",
       "video": "",
       "note": {

@@ -16,7 +16,7 @@
 {{ ipa | join('; ') -}}
 {{ "\t" -}}
 {% for i in image -%}
-{{ i }}
+<img src="{{ i }}"/>
 {%- endfor -%}
 {{ "\t" -}}
 {% for i in audio -%}
