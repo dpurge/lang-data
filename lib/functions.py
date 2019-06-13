@@ -316,10 +316,10 @@ def get_data(language, format, tag, translation):
                 'tags': []}
                 
             item = data[record.format.name][record.phrase][record.transcription]
-            item['ipa'].append(record.ipa)
-            item['image'].append(record.image)
-            item['audio'].append(record.audio)
-            item['video'].append(record.video)
+            if record.ipa: item['ipa'].append(record.ipa)
+            if record.image: item['image'].append(record.image)
+            if record.audio: item['audio'].append(record.audio)
+            if record.video: item['video'].append(record.video)
             
             for I,J in \
                 (record.note, item['note']),\
