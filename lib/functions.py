@@ -6,6 +6,7 @@ import json
 import jsonschema
 import fnmatch
 import hashlib
+import re
 
 import jinja2
 
@@ -199,10 +200,29 @@ def get_record_writing(data, translation, format, tags):
         tags = tags)
         
 def get_record_text(data, translation, format, tags):
+
+    phrase = data.get('phrase', '').strip()
+    transcription = data.get('transcription', '')
+    translations = data['translation'].get(translation, {})
+    
+    for key in translations.keys():
+        regex = re.compile(
+            '{{{{{key}::([^}}]+)}}}}'.format(key = key),
+            re.IGNORECASE)
+        phrase = regex.sub(
+            '{{{{{key}::\\1::{translation}}}}}'.format(
+                key = key,
+                translation = translations[key]),
+            phrase)
+        transcription = regex.sub(
+            '{{{{{key}::\\1::{translation}}}}}'.format(
+                key = key,
+                translation = translations[key]),
+            transcription)
     
     return TextRecord(
-        phrase = data.get('phrase', '').strip(),
-        transcription = data.get('transcription', ''),
+        phrase = phrase,
+        transcription = transcription,
         image = get_media_filename(data.get('image', '')),
         audio = get_media_filename(data.get('audio', '')),
         video = get_media_filename(data.get('video', '')),
@@ -328,51 +348,104 @@ def get_data(language, format, tag, translation):
                     if i and not i in J:
                         J.append(i)
         elif type(record) == TextRecord:
-            pass
+            if not data[record.format.name][record.phrase]:
+                data[record.format.name][record.phrase] = {
+                    'transcription': record.transcription,
+                    'image': [],
+                    'audio': [],
+                    'video': [],
+                    'note': [],
+                    'tags': []}
+            
+            item = data[record.format.name][record.phrase]
+            if record.image: item['image'].append(record.image)
+            if record.audio: item['audio'].append(record.audio)
+            if record.video: item['video'].append(record.video)
+            
+            for I,J in \
+                (record.note, item['note']),\
+                (record.tags, item['tags']):
+                for i in I:
+                    if i and not i in J:
+                        J.append(i)
         else:
             raise Exception(
                 'Cannot process records of type: {}'.format(
                     type(record).__name__))
     
     return data
-
-def export_media(data, directory):
-    image_dir = os.path.join(directory, 'image')
-    audio_dir = os.path.join(directory, 'audio')
-    video_dir = os.path.join(directory, 'video')
-    
-    if not os.path.exists(image_dir): os.makedirs(image_dir)
-    if not os.path.exists(audio_dir): os.makedirs(audio_dir)
-    if not os.path.exists(video_dir): os.makedirs(video_dir)
-        
-    for phrase in data:
-        for transcription in data[phrase]:
-            item = data[phrase][transcription]
             
-            images = []
-            for image in item['image']:
-                if image:
-                    image_md5 = get_media_md5(image)
-                    _, image_extension = os.path.splitext(image)
-                    exported_image = os.path.join(
-                        image_dir,
-                        '{name}{extension}'.format(
-                            name = image_md5,
-                            extension = image_extension))
-                    if not os.path.isfile(exported_image):
-                        shutil.copyfile(image, exported_image)
-                    images.append(os.path.basename(exported_image))
-            item['image'] = images
+def export_media(filename, directory):
+
+    if not os.path.exists(directory): os.makedirs(directory)
+    
+    media_md5 = get_media_md5(filename)
+    _, media_extension = os.path.splitext(filename)
+    media_file = os.path.join(
+        directory,
+        '{name}{extension}'.format(
+            name = media_md5,
+            extension = media_extension))
+    if not os.path.isfile(media_file):
+        shutil.copyfile(filename, media_file)
+        
+    return media_file
 
 def export_data(data, language, directory, output):
     templateLoader = jinja2.FileSystemLoader(searchpath=os.path.join(os.path.dirname(__file__), 'template'))
     templateEnv = jinja2.Environment(loader=templateLoader)
     
     for formatname in data:
+    
+        # names for media directories
         media_dir = os.path.join(
             directory, "{}-{}".format(language, formatname))
-        export_media(data[formatname], media_dir)
-    
+        image_dir = os.path.join(media_dir, 'image')
+        audio_dir = os.path.join(directory, 'audio')
+        video_dir = os.path.join(directory, 'video')
+        
+        # copy media files
+        for phrase in data[formatname]:
+            # this is repetitive, but
+            # formats can differ in their structure
+            # or presence of media
+            if formatname == 'vocabulary':
+                pass
+            elif formatname == 'writing':
+                for transcription in data[formatname][phrase]:
+                    item = data[formatname][phrase][transcription]
+                    item['image'] = [
+                        export_media(image, image_dir)
+                            for image in item['image']
+                                if image]
+                    item['audio'] = [
+                        export_media(audio, audio_dir)
+                            for audio in item['audio']
+                                if audio]
+                    item['video'] = [
+                        export_media(video, video_dir)
+                            for video in item['video']
+                                if video]
+            elif formatname == 'text':
+                item = data[formatname][phrase]
+                item['image'] = [
+                    export_media(image, image_dir)
+                        for image in item['image']
+                            if image]
+                item['audio'] = [
+                    export_media(audio, audio_dir)
+                        for audio in item['audio']
+                            if audio]
+                item['video'] = [
+                    export_media(video, video_dir)
+                        for video in item['video']
+                            if video]
+            else:
+                raise Exception(
+                    'Cannot process media for format: {}'.format(
+                        formatname))
+        
+        # create output files
         for output_name in 'txt', 'html':
             if not fnmatch.fnmatch(output_name, output):
                 continue
@@ -380,7 +453,7 @@ def export_data(data, language, directory, output):
             template = templateEnv.get_template("{}-{}.{}".format(language, formatname, output_name))
             filename = os.path.join(
                 directory, "{}-{}.{}".format(language, formatname, output_name))
-            
+            #print(data[formatname])
             with open(filename, 'w', encoding='utf-8') as f:
                 f.write(template.render(data = data[formatname]))
             

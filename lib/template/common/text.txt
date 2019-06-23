@@ -1,0 +1,21 @@
+{% for phrase in data -%}
+{{ phrase -}}
+{{ "\t" -}}
+{{ data[phrase]['transcription'] -}}
+{{ "\t" -}}
+{% for i in data[phrase]['image'] -%}
+{{ i }}
+{%- endfor -%}
+{{ "\t" -}}
+{% for i in data[phrase]['audio'] -%}
+{{ i }}
+{%- endfor -%}
+{{ "\t" -}}
+{% for i in data[phrase]['video'] -%}
+{{ i }}
+{%- endfor -%}
+{{ "\t" -}}
+{{ data[phrase]['note'] | join('; ') -}}
+{{ "\t" -}}
+{{ data[phrase]['tags'] | join(', ') }}
+{% endfor %}
